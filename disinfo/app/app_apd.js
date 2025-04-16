@@ -5,15 +5,6 @@ const CARD_IMAGES = {};
 Object.assign(CARD_IMAGES, CARD_IMAGES_3);
 
 const categoryImages = {};
-function loadCategoryImages() {
-    for (const key in CARD_IMAGES) {
-        if (CARD_IMAGES.hasOwnProperty(key)) {
-            categoryImages[key] = new Image();
-            categoryImages[key].src = CARD_IMAGES[key];
-        }
-    }
-}
-
 function loadCategoryImagesAsync() {
     const promises = [];
     for (const key in CARD_IMAGES) {
@@ -68,13 +59,10 @@ document.addEventListener('DOMContentLoaded', () => {
     // Wait for all images to load before rendering cards
     loadCategoryImagesAsync()
         .then(() => {
-            // Now safe to render cards or do next steps
-            // For example:
-            // generateCardPreviews(cardData);
+            generateCardPreviews(cardData);
         })
         .catch((err) => {
             console.error('One or more images failed to load', err);
-            // Optionally still proceed or show an error
         });
 
     // Set up event listeners
