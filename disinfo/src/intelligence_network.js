@@ -564,7 +564,7 @@ const CARD_DATA_4 = [
         "category": "IMPLEMENTATION"
     },
     {
-        "title": "Surviving a Fascist Regime",
+        "title": "SURVIVING A FASCIST REGIME",
         "points": [
             "Head-on resistance often ends badly—they’ve got the guns, the jails, and the will to use them.",
             "Survival means outlasting, adapting, and preserving what you can."
