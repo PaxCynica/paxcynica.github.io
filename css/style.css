@@ -1,38 +1,104 @@
-body {
-    font-family: Arial, sans-serif;
+/* Base styling */
+* {
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    box-sizing: border-box;
 }
 
-header {
-    background: #333;
-    color: #fff;
-    padding: 10px 0;
-    text-align: center;
-}
-
-nav {
-    margin: 20px 0;
-}
-
-nav a {
-    margin: 0 15px;
-    text-decoration: none;
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    background-color: #fafafa;
     color: #333;
-    font-weight: bold;
+    padding: 20px;
 }
 
-nav a:hover {
-    color: #007BFF;
+/* Header styling */
+header {
+    text-align: center;
+    margin-bottom: 2rem;
 }
 
+header h1 {
+    font-size: 2.5rem;
+    color: #1a1a2e;
+    margin-bottom: 0.5rem;
+}
+
+header p {
+    font-size: 1.1rem;
+    color: #16213e;
+}
+
+/* Main Section */
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+/* Links List */
+.links {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+    padding: 1rem;
+}
+
+.links li {
+    background-color: #0f3460;
+    border-radius: 5px;
+    transition: transform 0.3s, background-color 0.3s;
+}
+
+.links li a {
+    display: block;
+    padding: 0.75rem 1.5rem;
+    text-decoration: none;
+    color: #e94560;
+    font-weight: 600;
+}
+
+links li:hover {
+    background-color: #16213e;
+    transform: translateY(-5px);
+}
+
+/* Footer styling */
 footer {
     text-align: center;
-    padding: 20px 0;
-    background: #333;
-    color: #fff;
-    position: relative;
-    bottom: 0;
-    width: 100%;
+    margin-top: 2rem;
+    font-size: 0.9rem;
+    color: #555;
+}
+
+/* Responsive design */
+@media (max-width: 600px) {
+    header h1 {
+        font-size: 2rem;
+    }
+
+    .links {
+        flex-direction: column;
+        gap: 0.75rem;
+    }
+
+    .links li a {
+        padding: 0.5rem 1rem;
+        font-size: 0.95rem;
+    }
+}
+
+@media (min-width: 1200px) {
+    body {
+        max-width: 1200px;
+        margin: 0 auto;
+    }
+
+    .links li a {
+        font-size: 1.1rem;
+    }
 }
