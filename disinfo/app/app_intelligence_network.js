@@ -5,13 +5,20 @@ const CARD_IMAGES = {};
 Object.assign(CARD_IMAGES, CARD_IMAGES_4);
 
 const categoryImages = {};
-function loadCategoryImages() {
+function loadCategoryImagesAsync() {
+    const promises = [];
     for (const key in CARD_IMAGES) {
         if (CARD_IMAGES.hasOwnProperty(key)) {
             categoryImages[key] = new Image();
-            categoryImages[key].src = CARD_IMAGES[key];
+            const img = categoryImages[key];
+            promises.push(new Promise((resolve, reject) => {
+                img.onload = resolve;
+                img.onerror = reject;
+            }));
+            img.src = CARD_IMAGES[key];
         }
     }
+    return Promise.all(promises);
 }
 // Card layouts and themes
 const LAYOUTS = [
@@ -48,7 +55,15 @@ document.addEventListener('DOMContentLoaded', () => {
     // Load card data from JSON
     fetchCardData();
 
-    loadCategoryImages();
+    // Wait for all images to load before rendering cards
+    loadCategoryImagesAsync()
+        .then(() => {
+            generateCardPreviews(cardData);
+        })
+        .catch((err) => {
+            console.error('One or more images failed to load', err);
+        });
+
     // Set up event listeners
     downloadAllBtn.addEventListener('click', downloadAllCards);
 });

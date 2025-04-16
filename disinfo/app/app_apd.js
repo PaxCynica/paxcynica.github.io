@@ -13,6 +13,23 @@ function loadCategoryImages() {
         }
     }
 }
+
+function loadCategoryImagesAsync() {
+    const promises = [];
+    for (const key in CARD_IMAGES) {
+        if (CARD_IMAGES.hasOwnProperty(key)) {
+            categoryImages[key] = new Image();
+            const img = categoryImages[key];
+            promises.push(new Promise((resolve, reject) => {
+                img.onload = resolve;
+                img.onerror = reject;
+            }));
+            img.src = CARD_IMAGES[key];
+        }
+    }
+    return Promise.all(promises);
+}
+
 // Card layouts and themes
 const LAYOUTS = [
     { id: 'layout-centered', name: 'Centered' },
@@ -48,7 +65,18 @@ document.addEventListener('DOMContentLoaded', () => {
     // Load card data from JSON
     fetchCardData();
 
-    loadCategoryImages();
+    // Wait for all images to load before rendering cards
+    loadCategoryImagesAsync()
+        .then(() => {
+            // Now safe to render cards or do next steps
+            // For example:
+            // generateCardPreviews(cardData);
+        })
+        .catch((err) => {
+            console.error('One or more images failed to load', err);
+            // Optionally still proceed or show an error
+        });
+
     // Set up event listeners
     downloadAllBtn.addEventListener('click', downloadAllCards);
 });
