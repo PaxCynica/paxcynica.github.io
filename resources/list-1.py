@@ -24,7 +24,7 @@ def generate_file_list():
         title = file.replace('.html', '').replace('-', ' ').replace('_', ' ')
         title = ' '.join(word.capitalize() for word in title.split())
         
-        html_items.append(f'<li><a href="Analysis/{file}">{title}</a></li>')
+        html_items.append(f'<li><a href="analysis/{file}">{title}</a></li>')
     
     if not html_items:
         return "<li>No analysis files found</li>"
