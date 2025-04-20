@@ -1,0 +1,501 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Economic Scenario Planning Report: 2025-04-19</title>
+  <style>
+    body {
+      font-family: 'Inter', 'Arial', sans-serif;
+      /* Clean, business-like font */
+      background: #f9f9f9;
+      line-height: 1.6;
+      color: #333;
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 2em 1em;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4 {
+      color: #2c3e50;
+      margin-top: 1.5em;
+      margin-bottom: 0.8em;
+      line-height: 1.3;
+    }
+
+    h1 {
+      font-size: 2em;
+      padding-bottom: 0.5em;
+      border-bottom: 2px solid #0E76A8;
+      /* Gamma's color */
+      text-align: center;
+    }
+
+    .category-label {
+      display: inline-block;
+      background: #0E76A8;
+      /* Gamma's color */
+      color: white;
+      padding: 6px 14px;
+      border-radius: 4px;
+      font-size: 1.1em;
+      margin-bottom: 1.5em;
+    }
+
+    /* Agent attribution section */
+    .agent-attribution {
+      display: flex;
+      align-items: center;
+      margin-bottom: 2em;
+      padding: 0.5em 1em;
+      border-left: 4px solid #0E76A8;
+      background-color: #f0f7fb;
+    }
+
+    .agent-avatar {
+      width: 48px;
+      height: 48px;
+      border-radius: 50%;
+      margin-right: 1em;
+    }
+
+    .agent-info {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .agent-name {
+      font-weight: bold;
+      margin-bottom: 0.2em;
+    }
+
+    .agent-title {
+      font-size: 0.9em;
+      color: #666;
+    }
+
+    .summary-section {
+      background-color: #f3f8fb;
+      /* Light blue-gray for Gamma */
+      border-left: 4px solid #0E76A8;
+      padding: 1.5em;
+      margin: 2em 0;
+    }
+
+    .content-section {
+      margin-bottom: 2em;
+      background-color: white;
+      padding: 1.5em;
+      border-radius: 8px;
+      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    }
+
+    /* Gamma-specific sections */
+    .market-indicators {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 1.5em 0;
+    }
+
+    .market-indicators th {
+      background-color: #0E76A8;
+      color: white;
+      padding: 10px;
+      text-align: left;
+    }
+
+    .market-indicators td {
+      padding: 8px 12px;
+      border-bottom: 1px solid #eee;
+    }
+
+    .market-indicators .indicator-up {
+      color: #27ae60;
+    }
+
+    .market-indicators .indicator-down {
+      color: #e74c3c;
+    }
+
+    .indicator-neutral {
+      color: #95a5a6;
+    }
+
+    .trend-arrow::after {
+      display: inline-block;
+      margin-left: 5px;
+    }
+
+    .trend-up::after {
+      content: "▲";
+      color: #27ae60;
+    }
+
+    .trend-down::after {
+      content: "▼";
+      color: #e74c3c;
+    }
+
+    .trend-neutral::after {
+      content: "►";
+      color: #95a5a6;
+    }
+
+    .data-visualization {
+      width: 100%;
+      height: 300px;
+      background-color: #f8f9fa;
+      border: 1px solid #e9ecef;
+      border-radius: 4px;
+      margin: 1.5em 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      color: #6c757d;
+    }
+
+    .scenario-container {
+      margin: 2em 0;
+    }
+
+    .scenario {
+      border-left: 3px solid #0E76A8;
+      padding: 1em 1.5em;
+      margin-bottom: 1.5em;
+      background-color: #f8f9fa;
+    }
+
+    .scenario-high {
+      border-left-color: #27ae60;
+    }
+
+    .scenario-medium {
+      border-left-color: #f39c12;
+    }
+
+    .scenario-low {
+      border-left-color: #e74c3c;
+    }
+
+    .scenario-title {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 0.8em;
+    }
+
+    .scenario-probability {
+      display: inline-block;
+      padding: 4px 8px;
+      border-radius: 4px;
+      font-size: 0.8em;
+      font-weight: bold;
+    }
+
+    .probability-high {
+      background-color: rgba(39, 174, 96, 0.2);
+      color: #27ae60;
+    }
+
+    .probability-medium {
+      background-color: rgba(243, 156, 18, 0.2);
+      color: #f39c12;
+    }
+
+    .probability-low {
+      background-color: rgba(231, 76, 60, 0.2);
+      color: #e74c3c;
+    }
+
+    .resource-allocation {
+      border-top: 1px solid #eee;
+      margin-top: 2em;
+      padding-top: 1em;
+    }
+
+    .comparative-analysis {
+      display: flex;
+      gap: 20px;
+      margin: 1.5em 0;
+    }
+
+    .comparative-column {
+      flex: 1;
+      background-color: #f8f9fa;
+      border-top: 3px solid #0E76A8;
+      padding: 1em;
+      border-radius: 4px;
+    }
+
+    a {
+      color: #0E76A8;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+      color: #0a5176;
+    }
+
+    /* Responsive design */
+    @media (max-width: 768px) {
+      .comparative-analysis {
+        flex-direction: column;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <!-- Category Label -->
+  <div class="category-label">Economic Scenario Planning Report</div>
+
+  <h1>Economic Scenario Planning Report Report</h1>
+  <p class="date">Date: 2025-04-19</p>
+
+  <!-- Agent Attribution -->
+  <div class="agent-attribution">
+    <img src="../../assets/images/gamma_icon.webp" alt="Agent Gamma" class="agent-avatar">
+    <div class="agent-info">
+      <span class="agent-name">Agent Gamma</span>
+      <span class="agent-title">Economic & Market Analyst</span>
+    </div>
+  </div>
+
+  <!-- Summary Section (for all report types) -->
+  <section class="summary-section">
+    <h2>Summary</h2>
+    <p>This report outlines potential economic scenarios stemming from the confluence of US trade policy under President Trump, specifically tariffs and trade tensions with China and the EU, and the independence of the Federal Reserve. The scenarios range from continued economic disruption to a more stable, albeit altered, global economic landscape. Each scenario includes quantifiable indicators, economic drivers, and market signals to aid in monitoring its progression.</p>
+  </section>
+
+  <!-- Main Content Section - Flexible based on report type -->
+  <section class="content-section">
+    <div class="scenarios">
+      <h2>Economic Scenarios: US Trade Policy and Fed Independence</h2>
+
+      <div class="scenario-container">
+        <div class="scenario scenario-low">
+          <div class="scenario-title">
+            <h3>Scenario 1: Stagflationary Recession</h3>
+            <span class="scenario-probability probability-high">High Probability</span>
+          </div>
+          <p><b>Description:</b> This scenario envisions a US economy plagued by stagflation, characterized by high inflation coupled with rising unemployment and slow economic growth. This is driven by continued trade wars initiated by US tariffs, which increase input costs for businesses. Simultaneously, President Trump's pressure on the Federal Reserve leads to policy errors, either through premature interest rate cuts fueling inflation or delayed responses exacerbating the recessionary pressures.</p>
+          <p><b>Key Assumptions:</b></p>
+          <ul>
+            <li>US continues its aggressive tariff policies against major trading partners.</li>
+            <li>Political pressure compromises the Federal Reserve's independence, leading to suboptimal monetary policy decisions.</li>
+            <li>Supply chain disruptions persist due to geopolitical tensions.</li>
+          </ul>
+          <p><b>Quantifiable Indicators:</b></p>
+          <table class="market-indicators">
+            <thead>
+              <tr>
+                <th>Indicator</th>
+                <th>Threshold/Signal</th>
+                <th>Trend</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Inflation Rate (CPI)</td>
+                <td>Above 4% sustained for 2 quarters</td>
+                <td><span class="trend-up"></span></td>
+              </tr>
+              <tr>
+                <td>Unemployment Rate</td>
+                <td>Above 6%</td>
+                <td><span class="trend-up"></span></td>
+              </tr>
+              <tr>
+                <td>GDP Growth Rate</td>
+                <td>Below 1% for 2 consecutive quarters</td>
+                <td><span class="trend-down"></span></td>
+              </tr>
+              <tr>
+                <td>Corporate Bond Yield Spreads</td>
+                <td>Spreads widening by 200+ basis points</td>
+                <td><span class="trend-up"></span></td>
+              </tr>
+            </tbody>
+          </table>
+          <p><b>Economic Drivers:</b></p>
+          <ul>
+            <li>Protectionist trade policies leading to higher import prices.</li>
+            <li>Erosion of Federal Reserve credibility.</li>
+            <li>Reduced business investment due to uncertainty.</li>
+          </ul>
+          <p><b>Market Signals:</b></p>
+          <ul>
+            <li>Falling stock prices and increased market volatility (VIX).</li>
+            <li>Weakening US Dollar.</li>
+            <li>Increased demand for safe-haven assets (e.g., gold, US Treasuries - initially, before inflation erodes their appeal).</li>
+          </ul>
+
+          <div class="resource-allocation">
+            <h4>Potential Financial and Resource Allocation Consequences:</h4>
+            <ul>
+              <li>Increased government spending on unemployment benefits and social safety nets.</li>
+              <li>Businesses delaying capital investments and reducing hiring.</li>
+              <li>Shift in investment portfolios towards defensive sectors (e.g., consumer staples, utilities).</li>
+              <li>Potential for currency intervention to stabilize the US dollar.</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="scenario-container">
+          <div class="scenario scenario-medium">
+            <div class="scenario-title">
+              <h3>Scenario 2: Managed Trade and Fed Accommodation</h3>
+              <span class="scenario-probability probability-medium">Medium Probability</span>
+            </div>
+            <p><b>Description:</b> In this scenario, the US reaches limited trade deals with China and the EU, mitigating the most damaging tariff impacts. The Federal Reserve, while facing political pressure, maintains a degree of independence but leans towards accommodative monetary policy to support economic growth. This leads to moderate inflation and continued, albeit slower, economic expansion.</p>
+            <p><b>Key Assumptions:</b></p>
+            <ul>
+              <li>US secures limited trade agreements, reducing some tariffs but maintaining others.</li>
+              <li>The Federal Reserve navigates political pressure, maintaining a semblance of independence.</li>
+              <li>Global supply chains adapt to the new trade environment.</li>
+            </ul>
+            <p><b>Quantifiable Indicators:</b></p>
+            <table class="market-indicators">
+              <thead>
+                <tr>
+                  <th>Indicator</th>
+                  <th>Threshold/Signal</th>
+                  <th>Trend</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>Inflation Rate (CPI)</td>
+                  <td>Between 2.5% and 3.5%</td>
+                  <td><span class="trend-neutral"></span></td>
+                </tr>
+                <tr>
+                  <td>Unemployment Rate</td>
+                  <td>Between 4% and 5%</td>
+                  <td><span class="trend-neutral"></span></td>
+                </tr>
+                <tr>
+                  <td>GDP Growth Rate</td>
+                  <td>Between 1.5% and 2.5%</td>
+                  <td><span class="trend-neutral"></span></td>
+                </tr>
+                <tr>
+                  <td>10-Year Treasury Yield</td>
+                  <td>Range-bound between 3.5% and 4.5%</td>
+                  <td><span class="trend-neutral"></span></td>
+                </tr>
+              </tbody>
+            </table>
+            <p><b>Economic Drivers:</b></p>
+            <ul>
+              <li>Partial resolution of trade disputes.</li>
+              <li>Accommodative monetary policy supporting investment and consumption.</li>
+              <li>Continued innovation in technology and other sectors.</li>
+            </ul>
+            <p><b>Market Signals:</b></p>
+            <ul>
+              <li>Stable stock market with moderate gains.</li>
+              <li>Relatively stable US Dollar.</li>
+              <li>Moderate demand for corporate bonds.</li>
+            </ul>
+
+            <div class="resource-allocation">
+              <h4>Potential Financial and Resource Allocation Consequences:</h4>
+              <ul>
+                <li>Government investment in infrastructure and technology to boost long-term growth.</li>
+                <li>Businesses cautiously investing in expansion and technology adoption.</li>
+                <li>Balanced investment portfolios with exposure to both growth and value stocks.</li>
+                <li>Potential for targeted fiscal stimulus to address specific economic challenges.</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <div class="scenario-container">
+          <div class="scenario scenario-low">
+            <div class="scenario-title">
+              <h3>Scenario 3: Trade Peace and Fed Independence Upheld</h3>
+              <span class="scenario-probability probability-low">Low Probability</span>
+            </div>
+            <p><b>Description:</b> This optimistic scenario involves the US reversing course on protectionist policies, negotiating comprehensive trade agreements with China and the EU. The Federal Reserve successfully defends its independence and implements sound monetary policy focused on price stability and full employment. This leads to strong economic growth and low inflation.</p>
+            <p><b>Key Assumptions:</b></p>
+            <ul>
+              <li>US abandons its aggressive tariff policies, actively pursuing free trade agreements.</li>
+              <li>The Federal Reserve maintains complete independence and effectively manages monetary policy.</li>
+              <li>Geopolitical risks remain contained.</li>
+            </ul>
+            <p><b>Quantifiable Indicators:</b></p>
+            <table class="market-indicators">
+              <thead>
+                <tr>
+                  <th>Indicator</th>
+                  <th>Threshold/Signal</th>
+                  <th>Trend</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>Inflation Rate (CPI)</td>
+                  <td>Consistently below 2.5%</td>
+                  <td><span class="trend-down"></span></td>
+                </tr>
+                <tr>
+                  <td>Unemployment Rate</td>
+                  <td>Below 4%</td>
+                  <td><span class="trend-down"></span></td>
+                </tr>
+                <tr>
+                  <td>GDP Growth Rate</td>
+                  <td>Above 3% sustained for 2 years</td>
+                  <td><span class="trend-up"></span></td>
+                </tr>
+                <tr>
+                  <td>10-Year Treasury Yield</td>
+                  <td>Gradually rising to 4% - 5%</td>
+                  <td><span class="trend-up"></span></td>
+                </tr>
+              </tbody>
+            </table>
+            <p><b>Economic Drivers:</b></p>
+            <ul>
+              <li>Increased global trade and investment.</li>
+              <li>Stable and predictable monetary policy.</li>
+              <li>Strong business and consumer confidence.</li>
+            </ul>
+            <p><b>Market Signals:</b></p>
+            <ul>
+              <li>Rising stock prices with low volatility.</li>
+              <li>Strengthening US Dollar.</li>
+              <li>Reduced demand for safe-haven assets.</li>
+            </ul>
+
+            <div class="resource-allocation">
+              <h4>Potential Financial and Resource Allocation Consequences:</h4>
+              <ul>
+                <li>Increased private sector investment in innovation and expansion.</li>
+                <li>Government focus on long-term investments in education and infrastructure.</li>
+                <li>Investment portfolios tilted towards growth stocks and emerging markets.</li>
+                <li>Reduced government debt as tax revenues increase.</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Implications Section (optional) -->
+  <section class="content-section">
+    <h2>Implications & Significance</h2>
+    <p>The scenarios outlined above highlight the significant impact of US trade policy and Federal Reserve independence on the global economy. Monitoring the key indicators and market signals will be crucial for anticipating potential economic shifts and adapting investment strategies accordingly. The uncertainty surrounding these factors necessitates a flexible and diversified approach to resource allocation.</p>
+  </section>
+
+
+</body>
+
+</html>
