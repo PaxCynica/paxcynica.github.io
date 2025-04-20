@@ -4,52 +4,66 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pax Cynica - Informed Skeptic</title>
+    <title>Pax Cynica - Strategic Insights for Informed Citizens</title>
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+        integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="icon" href="favicon.png" type="image/x-icon">
+
 </head>
 
 <body>
     <header>
         <img src="assets/images/paxcynica_profile_bold.png" alt="Pax Cynica Profile" class="header-profile">
-        <h1>Pax Cynica</h1>
-        <p>The Informed Skeptic - Pro-Democracy</p>
+        <div class="header-text-wrapper">
+            <h1>Pax Cynica</h1>
+            <p>Strategic Insights for Informed Citizens</p>
+        </div>
+
     </header>
     <main>
-        <section>
-            <h2>Connect with Me</h2>
-            <ul class="links">
-                <li><a href="https://paxcynica.substack.com/" target="_blank">Substack</a></li>
-                <li><a href="https://medium.com/@paxcynica" target="_blank">Medium</a></li>
-                <li><a href="https://www.youtube.com/@PaxCynica" target="_blank">YouTube</a></li>
-                <li><a href="https://bsky.app/profile/paxcynica.bsky.social" target="_blank">Blue Sky</a></li>
-                <li><a href="https://x.com/PaxCynica" target="_blank">X</a></li>
-            </ul>
-        </section>
-        <!-- New Disinfo Links Section -->
-        <section class="disinfo-links">
-            <h2>Explore Disinfo Analysis</h2>
-            <ul>
-                <li><a href="disinfo/manipulation-tactics.html">Manipulation Tactics & Defenses</a></li>
-                <li><a href="disinfo/interpersonal-manipulation.html">Interpersonal Manipulation</a></li>
-                <li><a href="disinfo/machine-targeting.html">Machine Targeting</a></li>
-                <li><a href="disinfo/adaptive-precision-deployment.html">Adaptive Precision Deployment (IW)</a></li>
-                <li><a href="disinfo/challenge-conspiracies.html">Challenge Conspiracies</a></li>
-                <li><a href="disinfo/human-networks.html">Human Networks</a></li>
-            </ul>
-        </section>
-        <!-- Resources Section -->
-        <section class="resources-links">
-            <h2>In-Depth Reports & News Analysis</h2>
-            <p>Detailed analysis on yesterday's news and a collection of generated reports.</p>
-            <a href="resources/index.html">
-                Resources & Reports
-            </a>
-        </section>
+        <div class="container">
+            <!-- Resources Section -->
+            <section class="resources-links">
+                <h2>Daily Intelligence</h2>
+                <p>Pax Cynica provides curated analysis and strategic insights on today's complex world. We offer
+                    in-depth reports and daily intelligence briefings to empower informed citizens.</p>
+                <a href="resources/index.html">Resources & Reports</a>
+            </section>
+
+            <!-- Disinfo Links Section -->
+            <section class="disinfo-links">
+                <h2>Explore Disinfo Analysis</h2>
+                <p>Dive deeper into specific topics and tactics related to disinformation.</p>
+                <nav>
+                    <ul>
+                        <li><a href="disinfo/manipulation-tactics.html">Manipulation Tactics & Defenses</a></li>
+                        <li><a href="disinfo/interpersonal-manipulation.html">Interpersonal Manipulation</a></li>
+                        <li><a href="disinfo/machine-targeting.html">Machine Targeting</a></li>
+                        <li><a href="disinfo/adaptive-precision-deployment.html">Adaptive Precision Deployment (IW)</a>
+                        </li>
+                        <li><a href="disinfo/challenge-conspiracies.html">Challenge Conspiracies</a></li>
+                        <li><a href="disinfo/human-networks.html">Human Networks</a></li>
+                    </ul>
+                </nav>
+            </section>
+        </div>
     </main>
     <footer>
+        <nav class="connect-links">
+            <a href="https://paxcynica.substack.com/" target="_blank" aria-label="Substack"><i
+                    class="fab fa-stack-overflow"></i></a>
+            <a href="https://medium.com/@paxcynica" target="_blank" aria-label="Medium"><i
+                    class="fab fa-medium"></i></a>
+            <a href="https://www.youtube.com/@PaxCynica" target="_blank" aria-label="YouTube"><i
+                    class="fab fa-youtube"></i></a>
+            <a href="https://bsky.app/profile/paxcynica.bsky.social" target="_blank" aria-label="Blue Sky"><i
+                    class="fas fa-globe"></i></a>
+            <a href="https://x.com/PaxCynica" target="_blank" aria-label="X"><i class="fab fa-twitter"></i></a>
+        </nav>
         <p>&copy; 2023 Pax Cynica</p>
     </footer>
-    <script src="js/script.js"></script>
 </body>
 
 </html>

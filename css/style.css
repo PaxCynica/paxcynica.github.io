@@ -5,27 +5,63 @@
     box-sizing: border-box;
 }
 
+/* General Styles */
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     line-height: 1.6;
     background-color: #fafafa;
     color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Container for content with max-width */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
     padding: 20px;
 }
 
-/* Updated Header styling with banner background */
+/* Header Styles */
 header {
-    text-align: center;
-    padding: 4rem 20px;
     background: linear-gradient(rgba(26, 26, 46, 0.7), rgba(26, 26, 46, 0.7)), url('../assets/images/core-principles.png');
     background-size: cover;
     background-position: center;
     color: #fff;
-    margin-bottom: 2rem;
-    user-select: none;
+    text-align: center;
+    padding: 4rem 20px;
+    margin-bottom: 3rem;
+    /* Increased margin-bottom for better rhythm */
+    position: relative; /* For pseudo-element */
 }
 
-/* Profile image styling */
+header::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.1); /* Subtle overlay */
+    z-index: 0;
+}
+.header-text-wrapper {
+    position: relative; /* Ensure text is above overlay */
+    z-index: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 1rem;
+    /* Added padding for better spacing */
+    border-radius: 12px; /* Rounded corners */
+    background-color: rgba(0, 0, 0, 0.8); /* Darker background for text */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Subtle shadow for depth */
+    margin: 0 auto;
+    max-width: 600px; /* Limit width for better readability */
+    width: 100%;
+}
 .header-profile {
     width: 120px;
     height: 120px;
@@ -33,24 +69,36 @@ header {
     object-fit: cover;
     border: 4px solid #e94560;
     margin-bottom: 1rem;
+    position: relative; /* Ensure profile image is above overlay */
+    z-index: 1;
 }
 
-/* Header text styling */
 header h1 {
-    font-size: 2.5rem;
+    font-size: 3rem;
+    /* Increased main title size */
     margin-bottom: 0.5rem;
+    position: relative; /* Ensure text is above overlay */
+    z-index: 1;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Text shadow for contrast */
 }
 
 header p {
-    font-size: 1.1rem;
+    font-size: 1.2rem;
+    /* Increased tagline size */
+    position: relative; /* Ensure text is above overlay */
+    z-index: 1;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Text shadow for contrast */
 }
 
 /* Main Section */
 main {
     display: flex;
-    justify-content: center;
+    justify-content: flex-start;
+    /* Align content to the left */
     align-items: center;
     flex-direction: column;
+    width: 100%;
+    /* Take full width */
 }
 
 /* Links List */
@@ -82,46 +130,113 @@ main {
     transform: translateY(-5px);
 }
 
-/* Disinfo Links Section Styling */
+/* Disinfo Links Section Styles */
 .disinfo-links {
-    padding: 2rem 1rem;
-    background-color: #fafafa;
-    border-top: 2px solid #ccc;
-    margin-top: 2rem;
+    background-color: #f0f0f0;
+    border-radius: 12px;
+    padding: 2rem;
+    margin-bottom: 3rem;
+    text-align: center;
+    padding-left: 1rem; /* Add left padding */
+    padding-right: 1rem; /* Add right padding */
+}
+
+.disinfo-links p {
+    color: #555;
+    font-size: 1.1rem;
+    line-height: 1.6;
+    margin-bottom: 1.5rem;
 }
 
 .disinfo-links h2 {
-    text-align: center;
-    margin-bottom: 1rem;
     color: #1a1a2e;
-    font-size: 1.8rem;
-    font-weight: 500;
+    font-size: 2rem;
+    /* Increased section heading size */
+    margin-bottom: 1rem;
+    text-align: center;
 }
 
 .disinfo-links ul {
     list-style: none;
+    padding: 0;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    /* Center items horizontally */
     gap: 1rem;
-    padding: 0;
+    /* Consistent gap between buttons */
 }
 
 .disinfo-links ul li {
-    background-color: #0f3460;
+    background-color: #0f3460; /* Consistent background color */
     border-radius: 5px;
-    transition: transform 0.3s, background-color 0.3s;
+    transition: background-color 0.3s;
+    flex: 0 0 auto;
+    /* Don't grow, don't shrink, base size auto */
+    margin-bottom: 0.75rem; /* Add vertical spacing between buttons */
 }
 
 .disinfo-links ul li a {
     display: block;
     padding: 0.75rem 1.5rem;
-    text-decoration: none;
     color: #e94560;
-    font-weight: 600;
+    text-decoration: none;
+    text-align: center;
+    /* Center text within the button */
+    white-space: nowrap; /* Prevent text from wrapping */
 }
 
 .disinfo-links ul li:hover {
+    background-color: #16213e;
+}
+
+/* Resources Section Styles */
+.resources-links {
+    padding: 2rem;
+    background-color: #fdfdfd;
+    border: 1px solid #eee;
+    margin: 0 auto 3rem;
+    /* Consistent margin-bottom */
+    border-radius: 12px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.resources-links img {
+    margin-bottom: 1rem;
+    align-self: flex-start;
+}
+
+.resources-links h2 {
+    color: #1a1a2e;
+    font-size: 2rem;
+    /* Increased section heading size */
+    font-weight: 500;
+    margin-bottom: 1rem;
+}
+
+.resources-links p {
+    color: #555;
+    font-size: 1.1rem;
+    margin-bottom: 1.5rem;
+}
+
+.resources-links a {
+    display: inline-block;
+    padding: 0.75rem 1.5rem;
+    text-decoration: none;
+    color: #fff; /* Changed text color to white */
+    font-weight: 600;
+    background-color: #e94560; /* Changed background color to a contrasting color */
+    border-radius: 5px;
+    transition: transform 0.3s, background-color 0.3s;
+    font-size: 1.2rem; /* Made it slightly larger */
+}
+
+.resources-links a:hover {
     background-color: #16213e;
     transform: translateY(-5px);
 }
@@ -130,12 +245,54 @@ main {
 footer {
     text-align: center;
     margin-top: 2rem;
-    font-size: 0.9rem;
+    font-size: 0.9rem; /* Adjusted font size */
     color: #555;
+    padding: 1rem;
+}
+
+/* Connect Links Styling */
+footer .connect-links {
+    display: flex;
+    justify-content: center;
+    gap: 1.5rem;
+    margin-top: 0.5rem;
+}
+
+footer .connect-links a {
+    color: #555;
+    text-decoration: none;
+    font-size: 1.5rem;
+    /* Adjust as needed for icon size */
+    transition: color 0.3s;
+    line-height: 2em;
+    /* Vertically center the icon */
+    border-radius: 50%;
+    /* Make it circular */
+    text-align: center;
+    /* Center the icon horizontally */
+    width: 2em;
+    height: 2em;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+footer .connect-links a:hover {
+    color: #e94560;
+}
+
+footer p {
+    margin: 1.5rem 0;
+    font-size: 0.9rem; /* Adjusted font size */
 }
 
 /* Responsive design */
 @media (max-width: 600px) {
+    header {
+        padding: 2rem 20px; /* Reduced padding */
+        margin-bottom: 1.5rem; /* Further reduced margin */
+    }
+
     header h1 {
         font-size: 2rem;
     }
@@ -154,16 +311,33 @@ footer {
         flex-direction: column;
         gap: 0.75rem;
     }
+
     .disinfo-links ul li a {
         padding: 0.5rem 1rem;
         font-size: 0.95rem;
     }
+
+    .resources-links {
+        margin-bottom: 1.5rem; /* Reduced margin */
+    }
+
+    .disinfo-links {
+        margin-bottom: 1.5rem; /* Reduced margin */
+    }
+
+    .resources-links h2,
+    .resources-links p {
+        text-align: left;
+    }
 }
 
+/* Widescreen adjustments */
 @media (min-width: 1200px) {
     body {
-        max-width: 1200px;
-        margin: 0 auto;
+        max-width: none;
+        /* Remove max-width from body */
+        margin: 0;
+        /* Reset margin */
     }
 
     .links li a {
