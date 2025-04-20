@@ -293,8 +293,8 @@ footer p {
 /* Responsive design */
 @media (max-width: 600px) {
     header {
-        padding: 2rem 20px; /* Reduced padding */
-        margin-bottom: 1.5rem; /* Further reduced margin */
+        padding: 15px 15px; /* Reduced padding */
+        margin-bottom: 0.5rem; /* Further reduced margin */
     }
 
     header h1 {
