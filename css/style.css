@@ -83,7 +83,7 @@ header h1 {
 }
 
 header p {
-    font-size: 1.2rem;
+    font-size: 1.3rem;
     /* Increased tagline size */
     position: relative; /* Ensure text is above overlay */
     z-index: 1;
@@ -215,13 +215,17 @@ main {
     font-size: 2rem;
     /* Increased section heading size */
     font-weight: 500;
-    margin-bottom: 1rem;
+    margin-bottom: 0.75rem; /* Adjusted margin-bottom */
+    padding-left: 1rem; /* Add left padding */
+    padding-right: 1rem; /* Add right padding */
 }
 
 .resources-links p {
     color: #555;
     font-size: 1.1rem;
-    margin-bottom: 1.5rem;
+    margin-bottom: 1rem; /* Adjusted margin-bottom */
+    padding-left: 1rem; /* Add left padding */
+    padding-right: 1rem; /* Add right padding */
 }
 
 .resources-links a {
@@ -328,6 +332,10 @@ footer p {
     .resources-links h2,
     .resources-links p {
         text-align: left;
+    }
+
+    .header-profile {
+        display: none; /* Hide profile image on mobile */
     }
 }
 
