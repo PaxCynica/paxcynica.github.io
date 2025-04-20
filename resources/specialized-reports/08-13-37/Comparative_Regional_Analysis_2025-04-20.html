@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Comparative Regional Analysis: 2025-04-20</title>
+  <style>
+    body {
+      font-family: 'Open Sans', 'Segoe UI', sans-serif;
+      /* Warm, approachable font */
+      background: #f9f9f9;
+      line-height: 1.6;
+      color: #333;
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 2em 1em;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4 {
+      color: #2c3e50;
+      margin-top: 1.5em;
+      margin-bottom: 0.8em;
+      line-height: 1.3;
+    }
+
+    h1 {
+      font-size: 2em;
+      padding-bottom: 0.5em;
+      border-bottom: 2px solid #DD4B39;
+      /* Delta's color */
+      text-align: center;
+    }
+
+    .category-label {
+      display: inline-block;
+      background: #DD4B39;
+      /* Delta's color */
+      color: white;
+      padding: 6px 14px;
+      border-radius: 4px;
+      font-size: 1.1em;
+      margin-bottom: 1.5em;
+    }
+
+    /* Agent attribution section */
+    .agent-attribution {
+      display: flex;
+      align-items: center;
+      margin-bottom: 2em;
+      padding: 0.5em 1em;
+      border-left: 4px solid #DD4B39;
+      background-color: #FFF5F3;
+    }
+
+    .agent-avatar {
+      width: 48px;
+      height: 48px;
+      border-radius: 50%;
+      margin-right: 1em;
+    }
+
+    .agent-info {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .agent-name {
+      font-weight: bold;
+      margin-bottom: 0.2em;
+    }
+
+    .agent-title {
+      font-size: 0.9em;
+      color: #666;
+    }
+
+    .summary-section {
+      background-color: #FFF5F3;
+      /* Soft red for Delta */
+      border-left: 4px solid #DD4B39;
+      padding: 1.5em;
+      margin: 2em 0;
+    }
+
+    .content-section {
+      margin-bottom: 2em;
+      background-color: white;
+      padding: 1.5em;
+      border-radius: 8px;
+      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    }
+
+    /* Delta-specific sections */
+    .human-story {
+      background-color: #FFF9F5;
+      border-left: 3px solid #DD4B39;
+      padding: 1.2em;
+      margin: 1.5em 0;
+      font-style: italic;
+    }
+
+    .human-story-source {
+      display: block;
+      text-align: right;
+      font-style: normal;
+      font-size: 0.9em;
+      color: #666;
+      margin-top: 0.5em;
+    }
+
+    /* Timeline for chronological reports */
+    .timeline {
+      position: relative;
+      max-width: 1200px;
+      margin: 2em 0;
+      padding-left: 2em;
+    }
+
+    .timeline::before {
+      content: '';
+      position: absolute;
+      width: 4px;
+      background-color: #DD4B39;
+      top: 0;
+      bottom: 0;
+      left: 0;
+    }
+
+    .timeline-item {
+      position: relative;
+      margin-bottom: 2em;
+      padding-left: 2em;
+    }
+
+    .timeline-item::before {
+      content: '';
+      position: absolute;
+      width: 16px;
+      height: 16px;
+      left: -9px;
+      background-color: white;
+      border: 4px solid #DD4B39;
+      top: 0;
+      border-radius: 50%;
+      z-index: 1;
+    }
+
+    .timeline-date {
+      position: absolute;
+      left: 2em;
+      top: -5px;
+      background-color: #DD4B39;
+      color: white;
+      padding: 3px 10px;
+      border-radius: 3px;
+      font-size: 0.8em;
+    }
+
+    .timeline-content {
+      padding-top: 1.5em;
+    }
+
+    /* Debate perspective styling */
+    .perspective-container {
+      display: flex;
+      gap: 20px;
+      margin: 2em 0;
+    }
+
+    .perspective {
+      flex: 1;
+      padding: 1.5em;
+      background-color: #FFF9F5;
+      border-radius: 8px;
+    }
+
+    .perspective-a {
+      border-top: 4px solid #DD4B39;
+    }
+
+    .perspective-b {
+      border-top: 4px solid #7F8C8D;
+    }
+
+    .perspective h3 {
+      margin-top: 0;
+      color: #444;
+    }
+
+    .cultural-context {
+      background-color: #F9F9F9;
+      border-left: 4px solid #7F8C8D;
+      padding: 1.2em;
+      margin: 1.5em 0;
+    }
+
+    .impact-rating {
+      display: inline-block;
+      padding: 3px 8px;
+      border-radius: 3px;
+      font-size: 0.85em;
+      font-weight: bold;
+      margin-right: 10px;
+    }
+
+    .high-impact {
+      background-color: rgba(231, 76, 60, 0.2);
+      color: #c0392b;
+    }
+
+    .medium-impact {
+      background-color: rgba(243, 156, 18, 0.2);
+      color: #d35400;
+    }
+
+    .low-impact {
+      background-color: rgba(39, 174, 96, 0.2);
+      color: #27ae60;
+    }
+
+    .key-stakeholders {
+      margin: 1.5em 0;
+    }
+
+    .stakeholder {
+      padding: 0.8em;
+      margin-bottom: 0.8em;
+      background-color: #f8f9fa;
+      border-left: 3px solid #DD4B39;
+    }
+
+    blockquote {
+      font-style: italic;
+      color: #555;
+      border-left: 3px solid #DD4B39;
+      padding-left: 1em;
+      margin-left: 1em;
+    }
+
+    a {
+      color: #DD4B39;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+      color: #c0392b;
+    }
+
+    /* Responsive design */
+    @media (max-width: 768px) {
+      .perspective-container {
+        flex-direction: column;
+      }
+
+      .timeline {
+        padding-left: 1.5em;
+      }
+
+      .timeline-item {
+        padding-left: 1.5em;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <!-- Category Label -->
+  <div class="category-label">Comparative Regional Analysis</div>
+
+  <h1>Comparative Regional Analysis</h1>
+  <p class="date">Date: 2025-04-20</p>
+
+  <!-- Agent Attribution -->
+  <div class="agent-attribution">
+    <img src="assets/images/delta_icon.webp" alt="Agent Delta" class="agent-avatar">
+    <div class="agent-info">
+      <span class="agent-name">Agent Delta</span>
+      <span class="agent-title">Humanitarian & Social Impact Specialist</span>
+    </div>
+  </div>
+
+  <!-- Summary Section (for all report types) -->
+  <section class="summary-section">
+    <h2>Summary</h2>
+    <p>This report analyzes the multifaceted responses to rising global trade tensions and protectionist policies, particularly focusing on the United States under the Trump administration. It examines how different regions, specifically Southeast Asia and Europe, are navigating these challenges, considering the implications for economic stability, human security, and geopolitical dynamics. Key divergences and convergences in strategic approaches are highlighted, with attention to the potential long-term impacts on vulnerable populations and international cooperation.</p>
+  </section>
+  
+  <!-- Main Content Section - Flexible based on report type -->
+  <section class="content-section">
+    <!-- For comparison reports -->
+    <div class="comparison-container">
+      <h2>Comparative Analysis: Responses to Trade Tensions</h2>
+
+      <div class="perspective-container">
+        <div class="perspective perspective-a">
+          <h3>Southeast Asia: Navigating Between Giants</h3>
+          <p>Southeast Asian nations, particularly Malaysia, Thailand, and Vietnam, find themselves in a precarious position amidst the US-China trade war. Their approach is characterized by a delicate balancing act, seeking to mitigate economic uncertainty while capitalizing on opportunities for trade diversification. The focus is on attracting investment and strengthening regional partnerships to buffer against external shocks. However, concerns remain regarding potential protectionist measures and the impact on vulnerable sectors. The Funan Techo Canal project in Cambodia, backed by China, exemplifies the complex interplay of infrastructure development, economic dependence, and geopolitical influence in the region. The welfare and rights of workers within these projects, however, remain a key point of concern for human security.</p>
+          <p><b>Key Strategies:</b></p>
+          <ul>
+            <li>Trade Diversification: Seeking new markets and reducing reliance on the US and China.</li>
+            <li>Investment Attraction: Creating favorable conditions for foreign investment to boost economic growth.</li>
+            <li>Regional Cooperation: Strengthening ASEAN partnerships to enhance collective bargaining power.</li>
+          </ul>
+          <p><b>Potential Humanitarian Impacts:</b> Job displacement in sectors affected by tariffs, increased vulnerability of small businesses, and potential for social unrest due to economic inequality.</p>
+        </div>
+
+        <div class="perspective perspective-b">
+          <h3>Europe: Seeking "Fair Deals" and Maintaining Alliances</h3>
+          <p>Europe's response, particularly that of Italy, is marked by a focus on bilateral trade negotiations with the US, aiming for "fair deals" that address trade imbalances. This approach, however, risks undermining broader EU frameworks and creating divisions within the transatlantic alliance. The potential for a transatlantic trade war raises concerns about the impact on internet governance and the digital economy. Furthermore, the US administration's strained relationship with the Vatican, particularly regarding migration policies, highlights the challenges of religious diplomacy and international cooperation on humanitarian issues. The focus on national interests over collective action could have significant implications for human security and global governance.</p>
+          <p><b>Key Strategies:</b></p>
+          <ul>
+            <li>Bilateral Trade Negotiations: Pursuing individual agreements with the US to address specific trade concerns.</li>
+            <li>Maintaining EU Unity: Balancing national interests with the need for a cohesive European response to trade challenges.</li>
+            <li>Diplomatic Engagement: Addressing tensions with the US through dialogue and negotiation.</li>
+          </ul>
+          <p><b>Potential Humanitarian Impacts:</b> Increased cost of living due to tariffs, job losses in export-oriented industries, and reduced access to essential goods and services for vulnerable populations.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+  
+  <!-- Implications Section (optional) -->
+  <section class="content-section">
+    <h2>Implications & Significance</h2>
+    <p>The diverging responses to trade tensions highlight the complex interplay of economic, political, and social factors shaping regional strategies. Southeast Asia's focus on diversification and regional cooperation reflects a pragmatic approach to navigating between major powers, while Europe's emphasis on bilateral negotiations underscores the challenges of maintaining unity in the face of competing national interests. The long-term implications for human security are significant, with potential for increased economic inequality, social unrest, and reduced access to essential resources for vulnerable populations. International cooperation and multilateral solutions are crucial to mitigating these risks and promoting a more inclusive and sustainable global economy.</p>
+  </section>
+
+</body>
+
+</html>

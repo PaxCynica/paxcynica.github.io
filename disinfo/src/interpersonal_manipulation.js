@@ -5,7 +5,7 @@ const CARD_IMAGES_6 = {
     "NARCISSISM": "images/narcissism.jfif",
     "DEFENSE MECHANISMS": "images/defense-mechanisms.jfif",
     "CODEPENDENCY": "images/codependency.jfif",
-    
+
 };
 
 const CARD_DATA_6 = [
@@ -140,5 +140,95 @@ const CARD_DATA_6 = [
         "layout": "layout-boxed",
         "theme": "theme-blue",
         "category": "SUPERIORITY COMPLEX"
+    }
+];
+
+const CARD_IMAGES_7 = {
+    "MANAGING THE CONVERSATION": "images/managing-conversations.jfif",
+    "SETTING BOUNDARIES": "images/managing-conversations.jfif",
+    "SUBTLE GUIDANCE": "images/managing-conversations.jfif",
+    "INTERNAL MANAGEMENT": "images/managing-conversations.jfif",
+    "EFFECTIVE LISTENING": "images/managing-conversations.jfif" // Added for contrast/context
+};
+
+const CARD_DATA_7 = [
+    {
+        "title": "Handling Unsolicited Advice",
+        "points": [
+            "Challenge: Other person tells/advises without asking questions first.",
+            "Difficulty in modeling desired behavior if it's not reciprocated.",
+            "Goal: Manage the interaction respectfully, guide vs. confront."
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-blue",
+        "category": "MANAGING THE CONVERSATION"
+    },
+    {
+        "title": "Tactic: Create a Pause & Redirect",
+        "points": [
+            "Use brief non-committal interjections early (Oh, Hmm, Okay).",
+            "Creates space for your response before they fully launch.",
+            "Acknowledge their input briefly, then pivot to your need.",
+            "Phrase: 'Thanks for that thought. Right now, I'm focused on [X].'"
+        ],
+        "layout": "layout-split",
+        "theme": "theme-green",
+        "category": "MANAGING THE CONVERSATION"
+    },
+    {
+        "title": "Tactic: State Your Current Need",
+        "points": [
+            "If they jump to advice when you were just sharing/venting.",
+            "Gently clarify what you *were* looking for (or not looking for).",
+            "Phrase: 'I appreciate you thinking of solutions! I was just looking to vent.'"
+        ],
+        "layout": "layout-boxed",
+        "theme": "theme-purple",
+        "category": "SETTING BOUNDARIES"
+    },
+    {
+        "title": "Tactic: Ask Clarifying Qs (Subtle Modeling)",
+        "points": [
+            "Respond to their telling with a question about *their* understanding or timing.",
+            "Highlights they may lack full context before advising.",
+            "Phrase: 'What makes you say that *right now*, given [details]?'"
+        ],
+        "layout": "layout-split",
+        "theme": "theme-sunset",
+        "category": "SUBTLE GUIDANCE"
+    },
+    {
+        "title": "Tactic: Subtle Modeling (Question in Response)",
+        "points": [
+            "Since they don't ask first, model by asking a question *after* their telling.",
+            "Pull them into a more interactive mode.",
+            "Phrase: 'How do you see that advice applying in *my* specific situation?'"
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-blue",
+        "category": "SUBTLE GUIDANCE"
+    },
+    {
+        "title": "Tactic: Direct Boundaries (Use with Care)",
+        "points": [
+            "For persistent patterns in suitable relationships.",
+            "Gently but clearly state your preference.",
+            "Phrase: 'Sometimes when I share, I just need listening first before solutions.'"
+        ],
+        "layout": "layout-boxed",
+        "theme": "theme-dark",
+        "category": "SETTING BOUNDARIES"
+    },
+    {
+        "title": "Managing Your Own Reaction",
+        "points": [
+            "It's frustrating when your style isn't mirrored.",
+            "Practice patience; habits are ingrained.",
+            "Focus on managing *this* interaction, not changing their personality.",
+            "Recognize their behavior isn't necessarily malicious."
+        ],
+        "layout": "layout-split",
+        "theme": "theme-green",
+        "category": "INTERNAL MANAGEMENT"
     }
 ];
