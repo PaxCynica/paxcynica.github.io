@@ -7,8 +7,8 @@
   <title>Basic Intelligence Brief: 2025-04-20</title>
   <style>
     body {
-      font-family: 'Roboto', 'Segoe UI', Arial, sans-serif;
-      /* Modern, technical font */
+      font-family: 'Source Sans Pro', 'Segoe UI', Arial, sans-serif;
+      /* Clean, authoritative font */
       background: #f9f9f9;
       line-height: 1.6;
       color: #333;
@@ -25,21 +25,20 @@
       margin-top: 1.5em;
       margin-bottom: 0.8em;
       line-height: 1.3;
-      font-weight: 500;
     }
 
     h1 {
       font-size: 2em;
       padding-bottom: 0.5em;
-      border-bottom: 2px solid #00ACEE;
-      /* Beta's color */
+      border-bottom: 2px solid #34495E;
+      /* Central's color */
       text-align: center;
     }
 
     .category-label {
       display: inline-block;
-      background: #00ACEE;
-      /* Beta's color */
+      background: #34495E;
+      /* Central's color */
       color: white;
       padding: 6px 14px;
       border-radius: 4px;
@@ -47,14 +46,14 @@
       margin-bottom: 1.5em;
     }
 
-    /* Agent attribution div */
+    /* Agent attribution section */
     .agent-attribution {
       display: flex;
       align-items: center;
       margin-bottom: 2em;
       padding: 0.5em 1em;
-      border-left: 4px solid #00ACEE;
-      background-color: #f0faff;
+      border-left: 4px solid #34495E;
+      background-color: #f5f7f9;
     }
 
     .agent-avatar {
@@ -79,15 +78,15 @@
       color: #666;
     }
 
-    .summary-div {
-      background-color: #f0faff;
-      /* Light cyan for Beta */
-      border-left: 4px solid #00ACEE;
+    .summary-section {
+      background-color: #f0f2f4;
+      /* Light slate for Central */
+      border-left: 4px solid #34495E;
       padding: 1.5em;
       margin: 2em 0;
     }
 
-    .content-div {
+    .content-section {
       margin-bottom: 2em;
       background-color: white;
       padding: 1.5em;
@@ -95,112 +94,135 @@
       box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
     }
 
-    /* Beta-specific divs */
-    .tech-specs {
-      background-color: #f5f7f9;
-      border-left: 3px solid #00ACEE;
+    /* Central-specific sections */
+    .theme-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 20px;
+      margin: 2em 0;
+    }
+
+    .theme-card {
+      background: white;
+      border-radius: 8px;
+      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
       padding: 1.2em;
+      border-top: 3px solid #34495E;
+    }
+
+    .theme-card h3 {
+      margin-top: 0;
+      color: #34495E;
+      font-size: 1.2em;
+    }
+
+    .key-indicators {
+      margin: 2em 0;
+    }
+
+    .indicator-item {
+      display: flex;
+      justify-content: space-between;
+      padding: 0.8em 0;
+      border-bottom: 1px solid #eee;
+    }
+
+    .indicator-label {
+      font-weight: bold;
+    }
+
+    .indicator-value {
+      color: #444;
+    }
+
+    .trend-up,
+    .trend-positive {
+      color: #27ae60;
+    }
+
+    .trend-down,
+    .trend-negative {
+      color: #e74c3c;
+    }
+
+    .trend-neutral {
+      color: #7f8c8d;
+    }
+
+    .strategic-table {
+      width: 100%;
+      border-collapse: collapse;
       margin: 1.5em 0;
-      font-family: 'Consolas', 'Monaco', 'Courier New', monospace;
-      font-size: 0.95em;
-      overflow-x: auto;
     }
 
-    .vulnerability-analysis {
-      margin: 1.5em 0;
+    .strategic-table th {
+      background-color: #34495E;
+      color: white;
+      text-align: left;
+      padding: 10px 12px;
     }
 
-    .vulnerability-item {
-      padding: 0.8em;
-      margin-bottom: 1em;
-      border-radius: 4px;
-      border-left: 4px solid #00ACEE;
+    .strategic-table td {
+      padding: 8px 12px;
+      border-bottom: 1px solid #eee;
     }
 
-    .severity-high {
-      border-left-color: #e74c3c;
-      background-color: rgba(231, 76, 60, 0.05);
+    .strategic-table tr:nth-child(even) {
+      background-color: #f9f9f9;
     }
 
-    .severity-medium {
-      border-left-color: #f39c12;
-      background-color: rgba(243, 156, 18, 0.05);
+    .tag-container {
+      margin-top: 0.5em;
     }
 
-    .severity-low {
-      border-left-color: #27ae60;
-      background-color: rgba(39, 174, 96, 0.05);
-    }
-
-    .severity-label {
+    .tag {
       display: inline-block;
+      background: #eee;
       padding: 3px 8px;
       border-radius: 3px;
-      font-weight: bold;
-      font-size: 0.85em;
-      margin-right: 8px;
-      color: white;
+      font-size: 0.8em;
+      margin-right: 5px;
+      margin-bottom: 5px;
+      color: #555;
     }
 
-    .high {
-      background-color: #e74c3c;
+    .tag.critical {
+      background-color: #f5b7b1;
+      color: #922b21;
     }
 
-    .medium {
-      background-color: #f39c12;
+    .tag.important {
+      background-color: #fdebd0;
+      color: #9c640c;
     }
 
-    .low {
-      background-color: #27ae60;
+    .tag.monitor {
+      background-color: #d4efdf;
+      color: #196f3d;
     }
 
-    .code-block {
-      background: #282c34;
-      color: #abb2bf;
-      padding: 1em;
-      border-radius: 4px;
-      overflow-x: auto;
-      font-family: 'Consolas', 'Monaco', 'Courier New', monospace;
-      font-size: 0.9em;
-      line-height: 1.5;
-    }
-
-    .tech-diagram {
-      width: 100%;
-      padding: 1em;
-      background-color: #fff;
-      border: 1px solid #ddd;
-      border-radius: 4px;
-      margin: 1.5em 0;
-      text-align: center;
-    }
-
-    .future-tech-div {
-      border-top: 1px solid #eee;
-      margin-top: 2em;
-      padding-top: 1.5em;
-    }
-
-    .tech-prediction {
-      border-left: 3px solid #00ACEE;
-      padding-left: 1.2em;
+    .executive-action-items {
+      background-color: #f8f9fa;
+      border: 1px solid #e9ecef;
+      border-left: 4px solid #34495E;
+      padding: 1.2em;
       margin: 1.5em 0;
     }
 
     a {
-      color: #00ACEE;
+      color: #34495E;
       text-decoration: none;
     }
 
     a:hover {
       text-decoration: underline;
-      color: #0077b5;
+      color: #2c3e50;
     }
 
     /* Responsive design */
     @media (max-width: 768px) {
-      .tech-specs {
-        font-size: 0.85em;
+      .theme-grid {
+        grid-template-columns: 1fr;
       }
     }
   </style>
@@ -215,48 +237,52 @@
 
   <!-- Agent Attribution -->
   <div class="agent-attribution">
-    <img src="assets/images/beta_icon.webp" alt="Agent Beta" class="agent-avatar">
+    <img src="assets/images/central_icon.webp" alt="Central Intelligence" class="agent-avatar">
     <div class="agent-info">
-      <span class="agent-name">Agent Beta</span>
-      <span class="agent-title">Tech & Cyber Intelligence Specialist</span>
+      <span class="agent-name">Central Intelligence</span>
+      <span class="agent-title">Intelligence Coordinator</span>
     </div>
   </div>
-
   <!-- Summary Section (for all report types) -->
   <section class="summary-section">
     <h2>Summary</h2>
-    <div class="summary-div">
-      <p>This intelligence brief highlights several key technological and geopolitical trends. Quantum computing is rapidly advancing, posing both opportunities and threats to encryption. Drone warfare is evolving, necessitating advanced defense strategies. Simultaneously, global trade tensions, particularly involving the US and China, continue to create economic uncertainty and impact various sectors.</p>
-    </div>
+    <p>This brief highlights key geopolitical and economic trends observed on 2025-04-20. Key areas of focus include escalating trade tensions, particularly between the US and China, the ongoing conflict in Ukraine and its international ramifications, the humanitarian crisis in Gaza, and rapid advancements in emerging technologies like AI and quantum computing. These developments present both opportunities and risks, requiring careful monitoring and strategic adaptation.</p>
   </section>
   
   <!-- Main Content Section - Flexible based on report type -->
   <section class="content-section">
+    <!-- For deep-dive reports -->
     <div class="deep-dive">
       <h2>Key Analysis</h2>
-      <div class="content-div">
-        <h3>1. Quantum Computing Advancements</h3>
-        <p>The quantum era is upon us, with major tech companies making significant strides in quantum computing. This presents opportunities for breakthroughs in fields like encryption and code breaking, but also introduces vulnerabilities to existing cryptographic systems. We must monitor the development and deployment of quantum technologies to proactively address potential security risks.</p>
-      </div>
+      <div class="theme-grid">
+        <div class="theme-card">
+          <h3>US-China Trade War Intensification</h3>
+          <p>Trade tensions between the US and China continue to escalate due to tariff policies and competition in sectors like AI and semiconductors. This is causing economic uncertainty and impacting global supply chains as companies explore alternative production locations. The situation could lead to further decoupling of the two economies, with potential for increased market volatility and stagflation risks.</p>
+        </div>
 
-      <div class="content-div">
-        <h3>2. Drone Warfare and Military Applications</h3>
-        <p>Drone technology is radically changing warfare, with increased reliance on drones for reconnaissance, attacks, and electronic warfare. The proliferation of drones necessitates enhanced defense strategies and counter-drone measures. The relatively low cost and high effectiveness of drones are making them accessible to a wider range of actors, including non-state groups, leading to a more decentralized and complex battlefield.</p>
-      </div>
+        <div class="theme-card">
+          <h3>Ukraine Conflict and Geopolitical Repercussions</h3>
+          <p>The Ukraine-Russia war remains a major point of concern, with potential shifts in US foreign policy regarding Crimea possibly altering the geopolitical landscape. The conflict also impacts international relations as countries like Iran supply Russia with military equipment. These developments raise concerns about strained relations with Western allies and the potential for further territorial aggression.</p>
+        </div>
 
-      <div class="content-div">
-        <h3>3. Trade Tensions and Tariff Policies</h3>
-        <p>The escalating tariff war between the US and China continues to create uncertainty in global markets, impacting various sectors from automotive to energy. Companies are being forced to re-evaluate supply chains and production locations, and consumers are facing potentially higher prices. This situation raises concerns about a potential slowdown in global economic growth and increased stagflation risks, requiring careful monitoring and strategic adjustments.</p>
-      </div>
+        <div class="theme-card">
+          <h3>Humanitarian Crisis in Gaza</h3>
+          <p>The ongoing conflict in Gaza is creating a dire humanitarian crisis, exacerbated by restricted aid access. Reports highlight a high number of casualties and a lack of essential resources, raising concerns about potential war crimes. The situation risks further destabilizing the region and radicalizing the population, demanding immediate international attention and intervention.</p>
+        </div>
 
-      <div class="content-div">
-        <h3>4. AI and Surveillance Technologies in Governance</h3>
-        <p>The increased use of AI and surveillance technologies by law enforcement and immigration agencies raises significant ethical and legal concerns related to privacy, accuracy, and potential biases. This trend necessitates careful oversight and regulation to ensure responsible deployment and prevent potential misuse. Key areas of concern include facial recognition, social media tracking, and pre-crime algorithms.</p>
-      </div>
+        <div class="theme-card">
+          <h3>Quantum Computing and AI Advancements</h3>
+          <p>Rapid advancements in quantum computing and AI present both opportunities and threats. Quantum computing's potential for breakthroughs in encryption could significantly impact national security and data privacy. Simultaneously, AI is increasingly integrated into various sectors, raising ethical concerns about surveillance, data accuracy, and potential biases.</p>
+        </div>
 
-      <div class="content-div">
-        <h3>5. US-Iran Nuclear Negotiations</h3>
-        <p>The resumption of nuclear talks between the US and Iran signifies a potential pathway to de-escalation in the Middle East and a return to the JCPOA. However, the talks are fraught with challenges, including mutual distrust and differing demands, which could lead to further instability if unresolved. The IAEA's role in facilitating these negotiations and emphasizing the safety of nuclear facilities remains critical.</p>
+        <div class="theme-card">
+            <h3>Democratic Backsliding and Authoritarian Trends</h3>
+            <p>There is a concerning trend of democratic backsliding and political instability in various regions. Accusations of assassination plots, reports of secret prisons, and the jailing of opposition leaders highlight potential risks to human rights and regional security. This necessitates careful monitoring and potential diplomatic interventions to support democratic values.</p>
+        </div>
+         <div class="theme-card">
+            <h3>Emerging Drone Warfare Landscape</h3>
+            <p>Drones are radically changing warfare, necessitating enhanced defense strategies and counter-drone measures. The increasing reliance on drones raises ethical concerns and questions about accountability in warfare. The relatively low cost and high effectiveness of drones are making them accessible to a wider range of actors, including non-state groups, leading to a more decentralized and complex battlefield.</p>
+        </div>
       </div>
     </div>
   </section>
@@ -264,10 +290,15 @@
   <!-- Implications Section (optional) -->
   <section class="content-section">
     <h2>Implications & Significance</h2>
-    <div class="content-div">
-      <p>These trends have significant implications for national security, economic stability, and international relations. The advancements in quantum computing require proactive cybersecurity measures to protect critical infrastructure. The proliferation of drone technology necessitates the development of advanced counter-drone systems. Trade tensions could lead to economic instability and impact global supply chains. Ethical concerns regarding AI and surveillance require careful oversight and regulation. The outcome of US-Iran nuclear negotiations will have a significant impact on regional stability in the Middle East.</p>
-    </div>
+    <p>The trends identified in this brief underscore the increasingly complex and interconnected nature of global challenges. Escalating trade wars, ongoing conflicts, and the rise of new technologies require proactive strategies to mitigate risks and capitalize on opportunities. Specifically, governments and organizations must prioritize:</p>
+    <ul>
+        <li>Developing robust cybersecurity measures to protect against quantum computing threats.</li>
+        <li>Engaging in diplomatic efforts to de-escalate conflicts and address humanitarian crises.</li>
+        <li>Implementing ethical guidelines and regulations for AI development and deployment.</li>
+        <li>Diversifying supply chains to reduce reliance on specific regions and mitigate the impact of trade tensions.</li>
+    </ul>
   </section>
+
 
 </body>
 
