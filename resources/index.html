@@ -30,17 +30,40 @@
       padding: 0;
     }
 
-    .logo {
-      width: 60px;
-      height: 60px;
-      margin-right: 16px;
-      border-radius: 50%;
+    main {
+      max-width: 1200px;
+      margin-left: auto;
+      margin-right: auto;
+      width: 100%;
+      box-sizing: border-box;
+      padding-left: 2em;
+      padding-right: 2em;
     }
 
     .dashboard {
       display: flex;
       flex-direction: column;
       gap: 2em;
+      max-width: 1200px;
+      margin-left: auto;
+      margin-right: auto;
+      width: 100%;
+      box-sizing: border-box;
+    }
+
+    @media (max-width: 900px) {
+      main,
+      .dashboard {
+        padding-left: 5px;
+        padding-right: 5px;
+      }
+    }
+
+    .logo {
+      width: 60px;
+      height: 60px;
+      margin-right: 16px;
+      border-radius: 50%;
     }
 
     .date-group {
@@ -520,7 +543,7 @@
         </div>
 
     <div class="top-bar">
-      <div class="refresh-info">Last updated: 2025-04-21 06:19:48</div>
+      <div class="refresh-info">Last updated: 2025-04-21 06:27:54</div>
     </div>
 
     <div class="filters">
@@ -872,7 +895,7 @@
                 <a href="specialized-reports/06-10-26/Basic_Intelligence_Brief_2025-04-21.html" class="view-brief-btn">View Brief</a>
             </div>
         </div>
-        </div>, 2025-04-21 06:19:48, and 
+        </div>, 2025-04-21 06:27:54, and 
     <div class="date-group">
         <div class="date-header">
             <span class="date-label">Monday, April 21, 2025</span>
