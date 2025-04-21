@@ -8,7 +8,6 @@
   <style>
     body {
       font-family: 'Source Sans Pro', 'Segoe UI', Arial, sans-serif;
-      /* Clean, authoritative font */
       background: #f9f9f9;
       line-height: 1.6;
       color: #333;
@@ -31,14 +30,12 @@
       font-size: 2em;
       padding-bottom: 0.5em;
       border-bottom: 2px solid #34495E;
-      /* Central's color */
       text-align: center;
     }
 
     .category-label {
       display: inline-block;
       background: #34495E;
-      /* Central's color */
       color: white;
       padding: 6px 14px;
       border-radius: 4px;
@@ -46,7 +43,6 @@
       margin-bottom: 1.5em;
     }
 
-    /* Agent attribution section */
     .agent-attribution {
       display: flex;
       align-items: center;
@@ -80,7 +76,6 @@
 
     .summary-section {
       background-color: #f0f2f4;
-      /* Light slate for Central */
       border-left: 4px solid #34495E;
       padding: 1.5em;
       margin: 2em 0;
@@ -94,7 +89,6 @@
       box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
     }
 
-    /* Central-specific sections */
     .theme-grid {
       display: grid;
       grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
@@ -219,7 +213,6 @@
       color: #2c3e50;
     }
 
-    /* Responsive design */
     @media (max-width: 768px) {
       .theme-grid {
         grid-template-columns: 1fr;
@@ -233,7 +226,6 @@
   <h1>Basic Intelligence Brief</h1>
   <p class="date">Date: 2025-04-21</p>
 
-  <!-- Agent Attribution -->
   <div class="agent-attribution">
     <img src="../../assets/images/central_icon.webp" alt="Central Intelligence" class="agent-avatar">
     <div class="agent-info">
@@ -241,79 +233,54 @@
       <span class="agent-title">Intelligence Coordinator</span>
     </div>
   </div>
-  <!-- Summary Section (for all report types) -->
+
   <section class="summary-section">
     <h2>Summary</h2>
-    <p>This intelligence brief highlights key global trends and events as of April 21, 2025. Geopolitical tensions remain high, particularly concerning the war in Ukraine and Iran's nuclear program. Economic uncertainties persist due to trade disputes and inflationary pressures. Emerging technologies like AI and fusion energy offer potential breakthroughs, but also raise ethical and security concerns. Several nations are experiencing domestic political unrest and challenges to democratic norms.</p>
+    <p>This brief highlights key global trends and events. These include escalating trade tensions, particularly between the US and China, and the implications of these policies on global markets. It also notes ongoing geopolitical hotspots including the war in Ukraine and tensions surrounding Iran's nuclear program. Technological advancements in areas such as AI and quantum computing are rapidly evolving with both opportunities and risks. Finally, several reports indicate an increase in authoritarianism and crackdowns on dissent in various countries, creating concerns about human rights and democratic processes.</p>
   </section>
 
-  <!-- Main Content Section - Flexible based on report type -->
   <section class="content-section">
-    <!-- For deep-dive reports -->
     <div class="deep-dive">
       <h2>Key Analysis</h2>
       <div class="theme-grid">
         <div class="theme-card">
-          <h3>Geopolitical Instability in Eastern Europe and the Middle East</h3>
-          <p>The war in Ukraine continues with fragile ceasefires routinely violated, indicating a prolonged conflict. Negotiations between the US and Iran regarding its nuclear program are ongoing, but skepticism remains high, potentially leading to further regional instability. These situations necessitate careful monitoring and diplomatic efforts to prevent escalation.</p>
-          <div class="tag-container">
-            <span class="tag critical">Critical</span>
-            <span class="tag monitor">Monitor</span>
-          </div>
+          <h3>Trade War Escalation</h3>
+          <p>The US and China are locked in a tariff war with increasing economic consequences. While exemptions are being made for some electronics, the overall trend suggests prolonged uncertainty for businesses and consumers, as well as potential supply chain disruptions. The situation is exacerbated by the potential use of tariffs as a replacement for income tax, which represents a significant economic shift.</p>
         </div>
 
         <div class="theme-card">
-          <h3>US-China Trade and Technology Competition</h3>
-          <p>Trade tensions between the US and China persist, with tariffs impacting various sectors. The US is attempting to restrict China's access to advanced computer chips, a strategy that may backfire by spurring domestic innovation within China. This competition extends to technology, with both nations vying for leadership in AI and other strategic fields.</p>
-          <div class="tag-container">
-            <span class="tag important">Important</span>
-            <span class="tag monitor">Monitor</span>
-          </div>
+          <h3>Geopolitical Hotspots</h3>
+          <p>The conflict in Ukraine remains volatile despite ceasefire attempts, with both sides trading accusations of violations. Simultaneously, negotiations with Iran regarding its nuclear program are ongoing, but remain fragile amidst regional tensions and skepticism from key players. These ongoing conflicts pose a significant threat to regional and global stability and require continued international attention.</p>
         </div>
 
         <div class="theme-card">
-          <h3>Rise of Authoritarianism and Democratic Backsliding</h3>
-          <p>Several countries are experiencing democratic backsliding, with governments suppressing dissent and consolidating power. Examples include the crackdown on journalists in Belarus, the increasing role of the military in Indonesia, and restrictions on political opposition in DR Congo. This trend poses a significant challenge to liberal democratic values and international cooperation.</p>
-          <div class="tag-container">
-            <span class="tag important">Important</span>
-            <span class="tag critical">Critical</span>
-          </div>
+          <h3>Rise of AI and Emerging Tech</h3>
+          <p>Artificial intelligence is rapidly integrating into various sectors, from healthcare to cybersecurity, presenting both opportunities and ethical challenges. Breakthoughs in fusion energy and space exploration indicate a potentially transformative impact on society. However, these advancements also raise concerns about data privacy, security vulnerabilities, and the potential for misuse.</p>
         </div>
 
         <div class="theme-card">
-          <h3>Emerging Technologies: Opportunities and Risks</h3>
-          <p>Breakthroughs in fusion energy and quantum computing offer transformative potential for the energy and technology sectors. However, the rapid integration of AI raises ethical concerns regarding data privacy, bias, and job displacement. These developments require careful consideration and proactive risk management.</p>
-          <div class="tag-container">
-            <span class="tag monitor">Monitor</span>
-          </div>
+          <h3>Authoritarianism and Democratic Backsliding</h3>
+          <p>Several nations are experiencing democratic backsliding and increased authoritarianism. This includes crackdowns on journalists in Belarus, rising military influence in Indonesia, and restrictions on political opposition in various countries. This trend is worrying due to potential for human rights abuses and suppression of dissent.</p>
         </div>
 
         <div class="theme-card">
-          <h3>Humanitarian Crises and Social Issues</h3>
-          <p>Ongoing humanitarian crises, such as the situation in Gaza and the drug epidemic in Guinea, require urgent attention. Rising sex tourism in Japan and political censorship in various countries highlight the need for stricter regulations and protections for vulnerable populations. These issues demand both local and international intervention.</p>
-          <div class="tag-container">
-            <span class="tag important">Important</span>
-          </div>
+          <h3>Manipulation through Machine Learning</h3>
+          <p>Academic research shows that machine learning algorithms can accurately predict personality traits based on digital footprints, which is then used to create tailored disinformation. This makes individuals more susceptible to manipulation and influence, requiring enhanced digital self-defense skills. </p>
         </div>
 
         <div class="theme-card">
-          <h3>Evolving Energy Strategies</h3>
-          <p>China's shift towards energy self-sufficiency, particularly in coal production, is reshaping global energy markets. Simultaneously, its control over rare earth elements is raising concerns about potential disruptions in global supply chains. The transition to green energy faces policy shifts and legal challenges, creating both risks and opportunities in the sector.</p>
-          <div class="tag-container">
-            <span class="tag monitor">Monitor</span>
-          </div>
+          <h3>Growing Power of Tech Leaders</h3>
+          <p>Tech leaders are increasingly involved in politics, potentially influencing policy and creating conflicts of interest. This raises concerns about the role of government subsidies in supporting their ventures and the need for increased transparency and accountability in the relationship between tech and government. </p>
         </div>
       </div>
     </div>
   </section>
 
-  <!-- Implications Section (optional) -->
   <section class="content-section">
     <h2>Implications & Significance</h2>
-    <p>The trends identified in this brief underscore the increasing complexity and interconnectedness of the global landscape. Geopolitical tensions, economic uncertainties, and rapid technological advancements present both challenges and opportunities for nations and organizations. Proactive monitoring, strategic planning, and international cooperation are essential for navigating these dynamic conditions and mitigating potential risks.</p>
+    <p>The trends identified in this brief highlight the increasing complexity of the global landscape. Economic tensions, geopolitical conflicts, and technological advancements are creating both opportunities and risks. A key implication is the growing need for proactive strategies to address these challenges, including strengthening international cooperation, promoting ethical technology development, and safeguarding democratic institutions.</p>
   </section>
 
-  <!-- Category Label -->
   <div class="category-label">Basic Intelligence Brief</div>
 
 </body>

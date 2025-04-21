@@ -7,8 +7,8 @@
   <title>Comparative Regional Analysis: 2025-04-21</title>
   <style>
     body {
-      font-family: 'Crimson Text', Georgia, serif;
-      /* More formal, authoritative font */
+      font-family: 'Inter', 'Arial', sans-serif;
+      /* Clean, business-like font */
       background: #f9f9f9;
       line-height: 1.6;
       color: #333;
@@ -30,15 +30,15 @@
     h1 {
       font-size: 2em;
       padding-bottom: 0.5em;
-      border-bottom: 2px solid #3A5998;
-      /* Alpha's color */
+      border-bottom: 2px solid #0E76A8;
+      /* Gamma's color */
       text-align: center;
     }
 
     .category-label {
       display: inline-block;
-      background: #3A5998;
-      /* Alpha's color */
+      background: #0E76A8;
+      /* Gamma's color */
       color: white;
       padding: 6px 14px;
       border-radius: 4px;
@@ -52,8 +52,8 @@
       align-items: center;
       margin-bottom: 2em;
       padding: 0.5em 1em;
-      border-left: 4px solid #3A5998;
-      background-color: #f5f8ff;
+      border-left: 4px solid #0E76A8;
+      background-color: #f0f7fb;
     }
 
     .agent-avatar {
@@ -79,9 +79,9 @@
     }
 
     .summary-section {
-      background-color: #f0f4fb;
-      /* Slightly bluer shade for Alpha */
-      border-left: 4px solid #3A5998;
+      background-color: #f3f8fb;
+      /* Light blue-gray for Gamma */
+      border-left: 4px solid #0E76A8;
       padding: 1.5em;
       margin: 2em 0;
     }
@@ -94,59 +94,156 @@
       box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
     }
 
-    /* Alpha-specific sections */
-    .historical-context {
-      background-color: #f8f9fa;
-      border-left: 3px solid #3A5998;
-      padding: 1.2em;
-      margin: 1.5em 0;
-    }
-
-    .power-dynamics-table {
+    /* Gamma-specific sections */
+    .market-indicators {
       width: 100%;
       border-collapse: collapse;
       margin: 1.5em 0;
     }
 
-    .power-dynamics-table th {
-      background-color: #3A5998;
+    .market-indicators th {
+      background-color: #0E76A8;
       color: white;
-      text-align: left;
       padding: 10px;
+      text-align: left;
     }
 
-    .power-dynamics-table td {
-      padding: 8px 10px;
+    .market-indicators td {
+      padding: 8px 12px;
       border-bottom: 1px solid #eee;
     }
 
-    .policy-implications {
-      border-left: 3px solid #2c3e50;
-      padding-left: 1.2em;
+    .market-indicators .indicator-up {
+      color: #27ae60;
+    }
+
+    .market-indicators .indicator-down {
+      color: #e74c3c;
+    }
+
+    .indicator-neutral {
+      color: #95a5a6;
+    }
+
+    .trend-arrow::after {
+      display: inline-block;
+      margin-left: 5px;
+    }
+
+    .trend-up::after {
+      content: "▲";
+      color: #27ae60;
+    }
+
+    .trend-down::after {
+      content: "▼";
+      color: #e74c3c;
+    }
+
+    .trend-neutral::after {
+      content: "►";
+      color: #95a5a6;
+    }
+
+    .data-visualization {
+      width: 100%;
+      height: 300px;
+      background-color: #f8f9fa;
+      border: 1px solid #e9ecef;
+      border-radius: 4px;
+      margin: 1.5em 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      color: #6c757d;
+    }
+
+    .scenario-container {
+      margin: 2em 0;
+    }
+
+    .scenario {
+      border-left: 3px solid #0E76A8;
+      padding: 1em 1.5em;
+      margin-bottom: 1.5em;
+      background-color: #f8f9fa;
+    }
+
+    .scenario-high {
+      border-left-color: #27ae60;
+    }
+
+    .scenario-medium {
+      border-left-color: #f39c12;
+    }
+
+    .scenario-low {
+      border-left-color: #e74c3c;
+    }
+
+    .scenario-title {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 0.8em;
+    }
+
+    .scenario-probability {
+      display: inline-block;
+      padding: 4px 8px;
+      border-radius: 4px;
+      font-size: 0.8em;
+      font-weight: bold;
+    }
+
+    .probability-high {
+      background-color: rgba(39, 174, 96, 0.2);
+      color: #27ae60;
+    }
+
+    .probability-medium {
+      background-color: rgba(243, 156, 18, 0.2);
+      color: #f39c12;
+    }
+
+    .probability-low {
+      background-color: rgba(231, 76, 60, 0.2);
+      color: #e74c3c;
+    }
+
+    .resource-allocation {
+      border-top: 1px solid #eee;
+      margin-top: 2em;
+      padding-top: 1em;
+    }
+
+    .comparative-analysis {
+      display: flex;
+      gap: 20px;
       margin: 1.5em 0;
     }
 
-    .key-quote {
-      font-style: italic;
-      border-left: 2px solid #3A5998;
-      padding-left: 1em;
-      color: #444;
-      margin: 1.5em 0;
+    .comparative-column {
+      flex: 1;
+      background-color: #f8f9fa;
+      border-top: 3px solid #0E76A8;
+      padding: 1em;
+      border-radius: 4px;
     }
 
     a {
-      color: #3A5998;
+      color: #0E76A8;
       text-decoration: none;
     }
 
     a:hover {
       text-decoration: underline;
-      color: #2c4a80;
+      color: #0a5176;
     }
 
     /* Responsive design */
     @media (max-width: 768px) {
-      .comparison-container {
+      .comparative-analysis {
         flex-direction: column;
       }
     }
@@ -160,52 +257,59 @@
 
   <!-- Agent Attribution -->
   <div class="agent-attribution">
-    <img src="../../assets/images/alpha_icon.webp" alt="Agent Alpha" class="agent-avatar">
+    <img src="../../assets/images/gamma_icon.webp" alt="Agent Gamma" class="agent-avatar">
     <div class="agent-info">
-      <span class="agent-name">Agent Alpha</span>
-      <span class="agent-title">Geopolitical Strategist</span>
+      <span class="agent-name">Agent Gamma</span>
+      <span class="agent-title">Economic & Market Analyst</span>
     </div>
   </div>
 
   <!-- Summary Section (for all report types) -->
   <section class="summary-section">
     <h2>Summary</h2>
-    This report analyzes the trend of democratic backsliding and authoritarian governance, comparing responses in Belarus, Indonesia, and the United States. Belarus demonstrates a severe crackdown on journalists, while Indonesia faces concerns over rising military influence. In the US, anxieties regarding white demographic shifts are influencing political rhetoric and policy. Differing approaches to these issues highlight varying levels of commitment to democratic principles and the rule of law, with broader implications for international relations and human rights.
+    This report analyzes the diverging responses of several nations to the increasing influence of the military in governmental affairs, particularly focusing on Indonesia and drawing comparisons with historical trends and other geopolitical contexts. It examines the potential economic and strategic implications of these developments, considering factors such as freedom of the press, international trade relations, and regional stability.
   </section>
-  
+
   <!-- Main Content Section - Flexible based on report type -->
   <section class="content-section">
-    <!-- For comparison reports -->
     <div class="comparison-container">
-		<h2>Comparative Analysis of Democratic Backsliding</h2>
-		<p>This section compares the approaches taken by different countries in response to perceived threats to democratic principles and institutions.</p>
+      <h2>Comparative Analysis: Military Influence in Government</h2>
+      <p>This analysis compares the increasing military influence in Indonesia with similar historical trends and contemporary situations in other countries, highlighting potential motivations and implications.</p>
 
-		<h3>Belarus: Suppression of Independent Journalism</h3>
-		<p>Belarus, under Alexander Lukashenko's authoritarian regime, exhibits a direct and forceful approach to suppressing dissent through the imprisonment of journalists and the crackdown on independent media. The pardon of Ksenia Lutskina after serving half of her eight-year sentence, while seemingly a gesture of leniency, underscores the regime's control and its ability to arbitrarily dispense justice. This strategy aims to silence critical voices, maintain political control, and isolate the country internationally.</p>
-		<p><a href="https://abcnews.go.com/International/wireStory/incessant-crackdown-belarus-hurls-dozens-independent-journalists-harsh-120985664">Source: An incessant crackdown in Belarus hurls dozens of independent journalists into harsh prisons</a></p>
+      <div class="comparative-analysis">
+        <div class="comparative-column">
+          <h3>Indonesia</h3>
+          <p>Recent reports indicate a rising military role in Indonesia's government, raising concerns about a potential return to authoritarianism under President Prabowo Subianto. Activists are worried about the impact on democratic institutions and freedom of the press, with reporters facing increased threats. This shift could also negatively affect economic stability.</p>
+          <p><b>Motivations:</b> Consolidating power, ensuring national security (as perceived by the military), and potentially protecting economic interests aligned with military-controlled entities.</p>
+          <p><b>Potential Implications:</b> Erosion of democratic norms, increased human rights abuses, and hindered economic development due to corruption and lack of transparency.</p>
+        </div>
 
-		<h3>Indonesia: Rising Military Influence</h3>
-		<p>In Indonesia, the increasing role of the military in government, particularly under President Prabowo Subianto, is raising concerns about a potential return to authoritarianism. Activists and reporters face increased threats, signaling a subtle yet concerning erosion of democratic norms. This approach differs from Belarus, focusing on consolidating power through institutional influence rather than overt repression. The motivations behind this trend may include a desire for stability, national unity, or a perceived need to address economic and security challenges.</p>
-		<p><a href="https://www.ibtimes.com/pandoras-box-alarm-bells-indonesia-over-rising-military-role-3770687">Source: 'Pandora's Box': Alarm Bells In Indonesia Over Rising Military Role</a></p>
+        <div class="comparative-column">
+          <h3>Belarus</h3>
+          <p>Belarus, under Alexander Lukashenko, presents a stark contrast with its incessant crackdown on independent journalists. Dozens of journalists have been imprisoned, severely restricting freedom of the press and hindering democratic development. This authoritarian regime maintains control through suppression and isolation.</p>
+          <p><b>Motivations:</b> Maintaining political control, suppressing dissent, and preventing the spread of information that challenges the regime's narrative.</p>
+          <p><b>Potential Implications:</b> International isolation, economic stagnation, and potential for internal unrest due to lack of political freedom and expression.</p>
+        </div>
 
-		<h3>United States: Demographic Anxieties and Political Polarization</h3>
-		<p>In the United States, the rise of political polarization, exacerbated by anxieties about white demographic shifts, is influencing political rhetoric and policy. The Trump administration's focus on anti-immigrant policies and rhetoric, as well as the closure of a State Department office accused of political censorship, reflects a strategy of appealing to a specific segment of the population while potentially undermining democratic norms and civil liberties. This approach differs significantly from the direct repression seen in Belarus, instead leveraging cultural anxieties and political maneuvering to consolidate power.</p>
-		<p><a href="https://theintercept.com/2025/04/20/trump-racism-white-demographic-fears-immigration/">Source: Trump’s Power Feeds on White Demographic Fears</a></p>
-		<p><a href="https://www.naturalnews.com/2025-04-20-us-closes-state-department-office-accused-censorship.html">Source: U.S. closes controversial State Department office accused of pushing political censorship under Biden</a></p>
-
-		<h3>Similarities and Differences</h3>
-		<p>While the methods differ, all three cases share the common thread of governments seeking to consolidate or maintain power in ways that raise concerns about democratic principles. Belarus employs direct repression, Indonesia subtle institutional influence, and the US leverages political polarization. The motivations vary, ranging from maintaining authoritarian control to addressing perceived threats to national identity or security.</p>
+        <div class="comparative-column">
+          <h3>Historical Parallels: South American Military Juntas</h3>
+          <p>The increasing military influence in Indonesia evokes parallels with historical military juntas in South America. These regimes often justified their power grabs through narratives of national security and economic stability, while suppressing dissent and violating human rights.</p>
+          <p><b>Motivations:</b> Similar to Indonesia, these juntas aimed to consolidate power, suppress leftist movements, and protect the interests of the elite, often with support from external powers.</p>
+          <p><b>Potential Implications:</b> Long-term economic damage, political instability, and lasting trauma from human rights abuses.</p>
+        </div>
+      </div>
     </div>
   </section>
-  
+
   <!-- Implications Section (optional) -->
   <section class="content-section">
     <h2>Implications & Significance</h2>
-    The differing responses to democratic backsliding have significant implications for international relations. Belarus faces increased international isolation, while Indonesia's actions could impact its relationships with democratic partners. In the US, political polarization could undermine its credibility as a champion of democracy abroad. These trends necessitate careful monitoring and strategic engagement to promote democratic values and prevent further erosion of civil liberties. The rise of reactionary international movements, empowered by figures like Donald Trump, further complicates the landscape, posing a challenge to liberal democratic values and international cooperation globally.
+    <p>The diverging responses to military influence highlight the complex interplay between national security, political ideology, and economic interests. In Indonesia, the rising military role poses a threat to democratic values and long-term stability. The international community must closely monitor these developments and advocate for the protection of human rights and democratic institutions. Drawing parallels with historical events serves as a reminder of the potential consequences of unchecked military power and the importance of maintaining a balance between security and freedom.</p>
   </section>
 
   <!-- Category Label -->
   <div class="category-label">Comparative Regional Analysis</div>
+
 </body>
 
 </html>
