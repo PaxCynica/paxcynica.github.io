@@ -5,8 +5,11 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Pac Cynica - Daily Intelligence</title>
-  <link rel="stylesheet" href="../css/style.css">
-  <link rel="icon" href="favicon.png" type="image/x-icon">
+  <link rel="stylesheet" href="../css/style2.css">
+  <link rel="icon" href="../favicon.png" type="image/x-icon">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+    integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
   <style>
     body {
       font-family: 'Segoe UI', Arial, sans-serif;
@@ -15,8 +18,12 @@
       margin: 0 auto;
     }
 
-    main {
-      margin: 2em 1em;
+    html, body, main, .featured-reports-container, .featured-report {
+      box-sizing: border-box;
+      width: 100%;
+      max-width: 100vw;
+      margin: 0;
+      padding: 0;
     }
 
     .logo {
@@ -24,31 +31,6 @@
       height: 60px;
       margin-right: 16px;
       border-radius: 50%;
-    }
-
-    header {
-      background: linear-gradient(rgba(26, 26, 46, 0.7), rgba(26, 26, 46, 0.7)), url('../assets/images/core-principles.png');
-      background-size: cover;
-      background-position: center;
-      color: #fff;
-      text-align: center;
-      padding: 4rem 20px;
-      margin-bottom: 3rem;
-      /* Increased margin-bottom for better rhythm */
-      position: relative;
-      /* For pseudo-element */
-    }
-
-    header::before {
-      content: '';
-      position: absolute;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      background-color: rgba(0, 0, 0, 0.1);
-      /* Subtle overlay */
-      z-index: 0;
     }
 
     .dashboard {
@@ -234,11 +216,6 @@
         /* Further reduced margin */
       }
 
-      main {
-        margin: 0 0.5rem;
-        padding: 0;
-      }
-
       .header-profile {
         display: none;
         /* Hide profile image on mobile */
@@ -247,18 +224,40 @@
 
     @media (max-width: 600px) {
       .header-text-wrapper {
-        padding: 0.5rem;
+        padding: 1rem 0.5rem;
         max-width: 100%;
-        font-size: 1em;
       }
 
       header h1 {
-        font-size: 2em;
+        font-size: 1.5rem;
       }
 
       header p {
-        font-size: 1em;
+        font-size: 1rem;
       }
+      main {
+        padding: 0 1rem;
+      }
+    }
+
+    .header-text-wrapper {
+      position: relative;
+      z-index: 1;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      padding: 1.5em 1em;
+      border-radius: 12px;
+      background-color: rgba(0, 0, 0, 0.8);
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.08);
+      margin: 0 auto 1.5em auto;
+      max-width: 700px;
+      width: 100%;
+      box-sizing: border-box;
+      overflow-wrap: break-word;
+      word-break: break-word;
     }
 
     /* Add this to your existing styles */
@@ -274,6 +273,15 @@
       box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
       position: relative;
       width: 100%;
+      box-sizing: border-box; /* Add this line */
+      max-width: 100%;        /* Prevents overflow */
+    }
+
+    /* Responsive: reduce padding on small screens */
+    @media (max-width: 600px) {
+      .featured-report {
+        padding: 1em;
+      }
     }
 
     .featured-report::before {
@@ -375,6 +383,10 @@
       color: #2ecc71;
       margin-right: 8px;
       font-size: 1.2em;
+    }
+
+    .brief-featured .featured-label {
+      color: #2ecc71;
     }
 
     /* Agent attribution in cards */
@@ -491,7 +503,7 @@
         <div class="featured-report summary-featured">
             <div class="featured-header">
                 <span class="featured-label">Executive Summary</span>
-                <span class="featured-date">Sunday, April 20, 2025</span>
+                <span class="featured-date">Monday, April 21, 2025</span>
             </div>
             <div class="featured-content">
                 <p>Global tensions remain high on multiple fronts.  The Russia-Ukraine conflict continues despite a declared Easter truce, with the US pushing for a comprehensive ceasefire while simultaneously signaling a potential withdrawal from peace talks...</p>
@@ -502,7 +514,7 @@
         <div class="featured-report brief-featured">
             <div class="featured-header">
                 <span class="featured-label">Basics Brief</span>
-                <span class="featured-date">Sunday, April 20, 2025</span>
+                <span class="featured-date">Monday, April 21, 2025</span>
             </div>
             <div class="featured-content">
                 <p>This intelligence brief highlights several key trends observed on 2025-04-20. These include escalating global trade tensions, particularly between the US and China, advancements in AI and quantum computing with associated ethical concerns, ...</p>
@@ -512,7 +524,7 @@
         </div>
 
     <div class="top-bar">
-      <div class="refresh-info">Last updated: 2025-04-20 22:53:47</div>
+      <div class="refresh-info">Last updated: 2025-04-21 00:29:37</div>
     </div>
 
     <div class="filters">
@@ -526,7 +538,7 @@
       
     <div class="date-group">
         <div class="date-header">
-            <span class="date-label">Sunday, April 20, 2025</span>
+            <span class="date-label">Monday, April 21, 2025</span>
             <span class="report-count">28 Reports</span>
         </div>
     
@@ -821,6 +833,334 @@
                 </div>
                 
                 <a href="specialized-reports/15-30-41/Under-the-Radar_Developments_Report_2025-04-20.html">View Report</a>
+            </div>
+            
+            </div>
+        </div>
+        
+    </div>
+    
+    <div class="date-group">
+        <div class="date-header">
+            <span class="date-label">Sunday, April 20, 2025</span>
+            <span class="report-count">30 Reports</span>
+        </div>
+    
+        <div class="report-section">
+            <div class="report-type">
+                <span>Analysis Reports</span>
+                <span>20</span>
+            </div>
+            <div class="report-list">
+        
+            <div class="report-card" data-type="analysis">
+                <h4>Additional World Leaders</h4>
+                <ul class='topic-list'><li data-color='#3A5998'>US-Vatican Relations and Migration Policy</li><li data-color='#3A5998'>Geopolitical Maneuvering in Southeast Asia</li><li data-color='#3A5998'>US Diplomacy and International Relations</li><li data-color='#3A5998'>Domestic Political Issues and Extremism</li><li data-color='#3A5998'>International Perceptions of US Foreign Policy</li></ul>
+                <a href="../2025-04-20/analysis/15-30-41/Additional_World_Leaders_news_digest_2025-04-20_4.html">View Analysis</a>
+            </div>
+            
+            <div class="report-card" data-type="analysis">
+                <h4>Cybersecurity and Military Technology</h4>
+                <ul class='topic-list'><li data-color='#00ACEE'>Quantum Computing Advancements</li><li data-color='#00ACEE'>AI Weaponization and the US-China Competition</li><li data-color='#00ACEE'>Drone Warfare and Counter-Drone Technology</li><li data-color='#00ACEE'>Space-Based Assets and Satellite Technology</li><li data-color='#3A5998'>Electronic Warfare and Secure Communications</li></ul>
+                <a href="../2025-04-20/analysis/15-30-41/Cybersecurity_and_Military_Technology_news_digest_2025-04-20_10.html">View Analysis</a>
+            </div>
+            
+            <div class="report-card" data-type="analysis">
+                <h4>Economic and Strategic Concepts</h4>
+                <ul class='topic-list'><li data-color='#00ACEE'>AI Arms Race Intensification</li><li data-color='#3A5998'>Cyber Security Vulnerabilities and Threats</li><li data-color='#3A5998'>Energy Security and Renewables</li><li data-color='#3498db'>India's Growing Global Influence</li><li data-color='#0E76A8'>Tariff Negotiations and Trade Dynamics</li></ul>
+                <a href="../2025-04-20/analysis/15-30-41/Economic_and_Strategic_Concepts_news_digest_2025-04-20_11.html">View Analysis</a>
+            </div>
+            
+            <div class="report-card" data-type="analysis">
+                <h4>Economic and Technological Topics</h4>
+                <ul class='topic-list'><li data-color='#0E76A8'>Tariff Impacts and Economic Uncertainty</li><li data-color='#0E76A8'>Cryptocurrency Market Volatility and Regulation</li><li data-color='#3A5998'>Green Energy Transition and Electric Vehicle Market Dynamics</li><li data-color='#0E76A8'>Inflation and its Impact on Consumer Behavior</li><li data-color='#3A5998'>Geopolitical Tensions and Energy Security</li></ul>
+                <a href="../2025-04-20/analysis/15-30-41/Economic_and_Technological_Topics_news_digest_2025-04-20_12.html">View Analysis</a>
+            </div>
+            
+            <div class="report-card" data-type="analysis">
+                <h4>Emerging Technologies and Future Trends</h4>
+                <ul class='topic-list'><li data-color='#00ACEE'>Data Privacy Concerns in Genomics</li><li data-color='#00ACEE'>Quantum Computing Advancements and Industry Growth</li><li data-color='#3A5998'>Space Exploration and International Collaboration</li><li data-color='#3498db'>Climate Change Coverage and Extreme Weather Events</li><li data-color='#00ACEE'>Digital Sovereignty and Data Governance</li></ul>
+                <a href="../2025-04-20/analysis/15-30-41/Emerging_Technologies_and_Future_Trends_news_digest_2025-04-20_18.html">View Analysis</a>
+            </div>
+            
+            <div class="report-card" data-type="analysis">
+                <h4>Daily Executive Summary</h4>
+                <p>Global tensions remain high on multiple fronts.  The Russia-Ukraine conflict continues despite a declared Easter truce, with the US pushing for a comprehensive ceasefire while simultaneously signaling a potential withdrawal from peace talks...</p>
+                <a href="../2025-04-20/analysis/15-30-41/FINAL_SUMMARY_2025-04-20_15-30-41.html">View Analysis</a>
+            </div>
+            
+            <div class="report-card" data-type="analysis">
+                <h4>Geopolitical Concepts and Events</h4>
+                <ul class='topic-list'><li data-color='#3498db'>US-Iran Nuclear Negotiations</li><li data-color='#3A5998'>Ukraine War: Ceasefire Attempts and Shifting US Stance</li><li data-color='#DD4B39'>Israeli-Palestinian Conflict: Ongoing Violence and Humanitarian Crisis</li><li data-color='#3498db'>Democratic Backsliding: Tunisia and Ecuador</li><li data-color='#3498db'>US Diplomatic Engagement: Syria and Russia</li></ul>
+                <a href="../2025-04-20/analysis/15-30-41/Geopolitical_Concepts_and_Events_news_digest_2025-04-20_8.html">View Analysis</a>
+            </div>
+            
+            <div class="report-card" data-type="analysis">
+                <h4>Humanitarian Issues</h4>
+                <ul class='topic-list'><li data-color='#DD4B39'>Humanitarian Crisis in Sudan</li><li data-color='#3A5998'>Gaza Conflict and its Impact on Education and Food Security</li><li data-color='#3A5998'>Political Polarization and the Legacy of COVID-19</li><li data-color='#0E76A8'>Economic Anxiety and the Future of Work</li><li data-color='#DD4B39'>Migration and Deportation Policies</li></ul>
+                <a href="../2025-04-20/analysis/15-30-41/Humanitarian_Issues_news_digest_2025-04-20_13.html">View Analysis</a>
+            </div>
+            
+            <div class="report-card" data-type="analysis">
+                <h4>International Organizations</h4>
+                <ul class='topic-list'><li data-color='#3498db'>Iran and the U.S. Resume Nuclear Talks</li><li data-color='#3498db'>G20 Focus: Sitharaman's US Visit for IMF and World Bank Meetings</li><li data-color='#3498db'>Rising Tensions between Canada and the US</li><li data-color='#3A5998'>US Military Action in Yemen</li><li data-color='#3498db'>EU Declares Countries Safe for Asylum Seekers</li></ul>
+                <a href="../2025-04-20/analysis/15-30-41/International_Organizations_news_digest_2025-04-20_7.html">View Analysis</a>
+            </div>
+            
+            <div class="report-card" data-type="analysis">
+                <h4>Major Global Powers and Countries</h4>
+                <ul class='topic-list'><li data-color='#0E76A8'>US-China Trade and Tariff Tensions</li><li data-color='#3A5998'>Geopolitical Implications of US Foreign Policy</li><li data-color='#3A5998'>North Korea's Military and Geopolitical Activities</li><li data-color='#00ACEE'>Impact of Technology and Healthcare on Global Markets</li><li data-color='#0E76A8'>Cultural Exchange and Influence: K-Pop, Korean Culture, and Global Integration</li></ul>
+                <a href="../2025-04-20/analysis/15-30-41/Major_Global_Powers_and_Countries_news_digest_2025-04-20_1.html">View Analysis</a>
+            </div>
+            
+            <div class="report-card" data-type="analysis">
+                <h4>Major World Leaders</h4>
+                <ul class='topic-list'><li data-color='#00ACEE'>Putin's Easter Ceasefire in Ukraine</li><li data-color='#3A5998'>Trump's Domestic Policy and Actions</li><li data-color='#3A5998'>US Involvement in Ukraine and Russia Relations</li><li data-color='#3A5998'>Geopolitical Tensions and Alliances</li><li data-color='#3A5998'>Internal Political Dynamics in the US</li></ul>
+                <a href="../2025-04-20/analysis/15-30-41/Major_World_Leaders_news_digest_2025-04-20_3.html">View Analysis</a>
+            </div>
+            
+            <div class="report-card" data-type="analysis">
+                <h4>Military Topics and Weapons Systems</h4>
+                <ul class='topic-list'><li data-color='#3A5998'>Ukraine War: Shifting Ceasefire Dynamics</li><li data-color='#3A5998'>AI and the Future of Warfare</li><li data-color='#00ACEE'>Drone Warfare and Counter-Drone Technology</li><li data-color='#3498db'>Diplomatic Efforts and Ceasefire Negotiations</li><li data-color='#3A5998'>Regional Instability and Security Concerns</li></ul>
+                <a href="../2025-04-20/analysis/15-30-41/Military_Topics_and_Weapons_Systems_news_digest_2025-04-20_17.html">View Analysis</a>
+            </div>
+            
+            <div class="report-card" data-type="analysis">
+                <h4>Political Operatives and Advisors</h4>
+                <ul class='topic-list'><li data-color='#3498db'>Potential Third Term for Trump</li><li data-color='#3498db'>Ivanka Trump's Public Appearances and Speculation</li><li data-color='#3A5998'>Potential Challenges to Trump's Leadership from Within the GOP</li><li data-color='#3498db'>Scrutiny of Diplomatic Activities and the Logan Act</li><li data-color='#DD4B39'>The Weinstein Case and the #MeToo Movement</li></ul>
+                <a href="../2025-04-20/analysis/15-30-41/Political_Operatives_and_Advisors_news_digest_2025-04-20_6.html">View Analysis</a>
+            </div>
+            
+            <div class="report-card" data-type="analysis">
+                <h4>Political Process and Democracy Topics</h4>
+                <ul class='topic-list'><li data-color='#DD4B39'>Anti-Trump Protests and Community Action</li><li data-color='#DD4B39'>Transgender Rights and Legal Definitions</li><li data-color='#3A5998'>Attacks on Western Brands Amidst Geopolitical Tensions</li><li data-color='#3498db'>Democratic Backsliding and Repression in Tunisia</li><li data-color='#DD4B39'>Trump Administration Policies and Protests</li></ul>
+                <a href="../2025-04-20/analysis/15-30-41/Political_Process_and_Democracy_Topics_news_digest_2025-04-20_14.html">View Analysis</a>
+            </div>
+            
+            <div class="report-card" data-type="analysis">
+                <h4>Political Science and Security Concepts</h4>
+                <ul class='topic-list'><li data-color='#3498db'>US-Iran Nuclear Negotiations</li><li data-color='#3498db'>China's Rare Earth Export Restrictions</li><li data-color='#0E76A8'>Rising Trade Tensions and Consumer Spending</li><li data-color='#3498db'>Hypersonic Weapons Development</li><li data-color='#3498db'>Iranian Arms Sales to Russia</li></ul>
+                <a href="../2025-04-20/analysis/15-30-41/Political_Science_and_Security_Concepts_news_digest_2025-04-20_9.html">View Analysis</a>
+            </div>
+            
+            <div class="report-card" data-type="analysis">
+                <h4>Regional and Smaller Nations</h4>
+                <ul class='topic-list'><li data-color='#3498db'>US-Iran Nuclear Talks Resume</li><li data-color='#3A5998'>Violence and Protests Linked to Gaza War</li><li data-color='#3A5998'>Internal Instability and Political Unrest</li><li data-color='#00ACEE'>AI and Technological Developments</li><li data-color='#0E76A8'>Economic Uncertainty and Trade Tensions</li></ul>
+                <a href="../2025-04-20/analysis/15-30-41/Regional_and_Smaller_Nations_news_digest_2025-04-20_2.html">View Analysis</a>
+            </div>
+            
+            <div class="report-card" data-type="analysis">
+                <h4>Signals Intelligence and Communications</h4>
+                <ul class='topic-list'><li data-color='#3A5998'>Drone Warfare and Electronic Warfare Integration</li><li data-color='#00ACEE'>Open Source SDR and Communications Technology</li><li data-color='#00ACEE'>Surveillance Technology and Societal Impact</li><li data-color='#3498db'>GPS Alternatives and Jam-Proof Positioning Systems</li><li data-color='#3498db'>Directed Energy Weapons Development</li></ul>
+                <a href="../2025-04-20/analysis/15-30-41/Signals_Intelligence_and_Communications_news_digest_2025-04-20_19.html">View Analysis</a>
+            </div>
+            
+            <div class="report-card" data-type="analysis">
+                <h4>Strategic Companies and Corporations</h4>
+                <ul class='topic-list'><li data-color='#00ACEE'>AI Development and Integration</li><li data-color='#3498db'>Space Exploration and Commercialization</li><li data-color='#3A5998'>Geopolitical Tensions and Corporate Influence</li><li data-color='#00ACEE'>Cybersecurity and Data Privacy Concerns</li><li data-color='#00ACEE'>Market Trends and Competition in Tech</li></ul>
+                <a href="../2025-04-20/analysis/15-30-41/Strategic_Companies_and_Corporations_news_digest_2025-04-20_15.html">View Analysis</a>
+            </div>
+            
+            <div class="report-card" data-type="analysis">
+                <h4>Tech and Defense Companies</h4>
+                <ul class='topic-list'><li data-color='#00ACEE'>AI Chip Development and Market Competition</li><li data-color='#00ACEE'>Advancements in Laptop Technology and Performance</li><li data-color='#00ACEE'>Quantum Computing Developments and Industry Adoption</li><li data-color='#0E76A8'>Economic Impact of Tariffs and Trade Policies</li><li data-color='#3A5998'>Security Vulnerabilities and Data Breaches</li></ul>
+                <a href="../2025-04-20/analysis/15-30-41/Tech_and_Defense_Companies_news_digest_2025-04-20_16.html">View Analysis</a>
+            </div>
+            
+            <div class="report-card" data-type="analysis">
+                <h4>Tech Industry Leaders and Billionaires</h4>
+                <ul class='topic-list'><li data-color='#3A5998'>Elon Musk's Political Influence and Controversies</li><li data-color='#3A5998'>Billionaires and Taxation: Public Scrutiny and Policy Debates</li><li data-color='#3A5998'>Tech Leaders and AI Development: Ethical and Security Concerns</li><li data-color='#3498db'>Space Tourism and the Definition of "Astronaut"</li><li data-color='#DD4B39'>Tesla Under Attack: Vandalism and Protests</li></ul>
+                <a href="../2025-04-20/analysis/15-30-41/Tech_Industry_Leaders_and_Billionaires_news_digest_2025-04-20_5.html">View Analysis</a>
+            </div>
+            
+            </div>
+        </div>
+        
+        <div class="report-section">
+            <div class="report-type">
+                <span>Specialized Reports</span>
+                <span>10</span>
+            </div>
+            <div class="report-list">
+        
+            <div class="report-card" data-type="specialized">
+                <h4>Analytical</h4>
+                <div class="report-context">Key Analysis</div>
+                <p>This brief analyzes key geopolitical and technological trends as of April 20, 2025. The analysis highlights escalating US-China tensions, particularly in trade and technology, the ongoing Russia-Ukraine conflict with fragile ceasefire attem...</p>
+                
+                <div class="agent-attribution-card">
+                
+                    <img src="assets/images/alpha_icon.webp" alt="Agent Alpha" class="agent-avatar-small">
+                    
+                    <div class="agent-info-small">
+                        <span class="agent-name-small">Agent Alpha</span>
+                        <span class="agent-title-small">Geopolitical Strategist</span>
+                    </div>
+                </div>
+                
+                <a href="../2025-04-20/specialized-reports/15-30-41/Analytical_Intelligence_Brief_2025-04-20.html">View Report</a>
+            </div>
+            
+            <div class="report-card" data-type="specialized">
+                <h4>Basic</h4>
+                <div class="report-context">US-China Trade and Technology Competition</div>
+                <p>This intelligence brief highlights several key trends observed on 2025-04-20. These include escalating global trade tensions, particularly between the US and China, advancements in AI and quantum computing with associated ethical concerns, ...</p>
+                
+                <div class="agent-attribution-card">
+                
+                    <img src="assets/images/central_icon.webp" alt="Central Intelligence" class="agent-avatar-small">
+                    
+                    <div class="agent-info-small">
+                        <span class="agent-name-small">Central Intelligence</span>
+                        <span class="agent-title-small">Intelligence Coordinator</span>
+                    </div>
+                </div>
+                
+                <a href="../2025-04-20/specialized-reports/15-30-41/Basic_Intelligence_Brief_2025-04-20.html">View Report</a>
+            </div>
+            
+            <div class="report-card" data-type="specialized">
+                <h4>Chronological</h4>
+                <div class="report-context">US-Iran Nuclear Negotiations Resume</div>
+                <p>This report provides a chronological analysis of key events and developments occurring on April 20, 2025, across various domains including geopolitics, technology, economics, and humanitarian issues. The analysis highlights the interconnect...</p>
+                
+                <div class="agent-attribution-card">
+                
+                    <img src="assets/images/delta_icon.webp" alt="Agent Delta" class="agent-avatar-small">
+                    
+                    <div class="agent-info-small">
+                        <span class="agent-name-small">Agent Delta</span>
+                        <span class="agent-title-small">Humanitarian & Social Impact Specialist</span>
+                    </div>
+                </div>
+                
+                <a href="../2025-04-20/specialized-reports/15-30-41/Chronological_Events_Analysis_2025-04-20.html">View Report</a>
+            </div>
+            
+            <div class="report-card" data-type="specialized">
+                <h4>Comparative</h4>
+                <div class="report-context">Comparative Analysis: AI Arms Race</div>
+                <p>This report provides a comparative analysis of regional responses to the intensifying AI arms race, focusing on the United States, China, and the United Kingdom. We examine their respective strategic investments, technological advancements,...</p>
+                
+                <div class="agent-attribution-card">
+                
+                    <img src="assets/images/gamma_icon.webp" alt="Agent Gamma" class="agent-avatar-small">
+                    
+                    <div class="agent-info-small">
+                        <span class="agent-name-small">Agent Gamma</span>
+                        <span class="agent-title-small">Economic & Market Analyst</span>
+                    </div>
+                </div>
+                
+                <a href="../2025-04-20/specialized-reports/15-30-41/Comparative_Regional_Analysis_2025-04-20.html">View Report</a>
+            </div>
+            
+            <div class="report-card" data-type="specialized">
+                <h4>Counterpoint</h4>
+                <div class="report-context">Key Analysis: AI Weaponry - Strategic Imperative vs. Ethical Catastrophe</div>
+                <p>This report analyzes the contrasting perspectives surrounding the development and deployment of AI weaponry, a key point of contention in 2025. The debate centers on the balance between national security imperatives and the ethical consider...</p>
+                
+                <div class="agent-attribution-card">
+                
+                    <img src="assets/images/beta_icon.webp" alt="Agent Beta" class="agent-avatar-small">
+                    
+                    <div class="agent-info-small">
+                        <span class="agent-name-small">Agent Beta</span>
+                        <span class="agent-title-small">Tech & Cyber Intelligence Specialist</span>
+                    </div>
+                </div>
+                
+                <a href="../2025-04-20/specialized-reports/15-30-41/Counterpoint_Perspectives_Analysis_2025-04-20.html">View Report</a>
+            </div>
+            
+            <div class="report-card" data-type="specialized">
+                <h4>Future</h4>
+                <div class="report-context">Future Scenarios: Migration, US-Vatican Relations, and Anti-Immigration Sentiment</div>
+                <p>This report explores potential future scenarios stemming from the intertwined issues of global migration, US-Vatican relations, and the rise of anti-immigration sentiment. The divergence in perspectives between the US administration and the...</p>
+                
+                <div class="agent-attribution-card">
+                
+                    <img src="assets/images/delta_icon.webp" alt="Agent Delta" class="agent-avatar-small">
+                    
+                    <div class="agent-info-small">
+                        <span class="agent-name-small">Agent Delta</span>
+                        <span class="agent-title-small">Humanitarian & Social Impact Specialist</span>
+                    </div>
+                </div>
+                
+                <a href="../2025-04-20/specialized-reports/15-30-41/Future_Scenario_Planning_2025-04-20.html">View Report</a>
+            </div>
+            
+            <div class="report-card" data-type="specialized">
+                <h4>Historical</h4>
+                <div class="report-context">Key Analysis: The Recurring Tragedy of Gaza</div>
+                <p>This report provides a historical context analysis of the escalating tensions and humanitarian crisis surrounding Gaza, as reflected in the intelligence reports of April 20, 2025. It examines the long-term dynamics of the Israeli-Palestinia...</p>
+                
+                <div class="agent-attribution-card">
+                
+                    <img src="assets/images/delta_icon.webp" alt="Agent Delta" class="agent-avatar-small">
+                    
+                    <div class="agent-info-small">
+                        <span class="agent-name-small">Agent Delta</span>
+                        <span class="agent-title-small">Humanitarian & Social Impact Specialist</span>
+                    </div>
+                </div>
+                
+                <a href="../2025-04-20/specialized-reports/15-30-41/Historical_Context_Analysis_2025-04-20.html">View Report</a>
+            </div>
+            
+            <div class="report-card" data-type="specialized">
+                <h4>Policy</h4>
+                <div class="report-context">Key Analysis: The Escalating AI Arms Race</div>
+                <p>This analysis focuses on the escalating AI arms race, specifically examining its implications for international security and potential policy responses. The convergence of geopolitical competition, technological advancements, and economic i...</p>
+                
+                <div class="agent-attribution-card">
+                
+                    <img src="assets/images/alpha_icon.webp" alt="Agent Alpha" class="agent-avatar-small">
+                    
+                    <div class="agent-info-small">
+                        <span class="agent-name-small">Agent Alpha</span>
+                        <span class="agent-title-small">Geopolitical Strategist</span>
+                    </div>
+                </div>
+                
+                <a href="../2025-04-20/specialized-reports/15-30-41/Policy_Implications_Analysis_2025-04-20.html">View Report</a>
+            </div>
+            
+            <div class="report-card" data-type="specialized">
+                <h4>Theme</h4>
+                <div class="report-context">Key Analysis: The Intensifying AI Arms Race</div>
+                <p>This report provides an in-depth analysis of the intensifying AI arms race between the US and China, focusing on its potential economic and geopolitical implications. The analysis considers the strategic investments being made, the ethical ...</p>
+                
+                <div class="agent-attribution-card">
+                
+                    <img src="assets/images/gamma_icon.webp" alt="Agent Gamma" class="agent-avatar-small">
+                    
+                    <div class="agent-info-small">
+                        <span class="agent-name-small">Agent Gamma</span>
+                        <span class="agent-title-small">Economic & Market Analyst</span>
+                    </div>
+                </div>
+                
+                <a href="../2025-04-20/specialized-reports/15-30-41/Theme_Deep_Dive_Analysis_2025-04-20.html">View Report</a>
+            </div>
+            
+            <div class="report-card" data-type="specialized">
+                <h4>Under The Radar</h4>
+                <div class="report-context">Key Analysis</div>
+                <p>This report highlights several under-the-radar developments with potentially significant strategic impact. Key areas of focus include the intensification of the AI arms race, particularly regarding autonomous weapons systems, and the growin...</p>
+                
+                <div class="agent-attribution-card">
+                
+                    <img src="assets/images/beta_icon.webp" alt="Agent Beta" class="agent-avatar-small">
+                    
+                    <div class="agent-info-small">
+                        <span class="agent-name-small">Agent Beta</span>
+                        <span class="agent-title-small">Tech & Cyber Intelligence Specialist</span>
+                    </div>
+                </div>
+                
+                <a href="../2025-04-20/specialized-reports/15-30-41/Under-the-Radar_Developments_Report_2025-04-20.html">View Report</a>
             </div>
             
             </div>
@@ -834,72 +1174,17 @@
     <p>News Intelligence Hub | Generated by Hound Pipeline | 2025</p>
   </footer>
 
-  
+  <script src="../js/reports.js"></script>
+  <script src="../js/script.js"></script>
 
-  <script>
-    // Apply theme colors to bullets
-    document.addEventListener('DOMContentLoaded', function () {
-      const themeItems = document.querySelectorAll('.topic-list li[data-color]');
-      themeItems.forEach(item => {
-        const color = item.getAttribute('data-color');
-        item.style.setProperty('--bullet-color', color);
-
-        // Create a style element for each item to customize the ::before pseudo-element
-        const style = document.createElement('style');
-        style.textContent = `
-          .topic-list li[data-color="${color}"]::before {
-            background-color: ${color};
-          }
-        `;
-        document.head.appendChild(style);
-      });
-    });
-  </script>
-
-    <script>
-    // Category filter functionality without search
-    const filterButtons = document.querySelectorAll('.filter-btn');
-    
-    if (filterButtons.length > 0) {
-      filterButtons.forEach(button => {
-        button.addEventListener('click', () => {
-          // Update active state
-          filterButtons.forEach(btn => btn.classList.remove('active'));
-          button.classList.add('active');
-          
-          // Filter reports by category
-          filterByCategory(button.dataset.filter);
-        });
-      });
-    }
-    
-    function filterByCategory(category) {
-      const reportCards = document.querySelectorAll('.report-card');
-      
-      reportCards.forEach(card => {
-        const cardType = card.dataset.type;
-        const shouldShow = category === 'all' || cardType === category;
-        card.style.display = shouldShow ? 'block' : 'none';
-      });
-      
-      // Show/hide date groups based on whether they have any visible reports
-      const dateGroups = document.querySelectorAll('.date-group');
-      dateGroups.forEach(group => {
-        const hasVisibleReports = Array.from(group.querySelectorAll('.report-card'))
-          .some(card => card.style.display !== 'none');
-        
-        group.style.display = hasVisibleReports ? 'block' : 'none';
-      });
-    }
-    </script>
-    </body>
+</body>
 
 </html>
 <!-- This template is designed to be filled with data from the Python script. The placeholders like <div class="featured-reports-container">
         <div class="featured-report summary-featured">
             <div class="featured-header">
                 <span class="featured-label">Executive Summary</span>
-                <span class="featured-date">Sunday, April 20, 2025</span>
+                <span class="featured-date">Monday, April 21, 2025</span>
             </div>
             <div class="featured-content">
                 <p>Global tensions remain high on multiple fronts.  The Russia-Ukraine conflict continues despite a declared Easter truce, with the US pushing for a comprehensive ceasefire while simultaneously signaling a potential withdrawal from peace talks...</p>
@@ -910,17 +1195,17 @@
         <div class="featured-report brief-featured">
             <div class="featured-header">
                 <span class="featured-label">Basics Brief</span>
-                <span class="featured-date">Sunday, April 20, 2025</span>
+                <span class="featured-date">Monday, April 21, 2025</span>
             </div>
             <div class="featured-content">
                 <p>This intelligence brief highlights several key trends observed on 2025-04-20. These include escalating global trade tensions, particularly between the US and China, advancements in AI and quantum computing with associated ethical concerns, ...</p>
                 <a href="specialized-reports/15-30-41/Basic_Intelligence_Brief_2025-04-20.html" class="view-brief-btn">View Brief</a>
             </div>
         </div>
-        </div>, 2025-04-20 22:53:47, and 
+        </div>, 2025-04-21 00:29:37, and 
     <div class="date-group">
         <div class="date-header">
-            <span class="date-label">Sunday, April 20, 2025</span>
+            <span class="date-label">Monday, April 21, 2025</span>
             <span class="report-count">28 Reports</span>
         </div>
     
@@ -1215,6 +1500,334 @@
                 </div>
                 
                 <a href="specialized-reports/15-30-41/Under-the-Radar_Developments_Report_2025-04-20.html">View Report</a>
+            </div>
+            
+            </div>
+        </div>
+        
+    </div>
+    
+    <div class="date-group">
+        <div class="date-header">
+            <span class="date-label">Sunday, April 20, 2025</span>
+            <span class="report-count">30 Reports</span>
+        </div>
+    
+        <div class="report-section">
+            <div class="report-type">
+                <span>Analysis Reports</span>
+                <span>20</span>
+            </div>
+            <div class="report-list">
+        
+            <div class="report-card" data-type="analysis">
+                <h4>Additional World Leaders</h4>
+                <ul class='topic-list'><li data-color='#3A5998'>US-Vatican Relations and Migration Policy</li><li data-color='#3A5998'>Geopolitical Maneuvering in Southeast Asia</li><li data-color='#3A5998'>US Diplomacy and International Relations</li><li data-color='#3A5998'>Domestic Political Issues and Extremism</li><li data-color='#3A5998'>International Perceptions of US Foreign Policy</li></ul>
+                <a href="../2025-04-20/analysis/15-30-41/Additional_World_Leaders_news_digest_2025-04-20_4.html">View Analysis</a>
+            </div>
+            
+            <div class="report-card" data-type="analysis">
+                <h4>Cybersecurity and Military Technology</h4>
+                <ul class='topic-list'><li data-color='#00ACEE'>Quantum Computing Advancements</li><li data-color='#00ACEE'>AI Weaponization and the US-China Competition</li><li data-color='#00ACEE'>Drone Warfare and Counter-Drone Technology</li><li data-color='#00ACEE'>Space-Based Assets and Satellite Technology</li><li data-color='#3A5998'>Electronic Warfare and Secure Communications</li></ul>
+                <a href="../2025-04-20/analysis/15-30-41/Cybersecurity_and_Military_Technology_news_digest_2025-04-20_10.html">View Analysis</a>
+            </div>
+            
+            <div class="report-card" data-type="analysis">
+                <h4>Economic and Strategic Concepts</h4>
+                <ul class='topic-list'><li data-color='#00ACEE'>AI Arms Race Intensification</li><li data-color='#3A5998'>Cyber Security Vulnerabilities and Threats</li><li data-color='#3A5998'>Energy Security and Renewables</li><li data-color='#3498db'>India's Growing Global Influence</li><li data-color='#0E76A8'>Tariff Negotiations and Trade Dynamics</li></ul>
+                <a href="../2025-04-20/analysis/15-30-41/Economic_and_Strategic_Concepts_news_digest_2025-04-20_11.html">View Analysis</a>
+            </div>
+            
+            <div class="report-card" data-type="analysis">
+                <h4>Economic and Technological Topics</h4>
+                <ul class='topic-list'><li data-color='#0E76A8'>Tariff Impacts and Economic Uncertainty</li><li data-color='#0E76A8'>Cryptocurrency Market Volatility and Regulation</li><li data-color='#3A5998'>Green Energy Transition and Electric Vehicle Market Dynamics</li><li data-color='#0E76A8'>Inflation and its Impact on Consumer Behavior</li><li data-color='#3A5998'>Geopolitical Tensions and Energy Security</li></ul>
+                <a href="../2025-04-20/analysis/15-30-41/Economic_and_Technological_Topics_news_digest_2025-04-20_12.html">View Analysis</a>
+            </div>
+            
+            <div class="report-card" data-type="analysis">
+                <h4>Emerging Technologies and Future Trends</h4>
+                <ul class='topic-list'><li data-color='#00ACEE'>Data Privacy Concerns in Genomics</li><li data-color='#00ACEE'>Quantum Computing Advancements and Industry Growth</li><li data-color='#3A5998'>Space Exploration and International Collaboration</li><li data-color='#3498db'>Climate Change Coverage and Extreme Weather Events</li><li data-color='#00ACEE'>Digital Sovereignty and Data Governance</li></ul>
+                <a href="../2025-04-20/analysis/15-30-41/Emerging_Technologies_and_Future_Trends_news_digest_2025-04-20_18.html">View Analysis</a>
+            </div>
+            
+            <div class="report-card" data-type="analysis">
+                <h4>Daily Executive Summary</h4>
+                <p>Global tensions remain high on multiple fronts.  The Russia-Ukraine conflict continues despite a declared Easter truce, with the US pushing for a comprehensive ceasefire while simultaneously signaling a potential withdrawal from peace talks...</p>
+                <a href="../2025-04-20/analysis/15-30-41/FINAL_SUMMARY_2025-04-20_15-30-41.html">View Analysis</a>
+            </div>
+            
+            <div class="report-card" data-type="analysis">
+                <h4>Geopolitical Concepts and Events</h4>
+                <ul class='topic-list'><li data-color='#3498db'>US-Iran Nuclear Negotiations</li><li data-color='#3A5998'>Ukraine War: Ceasefire Attempts and Shifting US Stance</li><li data-color='#DD4B39'>Israeli-Palestinian Conflict: Ongoing Violence and Humanitarian Crisis</li><li data-color='#3498db'>Democratic Backsliding: Tunisia and Ecuador</li><li data-color='#3498db'>US Diplomatic Engagement: Syria and Russia</li></ul>
+                <a href="../2025-04-20/analysis/15-30-41/Geopolitical_Concepts_and_Events_news_digest_2025-04-20_8.html">View Analysis</a>
+            </div>
+            
+            <div class="report-card" data-type="analysis">
+                <h4>Humanitarian Issues</h4>
+                <ul class='topic-list'><li data-color='#DD4B39'>Humanitarian Crisis in Sudan</li><li data-color='#3A5998'>Gaza Conflict and its Impact on Education and Food Security</li><li data-color='#3A5998'>Political Polarization and the Legacy of COVID-19</li><li data-color='#0E76A8'>Economic Anxiety and the Future of Work</li><li data-color='#DD4B39'>Migration and Deportation Policies</li></ul>
+                <a href="../2025-04-20/analysis/15-30-41/Humanitarian_Issues_news_digest_2025-04-20_13.html">View Analysis</a>
+            </div>
+            
+            <div class="report-card" data-type="analysis">
+                <h4>International Organizations</h4>
+                <ul class='topic-list'><li data-color='#3498db'>Iran and the U.S. Resume Nuclear Talks</li><li data-color='#3498db'>G20 Focus: Sitharaman's US Visit for IMF and World Bank Meetings</li><li data-color='#3498db'>Rising Tensions between Canada and the US</li><li data-color='#3A5998'>US Military Action in Yemen</li><li data-color='#3498db'>EU Declares Countries Safe for Asylum Seekers</li></ul>
+                <a href="../2025-04-20/analysis/15-30-41/International_Organizations_news_digest_2025-04-20_7.html">View Analysis</a>
+            </div>
+            
+            <div class="report-card" data-type="analysis">
+                <h4>Major Global Powers and Countries</h4>
+                <ul class='topic-list'><li data-color='#0E76A8'>US-China Trade and Tariff Tensions</li><li data-color='#3A5998'>Geopolitical Implications of US Foreign Policy</li><li data-color='#3A5998'>North Korea's Military and Geopolitical Activities</li><li data-color='#00ACEE'>Impact of Technology and Healthcare on Global Markets</li><li data-color='#0E76A8'>Cultural Exchange and Influence: K-Pop, Korean Culture, and Global Integration</li></ul>
+                <a href="../2025-04-20/analysis/15-30-41/Major_Global_Powers_and_Countries_news_digest_2025-04-20_1.html">View Analysis</a>
+            </div>
+            
+            <div class="report-card" data-type="analysis">
+                <h4>Major World Leaders</h4>
+                <ul class='topic-list'><li data-color='#00ACEE'>Putin's Easter Ceasefire in Ukraine</li><li data-color='#3A5998'>Trump's Domestic Policy and Actions</li><li data-color='#3A5998'>US Involvement in Ukraine and Russia Relations</li><li data-color='#3A5998'>Geopolitical Tensions and Alliances</li><li data-color='#3A5998'>Internal Political Dynamics in the US</li></ul>
+                <a href="../2025-04-20/analysis/15-30-41/Major_World_Leaders_news_digest_2025-04-20_3.html">View Analysis</a>
+            </div>
+            
+            <div class="report-card" data-type="analysis">
+                <h4>Military Topics and Weapons Systems</h4>
+                <ul class='topic-list'><li data-color='#3A5998'>Ukraine War: Shifting Ceasefire Dynamics</li><li data-color='#3A5998'>AI and the Future of Warfare</li><li data-color='#00ACEE'>Drone Warfare and Counter-Drone Technology</li><li data-color='#3498db'>Diplomatic Efforts and Ceasefire Negotiations</li><li data-color='#3A5998'>Regional Instability and Security Concerns</li></ul>
+                <a href="../2025-04-20/analysis/15-30-41/Military_Topics_and_Weapons_Systems_news_digest_2025-04-20_17.html">View Analysis</a>
+            </div>
+            
+            <div class="report-card" data-type="analysis">
+                <h4>Political Operatives and Advisors</h4>
+                <ul class='topic-list'><li data-color='#3498db'>Potential Third Term for Trump</li><li data-color='#3498db'>Ivanka Trump's Public Appearances and Speculation</li><li data-color='#3A5998'>Potential Challenges to Trump's Leadership from Within the GOP</li><li data-color='#3498db'>Scrutiny of Diplomatic Activities and the Logan Act</li><li data-color='#DD4B39'>The Weinstein Case and the #MeToo Movement</li></ul>
+                <a href="../2025-04-20/analysis/15-30-41/Political_Operatives_and_Advisors_news_digest_2025-04-20_6.html">View Analysis</a>
+            </div>
+            
+            <div class="report-card" data-type="analysis">
+                <h4>Political Process and Democracy Topics</h4>
+                <ul class='topic-list'><li data-color='#DD4B39'>Anti-Trump Protests and Community Action</li><li data-color='#DD4B39'>Transgender Rights and Legal Definitions</li><li data-color='#3A5998'>Attacks on Western Brands Amidst Geopolitical Tensions</li><li data-color='#3498db'>Democratic Backsliding and Repression in Tunisia</li><li data-color='#DD4B39'>Trump Administration Policies and Protests</li></ul>
+                <a href="../2025-04-20/analysis/15-30-41/Political_Process_and_Democracy_Topics_news_digest_2025-04-20_14.html">View Analysis</a>
+            </div>
+            
+            <div class="report-card" data-type="analysis">
+                <h4>Political Science and Security Concepts</h4>
+                <ul class='topic-list'><li data-color='#3498db'>US-Iran Nuclear Negotiations</li><li data-color='#3498db'>China's Rare Earth Export Restrictions</li><li data-color='#0E76A8'>Rising Trade Tensions and Consumer Spending</li><li data-color='#3498db'>Hypersonic Weapons Development</li><li data-color='#3498db'>Iranian Arms Sales to Russia</li></ul>
+                <a href="../2025-04-20/analysis/15-30-41/Political_Science_and_Security_Concepts_news_digest_2025-04-20_9.html">View Analysis</a>
+            </div>
+            
+            <div class="report-card" data-type="analysis">
+                <h4>Regional and Smaller Nations</h4>
+                <ul class='topic-list'><li data-color='#3498db'>US-Iran Nuclear Talks Resume</li><li data-color='#3A5998'>Violence and Protests Linked to Gaza War</li><li data-color='#3A5998'>Internal Instability and Political Unrest</li><li data-color='#00ACEE'>AI and Technological Developments</li><li data-color='#0E76A8'>Economic Uncertainty and Trade Tensions</li></ul>
+                <a href="../2025-04-20/analysis/15-30-41/Regional_and_Smaller_Nations_news_digest_2025-04-20_2.html">View Analysis</a>
+            </div>
+            
+            <div class="report-card" data-type="analysis">
+                <h4>Signals Intelligence and Communications</h4>
+                <ul class='topic-list'><li data-color='#3A5998'>Drone Warfare and Electronic Warfare Integration</li><li data-color='#00ACEE'>Open Source SDR and Communications Technology</li><li data-color='#00ACEE'>Surveillance Technology and Societal Impact</li><li data-color='#3498db'>GPS Alternatives and Jam-Proof Positioning Systems</li><li data-color='#3498db'>Directed Energy Weapons Development</li></ul>
+                <a href="../2025-04-20/analysis/15-30-41/Signals_Intelligence_and_Communications_news_digest_2025-04-20_19.html">View Analysis</a>
+            </div>
+            
+            <div class="report-card" data-type="analysis">
+                <h4>Strategic Companies and Corporations</h4>
+                <ul class='topic-list'><li data-color='#00ACEE'>AI Development and Integration</li><li data-color='#3498db'>Space Exploration and Commercialization</li><li data-color='#3A5998'>Geopolitical Tensions and Corporate Influence</li><li data-color='#00ACEE'>Cybersecurity and Data Privacy Concerns</li><li data-color='#00ACEE'>Market Trends and Competition in Tech</li></ul>
+                <a href="../2025-04-20/analysis/15-30-41/Strategic_Companies_and_Corporations_news_digest_2025-04-20_15.html">View Analysis</a>
+            </div>
+            
+            <div class="report-card" data-type="analysis">
+                <h4>Tech and Defense Companies</h4>
+                <ul class='topic-list'><li data-color='#00ACEE'>AI Chip Development and Market Competition</li><li data-color='#00ACEE'>Advancements in Laptop Technology and Performance</li><li data-color='#00ACEE'>Quantum Computing Developments and Industry Adoption</li><li data-color='#0E76A8'>Economic Impact of Tariffs and Trade Policies</li><li data-color='#3A5998'>Security Vulnerabilities and Data Breaches</li></ul>
+                <a href="../2025-04-20/analysis/15-30-41/Tech_and_Defense_Companies_news_digest_2025-04-20_16.html">View Analysis</a>
+            </div>
+            
+            <div class="report-card" data-type="analysis">
+                <h4>Tech Industry Leaders and Billionaires</h4>
+                <ul class='topic-list'><li data-color='#3A5998'>Elon Musk's Political Influence and Controversies</li><li data-color='#3A5998'>Billionaires and Taxation: Public Scrutiny and Policy Debates</li><li data-color='#3A5998'>Tech Leaders and AI Development: Ethical and Security Concerns</li><li data-color='#3498db'>Space Tourism and the Definition of "Astronaut"</li><li data-color='#DD4B39'>Tesla Under Attack: Vandalism and Protests</li></ul>
+                <a href="../2025-04-20/analysis/15-30-41/Tech_Industry_Leaders_and_Billionaires_news_digest_2025-04-20_5.html">View Analysis</a>
+            </div>
+            
+            </div>
+        </div>
+        
+        <div class="report-section">
+            <div class="report-type">
+                <span>Specialized Reports</span>
+                <span>10</span>
+            </div>
+            <div class="report-list">
+        
+            <div class="report-card" data-type="specialized">
+                <h4>Analytical</h4>
+                <div class="report-context">Key Analysis</div>
+                <p>This brief analyzes key geopolitical and technological trends as of April 20, 2025. The analysis highlights escalating US-China tensions, particularly in trade and technology, the ongoing Russia-Ukraine conflict with fragile ceasefire attem...</p>
+                
+                <div class="agent-attribution-card">
+                
+                    <img src="assets/images/alpha_icon.webp" alt="Agent Alpha" class="agent-avatar-small">
+                    
+                    <div class="agent-info-small">
+                        <span class="agent-name-small">Agent Alpha</span>
+                        <span class="agent-title-small">Geopolitical Strategist</span>
+                    </div>
+                </div>
+                
+                <a href="../2025-04-20/specialized-reports/15-30-41/Analytical_Intelligence_Brief_2025-04-20.html">View Report</a>
+            </div>
+            
+            <div class="report-card" data-type="specialized">
+                <h4>Basic</h4>
+                <div class="report-context">US-China Trade and Technology Competition</div>
+                <p>This intelligence brief highlights several key trends observed on 2025-04-20. These include escalating global trade tensions, particularly between the US and China, advancements in AI and quantum computing with associated ethical concerns, ...</p>
+                
+                <div class="agent-attribution-card">
+                
+                    <img src="assets/images/central_icon.webp" alt="Central Intelligence" class="agent-avatar-small">
+                    
+                    <div class="agent-info-small">
+                        <span class="agent-name-small">Central Intelligence</span>
+                        <span class="agent-title-small">Intelligence Coordinator</span>
+                    </div>
+                </div>
+                
+                <a href="../2025-04-20/specialized-reports/15-30-41/Basic_Intelligence_Brief_2025-04-20.html">View Report</a>
+            </div>
+            
+            <div class="report-card" data-type="specialized">
+                <h4>Chronological</h4>
+                <div class="report-context">US-Iran Nuclear Negotiations Resume</div>
+                <p>This report provides a chronological analysis of key events and developments occurring on April 20, 2025, across various domains including geopolitics, technology, economics, and humanitarian issues. The analysis highlights the interconnect...</p>
+                
+                <div class="agent-attribution-card">
+                
+                    <img src="assets/images/delta_icon.webp" alt="Agent Delta" class="agent-avatar-small">
+                    
+                    <div class="agent-info-small">
+                        <span class="agent-name-small">Agent Delta</span>
+                        <span class="agent-title-small">Humanitarian & Social Impact Specialist</span>
+                    </div>
+                </div>
+                
+                <a href="../2025-04-20/specialized-reports/15-30-41/Chronological_Events_Analysis_2025-04-20.html">View Report</a>
+            </div>
+            
+            <div class="report-card" data-type="specialized">
+                <h4>Comparative</h4>
+                <div class="report-context">Comparative Analysis: AI Arms Race</div>
+                <p>This report provides a comparative analysis of regional responses to the intensifying AI arms race, focusing on the United States, China, and the United Kingdom. We examine their respective strategic investments, technological advancements,...</p>
+                
+                <div class="agent-attribution-card">
+                
+                    <img src="assets/images/gamma_icon.webp" alt="Agent Gamma" class="agent-avatar-small">
+                    
+                    <div class="agent-info-small">
+                        <span class="agent-name-small">Agent Gamma</span>
+                        <span class="agent-title-small">Economic & Market Analyst</span>
+                    </div>
+                </div>
+                
+                <a href="../2025-04-20/specialized-reports/15-30-41/Comparative_Regional_Analysis_2025-04-20.html">View Report</a>
+            </div>
+            
+            <div class="report-card" data-type="specialized">
+                <h4>Counterpoint</h4>
+                <div class="report-context">Key Analysis: AI Weaponry - Strategic Imperative vs. Ethical Catastrophe</div>
+                <p>This report analyzes the contrasting perspectives surrounding the development and deployment of AI weaponry, a key point of contention in 2025. The debate centers on the balance between national security imperatives and the ethical consider...</p>
+                
+                <div class="agent-attribution-card">
+                
+                    <img src="assets/images/beta_icon.webp" alt="Agent Beta" class="agent-avatar-small">
+                    
+                    <div class="agent-info-small">
+                        <span class="agent-name-small">Agent Beta</span>
+                        <span class="agent-title-small">Tech & Cyber Intelligence Specialist</span>
+                    </div>
+                </div>
+                
+                <a href="../2025-04-20/specialized-reports/15-30-41/Counterpoint_Perspectives_Analysis_2025-04-20.html">View Report</a>
+            </div>
+            
+            <div class="report-card" data-type="specialized">
+                <h4>Future</h4>
+                <div class="report-context">Future Scenarios: Migration, US-Vatican Relations, and Anti-Immigration Sentiment</div>
+                <p>This report explores potential future scenarios stemming from the intertwined issues of global migration, US-Vatican relations, and the rise of anti-immigration sentiment. The divergence in perspectives between the US administration and the...</p>
+                
+                <div class="agent-attribution-card">
+                
+                    <img src="assets/images/delta_icon.webp" alt="Agent Delta" class="agent-avatar-small">
+                    
+                    <div class="agent-info-small">
+                        <span class="agent-name-small">Agent Delta</span>
+                        <span class="agent-title-small">Humanitarian & Social Impact Specialist</span>
+                    </div>
+                </div>
+                
+                <a href="../2025-04-20/specialized-reports/15-30-41/Future_Scenario_Planning_2025-04-20.html">View Report</a>
+            </div>
+            
+            <div class="report-card" data-type="specialized">
+                <h4>Historical</h4>
+                <div class="report-context">Key Analysis: The Recurring Tragedy of Gaza</div>
+                <p>This report provides a historical context analysis of the escalating tensions and humanitarian crisis surrounding Gaza, as reflected in the intelligence reports of April 20, 2025. It examines the long-term dynamics of the Israeli-Palestinia...</p>
+                
+                <div class="agent-attribution-card">
+                
+                    <img src="assets/images/delta_icon.webp" alt="Agent Delta" class="agent-avatar-small">
+                    
+                    <div class="agent-info-small">
+                        <span class="agent-name-small">Agent Delta</span>
+                        <span class="agent-title-small">Humanitarian & Social Impact Specialist</span>
+                    </div>
+                </div>
+                
+                <a href="../2025-04-20/specialized-reports/15-30-41/Historical_Context_Analysis_2025-04-20.html">View Report</a>
+            </div>
+            
+            <div class="report-card" data-type="specialized">
+                <h4>Policy</h4>
+                <div class="report-context">Key Analysis: The Escalating AI Arms Race</div>
+                <p>This analysis focuses on the escalating AI arms race, specifically examining its implications for international security and potential policy responses. The convergence of geopolitical competition, technological advancements, and economic i...</p>
+                
+                <div class="agent-attribution-card">
+                
+                    <img src="assets/images/alpha_icon.webp" alt="Agent Alpha" class="agent-avatar-small">
+                    
+                    <div class="agent-info-small">
+                        <span class="agent-name-small">Agent Alpha</span>
+                        <span class="agent-title-small">Geopolitical Strategist</span>
+                    </div>
+                </div>
+                
+                <a href="../2025-04-20/specialized-reports/15-30-41/Policy_Implications_Analysis_2025-04-20.html">View Report</a>
+            </div>
+            
+            <div class="report-card" data-type="specialized">
+                <h4>Theme</h4>
+                <div class="report-context">Key Analysis: The Intensifying AI Arms Race</div>
+                <p>This report provides an in-depth analysis of the intensifying AI arms race between the US and China, focusing on its potential economic and geopolitical implications. The analysis considers the strategic investments being made, the ethical ...</p>
+                
+                <div class="agent-attribution-card">
+                
+                    <img src="assets/images/gamma_icon.webp" alt="Agent Gamma" class="agent-avatar-small">
+                    
+                    <div class="agent-info-small">
+                        <span class="agent-name-small">Agent Gamma</span>
+                        <span class="agent-title-small">Economic & Market Analyst</span>
+                    </div>
+                </div>
+                
+                <a href="../2025-04-20/specialized-reports/15-30-41/Theme_Deep_Dive_Analysis_2025-04-20.html">View Report</a>
+            </div>
+            
+            <div class="report-card" data-type="specialized">
+                <h4>Under The Radar</h4>
+                <div class="report-context">Key Analysis</div>
+                <p>This report highlights several under-the-radar developments with potentially significant strategic impact. Key areas of focus include the intensification of the AI arms race, particularly regarding autonomous weapons systems, and the growin...</p>
+                
+                <div class="agent-attribution-card">
+                
+                    <img src="assets/images/beta_icon.webp" alt="Agent Beta" class="agent-avatar-small">
+                    
+                    <div class="agent-info-small">
+                        <span class="agent-name-small">Agent Beta</span>
+                        <span class="agent-title-small">Tech & Cyber Intelligence Specialist</span>
+                    </div>
+                </div>
+                
+                <a href="../2025-04-20/specialized-reports/15-30-41/Under-the-Radar_Developments_Report_2025-04-20.html">View Report</a>
             </div>
             
             </div>

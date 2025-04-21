@@ -127,6 +127,9 @@ header p {
     padding: 0;
     margin: 0;
     transition: max-height 0.3s;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Match site font */
+    color: #fff; /* Consistent with site on dark backgrounds */
+    background: none;
 }
 .main-nav .nav-links li a {
     text-decoration: none;
@@ -139,9 +142,60 @@ header p {
 }
 .main-nav .nav-links li a:hover,
 .main-nav .nav-links li a:focus {
-    background: #e94560;
-    color: #fff;
+    background: #263159; /* Slightly lighter navy for feedback */
+    color: #e94560;      /* Accent color for text on hover/focus */
+    outline: none;
 }
+
+/* Navigation Link Styling for Drawer/Menu */
+.main-nav .nav-links li a {
+    color: #fff; /* High contrast for dark background */
+    font-size: 1.13rem;
+    font-weight: 600;
+    text-decoration: none;
+    display: block;
+    padding: 15px 0.75rem;
+    border-radius: 6px;
+    margin: 6px 0;
+    transition: background 0.2s, color 0.2s, font-weight 0.2s;
+    position: relative;
+    letter-spacing: 0.01em;
+}
+
+/* Active link indicator */
+.main-nav .nav-links li.active > a,
+.main-nav .nav-links li a.active {
+    background: #e94560;           /* Site accent background */
+    color: #fff;                   /* White text */
+    font-weight: 700;              /* Bold */
+    border-left: 4px solid #e94560;/* Accent bar on the left */
+    padding-left: calc(1.2rem - 4px); /* Adjust for border */
+    position: relative;
+    box-shadow: 0 2px 8px rgba(233,69,96,0.08); /* Subtle shadow for active link */
+}
+
+/* Hover and focus states */
+.main-nav .nav-links li a:hover,
+.main-nav .nav-links li a:focus {
+    background: #263159; /* Slightly lighter navy for feedback */
+    color: #e94560;      /* Accent color for text on hover/focus */
+    outline: none;
+}
+
+/* Extra spacing between links for touch targets */
+@media (max-width: 700px) {
+    .main-nav .nav-links li {
+        margin: 0.5rem 0;
+    }
+    .main-nav .nav-links li a {
+        padding: 15px 1.2rem;
+        font-size: 1.13rem;
+    }
+    .main-nav .nav-links {
+        background: #16213e; /* Matches button/nav backgrounds */
+    }
+}
+
 .nav-toggle {
     display: none;
     background: none;
@@ -151,33 +205,78 @@ header p {
     cursor: pointer;
     margin-right: 1rem;
 }
+
+/* Make the hamburger (nav-toggle) icon light for dark backgrounds */
+.nav-toggle {
+    color: #fff !important; /* Force white icon for visibility on dark backgrounds */
+    /* Optionally add a subtle text-shadow for extra contrast */
+    text-shadow: 0 1px 4px rgba(0,0,0,0.4);
+}
+
+/* Close button for mobile nav drawer */
+.nav-close {
+    display: none;
+    background: none;
+    border: none;
+    color: #fff;
+    font-size: 2rem;
+    position: absolute;
+    top: -1rem;
+    right: 1rem;
+    z-index: 110;
+    cursor: pointer;
+    padding: 0.25em;
+}
+
 @media (max-width: 700px) {
     .main-nav {
         justify-content: flex-end;
     }
     .main-nav .nav-links {
         flex-direction: column;
-        background: #1a1a2e;
+        background: #16213e; /* Refined dark navy for drawer */
         position: absolute;
         top: 2.5rem;
         right: 0;
-        width: 180px;
+        width: 75vw;              /* Drawer takes up 75% of viewport width */
+        max-width: 320px;         /* But never more than 320px */
+        min-width: 180px;
         max-height: 0;
         overflow: hidden;
-        box-shadow: 0 4px 16px rgba(0,0,0,0.08);
-        border-radius: 0 0 8px 8px;
+        box-shadow: -4px 0 16px rgba(0,0,0,0.18); /* Shadow on left edge */
+        border-radius: 0 0 12px 12px; /* Rounded bottom corners */
         z-index: 100;
+        padding: 0; /* Reset, will add in nav-open */
+        transition: max-height 0.3s, padding 0.3s;
     }
     .main-nav .nav-links.nav-open {
         max-height: 400px;
-        padding: 1rem 0;
+        padding: 2rem 1.5rem 2rem 1.5rem; /* Generous vertical & horizontal padding */
     }
     .main-nav .nav-links li {
-        margin: 0.5rem 0;
-        text-align: right;
+        margin: 0.75rem 0;
+        text-align: left;
+    }
+    .main-nav .nav-links li a {
+        padding: 0.5rem 0.75rem;
+        border-radius: 6px;
+        font-size: 1.08rem;
+        display: block;
     }
     .nav-toggle {
         display: block;
+    }
+    .nav-close {
+        display: block;
+    }
+    .main-nav .nav-links {
+        position: absolute;
+    }
+    .main-nav .nav-links li:first-child {
+        position: relative;
+        width: 100%;
+        height: 2.5rem;
+        margin-bottom: 0.5rem;
     }
 }
 
