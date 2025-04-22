@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Counterpoint Perspectives Analysis: 2025-04-22</title>
+  <style>
+    body {
+      font-family: 'Open Sans', 'Segoe UI', sans-serif;
+      /* Warm, approachable font */
+      background: #f9f9f9;
+      line-height: 1.6;
+      color: #333;
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 2em 1em;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4 {
+      color: #2c3e50;
+      margin-top: 1.5em;
+      margin-bottom: 0.8em;
+      line-height: 1.3;
+    }
+
+    h1 {
+      font-size: 2em;
+      padding-bottom: 0.5em;
+      border-bottom: 2px solid #DD4B39;
+      /* Delta's color */
+      text-align: center;
+    }
+
+    .category-label {
+      display: inline-block;
+      background: #DD4B39;
+      /* Delta's color */
+      color: white;
+      padding: 6px 14px;
+      border-radius: 4px;
+      font-size: 1.1em;
+      margin-bottom: 1.5em;
+    }
+
+    /* Agent attribution section */
+    .agent-attribution {
+      display: flex;
+      align-items: center;
+      margin-bottom: 2em;
+      padding: 0.5em 1em;
+      border-left: 4px solid #DD4B39;
+      background-color: #FFF5F3;
+    }
+
+    .agent-avatar {
+      width: 48px;
+      height: 48px;
+      border-radius: 50%;
+      margin-right: 1em;
+    }
+
+    .agent-info {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .agent-name {
+      font-weight: bold;
+      margin-bottom: 0.2em;
+    }
+
+    .agent-title {
+      font-size: 0.9em;
+      color: #666;
+    }
+
+    .summary-section {
+      background-color: #FFF5F3;
+      /* Soft red for Delta */
+      border-left: 4px solid #DD4B39;
+      padding: 1.5em;
+      margin: 2em 0;
+    }
+
+    .content-section {
+      margin-bottom: 2em;
+      background-color: white;
+      padding: 1.5em;
+      border-radius: 8px;
+      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    }
+
+    /* Delta-specific sections */
+    .human-story {
+      background-color: #FFF9F5;
+      border-left: 3px solid #DD4B39;
+      padding: 1.2em;
+      margin: 1.5em 0;
+      font-style: italic;
+    }
+
+    .human-story-source {
+      display: block;
+      text-align: right;
+      font-style: normal;
+      font-size: 0.9em;
+      color: #666;
+      margin-top: 0.5em;
+    }
+
+    /* Timeline for chronological reports */
+    .timeline {
+      position: relative;
+      max-width: 1200px;
+      margin: 2em 0;
+      padding-left: 2em;
+    }
+
+    .timeline::before {
+      content: '';
+      position: absolute;
+      width: 4px;
+      background-color: #DD4B39;
+      top: 0;
+      bottom: 0;
+      left: 0;
+    }
+
+    .timeline-item {
+      position: relative;
+      margin-bottom: 2em;
+      padding-left: 2em;
+    }
+
+    .timeline-item::before {
+      content: '';
+      position: absolute;
+      width: 16px;
+      height: 16px;
+      left: -9px;
+      background-color: white;
+      border: 4px solid #DD4B39;
+      top: 0;
+      border-radius: 50%;
+      z-index: 1;
+    }
+
+    .timeline-date {
+      position: absolute;
+      left: 2em;
+      top: -5px;
+      background-color: #DD4B39;
+      color: white;
+      padding: 3px 10px;
+      border-radius: 3px;
+      font-size: 0.8em;
+    }
+
+    .timeline-content {
+      padding-top: 1.5em;
+    }
+
+    /* Debate perspective styling */
+    .perspective-container {
+      display: flex;
+      gap: 20px;
+      margin: 2em 0;
+    }
+
+    .perspective {
+      flex: 1;
+      padding: 1.5em;
+      background-color: #FFF9F5;
+      border-radius: 8px;
+    }
+
+    .perspective-a {
+      border-top: 4px solid #DD4B39;
+    }
+
+    .perspective-b {
+      border-top: 4px solid #7F8C8D;
+    }
+
+    .perspective h3 {
+      margin-top: 0;
+      color: #444;
+    }
+
+    .cultural-context {
+      background-color: #F9F9F9;
+      border-left: 4px solid #7F8C8D;
+      padding: 1.2em;
+      margin: 1.5em 0;
+    }
+
+    .impact-rating {
+      display: inline-block;
+      padding: 3px 8px;
+      border-radius: 3px;
+      font-size: 0.85em;
+      font-weight: bold;
+      margin-right: 10px;
+    }
+
+    .high-impact {
+      background-color: rgba(231, 76, 60, 0.2);
+      color: #c0392b;
+    }
+
+    .medium-impact {
+      background-color: rgba(243, 156, 18, 0.2);
+      color: #d35400;
+    }
+
+    .low-impact {
+      background-color: rgba(39, 174, 96, 0.2);
+      color: #27ae60;
+    }
+
+    .key-stakeholders {
+      margin: 1.5em 0;
+    }
+
+    .stakeholder {
+      padding: 0.8em;
+      margin-bottom: 0.8em;
+      background-color: #f8f9fa;
+      border-left: 3px solid #DD4B39;
+    }
+
+    blockquote {
+      font-style: italic;
+      color: #555;
+      border-left: 3px solid #DD4B39;
+      padding-left: 1em;
+      margin-left: 1em;
+    }
+
+    a {
+      color: #DD4B39;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+      color: #c0392b;
+    }
+
+    /* Responsive design */
+    @media (max-width: 768px) {
+      .perspective-container {
+        flex-direction: column;
+      }
+
+      .timeline {
+        padding-left: 1.5em;
+      }
+
+      .timeline-item {
+        padding-left: 1.5em;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <h1>Counterpoint Perspectives Analysis</h1>
+  <p class="date">Date: 2025-04-22</p>
+
+  <!-- Agent Attribution -->
+  <div class="agent-attribution">
+    <img src="../../assets/images/delta_icon.webp" alt="Agent Delta" class="agent-avatar">
+    <div class="agent-info">
+      <span class="agent-name">Agent Delta</span>
+      <span class="agent-title">Humanitarian & Social Impact Specialist</span>
+    </div>
+  </div>
+
+  <!-- Summary Section (for all report types) -->
+  <section class="summary-section">
+    <h2>Summary</h2>
+    <p>This report analyzes the divergent perspectives surrounding the ongoing Gaza conflict, specifically focusing on the Israeli military's actions and their impact on humanitarian aid efforts. The central point of contention revolves around the justification and consequences of Israeli military actions that result in civilian casualties and hinder the delivery of essential aid. This analysis examines the opposing viewpoints, considers the cultural and historical context, and assesses the potential long-term implications of the conflict.</p>
+  </section>
+  
+  <!-- Main Content Section - Flexible based on report type -->
+  <section class="content-section">
+    <!-- For deep-dive reports -->
+    <div class="deep-dive">
+      <h2>Key Analysis</h2>
+      <p>The conflict in Gaza presents a complex ethical and political dilemma. While Israel asserts its right to self-defense against Hamas, critics argue that its military actions are disproportionate and inflict unacceptable harm on the civilian population, including aid workers. The debate centers on the interpretation of international law, the definition of "military necessity," and the responsibility of states to protect civilians during armed conflict.</p>
+
+      <p>One key area of disagreement involves the investigation into the deaths of aid workers. While the Israeli military claims that these were the result of "professional failures" and promises to dismiss commanders, the Palestine Red Crescent Society and other organizations reject these findings, calling for an independent and transparent inquiry. This reflects a broader distrust in the ability of internal military investigations to provide impartial assessments of alleged war crimes.</p>
+
+      <p>Adding to the complexity, the collapse of ceasefires and the imposition of aid blockades exacerbate the humanitarian crisis. Reports describe “utter desperation” in Gaza, with tens of thousands of Palestinians displaced and lacking access to basic necessities. The question becomes: how can a balance be struck between legitimate security concerns and the imperative to provide humanitarian assistance to a population in dire need?</p>
+
+       <div class="perspective-container">
+        <div class="perspective perspective-a">
+          <h3>Perspective A: Israel's Right to Self-Defense</h3>
+          <p>This perspective emphasizes Israel's security concerns and its right to defend itself against Hamas, which is viewed as a terrorist organization. Proponents of this view argue that civilian casualties are an unavoidable consequence of urban warfare and that Israel takes precautions to minimize harm to non-combatants. They also highlight Hamas's use of civilian infrastructure for military purposes, which they claim makes it difficult to distinguish between legitimate targets and protected persons. From this perspective, restrictions on aid are necessary to prevent supplies from reaching Hamas.</p>
+        </div>
+
+        <div class="perspective perspective-b">
+          <h3>Perspective B: Protection of Civilian Lives and Humanitarian Principles</h3>
+          <p>This perspective prioritizes the protection of civilian lives and the adherence to humanitarian principles. Critics of Israel's actions argue that the scale of civilian casualties and the restrictions on aid are disproportionate and violate international law. They emphasize the responsibility of occupying powers to ensure the well-being of the civilian population under their control. They also question the effectiveness of the aid blockade, arguing that it punishes innocent civilians while failing to weaken Hamas.</p>
+        </div>
+      </div>
+
+      <div class="cultural-context">
+        <p>The Israeli-Palestinian conflict is deeply rooted in historical grievances, competing claims to land, and differing national identities. Understanding the cultural and historical context is essential for comprehending the divergent perspectives on the conflict. Both Israelis and Palestinians have experienced trauma and displacement, which shapes their narratives and influences their perceptions of the other side.</p>
+      </div>
+    </div>
+  </section>
+  
+  <!-- Implications Section (optional) -->
+  <section class="content-section">
+    <h2>Implications & Significance</h2>
+    <p>The unresolved conflict in Gaza has far-reaching implications for regional stability, international relations, and the future of the Israeli-Palestinian peace process. The ongoing humanitarian crisis could fuel resentment and extremism, making it more difficult to achieve a lasting resolution. The divergent perspectives on the conflict also highlight the challenges of navigating ethical dilemmas in armed conflict and the importance of upholding international law and humanitarian principles.</p>
+
+    <p>The long-term consequences of the conflict could include:</p>
+    <ul>
+      <li>Further erosion of trust between Israelis and Palestinians.</li>
+      <li>Increased regional instability, potentially drawing in other actors.</li>
+      <li>Damage to Israel's international reputation.</li>
+      <li>A setback for the Israeli-Palestinian peace process.</li>
+      <li>Increased scrutiny of arms sales and military aid to countries involved in armed conflicts.</li>
+    </ul>
+  </section>
+  
+  <!-- Category Label -->
+  <div class="category-label">Counterpoint Perspectives Analysis</div>
+
+</body>
+
+</html>
