@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Analytical Intelligence Brief: 2025-04-22</title>
+  <style>
+    body {
+      font-family: 'Source Sans Pro', 'Segoe UI', Arial, sans-serif;
+      /* Clean, authoritative font */
+      background: #f9f9f9;
+      line-height: 1.6;
+      color: #333;
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 2em 1em;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4 {
+      color: #2c3e50;
+      margin-top: 1.5em;
+      margin-bottom: 0.8em;
+      line-height: 1.3;
+    }
+
+    h1 {
+      font-size: 2em;
+      padding-bottom: 0.5em;
+      border-bottom: 2px solid #34495E;
+      /* Central's color */
+      text-align: center;
+    }
+
+    .category-label {
+      display: inline-block;
+      background: #34495E;
+      /* Central's color */
+      color: white;
+      padding: 6px 14px;
+      border-radius: 4px;
+      font-size: 1.1em;
+      margin-bottom: 1.5em;
+    }
+
+    /* Agent attribution section */
+    .agent-attribution {
+      display: flex;
+      align-items: center;
+      margin-bottom: 2em;
+      padding: 0.5em 1em;
+      border-left: 4px solid #34495E;
+      background-color: #f5f7f9;
+    }
+
+    .agent-avatar {
+      width: 48px;
+      height: 48px;
+      border-radius: 50%;
+      margin-right: 1em;
+    }
+
+    .agent-info {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .agent-name {
+      font-weight: bold;
+      margin-bottom: 0.2em;
+    }
+
+    .agent-title {
+      font-size: 0.9em;
+      color: #666;
+    }
+
+    .summary-section {
+      background-color: #f0f2f4;
+      /* Light slate for Central */
+      border-left: 4px solid #34495E;
+      padding: 1.5em;
+      margin: 2em 0;
+    }
+
+    .content-section {
+      margin-bottom: 2em;
+      background-color: white;
+      padding: 1.5em;
+      border-radius: 8px;
+      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    }
+
+    /* Central-specific sections */
+    .theme-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 20px;
+      margin: 2em 0;
+    }
+
+    .theme-card {
+      background: white;
+      border-radius: 8px;
+      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+      padding: 1.2em;
+      border-top: 3px solid #34495E;
+    }
+
+    .theme-card h3 {
+      margin-top: 0;
+      color: #34495E;
+      font-size: 1.2em;
+    }
+
+    .key-indicators {
+      margin: 2em 0;
+    }
+
+    .indicator-item {
+      display: flex;
+      justify-content: space-between;
+      padding: 0.8em 0;
+      border-bottom: 1px solid #eee;
+    }
+
+    .indicator-label {
+      font-weight: bold;
+    }
+
+    .indicator-value {
+      color: #444;
+    }
+
+    .trend-up,
+    .trend-positive {
+      color: #27ae60;
+    }
+
+    .trend-down,
+    .trend-negative {
+      color: #e74c3c;
+    }
+
+    .trend-neutral {
+      color: #7f8c8d;
+    }
+
+    .strategic-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 1.5em 0;
+    }
+
+    .strategic-table th {
+      background-color: #34495E;
+      color: white;
+      text-align: left;
+      padding: 10px 12px;
+    }
+
+    .strategic-table td {
+      padding: 8px 12px;
+      border-bottom: 1px solid #eee;
+    }
+
+    .strategic-table tr:nth-child(even) {
+      background-color: #f9f9f9;
+    }
+
+    .tag-container {
+      margin-top: 0.5em;
+    }
+
+    .tag {
+      display: inline-block;
+      background: #eee;
+      padding: 3px 8px;
+      border-radius: 3px;
+      font-size: 0.8em;
+      margin-right: 5px;
+      margin-bottom: 5px;
+      color: #555;
+    }
+
+    .tag.critical {
+      background-color: #f5b7b1;
+      color: #922b21;
+    }
+
+    .tag.important {
+      background-color: #fdebd0;
+      color: #9c640c;
+    }
+
+    .tag.monitor {
+      background-color: #d4efdf;
+      color: #196f3d;
+    }
+
+    .executive-action-items {
+      background-color: #f8f9fa;
+      border: 1px solid #e9ecef;
+      border-left: 4px solid #34495E;
+      padding: 1.2em;
+      margin: 1.5em 0;
+    }
+
+    a {
+      color: #34495E;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+      color: #2c3e50;
+    }
+
+    /* Responsive design */
+    @media (max-width: 768px) {
+      .theme-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <h1>Analytical Intelligence Brief</h1>
+  <p class="date">Date: 2025-04-22</p>
+
+  <!-- Agent Attribution -->
+  <div class="agent-attribution">
+    <img src="../../../../../../assets/images/central_icon.webp" alt="Central Intelligence" class="agent-avatar">
+    <div class="agent-info">
+      <span class="agent-name">Central Intelligence</span>
+      <span class="agent-title">Intelligence Coordinator</span>
+    </div>
+  </div>
+
+  <!-- Summary Section (for all report types) -->
+  <section class="summary-section">
+    <h2>Summary</h2>
+    <p>The death of Pope Francis has triggered global mourning and will significantly impact the Catholic Church's future direction.  Simultaneously, escalating trade tensions, driven by President Trump's tariffs, are creating a complex geopolitical landscape.  Advancements in AI continue to reshape various industries, raising ethical and regulatory concerns.  Finally, growing geopolitical flashpoints, particularly in Ukraine and Gaza, necessitate careful monitoring and diplomatic efforts.</p>
+  </section>
+
+  <!-- Main Content Section - Flexible based on report type -->
+  <section class="content-section">
+    <h2>Key Themes and Analysis</h2>
+    <div class="theme-grid">
+      <div class="theme-card">
+        <h3>Geopolitical Instability</h3>
+        <p>The ongoing conflicts in Ukraine and Gaza, coupled with rising tensions in the South China Sea, are major concerns.  Potential peace plans in Ukraine, while promising, face significant obstacles.  The situation in Gaza remains dire, highlighting the need for humanitarian aid and lasting conflict resolution.  The increased military activity in the South China Sea raises the risk of miscalculation and escalation.</p>
+      </div>
+      <div class="theme-card">
+        <h3>Economic Uncertainty</h3>
+        <p>President Trump's trade policies, particularly his tariffs, are causing significant market volatility and raising the specter of a global recession.  Supply chain disruptions, especially concerning rare earth elements, are exacerbating economic uncertainty.  The weakening US dollar is adding to the instability.  These economic challenges are further complicated by rising inflation and potential debt crises.</p>
+      </div>
+      <div class="theme-card">
+        <h3>AI's Rapid Advancement</h3>
+        <p>The rapid development and deployment of AI across various sectors present both opportunities and challenges.  Increased competition, particularly in the AI chip market, is driving innovation but also raises ethical and regulatory concerns. The rise of "shadow AI" underscores the need for stronger governance.  The integration of AI into law enforcement, as seen in Thailand's robot cop, raises further ethical questions.</p>
+      </div>
+      <div class="theme-card">
+        <h3>The Death of Pope Francis</h3>
+        <p>The passing of Pope Francis is a significant event with global implications.  The upcoming Papal Conclave to select his successor will be closely watched, as the new Pope's policies will have a profound impact on the Catholic Church's direction on various social and political issues.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Implications Section (optional) -->
+  <section class="content-section">
+    <h2>Implications & Significance</h2>
+    <p>The interconnectedness of these themes underscores the need for a comprehensive and nuanced approach to intelligence analysis.  The confluence of geopolitical instability, economic uncertainty, rapid technological advancements, and significant global events necessitates proactive strategies to mitigate risks and seize opportunities.  Failure to address these challenges effectively could lead to widespread instability and unforeseen consequences.</p>
+  </section>
+
+  <!-- Category Label -->
+  <div class="category-label">Analytical Intelligence Brief</div>
+
+</body>
+
+</html>

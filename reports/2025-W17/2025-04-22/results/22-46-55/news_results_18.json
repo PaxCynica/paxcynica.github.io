@@ -1,0 +1,696 @@
+{
+    "category": "Emerging Technologies and Future Trends",
+    "query": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Arxiv.org"
+            },
+            "author": null,
+            "title": "Pydrofoil: Accelerating Sail-based instruction set simulators",
+            "description": "We present Pydrofoil, a multi-stage compiler that generates instruction set simulators (ISSs) from processor instruction set architectures (ISAs) expressed in the high-level, verification-oriented ISA specification language Sail. Pydrofoil shows a > 230x spee…",
+            "url": "https://arxiv.org/abs/2503.04389",
+            "urlToImage": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+            "publishedAt": "2025-04-21T21:52:29Z",
+            "content": "arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\r\nBoth individuals and organizations that work with arXivLabs have embraced and acce… [+257 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Arxiv.org"
+            },
+            "author": null,
+            "title": "Ultra-precision formation flying demonstration for space-based interferometry",
+            "description": "We propose SILVIA (Space Interferometer Laboratory Voyaging towards Innovative Applications), a mission concept designed to demonstrate ultra-precision formation flying between three spacecraft separated by 100 m. SILVIA aims to achieve sub-micrometer precisi…",
+            "url": "https://arxiv.org/abs/2504.05001",
+            "urlToImage": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+            "publishedAt": "2025-04-21T21:31:40Z",
+            "content": "arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\r\nBoth individuals and organizations that work with arXivLabs have embraced and acce… [+257 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Brothers-brick.com"
+            },
+            "author": "Chris",
+            "title": "Andromeda Asteroid Mining Rig – I’ve expanded my microscale space frontier",
+            "description": "TBB's own Chris Malloy is back at it with another entry to his homebrew scifi universe, and this time it's a gigantic microscale space station! \nThe post Andromeda Asteroid Mining Rig – I’ve expanded my microscale space frontier appeared first on The Brothers…",
+            "url": "https://www.brothers-brick.com/2025/04/21/andromeda-asteroid-mining-rig-ive-expanded-my-microscale-space-frontier/",
+            "urlToImage": "https://s3-us-west-2.amazonaws.com/media.brothers-brick.com/2025/04/IEA-Andromeda-Asteroid-Mining-Rig-by-Chris-Malloy-Cover-1024x538.jpg",
+            "publishedAt": "2025-04-21T19:00:31Z",
+            "content": "I’m continuing to expand my microscale space universe. Last time I checked in with a lunar launch diorama, as my home-brew theme shot into deep space from the moon. Now the Interplanetary Expedition … [+1626 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "How bacteria use sneaky chemistry to disable plant defenses",
+            "description": "In the microscopic battlefield of plant-microbe interactions, plants are constantly fighting off invading bacteria. New research reveals just how clever these bacterial invaders can be.",
+            "url": "https://www.sciencedaily.com/releases/2025/04/250421163114.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+            "publishedAt": "2025-04-21T20:31:14Z",
+            "content": "In the microscopic battlefield of plant-microbe interactions, plants are constantly fighting off invading bacteria. New research reveals just how clever these bacterial invaders can be.Plants, like h… [+2986 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "EFF"
+            },
+            "author": "Maddie Daly, India McKinney",
+            "title": "EFF to Congress: Here’s What A Strong Privacy Law Looks Like",
+            "description": "Enacting strong federal consumer data privacy laws is among EFF’s highest priorities. For decades, EFF has advocated for federal privacy law that is concrete, ambitious, and fully protective of all Americans’ data privacy.\r\n\nThat’s why, when the House Committ…",
+            "url": "https://www.eff.org/deeplinks/2025/04/eff-congress-heres-what-strong-privacy-law-looks",
+            "urlToImage": "https://www.eff.org/files/banner_library/icon-2019-privacy.png",
+            "publishedAt": "2025-04-21T17:45:05Z",
+            "content": "Enacting strong federal consumer data privacy laws is among EFFs highest priorities. For decades, EFF has advocated for federal privacy law that is concrete, ambitious, and fully protective of all Am… [+2244 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNA"
+            },
+            "author": null,
+            "title": "Shopify must face data privacy lawsuit in US",
+            "description": "A U.S. appeals court on Monday revived a proposed data privacy class action against Shopify, in a decision that could make it easier for American courts to assert jurisdiction over internet-based platforms.In a 10-1 decision, the 9th U.S. Circuit Court of App…",
+            "url": "https://www.channelnewsasia.com/business/shopify-must-face-data-privacy-lawsuit-us-5079306",
+            "urlToImage": "https://dam.mediacorp.sg/image/upload/s--qNsp2i4E--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2025-04-21t182418z_2_lynxmpel3k0s3_rtroptp_3_shopify-lawsuit.jpg?itok=EqkelYv_",
+            "publishedAt": "2025-04-21T18:21:42Z",
+            "content": "A U.S. appeals court on Monday revived a proposed data privacy class action against Shopify, in a decision that could make it easier for American courts to assert jurisdiction over internet-based pla… [+2051 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "pymnts.com"
+            },
+            "author": "PYMNTS",
+            "title": "Shopify to Face Data Privacy Class Action After Court Ruling",
+            "description": "Shopify is facing a data privacy class action lawsuit in the U.S. The proposed class action had been dismissed by a lower court judge and a three-judge 9th Circuit Court of Appeals panel but was brought back to life Monday (April 21) in a 10-1 decision by the…",
+            "url": "https://www.pymnts.com/news/ecommerce/2025/shopify-to-face-data-privacy-class-action-after-court-ruling/",
+            "urlToImage": "https://www.pymnts.com/wp-content/uploads/2025/04/Shopify-1.jpg",
+            "publishedAt": "2025-04-22T00:46:56Z",
+            "content": "Shopify is facing a data privacy class action lawsuit in the U.S.\r\nThe proposed class action had been dismissed by a lower court judge and a three-judge 9th Circuit Court of Appeals panel but was bro… [+1927 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "pymnts.com",
+            "title": "Shopify to Face Data Privacy Class Action After Court Ruling",
+            "description": "Shopify is facing a data privacy class action lawsuit in the U.S.\nThe proposed class action had been dismissed by a lower court judge and a three-judge 9th Circuit Court of Appeals panel but was brought back to life Monday (April 21) in a 10-1 decision by the…",
+            "url": "https://biztoc.com/x/765c8a3e2a86ccab",
+            "urlToImage": "https://biztoc.com/cdn/930/og.png",
+            "publishedAt": "2025-04-22T01:22:18Z",
+            "content": "Shopify is facing a data privacy class action lawsuit in the U.S.The proposed class action had been dismissed by a lower court judge and a three-judge 9th Circuit Court of Appeals panel but was broug… [+141 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "theglobeandmail.com",
+            "title": "Shopify must face data privacy lawsuit in U.S",
+            "description": "A U.S. appeals court on Monday revived a proposed data privacy class action against Shopify SHOP-T, a decision that could make it easier for American courts to assert jurisdiction over internet-based platforms.\nIn a 10-1 decision, the 9th U.S. Circuit Court o…",
+            "url": "https://biztoc.com/x/5f31a573f5ca0904",
+            "urlToImage": "https://biztoc.com/cdn/5f31a573f5ca0904_s.webp",
+            "publishedAt": "2025-04-21T20:44:35Z",
+            "content": "A U.S. appeals court on Monday revived a proposed data privacy class action against Shopify SHOP-T, a decision that could make it easier for American courts to assert jurisdiction over internet-based… [+150 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "inc.com",
+            "title": "Shopify Is Facing a Data Privacy Class Action Lawsuit",
+            "description": "The plaintiff alleges the e-commerce platform installed tracking software on his iPhone without his consent.",
+            "url": "https://biztoc.com/x/7063e478610b4735",
+            "urlToImage": "https://biztoc.com/cdn/7063e478610b4735_s.webp",
+            "publishedAt": "2025-04-21T19:15:32Z",
+            "content": "The plaintiff alleges the e-commerce platform installed tracking software on his iPhone without his consent.\r\nThis story appeared on inc.com, 2025-04-21 19:00:00.",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Signal"
+            },
+            "author": "Elizabeth Troutman Mitchell",
+            "title": "As Deals Advance, Farmers May Not Need Tariff Bailouts, Agriculture Secretary Hopes",
+            "description": "As deals advance with foreign countries, farmers may not need bailouts from tariffs, Secretary of Agriculture Brooke Rollins told The Daily Signal. Rollins hopes deals... Read More\nThe post As Deals Advance, Farmers May Not Need Tariff Bailouts, Agriculture S…",
+            "url": "https://www.dailysignal.com/2025/04/21/trump-administration-will-provide-farm-workers-pathway-reentry-soon-brooke-rollins-says/",
+            "urlToImage": "https://www.dailysignal.com/wp-content/uploads/2025/04/brookeroll.jpg",
+            "publishedAt": "2025-04-21T21:36:30Z",
+            "content": "As deals advance with foreign countries, farmers may not need bailouts from tariffs, Secretary of Agriculture Brooke Rollins told The Daily Signal. \r\nRollins hopes deals will be struck pretty quickly… [+2392 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Signal"
+            },
+            "author": "Elizabeth Troutman Mitchell",
+            "title": "As Deals Advance, Farmers May Not Need Tariff Bailouts, Agriculture Secretary Hopes",
+            "description": "As deals advance with foreign countries, farmers may not need bailouts from tariffs, Secretary of Agriculture Brooke Rollins told The Daily Signal. Rollins hopes deals... Read More\nThe post As Deals Advance, Farmers May Not Need Tariff Bailouts, Agriculture S…",
+            "url": "https://www.dailysignal.com/2025/04/21/as-deals-advance-farmers-may-not-need-tariff-bailouts-agriculture-secretary-hopes/",
+            "urlToImage": "https://www.dailysignal.com/wp-content/uploads/2025/04/brookeroll.jpg",
+            "publishedAt": "2025-04-21T21:36:30Z",
+            "content": "As deals advance with foreign countries, farmers may not need bailouts from tariffs, Secretary of Agriculture Brooke Rollins told The Daily Signal. \r\nRollins hopes deals will be struck pretty quickly… [+2392 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Star Online"
+            },
+            "author": "The Star Online",
+            "title": "Kelantan Ruler express concerns about border security",
+            "description": "KOTA BARU: The Sultan of Kelantan, Sultan Muhammad V, has expressed deep concerns over security issues along the Malaysia-Thailand border. Read full story",
+            "url": "https://www.thestar.com.my/news/nation/2025/04/22/kelantan-ruler-express-concerns-about-border-security",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/04/22/3277308.jpg",
+            "publishedAt": "2025-04-21T16:00:00Z",
+            "content": "KOTA BARU: The Sultan of Kelantan, Sultan Muhammad V, has expressed deep concerns over security issues along the Malaysia-Thailand border.\r\nThe Ruler said there is an urgent need to finalise the prop… [+2217 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Themorningnews.org"
+            },
+            "author": null,
+            "title": "Monday headlines: All mod cons",
+            "description": "Pope Francis has died at 88, \"the first [pope] in generations to make the Vatican feel less like a fortress and more like a field hospital.\" / Migrant Insider\n\nThe Bush administration argued Guantanamo should be beyond the reach of the courts; CECOT is the Tr…",
+            "url": "https://themorningnews.org/p/monday-headlines-all-mod-cons",
+            "urlToImage": "https://themorningnews.org/images/tmn-logo-share.png",
+            "publishedAt": "2025-04-21T16:42:00Z",
+            "content": "Trump often blames popular resistance to his policies as bad polling, but the size and scope of the Hands Off protests were far too large to be the product of faulty data. / Strength in Numbers\r\nThe … [+3329 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pypi.org"
+            },
+            "author": "fidesteam@ethyca.com",
+            "title": "ethyca-fides 2.59.2rc0",
+            "description": "Open-source ecosystem for data privacy as code.",
+            "url": "https://pypi.org/project/ethyca-fides/2.59.2rc0/",
+            "urlToImage": null,
+            "publishedAt": "2025-04-21T18:34:02Z",
+            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pypi.org"
+            },
+            "author": "fidesteam@ethyca.com",
+            "title": "ethyca-fides 2.59.2rc1",
+            "description": "Open-source ecosystem for data privacy as code.",
+            "url": "https://pypi.org/project/ethyca-fides/2.59.2rc1/",
+            "urlToImage": null,
+            "publishedAt": "2025-04-21T21:43:31Z",
+            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Signal"
+            },
+            "author": "Elizabeth Troutman Mitchell",
+            "title": "Trump Administration Will Provide Illegal Immigrant Farm Workers Pathway for Reentry ‘Soon,” Brooke Rollins Says",
+            "description": "The Trump administration will “soon” institute a plan for illegal immigrant farm workers to leave the country then return legally to work, Secretary of Agriculture... Read More\nThe post Trump Administration Will Provide Illegal Immigrant Farm Workers Pathway …",
+            "url": "https://www.dailysignal.com/2025/04/21/trump-administration-will-provide-illegal-immigrant-farm-workers-pathway-for-reentry-soon-brooke-rollins-says/",
+            "urlToImage": "https://www.dailysignal.com/wp-content/uploads/2025/04/brookeroll.jpg",
+            "publishedAt": "2025-04-21T21:36:30Z",
+            "content": "The Trump administration will “soon” institute a plan for illegal immigrant farm workers to leave the country then return legally to work, Secretary of Agriculture Brooke Rollins said Monday. \r\n“The … [+2650 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "Lowey Dannenberg, P.C.",
+            "title": "Lowey Dannenberg Investigates Consumer Profiling by Data Brokers – Three Lawsuits Filed Against Adobe, Yahoo & Trade Desk",
+            "description": "NEW YORK, April 21, 2025 (GLOBE NEWSWIRE) -- Lowey Dannenberg, P.C.’s Data Privacy Team is investigating claims that data brokers and identity solution providers may be profiling consumers without consent or meaningful disclosures.",
+            "url": "https://www.globenewswire.com/news-release/2025/04/21/3064871/0/en/Lowey-Dannenberg-Investigates-Consumer-Profiling-by-Data-Brokers-Three-Lawsuits-Filed-Against-Adobe-Yahoo-Trade-Desk.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/38c8d81f-4a6b-4f23-8411-e6be6a60dda1",
+            "publishedAt": "2025-04-21T17:02:00Z",
+            "content": "NEW YORK, April 21, 2025 (GLOBE NEWSWIRE) -- Lowey Dannenberg, P.C.s Data Privacy Team is investigating claims that data brokers and identity solution providers may be profiling consumers without con… [+1521 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Anshel Sag, Contributor, \n Anshel Sag, Contributor\n https://www.forbes.com/sites/moorinsights/people/anshelsag/",
+            "title": "Nvidia’s AI Omniverse Expands At GTC 2025",
+            "description": "GTC 2025 continued many of Nvidia's themes from 2024, holding steady rather than introducing many new concepts — yet demonstrating Nvidia’s confidence in its own vision.",
+            "url": "https://www.forbes.com/sites/moorinsights/2025/04/21/nvidias-ai-omniverse-expands-at-gtc-2025/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6806b20d45fce835397566c2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-04-21T21:21:51Z",
+            "content": "NVIDIA CEO Jensen Huang with a DGX Spark in hand during the GTC 2025 keynote\r\nAnshel Sag\r\nI have had the opportunity to attend every GTC since Nvidia launched the annual conference in 2009. This year… [+10889 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Reuters",
+            "title": "Shopify must face data privacy lawsuit in US",
+            "description": "A US appeals court revived a data privacy class action against Shopify, allowing it to be sued in California for tracking user data via cookies. The ruling may expand jurisdiction over internet firms. Shopify argued against jurisdiction, but the court found i…",
+            "url": "https://economictimes.indiatimes.com/tech/technology/shopify-must-face-data-privacy-lawsuit-in-us/articleshow/120495594.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-120495661,width-1200,height-630,imgsize-42728,overlay-ettech/articleshow.jpg",
+            "publishedAt": "2025-04-21T18:35:47Z",
+            "content": "A US appeals court on Monday revived a proposed data privacy class action against Shopify , in a decision that could make it easier for American courts to assert jurisdiction over internet-based plat… [+2044 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Star Online"
+            },
+            "author": "The Star Online",
+            "title": "Zahid meets with Indonesian VP",
+            "description": "JAKARTA: Exploring cooperation in the halal sector and labour concerns were among the issues discussed between Deputy Prime Minister Datuk Seri Dr Ahmad Zahid Hamidi and Indonesian Vice President Gibran Rakabuming Raka. Read full story",
+            "url": "https://www.thestar.com.my/news/nation/2025/04/22/zahid-meets-with-indonesian-vp",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/04/22/3276935.JPG",
+            "publishedAt": "2025-04-21T16:00:00Z",
+            "content": "JAKARTA: Exploring cooperation in the halal sector and labour concerns were among the issues discussed between Deputy Prime Minister Datuk Seri Dr Ahmad Zahid Hamidi and Indonesian Vice President Gib… [+3121 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cisco.com"
+            },
+            "author": "Chris Reeves",
+            "title": "A data-driven farming revolution: Smart Greenhouse in Greece",
+            "description": "The American Farm School (AFS) in Thessaloniki, Greece, is spearheading a transformative project aimed at revolutionizing agricultural education and practices through the implementation of a data-driven, smart greenhouse. In collaboration with Cisco, Dataways…",
+            "url": "https://blogs.cisco.com/our-corporate-purpose/smart-greenhouse-greece",
+            "urlToImage": "https://storage.googleapis.com/blogs-images-new/ciscoblogs/1/2025/04/AFS-4.jpg",
+            "publishedAt": "2025-04-21T21:08:18Z",
+            "content": "The American Farm School (AFS) in Thessaloniki, Greece, is spearheading a transformative project aimed at revolutionizing agricultural education and practices through the implementation of a data-dri… [+4584 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Dzone.com"
+            },
+            "author": "Frederic Jacquet",
+            "title": "The Rise of Shadow AI: When Innovation Outpaces Governance",
+            "description": "As technologies evolve and become accessible to non-technical users, companies are increasingly confronted with practices that remain invisible yet very real: Shadow IT yesterday, Shadow AI today. Two sides of the same phenomenon: the appropriation of innovat…",
+            "url": "https://dzone.com/articles/rise-of-shadow-ai-innovation-vs-governance",
+            "urlToImage": "https://dz2cdn1.dzone.com/storage/article-thumb/18352149-thumb.jpg",
+            "publishedAt": "2025-04-21T18:00:00Z",
+            "content": "As technologies evolve and become accessible to non-technical users, companies are increasingly confronted with practices that remain invisible yet very real: Shadow IT yesterday, Shadow AI today. Tw… [+10216 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Arxiv.org"
+            },
+            "author": "Luca Di Carlo, Francesca Mignacco, Christopher W. Lynn, William Bialek",
+            "title": "Extended mean-field theories for networks of real neurons",
+            "description": "If the behavior of a system with many degrees of freedom can be captured by a\nsmall number of collective variables, then plausibly there is an underlying\nmean-field theory. We show that simple versions of this idea fail to describe\nthe patterns of activity in…",
+            "url": "https://arxiv.org/abs/2504.15197",
+            "urlToImage": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+            "publishedAt": "2025-04-21T16:11:02Z",
+            "content": "arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\r\nBoth individuals and organizations that work with arXivLabs have embraced and acce… [+257 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pypi.org"
+            },
+            "author": "soomiles.dev@gmail.com",
+            "title": "mcp-atlassian 0.8.1",
+            "description": "The Model Context Protocol (MCP) Atlassian integration is an open-source implementation that bridges Atlassian products (Jira and Confluence) with AI language models following Anthropic's MCP specification. This project enables secure, contextual AI interacti…",
+            "url": "https://pypi.org/project/mcp-atlassian/0.8.1/",
+            "urlToImage": null,
+            "publishedAt": "2025-04-21T18:35:54Z",
+            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Livemint"
+            },
+            "author": "mint",
+            "title": "Special trade ties with America aren’t India’s only export game",
+            "description": "US Vice-President J.D. Vance’s visit to India may speed up progress on a trade deal with the US, although contentious areas remain. Meanwhile, we have good reason not to ignore Beijing’s overtures.",
+            "url": "https://www.livemint.com/opinion/online-views/india-us-trade-deal-jd-vance-visit-trump-tariffs-indian-agriculture-tariff-negotiations-defence-deals-exports-china-11745243775183.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2025/04/21/1600x900/USA-VANCE-INDIA-6_1745243822835_1745243837220.JPG",
+            "publishedAt": "2025-04-22T02:00:16Z",
+            "content": "US Vice-President J.D. Vances India visit has upped hopes of speedy progress on a trade deal between the two countries. He is here with his wife Usha Vance, whose parents are of Indian origin, and th… [+3307 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": "rt",
+                "name": "RT"
+            },
+            "author": "RT",
+            "title": "Before they become doctors or space engineers, they learn Russian in Africa",
+            "description": "5,000 graduates from Soviet and Russian universities are making a difference back home in Tanzania Read Full Article at RT.com",
+            "url": "https://www.rt.com/africa/616055-tanzania-russia-ussr-students/",
+            "urlToImage": "https://mf.b37mrtl.ru/files/2025.04/article/68063d9985f5407bef30c9f7.jpg",
+            "publishedAt": "2025-04-21T17:38:33Z",
+            "content": "There are many facets of the friendship between Russia and Tanzania, but perhaps the most significant is in the realm of education. Over many decades, thousands of Tanzanian students have benefited f… [+10461 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "ANI",
+            "title": "Our partnership has limitless potential: PM Modi ahead of his two-day visit to Saudi Arabia",
+            "description": "Ahead of his Saudi Arabia visit, PM Modi lauded the India-Saudi relationship as a \"pillar of stability,\" emphasizing its \"limitless potential.\" He praised Crown Prince Mohammed bin Salman's vision and commitment to bilateral ties. Highlighting the countries' …",
+            "url": "https://economictimes.indiatimes.com/news/india/our-partnership-has-limitless-potential-pm-modi-ahead-of-his-two-day-visit-to-saudi-arabia/articleshow/120503960.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-120503971,width-1200,height-630,imgsize-13642,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-04-22T03:31:39Z",
+            "content": "Ahead of his two-day official visit to Saudi Arabia, Prime Minister Narendra Modi emphasised the strength and \"limitless potential\" of the relationship between India and Saudi Arabia, describing thei… [+3271 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "ET Online",
+            "title": "Modi’s historic Saudi Arabia visit to seal major pacts, push for bigger Hajj quota",
+            "description": "Prime Minister Narendra Modi's visit to Saudi Arabia marks a significant milestone as the first Indian prime minister in four decades to visit Jeddah. The visit, at the invitation of Crown Prince Mohammed bin Salman, aims to strengthen the India-Saudi partner…",
+            "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/modis-historic-saudi-arabia-visit-to-seal-major-pacts-push-for-bigger-hajj-quota/articleshow/120502080.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-120502096,width-1200,height-630,imgsize-19592,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-04-22T02:18:35Z",
+            "content": "Prime Minister Narendra Modi is set to make a landmark visit to Saudi Arabia on Tuesday, becoming the first Indian prime minister in four decades to set foot in the port city of Jeddah. The high-prof… [+2446 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Skepticalscience.com"
+            },
+            "author": null,
+            "title": "A worse-than-current-policy world?",
+            "description": "This is a re-post from The Climate Brink\nThe world has made real progress toward tacking climate change in recent years, with spending on clean energy technologies skyrocketing from hundreds of billions to trillions of dollars globally over the past decade, a…",
+            "url": "https://skepticalscience.com/worse-than-current-policy-world.html",
+            "urlToImage": "https://skepticalscience.com/public/assets/images/og/button_sks_200.jpg",
+            "publishedAt": "2025-04-21T18:50:39Z",
+            "content": "Posted on 21 April 2025 by Zeke Hausfather\r\nThis is a re-post from The Climate Brink\r\nThe world has made real progress toward tacking climate change in recent years, with spending on clean energy tec… [+5573 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "Robbins LLP",
+            "title": "Fluence Energy, Inc. Stock News: Robbins LLP Reminds Stockholders of the Securities Fraud Class Action Lawsuit Filed Against FLNC",
+            "description": "Fluence Energy, Inc. Stock News: Robbins LLP Reminds Stockholders of the Securities Fraud Class Action Lawsuit Filed Against FLNC ......",
+            "url": "https://www.globenewswire.com/news-release/2025/04/21/3065035/32719/en/Fluence-Energy-Inc-Stock-News-Robbins-LLP-Reminds-Stockholders-of-the-Securities-Fraud-Class-Action-Lawsuit-Filed-Against-FLNC.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/f6c754ad-b344-4389-a551-cf97ce05752e",
+            "publishedAt": "2025-04-21T21:18:00Z",
+            "content": "SAN DIEGO, April 21, 2025 (GLOBE NEWSWIRE) -- \r\nShareholder rights law firm Robbins LLP reminds investors it has filed a class action lawsuit on behalf of all purchasers of Fluence Energy, Inc. (\"Flu… [+4273 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Martech.zone"
+            },
+            "author": "Douglas Karr",
+            "title": "Why Data Protection Is a Critical Component of Every Modern Martech Stack",
+            "description": "As marketing tech gets more powerful, so too do the dilemmas that go with it. Marketers have at their fingertips today incredibly useful tools with which they can capture, analyze, and act upon more consumer information than ever. From CRMs and automation sof…",
+            "url": "https://martech.zone/why-data-protection-is-a-critical-component-of-every-modern-martech-stack/",
+            "urlToImage": "https://cdn.martech.zone/wp-content/uploads/2025/04/martech-data-protection.png",
+            "publishedAt": "2025-04-21T20:04:26Z",
+            "content": "As marketing tech gets more powerful, so too do the dilemmas that go with it. Marketers have at their fingertips today incredibly useful tools with which they can capture, analyze, and act upon more … [+6784 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "Coastal management model plays the long game against the rising tides",
+            "description": "To protect against rising sea levels in a warming world, coastal cities typically follow a standard playbook with various protective infrastructure options. For example, a seawall could be designed based on the latest climate projections, with the city offici…",
+            "url": "https://www.sciencedaily.com/releases/2025/04/250421162820.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+            "publishedAt": "2025-04-21T20:28:20Z",
+            "content": "To protect against rising sea levels in a warming world, coastal cities typically follow a standard playbook with various protective infrastructure options. For example, a seawall could be designed b… [+7123 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digital Journal"
+            },
+            "author": "David Potter",
+            "title": "From fortress walls to fluid threats: Romanus Raymond says AI is reshaping cybersecurity strategy",
+            "description": "In a world where threats travel faster than updates and cyberattacks evolve as fast as the tools designed to stop them, Romanus Raymond sees opportunity — if leaders are ready to shift their mindset. As director of technology at ManageEngine, Raymond sits at …",
+            "url": "https://www.digitaljournal.com/tech-science/from-fortress-walls-to-fluid-threats-romanus-raymond-says-ai-is-reshaping-cybersecurity-strategy/article",
+            "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2025/04/CIOCAN-and-Digital-Journal-1.jpg",
+            "publishedAt": "2025-04-21T20:51:23Z",
+            "content": "Image generated with Gemini.\r\nIn a world where threats travel faster than updates and cyberattacks evolve as fast as the tools designed to stop them, Romanus Raymond sees opportunity if leaders are r… [+4499 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Royal Society of Chemistry"
+            },
+            "author": "Km Madhuri Singh, Ambuj Bhushan Jha, Rama Shanker Dubey, Pallavi Sharma",
+            "title": "Nanoparticle-mediated mitigation of salt stress-induced oxidative damage in plants: insights into signaling, gene expression, and antioxidant mechanisms",
+            "description": "Environ. Sci.: Nano, 2025, Accepted ManuscriptDOI: 10.1039/D5EN00174A, Critical ReviewKm Madhuri Singh, Ambuj Bhushan Jha, Rama Shanker Dubey, Pallavi SharmaSalt stress presents a major challenge to global agriculture, leading to decreased crop yields, dimini…",
+            "url": "https://pubs.rsc.org/en/content/articlelanding/2025/en/d5en00174a",
+            "urlToImage": null,
+            "publishedAt": "2025-04-21T23:00:00Z",
+            "content": "Salt stress presents a major challenge to global agriculture, leading to decreased crop yields, diminished food quality, economic losses, and threats to food security. Elevated salinity levels enhanc… [+1922 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WWD"
+            },
+            "author": "Rosemaryfeitelberg",
+            "title": "Melania Trump Wears Mackage and Roger Vivier to Easter Egg Roll",
+            "description": "This year thousands of attendees could partake in corporate-supported attractions including ones from Meta, Amazon and YouTube.",
+            "url": "http://wwd.com/fashion-news/fashion-scoops/melania-trump-mackage-roger-vivier-white-house-easter-egg-roll-1237098444/",
+            "urlToImage": "https://wwd.com/wp-content/uploads/2025/04/melania-trump-easter-egg-roll-2025.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2025-04-21T18:11:37Z",
+            "content": "Although Easter Monday is not a federal holiday, thousands of children and families flock to the South Lawn for the annual White House Egg Roll. This morning’s event also welcomed thousands of attend… [+2779 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Securityaffairs.com"
+            },
+            "author": "Pierluigi Paganini",
+            "title": "Kimsuky APT exploited BlueKeep RDP flaw in attacks against South Korea and Japan",
+            "description": "Researchers spotted a new North Korea-linked group Kimsuky ‘s campaign, exploiting a patched Microsoft Remote Desktop Services flaw to gain initial access. While investigating a security breach, the AhnLab SEcurity intelligence Center (ASEC) researchers disco…",
+            "url": "https://securityaffairs.com/176756/apt/kimsuky-apt-exploited-bluekeep-rdp-flaw-in-attacks-against-south-korea-and-japan.html",
+            "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/04/image-37.png",
+            "publishedAt": "2025-04-21T18:25:20Z",
+            "content": "Kimsuky APT exploited BlueKeep RDP flaw in attacks against South Korea and Japan\r\n | New sophisticate malware SuperCard X targets Androids via NFC relay attacks\r\n | Russia-linked APT29 targets Europe… [+157275 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SiliconANGLE News"
+            },
+            "author": "Dave Vellante",
+            "title": "The long road to agentic AI – hype vs. enterprise reality",
+            "description": "At last week’s AI Agent Builder Summit, hosted by Scott Hebner of theCUBE Research, the hype around “agentic artificial intelligence” – autonomous software agents that can orchestrate complex tasks – was on full display. Demos and keynotes painted a bold visi…",
+            "url": "https://siliconangle.com/2025/04/21/long-road-agentic-ai-hype-vs-enterprise-reality/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/04/DALL·E-2025-04-20-06.59.55-A-split-screen-illustration-showing-the-contrast-between-the-hype-and-the-reality-of-agentic-AI.-On-the-left-side-Hype_-A-futuristic-city-with-glowi-copy.jpg",
+            "publishedAt": "2025-04-21T16:52:16Z",
+            "content": "At last weeks AI Agent Builder Summit, hosted by Scott Hebner of theCUBE Research, the hype around agentic artificial intelligence autonomous software agents that can orchestrate complex tasks was on… [+26434 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Geeklawblog.com"
+            },
+            "author": "Greg Lambert and Marlene Gebauer",
+            "title": "Charting the Three Waves of Legal AI Transformation with Thomson Reuters’ Raghu Ramanathan",
+            "description": "This week we welcome Raghu Ramanathan, President of Legal Professionals at Thomson Reuters, for an insightful discussion on the profound impact of Artificial Intelligence (AI) on the legal industry. Bringing a fresh perspective shaped by his extensive backgro…",
+            "url": "https://www.geeklawblog.com/2025/04/charting-the-three-waves-of-legal-ai-transformation-with-thomson-reuters-raghu-ramanathan.html",
+            "urlToImage": "https://www.geeklawblog.com/wp-content/uploads/sites/528/2025/04/Raghu-Ramanathan_square.png",
+            "publishedAt": "2025-04-21T16:52:17Z",
+            "content": "This week we welcome Raghu Ramanathan, President of Legal Professionals at Thomson Reuters, for an insightful discussion on the profound impact of Artificial Intelligence (AI) on the legal industry. … [+45315 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Www.gov.uk"
+            },
+            "author": "Prime Minister's Office, 10 Downing Street",
+            "title": "UK to step up military partnership with New Zealand as both countries drive forward defence and security agenda",
+            "description": "The UK is set to deepen defence and security ties with New Zealand as the Prime Minster strengthens alliances abroad to protect Britain’s national interest.",
+            "url": "https://www.gov.uk/government/news/uk-to-step-up-military-partnership-with-new-zealand-as-both-countries-drive-forward-defence-and-security-agenda",
+            "urlToImage": "https://assets.publishing.service.gov.uk/media/5a37daeaed915d5a5f96602b/s960_number10.jpg",
+            "publishedAt": "2025-04-21T21:30:00Z",
+            "content": "<ul><li>Prime Minister Keir Starmer and New Zealand Prime Minister Christopher Luxon set to step up support for Ukraine with new drone contract and extension to Operation Interflex</li><li>Comes as l… [+4769 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Star Online"
+            },
+            "author": "The Star Online",
+            "title": "China set to import more Malaysian durians",
+            "description": "THE market for fresh Malaysian durians in China is expected to see a double-digit growth since local producers were allowed to export the fruit last year, reported China Press.  Read full story",
+            "url": "https://www.thestar.com.my/news/nation/2025/04/22/china-set-to-import-more-malaysian-durians",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/04/22/3277269.jpeg",
+            "publishedAt": "2025-04-21T16:00:00Z",
+            "content": "Compiled by  ZULKIFLI ABD RAHMAN, C.ARUNO and R. ARAVINTHAN\r\nTHE market for fresh Malaysian durians in China is expected to see a double-digit growth since local producers were allowed to export the … [+2163 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "UN News"
+            },
+            "author": "United Nations",
+            "title": "‘Individual, Collective Rights of Indigenous Peoples Are Non-negotiable’, Says Secretary-General, Opening Permanent Forum",
+            "description": "Following are UN Secretary-General António Guterres’ remarks at the opening ceremony of the twenty-fourth session of the United Nations Permanent Forum on Indigenous Issues, in New York today:",
+            "url": "https://press.un.org/en/2025/sgsm22628.doc.htm",
+            "urlToImage": null,
+            "publishedAt": "2025-04-21T22:47:33Z",
+            "content": "Following are UN Secretary-General António Guterres remarks at the opening ceremony of the twenty-fourth session of the United Nations Permanent Forum on Indigenous Issues, in New York today:\r\nWelcom… [+6364 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Computerworld"
+            },
+            "author": "Varun Aggarwal",
+            "title": "How Lenovo is trying to make AI PCs relevant for CIOs",
+            "description": "As PC vendors continue to launch multiple variations of AI PCs, the promises of Microsoft Copilot and Copilot+ PC have demonstrated little relevance to enterprises, who are yet to see enough use cases to justify the purchase. However, Lenovo is trying to chan…",
+            "url": "https://www.computerworld.com/article/3966380/how-lenovo-is-trying-to-make-ai-pcs-relevant-for-cios.html",
+            "urlToImage": "https://www.computerworld.com/wp-content/uploads/2025/04/3966380-0-54493900-1745290357-shutterstock_1108966937.jpg?quality=50&strip=all&w=1024",
+            "publishedAt": "2025-04-22T02:51:57Z",
+            "content": "As PC vendors continue to launch multiple variations of AI PCs, the promises of Microsoft Copilot and Copilot+ PC have demonstrated little relevance to enterprises, who are yet to see enough use case… [+927 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Arxiv.org"
+            },
+            "author": "PaulHoule",
+            "title": "Flat origami is Turing complete (2023)",
+            "description": "\"Flat origami\" refers to the folding of flat, zero-curvature paper such that the finished object lies in a plane. Mathematically, flat origami consists of a continuous, piecewise isometric map $f:P\\subseteq\\mathbb{R}^2\\to\\mathbb{R}^2$ along with a layer order…",
+            "url": "https://arxiv.org/abs/2309.07932",
+            "urlToImage": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+            "publishedAt": "2025-04-22T03:09:50Z",
+            "content": "arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\r\nBoth individuals and organizations that work with arXivLabs have embraced and acce… [+257 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "Wintrust Financial Corporation",
+            "title": "Wintrust Financial Corporation Reports Record First Quarter 2025 Net Income",
+            "description": "ROSEMONT, Ill., April 21, 2025 (GLOBE NEWSWIRE) -- Wintrust Financial Corporation (“Wintrust”, “the Company”, “we” or “our”) (Nasdaq: WTFC) announced record quarterly net income of $189.0 million, or $2.69 per diluted common share, for the first quarter of 20…",
+            "url": "https://www.globenewswire.com/news-release/2025/04/21/3065030/11955/en/Wintrust-Financial-Corporation-Reports-Record-First-Quarter-2025-Net-Income.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/a5652e0b-3bbd-4362-a235-0931e4d1c671",
+            "publishedAt": "2025-04-21T21:10:00Z",
+            "content": "ROSEMONT, Ill., April 21, 2025 (GLOBE NEWSWIRE) -- Wintrust Financial Corporation (Wintrust, the Company, we or our) (Nasdaq: WTFC) announced record quarterly net income of $189.0 million, or $2.69 p… [+228195 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "openPR"
+            },
+            "author": "Maximize Market Research Pvt. Ltd.",
+            "title": "Marketing Attribution Software Market Set to Reach USD 10.7",
+            "description": "Global Marketing Attribution Software Market to Surpass USD 10 7 Billion by 2030 Driven by AI Integration and Demand for Data Driven Insights Marketing Attribution Software Market was valued US 3 53 Bn in 2023 and is expected to reach ...",
+            "url": "https://www.openpr.com/news/3979801/marketing-attribution-software-market-set-to-reach-usd-10-7",
+            "urlToImage": "https://cdn.open-pr.com/L/4/L421274975_g.jpg",
+            "publishedAt": "2025-04-21T19:48:46Z",
+            "content": "Global Marketing Attribution Software Market to Surpass USD 10.7 Billion by 2030, Driven by AI Integration and Demand for Data-Driven InsightsMarketing Attribution Software Market was valued US$ 3.53… [+7509 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        }
+    ]
+}

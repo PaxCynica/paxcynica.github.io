@@ -1,0 +1,1178 @@
+[
+    {
+        "category": "Major Global Powers and Countries",
+        "query": "\"United States\" OR Russia OR China OR Germany OR Japan OR France OR \"United Kingdom\" OR India OR Brazil OR Indonesia OR Turkey OR Egypt OR South Africa OR Canada OR Spain OR Italy OR Greece OR Pakistan OR Afghanistan OR Syria OR Iraq OR Venezuela OR Colombia OR Chile OR Argentina OR Ethiopia OR Kenya OR Ukraine OR Georgia OR Sudan OR Yemen OR Saudi Arabia OR Australia OR South Korea",
+        "articles_found": 86,
+        "total_available": 87,
+        "file_path": "c:\\Users\\crame\\Documents\\hound\\reports\\2025-W17\\2025-04-22\\results\\22-46-55\\news_results_1.json",
+        "suggested_terms": [
+            [
+                "trump",
+                29
+            ],
+            [
+                "trade",
+                24
+            ],
+            [
+                "2025",
+                19
+            ],
+            [
+                "market",
+                18
+            ],
+            [
+                "global",
+                15
+            ],
+            [
+                "president",
+                15
+            ],
+            [
+                "tariffs",
+                14
+            ],
+            [
+                "galaxy",
+                12
+            ],
+            [
+                "week",
+                10
+            ],
+            [
+                "april",
+                10
+            ]
+        ]
+    },
+    {
+        "category": "Regional and Smaller Nations",
+        "query": "\"Taiwan\" OR \"Hong Kong\" OR \"Palestine\" OR \"Israel\" OR \"Armenia\" OR \"Azerbaijan\" OR \"Philippines\" OR \"Mexico\" OR \"Nigeria\" OR \"Myanmar\" OR \"Kazakhstan\" OR \"Uzbekistan\" OR \"Bangladesh\" OR \"Vietnam\" OR \"Thailand\" OR \"Malaysia\" OR \"Singapore\" OR \"Cuba\" OR \"Peru\" OR \"Morocco\" OR \"Algeria\" OR \"Angola\" OR \"Zimbabwe\" OR \"Congo\" OR \"Libya\" OR \"Lebanon\" OR \"Jordan\" OR \"Qatar\" OR \"Bahrain\" OR \"Oman\" OR \"New Zealand\"",
+        "articles_found": 98,
+        "total_available": 996,
+        "file_path": "c:\\Users\\crame\\Documents\\hound\\reports\\2025-W17\\2025-04-22\\results\\22-46-55\\news_results_2.json",
+        "suggested_terms": [
+            [
+                "pope",
+                23
+            ],
+            [
+                "trump",
+                19
+            ],
+            [
+                "francis",
+                18
+            ],
+            [
+                "first",
+                15
+            ],
+            [
+                "sinners",
+                14
+            ],
+            [
+                "china",
+                11
+            ],
+            [
+                "sneaker",
+                10
+            ],
+            [
+                "michael",
+                9
+            ],
+            [
+                "year",
+                8
+            ],
+            [
+                "post",
+                8
+            ]
+        ]
+    },
+    {
+        "category": "Major World Leaders",
+        "query": "\"Donald Trump\" OR \"Xi Jinping\" OR \"Vladimir Putin\" OR \"Volodymyr Zelenskyy\" OR \"Joe Biden\" OR \"Kamala Harris\" OR \"Narendra Modi\" OR \"Benjamin Netanyahu\" OR \"Kim Jong Un\" OR \"Mohammed bin Salman\" OR \"Olaf Scholz\" OR \"Emmanuel Macron\" OR \"Rishi Sunak\" OR \"Recep Tayyip Erdoğan\" OR \"Abdel Fattah el-Sisi\" OR \"Bashar al-Assad\" OR \"Justin Trudeau\" OR \"Lula da Silva\"",
+        "articles_found": 95,
+        "total_available": 809,
+        "file_path": "c:\\Users\\crame\\Documents\\hound\\reports\\2025-W17\\2025-04-22\\results\\22-46-55\\news_results_3.json",
+        "suggested_terms": [
+            [
+                "president",
+                60
+            ],
+            [
+                "pope",
+                24
+            ],
+            [
+                "monday",
+                23
+            ],
+            [
+                "francis",
+                20
+            ],
+            [
+                "easter",
+                18
+            ],
+            [
+                "first",
+                17
+            ],
+            [
+                "trade",
+                16
+            ],
+            [
+                "tariffs",
+                15
+            ],
+            [
+                "powell",
+                14
+            ],
+            [
+                "vance",
+                14
+            ]
+        ]
+    },
+    {
+        "category": "Additional World Leaders",
+        "query": "\"Yoon Suk-yeol\" OR \"Isaac Herzog\" OR \"Mahmoud Abbas\" OR \"Nicolás Maduro\" OR \"Giorgia Meloni\" OR \"Fumio Kishida\" OR \"Ebrahim Raisi\" OR \"Andrés Manuel López Obrador\" OR \"Cyril Ramaphosa\" OR \"Alberto Fernández\" OR \"Pedro Sánchez\" OR \"Alexander Lukashenko\" OR \"Hun Sen\" OR \"Prayut Chan-o-cha\" OR \"Joko Widodo\" OR \"Scott Morrison\" OR \"Jacinda Ardern\"",
+        "articles_found": 23,
+        "total_available": 26,
+        "file_path": "c:\\Users\\crame\\Documents\\hound\\reports\\2025-W17\\2025-04-22\\results\\22-46-55\\news_results_4.json",
+        "suggested_terms": [
+            [
+                "pope",
+                22
+            ],
+            [
+                "francis",
+                19
+            ],
+            [
+                "president",
+                10
+            ],
+            [
+                "trump",
+                9
+            ],
+            [
+                "world",
+                9
+            ],
+            [
+                "monday",
+                8
+            ],
+            [
+                "trade",
+                6
+            ],
+            [
+                "prime",
+                6
+            ],
+            [
+                "minister",
+                6
+            ],
+            [
+                "death",
+                6
+            ]
+        ]
+    },
+    {
+        "category": "Tech Industry Leaders and Billionaires",
+        "query": "\"Elon Musk\" OR \"Peter Thiel\" OR \"Jeff Bezos\" OR \"Bill Gates\" OR \"Mark Zuckerberg\" OR \"Tim Cook\" OR \"Sundar Pichai\" OR \"Satya Nadella\" OR \"Jack Ma\" OR \"Masayoshi Son\" OR \"Warren Buffett\" OR \"Larry Page\" OR \"Sergey Brin\" OR \"Reed Hastings\" OR \"Jensen Huang\" OR \"Andrew Ng\" OR \"Demis Hassabis\" OR \"Sam Altman\" OR \"Drew Houston\" OR \"Daniel Ek\"",
+        "articles_found": 98,
+        "total_available": 206,
+        "file_path": "c:\\Users\\crame\\Documents\\hound\\reports\\2025-W17\\2025-04-22\\results\\22-46-55\\news_results_5.json",
+        "suggested_terms": [
+            [
+                "trump",
+                53
+            ],
+            [
+                "tesla",
+                25
+            ],
+            [
+                "nvidia",
+                18
+            ],
+            [
+                "company",
+                18
+            ],
+            [
+                "president",
+                17
+            ],
+            [
+                "google",
+                17
+            ],
+            [
+                "donald",
+                16
+            ],
+            [
+                "government",
+                14
+            ],
+            [
+                "monday",
+                13
+            ],
+            [
+                "million",
+                12
+            ]
+        ]
+    },
+    {
+        "category": "Political Operatives and Advisors",
+        "query": "\"Erik Prince\" OR \"Paul Manafort\" OR \"Roger Stone\" OR \"Ruper Murdoch\" OR \"Wendy Deng\" OR \"Ivanka Trump\" OR \"Jared Kushner\" OR MBS OR \"Felix Sater\" OR \"Artem Klyushin\" OR \"Steve Bannon\" OR \"Mike Pompeo\" OR \"John Bolton\" OR \"Michael Flynn\" OR \"Rudy Giuliani\" OR \"Sidney Powell\" OR \"Michael Cohen\" OR \"Jeff Sessions\" OR \"Chris Christie\" OR \"Mike Pence\" OR \"William Barr\"",
+        "articles_found": 16,
+        "total_available": 18,
+        "file_path": "c:\\Users\\crame\\Documents\\hound\\reports\\2025-W17\\2025-04-22\\results\\22-46-55\\news_results_6.json",
+        "suggested_terms": [
+            [
+                "pope",
+                6
+            ],
+            [
+                "state",
+                4
+            ],
+            [
+                "deal",
+                4
+            ],
+            [
+                "francis",
+                4
+            ],
+            [
+                "saudi",
+                4
+            ],
+            [
+                "sources",
+                3
+            ],
+            [
+                "candidates",
+                3
+            ],
+            [
+                "race",
+                3
+            ],
+            [
+                "post",
+                3
+            ],
+            [
+                "changes",
+                3
+            ]
+        ]
+    },
+    {
+        "category": "International Organizations",
+        "query": "(\"NATO expansion\" OR \"NATO defense\") OR (\"European Union\" AND (commission OR parliament OR regulation OR directive)) OR (\"United Nations\" AND (resolution OR security OR council OR general)) OR (ASEAN AND (summit OR trade OR southeast OR asia)) OR (\"World Bank\" AND (loan OR development OR finance)) OR (IMF AND (economic OR financial OR loan OR bailout)) OR (WHO AND (health OR disease OR pandemic OR regulation)) OR (WTO AND (trade OR tariff OR dispute OR ruling))",
+        "articles_found": 98,
+        "total_available": 710,
+        "file_path": "c:\\Users\\crame\\Documents\\hound\\reports\\2025-W17\\2025-04-22\\results\\22-46-55\\news_results_7.json",
+        "suggested_terms": [
+            [
+                "pope",
+                26
+            ],
+            [
+                "francis",
+                23
+            ],
+            [
+                "health",
+                18
+            ],
+            [
+                "trump",
+                13
+            ],
+            [
+                "department",
+                12
+            ],
+            [
+                "monday",
+                12
+            ],
+            [
+                "first",
+                10
+            ],
+            [
+                "student",
+                9
+            ],
+            [
+                "climate",
+                8
+            ],
+            [
+                "died",
+                8
+            ]
+        ]
+    },
+    {
+        "category": "Geopolitical Concepts and Events",
+        "query": "\"geopolitical competition\" OR \"great power rivalry\" OR \"democratic backsliding\" OR \"authoritarian governance\" OR \"diplomatic negotiations\" OR coup OR insurrection OR uprising OR revolution OR occupation OR annexation OR blockade OR embargo OR sanctions OR \"arms embargo\" OR \"territorial disputes\" OR \"border conflicts\" OR \"peace talks\" OR \"ceasefire violations\" OR \"humanitarian corridors\"",
+        "articles_found": 98,
+        "total_available": 231,
+        "file_path": "c:\\Users\\crame\\Documents\\hound\\reports\\2025-W17\\2025-04-22\\results\\22-46-55\\news_results_8.json",
+        "suggested_terms": [
+            [
+                "trump",
+                34
+            ],
+            [
+                "ukraine",
+                23
+            ],
+            [
+                "president",
+                18
+            ],
+            [
+                "monday",
+                17
+            ],
+            [
+                "putin",
+                16
+            ],
+            [
+                "pope",
+                14
+            ],
+            [
+                "francis",
+                12
+            ],
+            [
+                "first",
+                11
+            ],
+            [
+                "star",
+                10
+            ],
+            [
+                "wars",
+                10
+            ]
+        ]
+    },
+    {
+        "category": "Political Science and Security Concepts",
+        "query": "\"state sovereignty\" OR \"political legitimacy\" OR \"strategic autonomy\" OR \"Frontier Services\" OR \"asymmetric warfare\" OR \"arms control treaties\" OR \"defense modernization\" OR \"military alliances\" OR \"nuclear deterrence\" OR \"proxy conflicts\" OR \"counterinsurgency operations\" OR \"peacekeeping missions\" OR \"economic sanctions\" OR \"trade disputes\" OR \"financial warfare\"",
+        "articles_found": 13,
+        "total_available": 13,
+        "file_path": "c:\\Users\\crame\\Documents\\hound\\reports\\2025-W17\\2025-04-22\\results\\22-46-55\\news_results_9.json",
+        "suggested_terms": [
+            [
+                "trump",
+                11
+            ],
+            [
+                "global",
+                4
+            ],
+            [
+                "april",
+                3
+            ],
+            [
+                "strategy",
+                3
+            ],
+            [
+                "tensions",
+                3
+            ],
+            [
+                "countries",
+                3
+            ],
+            [
+                "world",
+                3
+            ],
+            [
+                "hoover",
+                3
+            ],
+            [
+                "history",
+                3
+            ],
+            [
+                "powell",
+                3
+            ]
+        ]
+    },
+    {
+        "category": "Cybersecurity and Military Technology",
+        "query": "cyberattack OR \"cyber defense\" OR \"electronic warfare\" OR \"missile defense\" OR \"drone strike\" OR satellite OR \"GPS jamming\" OR EMP OR bioweapon OR \"chemical weapon\" OR \"quantum computing\" OR \"quantum encryption\" OR \"biometric surveillance\" OR \"genetic engineering\" OR \"nanotechnology\" OR \"directed energy weapons\" OR \"hypersonic glide vehicles\" OR \"space-based weapons\" OR \"robotic warfare\"",
+        "articles_found": 73,
+        "total_available": 73,
+        "file_path": "c:\\Users\\crame\\Documents\\hound\\reports\\2025-W17\\2025-04-22\\results\\22-46-55\\news_results_10.json",
+        "suggested_terms": [
+            [
+                "april",
+                17
+            ],
+            [
+                "launch",
+                16
+            ],
+            [
+                "space",
+                13
+            ],
+            [
+                "china",
+                12
+            ],
+            [
+                "amazon",
+                11
+            ],
+            [
+                "first",
+                11
+            ],
+            [
+                "2025",
+                11
+            ],
+            [
+                "investors",
+                10
+            ],
+            [
+                "project",
+                9
+            ],
+            [
+                "mission",
+                8
+            ]
+        ]
+    },
+    {
+        "category": "Economic and Strategic Concepts",
+        "query": "\"strategic investments\" OR \"resource nationalism\" OR \"supply chain security\" OR \"currency manipulation\" OR \"critical mineral access\" OR \"rare earth supply chains\" OR \"energy security\" OR \"critical technologies\" OR \"cyber operations\" OR \"surveillance systems\" OR \"information warfare\" OR \"disinformation campaigns\" OR \"autonomous weapons\" OR \"space militarization\" OR \"AI military applications\"",
+        "articles_found": 21,
+        "total_available": 22,
+        "file_path": "c:\\Users\\crame\\Documents\\hound\\reports\\2025-W17\\2025-04-22\\results\\22-46-55\\news_results_11.json",
+        "suggested_terms": [
+            [
+                "nuclear",
+                6
+            ],
+            [
+                "world",
+                6
+            ],
+            [
+                "india",
+                5
+            ],
+            [
+                "global",
+                5
+            ],
+            [
+                "modi",
+                5
+            ],
+            [
+                "saudi",
+                5
+            ],
+            [
+                "group",
+                4
+            ],
+            [
+                "power",
+                4
+            ],
+            [
+                "market",
+                4
+            ],
+            [
+                "deal",
+                4
+            ]
+        ]
+    },
+    {
+        "category": "Economic and Technological Topics",
+        "query": "\"digital currencies\" OR \"cryptocurrency regulation\" OR \"semiconductor industry\" OR \"internet fragmentation\" OR \"digital authoritarianism\" OR inflation OR \"debt crisis\" OR \"IMF bailout\" OR \"oil prices\" OR \"gas pipeline\" OR \"rare earths\" OR \"water scarcity\" OR \"green energy transition\" OR \"carbon markets\" OR \"climate finance\" OR \"electric vehicles\" OR \"battery technology\" OR \"hydrogen economy\"",
+        "articles_found": 97,
+        "total_available": 261,
+        "file_path": "c:\\Users\\crame\\Documents\\hound\\reports\\2025-W17\\2025-04-22\\results\\22-46-55\\news_results_12.json",
+        "suggested_terms": [
+            [
+                "trump",
+                57
+            ],
+            [
+                "powell",
+                30
+            ],
+            [
+                "chair",
+                25
+            ],
+            [
+                "president",
+                22
+            ],
+            [
+                "major",
+                20
+            ],
+            [
+                "donald",
+                20
+            ],
+            [
+                "jerome",
+                19
+            ],
+            [
+                "trade",
+                15
+            ],
+            [
+                "tariffs",
+                15
+            ],
+            [
+                "federal",
+                15
+            ]
+        ]
+    },
+    {
+        "category": "Humanitarian Issues",
+        "query": "\"migration crises\" OR \"refugee protection\" OR \"human rights violations\" OR \"war crimes\" OR \"Genocide\" OR famine OR epidemic OR pandemic OR \"disaster relief\" OR \"gender violence\" OR \"child soldiers\" OR \"ethnic cleansing\" OR \"human trafficking\" OR \"modern slavery\" OR \"poverty alleviation\" OR \"access to education\" OR \"clean water initiatives\" OR \"mental health support\" OR \"disability rights\"",
+        "articles_found": 95,
+        "total_available": 344,
+        "file_path": "c:\\Users\\crame\\Documents\\hound\\reports\\2025-W17\\2025-04-22\\results\\22-46-55\\news_results_13.json",
+        "suggested_terms": [
+            [
+                "pope",
+                21
+            ],
+            [
+                "student",
+                19
+            ],
+            [
+                "trump",
+                18
+            ],
+            [
+                "francis",
+                16
+            ],
+            [
+                "borrowers",
+                15
+            ],
+            [
+                "department",
+                14
+            ],
+            [
+                "loan",
+                11
+            ],
+            [
+                "house",
+                11
+            ],
+            [
+                "million",
+                10
+            ],
+            [
+                "democrats",
+                9
+            ]
+        ]
+    },
+    {
+        "category": "Political Process and Democracy Topics",
+        "query": "\"election interference\" OR \"political polarization\" OR \"economic nationalism\" OR \"strategic corruption\" OR \"civil-military relations\" OR \"societal resilience\" OR \"institutional integrity\" OR \"populist movements\" OR \"global governance\" OR \"pro-democracy\" OR \"anti-government\" OR protest OR \"election fraud\" OR \"voter suppression\" OR \"election monitoring\" OR \"democratic transition\"",
+        "articles_found": 100,
+        "total_available": 101,
+        "file_path": "c:\\Users\\crame\\Documents\\hound\\reports\\2025-W17\\2025-04-22\\results\\22-46-55\\news_results_14.json",
+        "suggested_terms": [
+            [
+                "trump",
+                31
+            ],
+            [
+                "monday",
+                15
+            ],
+            [
+                "president",
+                15
+            ],
+            [
+                "administration",
+                13
+            ],
+            [
+                "israel",
+                13
+            ],
+            [
+                "federal",
+                12
+            ],
+            [
+                "university",
+                11
+            ],
+            [
+                "world",
+                11
+            ],
+            [
+                "april",
+                11
+            ],
+            [
+                "donald",
+                10
+            ]
+        ]
+    },
+    {
+        "category": "Strategic Companies and Corporations",
+        "query": "Palantir OR Tesla OR Eaton OR SpaceX OR Boeing OR CECOT OR \"Lockheed Martin\" OR Raytheon OR \"Northrop Grumman\" OR Huawei OR TSMC OR Microsoft OR Google OR Meta OR Gazprom OR \"Saudi Aramco\" OR \"Wagner Group\" OR \"Shanghai Cooperation\" OR \"RAND Corporation\" OR Rosatom OR blockchain OR \"OpenAI\" OR \"Boston Dynamics\" OR \"Blue Origin\" OR \"General Dynamics\" OR \"Siemens\" OR \"Thales Group\"",
+        "articles_found": 99,
+        "total_available": 1016,
+        "file_path": "c:\\Users\\crame\\Documents\\hound\\reports\\2025-W17\\2025-04-22\\results\\22-46-55\\news_results_15.json",
+        "suggested_terms": [
+            [
+                "trump",
+                20
+            ],
+            [
+                "stock",
+                15
+            ],
+            [
+                "company",
+                13
+            ],
+            [
+                "nvidia",
+                11
+            ],
+            [
+                "april",
+                11
+            ],
+            [
+                "monday",
+                10
+            ],
+            [
+                "update",
+                10
+            ],
+            [
+                "earnings",
+                9
+            ],
+            [
+                "major",
+                9
+            ],
+            [
+                "tech",
+                8
+            ]
+        ]
+    },
+    {
+        "category": "Tech and Defense Companies",
+        "query": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+        "articles_found": 98,
+        "total_available": 518,
+        "file_path": "c:\\Users\\crame\\Documents\\hound\\reports\\2025-W17\\2025-04-22\\results\\22-46-55\\news_results_16.json",
+        "suggested_terms": [
+            [
+                "amazon",
+                15
+            ],
+            [
+                "trump",
+                12
+            ],
+            [
+                "tech",
+                11
+            ],
+            [
+                "chip",
+                10
+            ],
+            [
+                "delta",
+                10
+            ],
+            [
+                "passengers",
+                9
+            ],
+            [
+                "orlando",
+                9
+            ],
+            [
+                "galaxy",
+                8
+            ],
+            [
+                "stock",
+                8
+            ],
+            [
+                "windows",
+                8
+            ]
+        ]
+    },
+    {
+        "category": "Military Topics and Weapons Systems",
+        "query": "\"hypersonic weapons\" OR \"nuclear proliferation\" OR \"biodefense\" OR \"autonomous weapons\" OR \"space militarization\" OR \"AI military applications\" OR \"ballistic missile\" OR \"cruise missile\" OR Artillery OR \"FPV Drone\" OR \"Shahed Drone\" OR \"Fiber Optic\" OR \"military exercises\" OR \"private security contractors\" OR \"Treaty\" OR \"ceasefire\" OR \"peace agreement\" OR \"diplomatic relations\" OR \"foreign aid\"",
+        "articles_found": 94,
+        "total_available": 99,
+        "file_path": "c:\\Users\\crame\\Documents\\hound\\reports\\2025-W17\\2025-04-22\\results\\22-46-55\\news_results_17.json",
+        "suggested_terms": [
+            [
+                "ukraine",
+                33
+            ],
+            [
+                "pope",
+                22
+            ],
+            [
+                "francis",
+                22
+            ],
+            [
+                "president",
+                20
+            ],
+            [
+                "putin",
+                19
+            ],
+            [
+                "russia",
+                18
+            ],
+            [
+                "talks",
+                18
+            ],
+            [
+                "trump",
+                17
+            ],
+            [
+                "april",
+                16
+            ],
+            [
+                "easter",
+                15
+            ]
+        ]
+    },
+    {
+        "category": "Emerging Technologies and Future Trends",
+        "query": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+        "articles_found": 46,
+        "total_available": 46,
+        "file_path": "c:\\Users\\crame\\Documents\\hound\\reports\\2025-W17\\2025-04-22\\results\\22-46-55\\news_results_18.json",
+        "suggested_terms": [
+            [
+                "shopify",
+                12
+            ],
+            [
+                "court",
+                12
+            ],
+            [
+                "class",
+                12
+            ],
+            [
+                "action",
+                12
+            ],
+            [
+                "lawsuit",
+                8
+            ],
+            [
+                "deals",
+                8
+            ],
+            [
+                "agriculture",
+                8
+            ],
+            [
+                "read",
+                7
+            ],
+            [
+                "visit",
+                7
+            ],
+            [
+                "decision",
+                6
+            ]
+        ]
+    },
+    {
+        "category": "Signals Intelligence and Communications",
+        "query": "\"radio signal\" OR \"signals jamming\" OR \"weather balloon\" OR \"signal collection\" OR SIGINT OR ELINT OR COMINT OR \"radio spectrum\" OR \"spectrum monitoring\" OR \"signal analysis\" OR interception OR surveillance OR \"electronic warfare\" OR \"listening post\" OR antenna OR receiver OR \"Software Defined Radio\" OR \"direction finding\" OR eavesdropping OR telemetry",
+        "articles_found": 100,
+        "total_available": 197,
+        "file_path": "c:\\Users\\crame\\Documents\\hound\\reports\\2025-W17\\2025-04-22\\results\\22-46-55\\news_results_19.json",
+        "suggested_terms": [
+            [
+                "draft",
+                38
+            ],
+            [
+                "2025",
+                25
+            ],
+            [
+                "wide",
+                18
+            ],
+            [
+                "georgia",
+                16
+            ],
+            [
+                "finished",
+                15
+            ],
+            [
+                "former",
+                15
+            ],
+            [
+                "ford",
+                13
+            ],
+            [
+                "automatic",
+                13
+            ],
+            [
+                "powered",
+                13
+            ],
+            [
+                "team",
+                11
+            ]
+        ]
+    },
+    {
+        "category": "Regional Geopolitical Groupings",
+        "query": "(\"Middle East\" AND (Israel OR Palestine OR \"Gaza Strip\" OR Lebanon OR Syria)) OR (\"East Asia\" AND (Taiwan OR \"Hong Kong\" OR Philippines OR \"South China Sea\")) OR (\"Southeast Asia\" AND (Vietnam OR Thailand OR Malaysia OR Indonesia OR Singapore)) OR (\"North Africa\" AND (Morocco OR Algeria OR Libya OR Egypt)) OR (\"Sub-Saharan Africa\" AND (Nigeria OR Congo OR Angola OR Zimbabwe OR Ethiopia OR Kenya)) OR (\"Latin America\" AND (Cuba OR Mexico OR Venezuela OR Peru OR Chile))",
+        "articles_found": 62,
+        "total_available": 68,
+        "file_path": "c:\\Users\\crame\\Documents\\hound\\reports\\2025-W17\\2025-04-22\\results\\22-46-55\\news_results_20.json",
+        "suggested_terms": [
+            [
+                "pope",
+                22
+            ],
+            [
+                "francis",
+                17
+            ],
+            [
+                "solar",
+                13
+            ],
+            [
+                "duties",
+                9
+            ],
+            [
+                "catholic",
+                9
+            ],
+            [
+                "imports",
+                8
+            ],
+            [
+                "market",
+                8
+            ],
+            [
+                "countries",
+                8
+            ],
+            [
+                "church",
+                8
+            ],
+            [
+                "israel",
+                8
+            ]
+        ]
+    },
+    {
+        "category": "Strategic and Tech Industry Analysis",
+        "query": "(Tesla AND (Musk OR electric OR vehicle OR earnings OR stock)) OR (SpaceX AND (launch OR rocket OR Starship OR satellite OR Musk)) OR ((Boeing OR Airbus) AND (aircraft OR defense OR contract OR delivery)) OR ((Microsoft OR Google OR Meta) AND (AI OR regulation OR technology OR earnings)) OR ((\"defense contractor\" OR aerospace) AND (\"Lockheed Martin\" OR Raytheon OR \"Northrop Grumman\")) OR (\"chip maker\" AND (TSMC OR Nvidia OR Intel OR AMD OR semiconductor))",
+        "articles_found": 96,
+        "total_available": 474,
+        "file_path": "c:\\Users\\crame\\Documents\\hound\\reports\\2025-W17\\2025-04-22\\results\\22-46-55\\news_results_21.json",
+        "suggested_terms": [
+            [
+                "tesla",
+                27
+            ],
+            [
+                "trump",
+                21
+            ],
+            [
+                "stock",
+                16
+            ],
+            [
+                "company",
+                15
+            ],
+            [
+                "tech",
+                14
+            ],
+            [
+                "musk",
+                14
+            ],
+            [
+                "search",
+                14
+            ],
+            [
+                "monday",
+                12
+            ],
+            [
+                "elon",
+                10
+            ],
+            [
+                "microsoft",
+                10
+            ]
+        ]
+    },
+    {
+        "category": "Global Trade and Tariffs",
+        "query": "\"tariff policy\" OR \"trade war\" OR \"import tax\" OR \"export restriction\" OR \"trade deficit\" OR \"supply chain\" OR \"economic nationalism\" OR \"protectionism\" OR \"WTO ruling\" OR \"customs duty\" OR \"trade agreement\" OR \"trade negotiation\" OR \"bilateral trade\" OR \"trade barriers\" OR \"market access\" OR \"trade sanctions\"",
+        "articles_found": 97,
+        "total_available": 377,
+        "file_path": "c:\\Users\\crame\\Documents\\hound\\reports\\2025-W17\\2025-04-22\\results\\22-46-55\\news_results_22.json",
+        "suggested_terms": [
+            [
+                "trump",
+                61
+            ],
+            [
+                "tariffs",
+                29
+            ],
+            [
+                "china",
+                29
+            ],
+            [
+                "president",
+                25
+            ],
+            [
+                "vance",
+                23
+            ],
+            [
+                "modi",
+                20
+            ],
+            [
+                "india",
+                19
+            ],
+            [
+                "donald",
+                18
+            ],
+            [
+                "iphone",
+                17
+            ],
+            [
+                "could",
+                16
+            ]
+        ]
+    },
+    {
+        "category": "AI and Advanced Computing",
+        "query": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+        "articles_found": 98,
+        "total_available": 343,
+        "file_path": "c:\\Users\\crame\\Documents\\hound\\reports\\2025-W17\\2025-04-22\\results\\22-46-55\\news_results_23.json",
+        "suggested_terms": [
+            [
+                "academy",
+                21
+            ],
+            [
+                "google",
+                18
+            ],
+            [
+                "oscars",
+                18
+            ],
+            [
+                "search",
+                14
+            ],
+            [
+                "monday",
+                13
+            ],
+            [
+                "rules",
+                12
+            ],
+            [
+                "article",
+                11
+            ],
+            [
+                "voters",
+                11
+            ],
+            [
+                "data",
+                11
+            ],
+            [
+                "2025",
+                10
+            ]
+        ]
+    },
+    {
+        "category": "Geopolitical Flashpoints",
+        "query": "\"Gaza conflict\" OR \"Ukraine war\" OR \"Taiwan strait\" OR \"South China Sea\" OR \"Korean peninsula\" OR \"Iran nuclear\" OR \"Russia NATO\" OR \"Israel Hamas\" OR \"border dispute\" OR \"territorial claim\" OR \"Crimea annexation\" OR \"Donbas conflict\" OR \"West Bank settlement\" OR \"Gaza blockade\" OR \"China India border\" OR \"Armenia Azerbaijan\" OR \"Ethiopia Tigray\"",
+        "articles_found": 39,
+        "total_available": 39,
+        "file_path": "c:\\Users\\crame\\Documents\\hound\\reports\\2025-W17\\2025-04-22\\results\\22-46-55\\news_results_24.json",
+        "suggested_terms": [
+            [
+                "pope",
+                16
+            ],
+            [
+                "francis",
+                13
+            ],
+            [
+                "trump",
+                13
+            ],
+            [
+                "church",
+                7
+            ],
+            [
+                "administration",
+                6
+            ],
+            [
+                "deal",
+                5
+            ],
+            [
+                "military",
+                5
+            ],
+            [
+                "working",
+                5
+            ],
+            [
+                "three",
+                4
+            ],
+            [
+                "weeks",
+                4
+            ]
+        ]
+    }
+]
