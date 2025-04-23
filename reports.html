@@ -10,470 +10,6 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
     integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg=="
     crossorigin="anonymous" referrerpolicy="no-referrer" />
-  <style>
-    body {
-      font-family: 'Segoe UI', Arial, sans-serif;
-      background: #f9f9f9;
-      line-height: 1.6;
-      margin: 0 auto;
-    }
-
-    html,
-    body,
-    main,
-    .featured-reports-container,
-    .featured-report {
-      box-sizing: border-box;
-      width: 100%;
-      max-width: 100vw;
-      margin: 0;
-      padding: 0;
-    }
-
-    main {
-      max-width: 1200px;
-      margin-left: auto;
-      margin-right: auto;
-      width: 100%;
-      box-sizing: border-box;
-      padding-left: 2em;
-      padding-right: 2em;
-    }
-
-    .dashboard {
-      display: flex;
-      flex-direction: column;
-      gap: 2em;
-      max-width: 1200px;
-      margin-left: auto;
-      margin-right: auto;
-      width: 100%;
-      box-sizing: border-box;
-    }
-
-    @media (max-width: 900px) {
-      main,
-      .dashboard {
-        padding-left: 5px;
-        padding-right: 5px;
-      }
-    }
-
-    .logo {
-      width: 60px;
-      height: 60px;
-      margin-right: 16px;
-      border-radius: 50%;
-    }
-
-    .date-group {
-      background-color: white;
-      border-radius: 8px;
-      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-      padding: 1.5em;
-      margin-bottom: 2em;
-    }
-
-    .date-header {
-      background: #3498db;
-      color: white;
-      padding: 10px 16px;
-      border-radius: 4px;
-      font-size: 1.2em;
-      margin-bottom: 1em;
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-    }
-
-    .date-header .date-label {
-      font-weight: bold;
-    }
-
-    .date-header .report-count {
-      background: rgba(255, 255, 255, 0.3);
-      padding: 3px 10px;
-      border-radius: 20px;
-      font-size: 0.9em;
-    }
-
-    .report-section {
-      margin: 1.5em 0;
-    }
-
-    .report-type {
-      font-weight: 600;
-      border-bottom: 1px solid #eaeaea;
-      padding-bottom: 0.5em;
-      margin-bottom: 0.8em;
-      color: #34495e;
-      display: flex;
-      justify-content: space-between;
-    }
-
-    .report-list {
-      display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-      gap: 1em;
-    }
-
-    .report-card {
-      border: 1px solid #e0e0e0;
-      border-radius: 6px;
-      padding: 1em;
-      background: #f8f9fa;
-      transition: transform 0.2s, box-shadow 0.2s;
-      border-left: 4px solid transparent;
-      /* Add base for left border */
-    }
-
-    .report-card[data-type="analysis"] {
-      border-left-color: #17a2b8;
-      /* Teal border for basic briefs */
-      /* Optional: Slightly different background */
-      /* background: #f5fcff; */
-    }
-
-    .report-card[data-type="specialized"] {
-      border-left-color: #fd7e14;
-      /* Orange border for specialized */
-    }
-
-    .report-card:hover {
-      transform: translateY(-3px);
-      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    }
-
-    .report-card h4 {
-      margin-top: 0;
-      margin-bottom: 0.5em;
-      font-size: 1.1em;
-    }
-
-    .report-card p {
-      color: #7f8c8d;
-      font-size: 0.9em;
-      margin: 0.5em 0;
-    }
-
-    .report-card .timestamp {
-      color: #95a5a6;
-      font-size: 0.85em;
-      text-align: right;
-      margin-top: 0.8em;
-    }
-
-    .report-card a {
-      color: #3498db;
-      text-decoration: none;
-      display: inline-block;
-      padding: 6px 12px;
-      background: #f1f8fe;
-      border-radius: 4px;
-      margin-top: 10px;
-      transition: background 0.2s;
-    }
-
-    .report-card a:hover {
-      background: #e1f0fa;
-      text-decoration: underline;
-    }
-
-    .filters {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 0.5em;
-      margin: 1em 0;
-    }
-
-    .filter-btn {
-      background: #f1f1f1;
-      border: none;
-      padding: 8px 15px;
-      border-radius: 20px;
-      cursor: pointer;
-      font-size: 0.9em;
-      transition: background 0.2s;
-    }
-
-    .filter-btn:hover,
-    .filter-btn.active {
-      background: #3498db;
-      color: white;
-    }
-
-    .top-bar {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      margin-bottom: 2em;
-    }
-
-    .refresh-info {
-      color: #7f8c8d;
-      font-size: 0.9em;
-    }
-
-    footer {
-      margin-top: 3em;
-      padding-top: 1em;
-      border-top: 1px solid #eaeaea;
-      text-align: center;
-      color: #7f8c8d;
-      font-size: 0.9em;
-    }
-
-    @media (max-width: 768px) {
-      .report-list {
-        grid-template-columns: 1fr;
-      }
-
-      .filters {
-        flex-direction: column;
-      }
-
-      .featured-reports-container {
-        flex-direction: column;
-      }
-
-      header {
-        padding: 0.5rem;
-        /* Reduced padding */
-        margin-bottom: 0.5rem;
-        /* Further reduced margin */
-      }
-
-      .header-profile {
-        display: none;
-        /* Hide profile image on mobile */
-      }
-    }
-
-    @media (max-width: 600px) {
-      main {
-        padding: 0 1rem;
-      }
-    }
-
-    /* Add this to your existing styles */
-    .featured-report {
-      background: linear-gradient(to bottom, #f8fafc 0%, #f0f7fb 100%);
-      border-top: 4px solid #0056b3;
-      border-left: 6px solid #0056b3;
-      border-right: 1px solid #e3e8f0;
-      border-bottom: 1px solid #e3e8f0;
-      border-radius: 8px;
-      padding: 1.8em;
-      margin: 1em 0 2.5em 0;
-      box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
-      position: relative;
-      width: 100%;
-      box-sizing: border-box;
-      /* Add this line */
-      max-width: 100%;
-      /* Prevents overflow */
-    }
-
-    /* Responsive: reduce padding on small screens */
-    @media (max-width: 600px) {
-      .featured-report {
-        padding: 1em;
-      }
-    }
-
-    .featured-report::before {
-      content: "";
-      position: absolute;
-      top: 0;
-      right: 0;
-      width: 40px;
-      height: 40px;
-      background: linear-gradient(135deg, transparent 50%, #0056b3 50%);
-      /* Adjusted color */
-      border-radius: 0 0 0 8px;
-    }
-
-    .featured-report.brief-featured::before {
-      background: linear-gradient(135deg, transparent 50%, #2ecc71 50%);
-    }
-
-    .featured-header {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      margin-bottom: 1em;
-      margin-top: 2em;
-    }
-
-    /* More prominent featured label */
-    .featured-label {
-      font-size: 1.3em;
-      font-weight: bold;
-      color: #0056b3;
-      text-transform: uppercase;
-      letter-spacing: 0.05em;
-      display: flex;
-      align-items: center;
-    }
-
-    /* Add an icon to the label */
-    .featured-label::before {
-      content: "★";
-      margin-right: 8px;
-      font-size: 1.2em;
-    }
-
-    .featured-date {
-      color: #666;
-      font-style: italic;
-    }
-
-    .featured-content h2 {
-      margin-top: 0;
-      color: #333;
-    }
-
-    .featured-content p {
-      max-width: 640px;
-    }
-
-    .view-summary-btn {
-      display: inline-block;
-      background: #0056b3;
-      color: white;
-      padding: 8px 16px;
-      border-radius: 4px;
-      text-decoration: none;
-      margin-top: 1em;
-      transition: background-color 0.2s;
-    }
-
-    .view-summary-btn:hover {
-      background: #003d80;
-      /* Darker shade */
-    }
-
-    /* Featured report variations */
-    .featured-report.summary-featured {
-      border-left: 6px solid #0056b3;
-      /* Blue */
-      border-top: 4px solid #0056b3;
-    }
-
-    .featured-report.brief-featured {
-      border-left: 6px solid #2ecc71;
-      /* Green */
-      border-top: 4px solid #2ecc71;
-    }
-
-    /* Icon for summary */
-    .summary-featured .featured-label::before {
-      content: "★";
-      color: #0056b3;
-      margin-right: 8px;
-      font-size: 1.2em;
-    }
-
-    /* Icon for brief */
-    .brief-featured .featured-label::before {
-      content: "☑";
-      color: #2ecc71;
-      margin-right: 8px;
-      font-size: 1.2em;
-    }
-
-    .brief-featured .featured-label {
-      color: #2ecc71;
-    }
-
-    /* Agent attribution in cards */
-    .agent-attribution-card {
-      display: flex;
-      align-items: center;
-      margin-top: 0.5em;
-      margin-bottom: 0.5em;
-    }
-
-    .agent-avatar-small {
-      width: 24px;
-      height: 24px;
-      border-radius: 50%;
-      margin-right: 8px;
-    }
-
-    .agent-info-small {
-      display: flex;
-      flex-direction: column;
-    }
-
-    .agent-name-small {
-      font-weight: bold;
-      font-size: 0.85em;
-    }
-
-    .agent-title-small {
-      font-size: 0.75em;
-      color: #666;
-    }
-
-    .report-context {
-      font-weight: 500;
-      color: #555;
-      margin-bottom: 0.5em;
-      font-size: 0.95em;
-      border-left: 3px solid #007bff;
-      padding-left: 8px;
-    }
-
-    .view-brief-btn {
-      display: inline-block;
-      background: #2ecc71;
-      /* Green color for differentiation */
-      color: white;
-      padding: 8px 16px;
-      border-radius: 4px;
-      text-decoration: none;
-      margin-top: 1em;
-      transition: background-color 0.2s;
-    }
-
-    .view-brief-btn:hover {
-      background: #27ae60;
-      /* Darker green on hover */
-    }
-
-    /* Topic list in analysis cards */
-    .topic-list {
-      margin: 0.5em 0;
-      padding-left: 0.5em;
-      font-size: 0.9em;
-      color: #555;
-      list-style-type: none;
-    }
-
-    .topic-list li {
-      margin-bottom: 0.3em;
-      position: relative;
-      padding-left: 1.3em;
-    }
-
-    .topic-list li::before {
-      content: "";
-      position: absolute;
-      left: 0;
-      top: 0.25em;
-      width: 0.8em;
-      height: 0.8em;
-      /* Use default color - will be overridden by inline style */
-      background-color: #3498db;
-      clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
-    }
-
-    /* Apply the color from the data attribute */
-    .topic-list li[data-color]::before {
-      background-color: attr(data-color);
-    }
-  </style>
 </head>
 
 <body>
@@ -517,10 +53,22 @@
                 <p>The intelligence landscape on April 23, 2025, is dominated by several key themes.  The death of Pope Francis has created a significant power vacuum in...</p>
                 <a href="reports/2025-W17/2025-04-23/specialized-reports/09-55-08/Basic_Intelligence_Brief_2025-04-23_09-55-08.html" target="_blank" class="view-brief-btn">View Brief</a>
             </div>
+        </div>
+        <div class="featured-report newsletter-featured">
+            <div class="featured-header">
+                <span class="featured-label">Daily Newsletter</span>
+                <span class="featured-date">Wednesday, April 23, 2025</span>
+            </div>
+            <div class="featured-content">
+                
+                <p>The death of Pope Francis has initiated the complex process of selecting his successor, a decision with
+          far-reaching implications for the Ca...</p>
+                <a href="reports/2025-W17/2025-04-23/NEWSLETTER_2025-04-23_10-19-23_FINAL.html" target="_blank" class="view-newsletter-btn">View Newsletter</a>
+            </div>
         </div></div>
 
     <div class="top-bar">
-      <div class="refresh-info">Last updated: 2025-04-23 15:14:05</div>
+      <div class="refresh-info">Last updated: 2025-04-23 16:51:03</div>
     </div>
 
     <div class="filters">
@@ -536,7 +84,7 @@
     <div class="date-group">
         <div class="date-header">
             <span class="date-label">Wednesday, April 23, 2025</span>
-            <span class="report-count">34 Reports</span>
+            <span class="report-count">36 Reports</span>
         </div>
         <div class="report-section">
             <div class="report-type">
@@ -669,7 +217,7 @@
         <div class="report-section">
             <div class="report-type">
                 <span>Specialized Reports</span>
-                <span>9</span>
+                <span>10</span>
             </div>
             <div class="report-list">
             <div class="report-card" data-type="specialized">
@@ -678,6 +226,13 @@
                 <p>The intelligence reports from April 23, 2025, reveal a complex interplay of geopolitical tensions, technological advancements, and humanitarian crises...</p>
                 <div class="agent-attribution-card"><img src="assets/images/delta_icon.webp" alt="Agent Delta" class="agent-avatar-small"><div class="agent-info-small"><span class="agent-name-small">Agent Delta</span><span class="agent-title-small">Humanitarian & Social Impact Specialist</span></div></div>
                 <a href="reports/2025-W17/2025-04-23/specialized-reports/09-55-08/Analytical_Intelligence_Brief_2025-04-23_09-55-08.html" target="_blank">View Report</a>
+            </div>
+            <div class="report-card" data-type="specialized">
+                <h4>Basic</h4>
+                <div class="report-context">Geopolitical Instability and Conflict</div>
+                <p>The intelligence landscape on April 23, 2025, is dominated by several key themes.  The death of Pope Francis has created a significant power vacuum in...</p>
+                <div class="agent-attribution-card"><img src="assets/images/central_icon.webp" alt="Central Intelligence" class="agent-avatar-small"><div class="agent-info-small"><span class="agent-name-small">Central Intelligence</span><span class="agent-title-small">Intelligence Coordinator</span></div></div>
+                <a href="reports/2025-W17/2025-04-23/specialized-reports/09-55-08/Basic_Intelligence_Brief_2025-04-23_09-55-08.html" target="_blank">View Report</a>
             </div>
             <div class="report-card" data-type="specialized">
                 <h4>Chronological</h4>
@@ -740,13 +295,19 @@
         <div class="report-section">
             <div class="report-type">
                 <span>Summary Reports</span>
-                <span>1</span>
+                <span>2</span>
             </div>
             <div class="report-list">
-            <div class="report-card" data-type="final"> <!-- This data-type matches the new filter -->
+            <div class="report-card" data-type="final">
                 <h4>Daily Intelligence Newsletter</h4>
-                <p>The death of Pope Francis has initiated the complex process of selecting his successor, a decision with far-reaching implications for the Catholic Chu...</p>
+                <p>The death of Pope Francis has initiated the complex process of selecting his successor, a decision with
+          far-reaching implications for the Ca...</p>
                 <a href="reports/2025-W17/2025-04-23/NEWSLETTER_2025-04-23_10-19-23_FINAL.html" target="_blank">View Summary</a>
+            </div>
+            <div class="report-card" data-type="final">
+                <h4>Daily Intelligence Summary: 2025-04-23</h4>
+                <p>The global landscape on April 23, 2025, is marked by significant transitions and persistent tensions. The death of Pope Francis represents a major eve...</p>
+                <a href="reports/2025-W17/2025-04-23/analysis/09-55-08/FINAL_SUMMARY_2025-04-23_09-55-08.html" target="_blank">View Summary</a>
             </div>
             </div>
         </div>
@@ -754,7 +315,7 @@
     <div class="date-group">
         <div class="date-header">
             <span class="date-label">Tuesday, April 22, 2025</span>
-            <span class="report-count">33 Reports</span>
+            <span class="report-count">35 Reports</span>
         </div>
         <div class="report-section">
             <div class="report-type">
@@ -887,7 +448,7 @@
         <div class="report-section">
             <div class="report-type">
                 <span>Specialized Reports</span>
-                <span>9</span>
+                <span>10</span>
             </div>
             <div class="report-list">
             <div class="report-card" data-type="specialized">
@@ -896,6 +457,13 @@
                 <p>The death of Pope Francis has triggered global mourning and will significantly impact the Catholic Church's future direction.  Simultaneously, escalat...</p>
                 <div class="agent-attribution-card"><img src="assets/images/central_icon.webp" alt="Central Intelligence" class="agent-avatar-small"><div class="agent-info-small"><span class="agent-name-small">Central Intelligence</span><span class="agent-title-small">Intelligence Coordinator</span></div></div>
                 <a href="reports/2025-W17/2025-04-22/specialized-reports/22-46-55/Analytical_Intelligence_Brief_2025-04-22_22-46-55.html" target="_blank">View Report</a>
+            </div>
+            <div class="report-card" data-type="specialized">
+                <h4>Basic</h4>
+                <div class="report-context">Global Political Shifts</div>
+                <p>The death of Pope Francis has triggered global mourning and will lead to the selection of a new Pope, potentially altering the Church's direction.  Gl...</p>
+                <div class="agent-attribution-card"><img src="assets/images/central_icon.webp" alt="Central Intelligence" class="agent-avatar-small"><div class="agent-info-small"><span class="agent-name-small">Central Intelligence</span><span class="agent-title-small">Intelligence Coordinator</span></div></div>
+                <a href="reports/2025-W17/2025-04-22/specialized-reports/22-46-55/Basic_Intelligence_Brief_2025-04-22_22-46-55.html" target="_blank">View Report</a>
             </div>
             <div class="report-card" data-type="specialized">
                 <h4>Chronological</h4>
@@ -952,6 +520,19 @@
                 <p>Several underreported trends suggest potential for significant market shifts and geopolitical instability.  The weakening US dollar, coupled with risi...</p>
                 <div class="agent-attribution-card"><img src="assets/images/gamma_icon.webp" alt="Agent Gamma" class="agent-avatar-small"><div class="agent-info-small"><span class="agent-name-small">Agent Gamma</span><span class="agent-title-small">Economic & Market Analyst</span></div></div>
                 <a href="reports/2025-W17/2025-04-22/specialized-reports/22-46-55/Under-the-Radar_Developments_Report_2025-04-22_22-46-55.html" target="_blank">View Report</a>
+            </div>
+            </div>
+        </div>
+        <div class="report-section">
+            <div class="report-type">
+                <span>Summary Reports</span>
+                <span>1</span>
+            </div>
+            <div class="report-list">
+            <div class="report-card" data-type="final">
+                <h4>Daily Intelligence Summary: 2025-04-22</h4>
+                <p>April 22, 2025, saw several major global developments. The death of Pope Francis marked a significant moment for the Catholic Church and the world, pr...</p>
+                <a href="reports/2025-W17/2025-04-22/analysis/22-46-55/FINAL_SUMMARY_2025-04-22_22-46-55.html" target="_blank">View Summary</a>
             </div>
             </div>
         </div>
