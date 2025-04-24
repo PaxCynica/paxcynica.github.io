@@ -1,0 +1,303 @@
+.dashboard {
+    display: flex;
+    flex-direction: column;
+    gap: 2em;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.date-group {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    padding: 1.5em;
+    margin-bottom: 2em;
+}
+
+.date-header {
+    background: #3498db;
+    color: white;
+    padding: 10px 16px;
+    border-radius: 4px;
+    font-size: 1.2em;
+    margin-bottom: 1em;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.date-header .date-label {
+    font-weight: bold;
+}
+
+.date-header .report-count {
+    background: rgba(255, 255, 255, 0.3);
+    padding: 3px 10px;
+    border-radius: 20px;
+    font-size: 0.9em;
+}
+
+.report-section {
+    margin: 1.5em 0;
+}
+
+.report-type {
+    font-weight: 600;
+    border-bottom: 1px solid #eaeaea;
+    padding-bottom: 0.5em;
+    margin-bottom: 0.8em;
+    color: #34495e;
+    display: flex;
+    justify-content: space-between;
+}
+
+.report-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 1em;
+}
+
+.report-card {
+    border: 1px solid #e0e0e0;
+    border-radius: 6px;
+    padding: 1em;
+    background: #f8f9fa;
+    transition: transform 0.2s, box-shadow 0.2s;
+    border-left: 4px solid transparent;
+    /* Add base for left border */
+}
+
+.report-card[data-type="analysis"] {
+    border-left-color: #17a2b8;
+    /* Teal border for basic briefs */
+    /* Optional: Slightly different background */
+    /* background: #f5fcff; */
+}
+
+.report-card[data-type="specialized"] {
+    border-left-color: #fd7e14;
+    /* Orange border for specialized */
+}
+
+.report-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.report-card h4 {
+    margin-top: 0;
+    margin-bottom: 0.5em;
+    font-size: 1.1em;
+}
+
+.report-card p {
+    color: #7f8c8d;
+    font-size: 0.9em;
+    margin: 0.5em 0;
+}
+
+.report-card .timestamp {
+    color: #95a5a6;
+    font-size: 0.85em;
+    text-align: right;
+    margin-top: 0.8em;
+}
+
+.report-card a {
+    color: #3498db;
+    text-decoration: none;
+    display: inline-block;
+    padding: 6px 12px;
+    background: #f1f8fe;
+    border-radius: 4px;
+    margin-top: 10px;
+    transition: background 0.2s;
+}
+
+.report-card a:hover {
+    background: #e1f0fa;
+    text-decoration: underline;
+}
+
+.filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5em;
+    margin: 1em 0;
+}
+
+.filter-btn {
+    background: #f1f1f1;
+    border: none;
+    padding: 8px 15px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 0.9em;
+    transition: background 0.2s;
+}
+
+.filter-btn:hover,
+.filter-btn.active {
+    background: #3498db;
+    color: white;
+}
+
+.top-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 2em;
+}
+
+.refresh-info {
+    color: #7f8c8d;
+    font-size: 0.9em;
+}
+
+/* Agent attribution in cards */
+.agent-attribution-card {
+    display: flex;
+    align-items: center;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+.agent-avatar-small {
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    margin-right: 8px;
+}
+
+.agent-info-small {
+    display: flex;
+    flex-direction: column;
+}
+
+.agent-name-small {
+    font-weight: bold;
+    font-size: 0.85em;
+}
+
+.agent-title-small {
+    font-size: 0.75em;
+    color: #666;
+}
+
+.report-context {
+    font-weight: 500;
+    color: #555;
+    margin-bottom: 0.5em;
+    font-size: 0.95em;
+    border-left: 3px solid #007bff;
+    padding-left: 8px;
+}
+
+/* Topic list in analysis cards */
+.topic-list {
+    margin: 0.5em 0;
+    padding-left: 0.5em;
+    font-size: 0.9em;
+    color: #555;
+    list-style-type: none;
+}
+
+.topic-list li {
+    margin-bottom: 0.3em;
+    position: relative;
+    padding-left: 1.3em;
+}
+
+.topic-list li::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0.45em;
+    width: 0.8em;
+    height: 0.8em;
+    /* Use default color - will be overridden by inline style */
+    background-color: #3498db;
+    clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+}
+
+/* Apply the color from the data attribute */
+.topic-list li[data-color]::before {
+    background-color: attr(data-color);
+}
+
+@media (max-width: 900px) {
+    main,
+    .dashboard {
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+}
+
+@media (max-width: 768px) {
+    .report-list {
+        grid-template-columns: 1fr;
+    }
+
+    .filters {
+        flex-direction: column;
+    }
+
+    .featured-reports-container {
+        flex-direction: column;
+    }
+}
+
+@media (max-width: 600px) {
+    .date-group {
+        padding: 0.5rem;
+    }
+
+    .report-card {
+        position: relative;
+        margin-bottom: 12rem;
+    }
+
+    .report-card::after {
+        content: '';
+        position: absolute;
+        bottom: -15rem; 
+        left: 1.5rem;
+        width: 1px;
+        height: 15rem;
+        background-color: #ccc; 
+    }
+
+    .report-list .report-card:nth-child(odd)::after {
+        left: 1.5rem;
+        right: auto;
+    }
+
+
+    .report-list .report-card:nth-child(even)::after {
+        left: auto;
+        right: 1.5rem;
+    }
+
+
+    .report-list .report-card:last-child::after {
+        height: 5rem;
+        bottom: -5rem; 
+    }
+
+    .topic-list li {
+        margin-bottom: 1rem;
+    }
+
+    .report-type {
+        margin-bottom: 3rem;
+    }
+
+    .date-header {
+        font-size: 1.2em;
+        margin-bottom: 2em;
+        margin-top: 1rem;
+    }
+}

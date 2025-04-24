@@ -1,0 +1,285 @@
+/* Header Styles */
+header {
+    background: linear-gradient(rgba(26, 26, 46, 0.7), rgba(26, 26, 46, 0.7)), url('../assets/images/background_0.png');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    text-align: center;
+    padding: 4rem 20px;
+    margin-bottom: 3rem;
+    position: relative;
+}
+
+header::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.1);
+    z-index: 0;
+}
+
+.header-text-wrapper {
+    position: relative;
+    z-index: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 1rem;
+    border-radius: 12px;
+    background-color: rgba(0, 0, 0, 0.8);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    margin: 0 auto;
+    max-width: 600px;
+    width: 100%;
+}
+
+.header-profile {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 4px solid #e94560;
+    margin-bottom: 1rem;
+    position: relative;
+    z-index: 1;
+}
+
+header h1 {
+    font-size: 3rem;
+    margin-bottom: 0.5rem;
+    position: relative;
+    z-index: 1;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+header p {
+    font-size: 1.3rem;
+    position: relative;
+    z-index: 1;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+/* Header Navigation Bar Styles */
+.main-nav {
+    margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.main-nav .nav-links {
+    display: flex;
+    gap: 2rem;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    transition: max-height 0.3s;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #fff;
+    background: none;
+}
+
+.main-nav .nav-links li a {
+    text-decoration: none;
+    color: #fff;
+    /* White text for contrast */
+    font-weight: 600;
+    font-size: 1.08rem;
+    padding: 0.25rem 0.5rem;
+    border-radius: 4px;
+    transition: background 0.2s, color 0.2s;
+}
+
+.main-nav .nav-links li a:hover,
+.main-nav .nav-links li a:focus {
+    background: #263159;
+    color: #e94560;
+    outline: none;
+}
+
+/* Navigation Link Styling for Drawer/Menu */
+.main-nav .nav-links li a {
+    color: #fff;
+    font-size: 1.13rem;
+    font-weight: 600;
+    text-decoration: none;
+    display: block;
+    padding: 15px 0.75rem;
+    border-radius: 6px;
+    margin: 6px 0;
+    transition: background 0.2s, color 0.2s, font-weight 0.2s;
+    position: relative;
+    letter-spacing: 0.01em;
+}
+
+/* Active link indicator */
+.main-nav .nav-links li.active>a,
+.main-nav .nav-links li a.active {
+    background: #e94560;
+    color: #fff;
+    font-weight: 700;
+    border-left: 4px solid #e94560;
+    padding-left: calc(1.2rem - 4px);
+    position: relative;
+    box-shadow: 0 2px 8px rgba(233, 69, 96, 0.08);
+}
+
+/* Hover and focus states */
+.main-nav .nav-links li a:hover,
+.main-nav .nav-links li a:focus {
+    background: #263159;
+    color: #e94560;
+    outline: none;
+}
+
+.nav-toggle {
+    display: none;
+    background: none;
+    border: none;
+    font-size: 1.7rem;
+    color: #fff;
+    cursor: pointer;
+    margin-right: 1rem;
+    text-shadow: 0 1px 4px rgba(0, 0, 0, 0.4);
+
+}
+
+.nav-close {
+    display: none;
+    background: none;
+    border: none;
+    color: #fff;
+    font-size: 2rem;
+    position: absolute;
+    top: -1rem;
+    right: 1rem;
+    z-index: 110;
+    cursor: pointer;
+    padding: 0.25em;
+}
+
+
+/* Links List */
+.links {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+    padding: 1rem;
+}
+
+.links li {
+    background-color: #0f3460;
+    border-radius: 5px;
+    transition: transform 0.3s, background-color 0.3s;
+}
+
+.links li a {
+    display: block;
+    padding: 0.75rem 1.5rem;
+    text-decoration: none;
+    color: #e94560;
+    font-weight: 600;
+}
+
+.links li:hover {
+    background-color: #16213e;
+    transform: translateY(-5px);
+}
+
+@media (max-width: 700px) {
+    header {
+        padding: 0.5rem;
+        margin-bottom: 0.5rem;
+    }
+
+    .main-nav {
+        justify-content: flex-end;
+    }
+
+    .main-nav .nav-links {
+        flex-direction: column;
+        background: #16213e;
+        position: absolute;
+        top: 2.5rem;
+        right: 0;
+        width: 75vw;
+        max-width: 320px;
+        min-width: 180px;
+        max-height: 0;
+        overflow: hidden;
+        box-shadow: -4px 0 16px rgba(0, 0, 0, 0.18);
+        border-radius: 0 0 12px 12px;
+        z-index: 100;
+        padding: 0;
+        transition: max-height 0.3s, padding 0.3s;
+    }
+
+    .main-nav .nav-links.nav-open {
+        max-height: 400px;
+        padding: 2rem 1.5rem 2rem 1.5rem;
+    }
+
+    .main-nav .nav-links li {
+        margin: 0.75rem 0;
+        text-align: left;
+    }
+
+    .main-nav .nav-links li a {
+        padding: 0.5rem 0.75rem;
+        border-radius: 6px;
+        font-size: 1.08rem;
+        display: block;
+    }
+
+    .nav-toggle {
+        display: block;
+    }
+
+    .nav-close {
+        display: block;
+    }
+
+    .main-nav .nav-links {
+        position: absolute;
+    }
+
+    .main-nav .nav-links li:first-child {
+        position: relative;
+        width: 100%;
+        height: 2.5rem;
+        margin-bottom: 0.5rem;
+    }
+}
+
+@media (max-width: 600px) {
+    header {
+        padding: 0.5rem;
+        margin-bottom: 0.5rem;
+    }
+
+    header h1 {
+        font-size: 2rem;
+    }
+
+    .links {
+        flex-direction: column;
+        gap: 0.75rem;
+    }
+
+    .links li a {
+        padding: 0.5rem 1rem;
+        font-size: 0.95rem;
+    }
+
+    .header-profile {
+        display: none;
+    }
+}

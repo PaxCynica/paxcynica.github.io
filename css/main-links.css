@@ -1,0 +1,154 @@
+/* Disinfo Links Section Styles */
+.disinfo-links {
+    background-color: #f0f0f0;
+    border-radius: 12px;
+    padding: 2rem;
+    margin-bottom: 3rem;
+    text-align: center;
+    padding-left: 1rem;
+    /* Add left padding */
+    padding-right: 1rem;
+    /* Add right padding */
+}
+
+.disinfo-links p {
+    color: #555;
+    font-size: 1.1rem;
+    line-height: 1.6;
+    margin-bottom: 1.5rem;
+}
+
+.disinfo-links h2 {
+    color: #1a1a2e;
+    font-size: 2rem;
+    /* Increased section heading size */
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
+.disinfo-links ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    /* Center items horizontally */
+    gap: 1rem;
+    /* Consistent gap between buttons */
+}
+
+.disinfo-links ul li {
+    background-color: #0f3460;
+    /* Consistent background color */
+    border-radius: 5px;
+    transition: background-color 0.3s;
+    flex: 0 0 auto;
+    /* Don't grow, don't shrink, base size auto */
+    margin-bottom: 0.75rem;
+    /* Add vertical spacing between buttons */
+}
+
+.disinfo-links ul li a {
+    display: block;
+    padding: 0.75rem 1.5rem;
+    color: #e94560;
+    text-decoration: none;
+    text-align: center;
+    /* Center text within the button */
+    white-space: nowrap;
+    /* Prevent text from wrapping */
+}
+
+.disinfo-links ul li:hover {
+    background-color: #16213e;
+}
+
+/* Resources Section Styles */
+.resources-links {
+    padding: 2rem;
+    background-color: #fdfdfd;
+    border: 1px solid #eee;
+    margin: 0 auto 3rem;
+    /* Consistent margin-bottom */
+    border-radius: 12px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.resources-links img {
+    margin-bottom: 1rem;
+    align-self: flex-start;
+}
+
+.resources-links h2 {
+    color: #1a1a2e;
+    font-size: 2rem;
+    /* Increased section heading size */
+    font-weight: 500;
+    margin-bottom: 0.75rem;
+    /* Adjusted margin-bottom */
+    padding-left: 1rem;
+    /* Add left padding */
+    padding-right: 1rem;
+    /* Add right padding */
+}
+
+.resources-links p {
+    color: #555;
+    font-size: 1.1rem;
+    margin-bottom: 1rem;
+    /* Adjusted margin-bottom */
+    padding-left: 1rem;
+    /* Add left padding */
+    padding-right: 1rem;
+    /* Add right padding */
+}
+
+.resources-links a {
+    display: inline-block;
+    padding: 0.75rem 1.5rem;
+    text-decoration: none;
+    color: #fff;
+    /* Changed text color to white */
+    font-weight: 600;
+    background-color: #e94560;
+    /* Changed background color to a contrasting color */
+    border-radius: 5px;
+    transition: transform 0.3s, background-color 0.3s;
+    font-size: 1.2rem;
+    /* Made it slightly larger */
+}
+
+.resources-links a:hover {
+    background-color: #16213e;
+    transform: translateY(-5px);
+}
+
+/* Responsive design */
+@media (max-width: 600px) {
+    .disinfo-links ul {
+        flex-direction: column;
+        gap: 0.75rem;
+    }
+
+    .disinfo-links ul li a {
+        padding: 0.5rem 1rem;
+        font-size: 0.95rem;
+    }
+
+    .resources-links {
+        margin-bottom: 1.5rem;
+    }
+
+    .disinfo-links {
+        margin-bottom: 1.5rem;
+    }
+
+    .resources-links h2,
+    .resources-links p {
+        text-align: left;
+    }
+}

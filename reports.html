@@ -5,7 +5,11 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Datum Global Intel</title>
-  <link rel="stylesheet" href="css/style2.css">
+  <link rel="stylesheet" href="css/general.css">
+  <link rel="stylesheet" href="css/header.css">
+  <link rel="stylesheet" href="css/features.css ">
+  <link rel="stylesheet" href="css/dashboard.css ">
+  <link rel="stylesheet" href="css/footer.css">
   <link rel="icon" href="assets/favicon.ico" type="image/x-icon">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
     integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg=="
@@ -24,6 +28,11 @@
         <span class="fas fa-bars"></span>
       </button>
       <ul class="nav-links">
+        <li>
+          <button class="nav-close" aria-label="Close navigation">
+            <span class="fas fa-times"></span>
+          </button>
+        </li>
         <li><a href="index.html">Home</a></li>
         <li><a href="reports.html">Reports</a></li>
         <li><a href="about.html">About</a></li>
@@ -32,15 +41,16 @@
     </nav>
   </header>
   <main>
-    <!-- Featured Executive Summary -->
-    <div class="featured-reports-container">
+    <div class="container">
+      <!-- Featured Executive Summary -->
+      <div class="featured-reports-container">
         <div class="featured-report summary-featured">
             <div class="featured-header">
                 <span class="featured-label">Executive Summary</span>
                 <span class="featured-date">Wednesday, April 23, 2025</span>
             </div>
             <div class="featured-content">
-                <p>The global landscape on April 23, 2025, is marked by significant transitions and persistent tensions. The death of Pope Francis represents a major eve...</p>
+                <p>The global landscape on April 23, 2025, was dominated by several converging critical developments. The passing of Pope Francis marked a significant mo...</p>
                 <a href="reports/2025-W17/2025-04-23/analysis/09-55-08/FINAL_SUMMARY_2025-04-23_09-55-08.html" target="_blank" class="view-summary-btn">View Full Summary</a>
             </div>
         </div>
@@ -67,20 +77,20 @@
             </div>
         </div></div>
 
-    <div class="top-bar">
-      <div class="refresh-info">Last updated: 2025-04-23 16:51:03</div>
-    </div>
+      <div class="top-bar">
+        <div class="refresh-info">Last updated: 2025-04-23 21:35:47</div>
+      </div>
 
-    <div class="filters">
-      <button class="filter-btn active" data-filter="all">All</button>
-      <button class="filter-btn" data-filter="analysis">Analysis</button>
-      <button class="filter-btn" data-filter="specialized">Specialized</button>
-      <button class="filter-btn" data-filter="final">Summary</button> <!-- Added Summary Filter -->
-    </div>
+      <div class="filters">
+        <button class="filter-btn active" data-filter="all">All</button>
+        <button class="filter-btn" data-filter="analysis">Analysis</button>
+        <button class="filter-btn" data-filter="specialized">Specialized</button>
+        <button class="filter-btn" data-filter="final">Summary</button> <!-- Added Summary Filter -->
+      </div>
 
-    <div class="dashboard">
-      <!-- Date groups will be inserted here by the Python script -->
-      
+      <div class="dashboard">
+        <!-- Date groups will be inserted here by the Python script -->
+        
     <div class="date-group">
         <div class="date-header">
             <span class="date-label">Wednesday, April 23, 2025</span>
@@ -306,7 +316,7 @@
             </div>
             <div class="report-card" data-type="final">
                 <h4>Daily Intelligence Summary: 2025-04-23</h4>
-                <p>The global landscape on April 23, 2025, is marked by significant transitions and persistent tensions. The death of Pope Francis represents a major eve...</p>
+                <p>The global landscape on April 23, 2025, was dominated by several converging critical developments. The passing of Pope Francis marked a significant mo...</p>
                 <a href="reports/2025-W17/2025-04-23/analysis/09-55-08/FINAL_SUMMARY_2025-04-23_09-55-08.html" target="_blank">View Summary</a>
             </div>
             </div>
@@ -537,6 +547,7 @@
             </div>
         </div>
     </div>
+      </div>
     </div>
   </main>
   <footer>
