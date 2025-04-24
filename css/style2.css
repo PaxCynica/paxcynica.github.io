@@ -45,15 +45,6 @@ main {
     box-sizing: border-box;
 }
 
-@media (max-width: 900px) {
-
-    main,
-    .dashboard {
-        padding-left: 5px;
-        padding-right: 5px;
-    }
-}
-
 .logo {
     width: 60px;
     height: 60px;
@@ -218,39 +209,22 @@ footer {
     font-size: 0.9em;
 }
 
-@media (max-width: 768px) {
-    .report-list {
-        grid-template-columns: 1fr;
-    }
-
-    .filters {
-        flex-direction: column;
-    }
-
-    .featured-reports-container {
-        flex-direction: column;
-    }
-
-    header {
-        padding: 0.5rem;
-        /* Reduced padding */
-        margin-bottom: 0.5rem;
-        /* Further reduced margin */
-    }
-
-    .header-profile {
-        display: none;
-        /* Hide profile image on mobile */
-    }
+/* FEATURES */
+/* --- Featured Reports Section --- */
+.featured-reports-container {
+    display: flex;
+    flex-wrap: wrap;
+    /* Allow wrapping on smaller screens */
+    gap: 1.5rem;
+    /* Space between featured cards */
+    margin-bottom: 2rem;
+    padding: 1rem;
+    /* Add some padding around the container */
+    background-color: #f0f4f8;
+    /* Light background for the featured area */
+    border-radius: 8px;
 }
 
-@media (max-width: 600px) {
-    main {
-        padding: 0 1rem;
-    }
-}
-
-/* Add this to your existing styles */
 .featured-report {
     background: linear-gradient(to bottom, #f8fafc 0%, #f0f7fb 100%);
     border-top: 4px solid #0056b3;
@@ -264,16 +238,35 @@ footer {
     position: relative;
     width: 100%;
     box-sizing: border-box;
-    /* Add this line */
     max-width: 100%;
-    /* Prevents overflow */
+    flex: 1 1 300px;
+    display: flex;
+    flex-direction: column;
 }
 
-/* Responsive: reduce padding on small screens */
-@media (max-width: 600px) {
-    .featured-report {
-        padding: 1em;
-    }
+.featured-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid #eee;
+}
+
+.featured-label {
+    font-size: 1.3em;
+    font-weight: 700;
+    color: #0056b3;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    display: flex;
+    align-items: center;
+}
+
+.featured-label::before {
+    content: "★";
+    margin-right: 8px;
+    font-size: 1.2em;
 }
 
 .featured-report::before {
@@ -288,39 +281,11 @@ footer {
     border-radius: 0 0 0 8px;
 }
 
-.featured-report.brief-featured::before {
-    background: linear-gradient(135deg, transparent 50%, #2ecc71 50%);
-}
-
-.featured-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-bottom: 1em;
-    margin-top: 2em;
-}
-
-/* More prominent featured label */
-.featured-label {
-    font-size: 1.3em;
-    font-weight: bold;
-    color: #0056b3;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-    display: flex;
-    align-items: center;
-}
-
-/* Add an icon to the label */
-.featured-label::before {
-    content: "★";
-    margin-right: 8px;
-    font-size: 1.2em;
-}
-
 .featured-date {
     color: #666;
     font-style: italic;
+    font-size: 0.9em;
+
 }
 
 .featured-content h2 {
@@ -330,29 +295,27 @@ footer {
 
 .featured-content p {
     max-width: 640px;
+    margin-bottom: 1rem;
+    color: #444;
+    line-height: 1.6;
+    flex-grow: 1;
 }
 
-.view-summary-btn {
+.featured-content a {
+    /* Base style for links in featured cards */
     display: inline-block;
-    background: #0056b3;
-    color: white;
-    padding: 8px 16px;
+    padding: 0.5rem 1rem;
     border-radius: 4px;
     text-decoration: none;
-    margin-top: 1em;
-    transition: background-color 0.2s;
+    font-weight: 600;
+    transition: background-color 0.2s ease;
+    text-align: center;
+    margin-top: auto;
 }
 
-.view-summary-btn:hover {
-    background: #003d80;
-    /* Darker shade */
-}
-
-/* Featured report variations */
-.featured-report.summary-featured {
-    border-left: 6px solid #0056b3;
-    /* Blue */
-    border-top: 4px solid #0056b3;
+/* BRIEF */
+.featured-report.brief-featured::before {
+    background: linear-gradient(135deg, transparent 50%, #2ecc71 50%);
 }
 
 .featured-report.brief-featured {
@@ -361,15 +324,6 @@ footer {
     border-top: 4px solid #2ecc71;
 }
 
-/* Icon for summary */
-.summary-featured .featured-label::before {
-    content: "★";
-    color: #0056b3;
-    margin-right: 8px;
-    font-size: 1.2em;
-}
-
-/* Icon for brief */
 .brief-featured .featured-label::before {
     content: "☑";
     color: #2ecc71;
@@ -398,112 +352,88 @@ footer {
     /* Darker green on hover */
 }
 
-/* --- Featured Reports Container --- */
-/* (Ensure you have base styles for .featured-reports-container and .featured-report) */
-.featured-reports-container {
-    display: flex;
-    flex-wrap: wrap; /* Allow wrapping on smaller screens */
-    gap: 1.5rem; /* Space between featured cards */
-    margin-bottom: 2rem;
-    padding: 1rem; /* Add some padding around the container */
-    background-color: #f0f4f8; /* Light background for the featured area */
-    border-radius: 8px;
-}
-
-.featured-report {
-    background-color: #fff;
-    border-radius: 6px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.08);
-    padding: 1.25rem;
-    flex: 1 1 300px; /* Allow cards to grow and shrink, base width 300px */
-    display: flex;
-    flex-direction: column;
-    border-left: 5px solid #ccc; /* Default border */
-}
-
-.featured-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-bottom: 1rem;
-    padding-bottom: 0.5rem;
-    border-bottom: 1px solid #eee;
-}
-
-.featured-label {
-    font-weight: 700;
-    font-size: 1.1em;
-    color: #333;
-}
-
-.featured-date {
-    font-size: 0.9em;
-    color: #666;
-}
-
-.featured-content p {
-    margin-bottom: 1rem;
-    color: #444;
-    line-height: 1.6;
-    flex-grow: 1; /* Allow description to take up space */
-}
-
-.featured-content a { /* Base style for links in featured cards */
+/* SUMMARY */
+.view-summary-btn {
     display: inline-block;
-    padding: 0.5rem 1rem;
+    background: #0056b3;
+    color: white;
+    padding: 8px 16px;
     border-radius: 4px;
     text-decoration: none;
-    font-weight: 600;
-    transition: background-color 0.2s ease;
-    text-align: center;
-    margin-top: auto; /* Push button to bottom */
+    margin-top: 1em;
+    transition: background-color 0.2s;
 }
 
+.view-summary-btn:hover {
+    background: #003d80;
+    /* Darker shade */
+}
 
-/* --- Featured Newsletter Card --- */
+.featured-report.summary-featured {
+    border-left: 6px solid #0056b3;
+    /* Blue */
+    border-top: 4px solid #0056b3;
+}
+
+.summary-featured .featured-label::before {
+    content: "★";
+    color: #0056b3;
+    margin-right: 8px;
+    font-size: 1.2em;
+}
+
+/* NEWSLETTER */
 .featured-report.newsletter-featured {
-    border-left-color: #f39c12; /* Orange */
+    border-left-color: #f39c12;
+    /* Orange */
     border-top: 4px solid #f39c12;
 }
 
 .featured-report.newsletter-featured::before {
-    background: linear-gradient(135deg, transparent 50%, #f39c12 50%); /* Orange corner */
+    background: linear-gradient(135deg, transparent 50%, #f39c12 50%);
+    /* Orange corner */
 }
 
 .newsletter-featured .featured-header {
-    border-bottom-color: #f39c12; /* Match border color */
+    border-bottom-color: #f39c12;
+    /* Match border color */
 }
 
 .newsletter-featured .featured-label {
-    color: #f39c12; /* Match border/header color */
+    color: #f39c12;
+    /* Match border/header color */
 }
 
 .newsletter-featured .featured-label::before {
-    content: "📰"; /* Newspaper emoji */
-    color: #f39c12; /* Orange */
+    content: "📰";
+    /* Newspaper emoji */
+    color: #f39c12;
+    /* Orange */
     margin-right: 8px;
-    font-size: 1.2em; /* Adjust size if needed */
+    font-size: 1.2em;
+    /* Adjust size if needed */
 }
 
-/* Context/Header text styling for newsletter */
 .newsletter-featured .featured-context {
     font-style: italic;
     color: #555;
     margin-bottom: 0.75rem;
     padding-bottom: 0.5rem;
-    border-bottom: 1px dashed #eee; /* Subtle separator */
+    border-bottom: 1px dashed #eee;
+    /* Subtle separator */
     font-size: 0.95em;
 }
 
-/* Newsletter view button */
 .newsletter-featured .view-newsletter-btn {
-    background-color: #f39c12; /* Match header/border */
+    background-color: #f39c12;
+    /* Match header/border */
     color: #fff;
 }
 
 .newsletter-featured .view-newsletter-btn:hover,
 .newsletter-featured .view-newsletter-btn:focus {
-    background-color: #e67e22; /* Darker orange shade on hover/focus */
+    background-color: #e67e22;
+    /* Darker orange shade on hover/focus */
     color: #fff;
     outline: none;
 }
@@ -762,6 +692,41 @@ header p {
     padding: 0.25em;
 }
 
+@media (max-width: 900px) {
+
+    main,
+    .dashboard {
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+}
+
+@media (max-width: 768px) {
+    .report-list {
+        grid-template-columns: 1fr;
+    }
+
+    .filters {
+        flex-direction: column;
+    }
+
+    .featured-reports-container {
+        flex-direction: column;
+    }
+
+    header {
+        padding: 0.5rem;
+        /* Reduced padding */
+        margin-bottom: 0.5rem;
+        /* Further reduced margin */
+    }
+
+    .header-profile {
+        display: none;
+        /* Hide profile image on mobile */
+    }
+}
+
 /* Responsive Hamburger Menu Drawer */
 @media (max-width: 700px) {
     .main-nav {
@@ -825,5 +790,32 @@ header p {
         width: 100%;
         height: 2.5rem;
         margin-bottom: 0.5rem;
+    }
+}
+
+@media (max-width: 600px) {
+    main {
+        padding: 0 1rem;
+    }
+
+    header {
+        padding: 0.5rem;
+        /* Reduced padding */
+        margin-bottom: 0.5rem;
+        /* Further reduced margin */
+    }
+
+    header h1 {
+        font-size: 2rem;
+    }
+    
+    .links {
+        flex-direction: column;
+        gap: 0.75rem;
+    }
+
+    .links li a {
+        padding: 0.5rem 1rem;
+        font-size: 0.95rem;
     }
 }

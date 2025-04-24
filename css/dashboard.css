@@ -2,7 +2,6 @@
     display: flex;
     flex-direction: column;
     gap: 2em;
-    max-width: 1200px;
     margin-left: auto;
     margin-right: auto;
     width: 100%;
@@ -63,11 +62,13 @@
 .report-card {
     border: 1px solid #e0e0e0;
     border-radius: 6px;
-    padding: 1em;
+    padding: 1.5em;
     background: #f8f9fa;
     transition: transform 0.2s, box-shadow 0.2s;
     border-left: 4px solid transparent;
-    /* Add base for left border */
+    display: flex;
+    flex-direction: column;
+
 }
 
 .report-card[data-type="analysis"] {
@@ -89,21 +90,21 @@
 
 .report-card h4 {
     margin-top: 0;
-    margin-bottom: 0.5em;
+    margin-bottom: 0.8em;
     font-size: 1.1em;
 }
 
 .report-card p {
     color: #7f8c8d;
-    font-size: 0.9em;
-    margin: 0.5em 0;
+    font-size: 0.9rem;
+    margin: 0.5rem 0;
+    margin-bottom: 1.3rem;
 }
 
 .report-card .timestamp {
     color: #95a5a6;
-    font-size: 0.85em;
+    font-size: 0.85rem;
     text-align: right;
-    margin-top: 0.8em;
 }
 
 .report-card a {
@@ -113,8 +114,9 @@
     padding: 6px 12px;
     background: #f1f8fe;
     border-radius: 4px;
-    margin-top: 10px;
     transition: background 0.2s;
+    margin-top: auto;
+    align-self: flex-start;
 }
 
 .report-card a:hover {
@@ -125,8 +127,8 @@
 .filters {
     display: flex;
     flex-wrap: wrap;
-    gap: 0.5em;
-    margin: 1em 0;
+    gap: 0.5rem;
+    margin: 1rem 0;
 }
 
 .filter-btn {
@@ -135,7 +137,7 @@
     padding: 8px 15px;
     border-radius: 20px;
     cursor: pointer;
-    font-size: 0.9em;
+    font-size: 0.9rem;
     transition: background 0.2s;
 }
 
@@ -149,20 +151,19 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-bottom: 2em;
+    margin-bottom: 2rem;
 }
 
 .refresh-info {
     color: #7f8c8d;
-    font-size: 0.9em;
+    font-size: 0.9rem;
 }
 
 /* Agent attribution in cards */
 .agent-attribution-card {
     display: flex;
     align-items: center;
-    margin-top: 0.5em;
-    margin-bottom: 0.5em;
+    margin-bottom:2rem;
 }
 
 .agent-avatar-small {
@@ -179,45 +180,47 @@
 
 .agent-name-small {
     font-weight: bold;
-    font-size: 0.85em;
+    font-size: 0.85rem;
 }
 
 .agent-title-small {
-    font-size: 0.75em;
+    font-size: 0.75rem;
     color: #666;
 }
 
 .report-context {
     font-weight: 500;
     color: #555;
-    margin-bottom: 0.5em;
-    font-size: 0.95em;
+    margin-bottom: 0.5rem;
+    font-size: 0.95rem;
     border-left: 3px solid #007bff;
     padding-left: 8px;
 }
 
 /* Topic list in analysis cards */
 .topic-list {
-    margin: 0.5em 0;
-    padding-left: 0.5em;
-    font-size: 0.9em;
+    margin: 0.5rem 0;
+    padding-left: 0.5rem;
+    font-size: 0.95rem;
     color: #555;
     list-style-type: none;
+    margin-bottom: 2rem;
 }
 
 .topic-list li {
-    margin-bottom: 0.3em;
+    margin-bottom: 0.7rem;
     position: relative;
-    padding-left: 1.3em;
+    padding-left: 1.3rem;
+    line-height: 1.5;
 }
 
 .topic-list li::before {
     content: "";
     position: absolute;
     left: 0;
-    top: 0.45em;
-    width: 0.8em;
-    height: 0.8em;
+    top: 0.35rem;
+    width: 0.8rem;
+    height: 0.8rem;
     /* Use default color - will be overridden by inline style */
     background-color: #3498db;
     clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
@@ -287,8 +290,13 @@
         bottom: -5rem; 
     }
 
+    .topic-list {
+        font-size: 1rem;
+    }
+
     .topic-list li {
         margin-bottom: 1rem;
+        line-height: 1.6;
     }
 
     .report-type {
@@ -300,4 +308,15 @@
         margin-bottom: 2em;
         margin-top: 1rem;
     }
+}
+
+@media (min-width: 2000px) {
+    .date-group {
+        margin-bottom: 10vh;
+
+    }
+    .container {
+        max-width: fit-content;
+    }
+
 }
