@@ -1,0 +1,161 @@
+.category-label {
+    display: inline-block;
+    background: #34495E;
+    /* Central's color */
+    color: white;
+    padding: 6px 14px;
+    border-radius: 4px;
+    font-size: 1.1em;
+    margin-bottom: 1.5em;
+}
+
+/* Agent attribution section */
+.agent-attribution {
+    display: flex;
+    align-items: center;
+    margin-bottom: 2em;
+    padding: 0.5em 1em;
+    border-left: 4px solid #34495E;
+    background-color: #f5f7f9;
+}
+
+.summary-section {
+    background-color: #f0f2f4;
+    /* Light slate for Central */
+    border-left: 4px solid #34495E;
+    padding: 1.5em;
+    margin: 2em 0;
+}
+
+a {
+    color: #34495E;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #2c3e50;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    .theme-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* Central-specific sections */
+.theme-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 20px;
+    margin: 2em 0;
+}
+
+.theme-card {
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    padding: 1.2em;
+    border-top: 3px solid #34495E;
+}
+
+.theme-card h3 {
+    margin-top: 0;
+    color: #34495E;
+    font-size: 1.2em;
+}
+
+.key-indicators {
+    margin: 2em 0;
+}
+
+.indicator-item {
+    display: flex;
+    justify-content: space-between;
+    padding: 0.8em 0;
+    border-bottom: 1px solid #eee;
+}
+
+.indicator-label {
+    font-weight: bold;
+}
+
+.indicator-value {
+    color: #444;
+}
+
+.trend-up,
+.trend-positive {
+    color: #27ae60;
+}
+
+.trend-down,
+.trend-negative {
+    color: #e74c3c;
+}
+
+.trend-neutral {
+    color: #7f8c8d;
+}
+
+.strategic-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1.5em 0;
+}
+
+.strategic-table th {
+    background-color: #34495E;
+    color: white;
+    text-align: left;
+    padding: 10px 12px;
+}
+
+.strategic-table td {
+    padding: 8px 12px;
+    border-bottom: 1px solid #eee;
+}
+
+.strategic-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+.tag-container {
+    margin-top: 0.5em;
+}
+
+.tag {
+    display: inline-block;
+    background: #eee;
+    padding: 3px 8px;
+    border-radius: 3px;
+    font-size: 0.8em;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    color: #555;
+}
+
+.tag.critical {
+    background-color: #f5b7b1;
+    color: #922b21;
+}
+
+.tag.important {
+    background-color: #fdebd0;
+    color: #9c640c;
+}
+
+.tag.monitor {
+    background-color: #d4efdf;
+    color: #196f3d;
+}
+
+.executive-action-items {
+    background-color: #f8f9fa;
+    border: 1px solid #e9ecef;
+    border-left: 4px solid #34495E;
+    padding: 1.2em;
+    margin: 1.5em 0;
+}
+

@@ -1,0 +1,137 @@
+.category-label {
+    display: inline-block;
+    background: #00ACEE;
+    /* Beta's color */
+    color: white;
+    padding: 6px 14px;
+    border-radius: 4px;
+    font-size: 1.1em;
+    margin-bottom: 1.5em;
+}
+
+/* Agent attribution div */
+.agent-attribution {
+    display: flex;
+    align-items: center;
+    margin-bottom: 2em;
+    padding: 0.5em 1em;
+    border-left: 4px solid #00ACEE;
+    background-color: #f0faff;
+}
+
+.summary-section {
+    background-color: #f0faff;
+    /* Light cyan for Beta */
+    border-left: 4px solid #00ACEE;
+    padding: 1.5em;
+    margin: 2em 0;
+}
+
+a {
+    color: #00ACEE;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #0077b5;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    .tech-specs {
+        font-size: 0.85em;
+    }
+}
+
+/* Beta-specific divs */
+.tech-specs {
+    background-color: #f5f7f9;
+    border-left: 3px solid #00ACEE;
+    padding: 1.2em;
+    margin: 1.5em 0;
+    font-family: 'Consolas', 'Monaco', 'Courier New', monospace;
+    font-size: 0.95em;
+    overflow-x: auto;
+}
+
+.vulnerability-analysis {
+    margin: 1.5em 0;
+}
+
+.vulnerability-item {
+    padding: 0.8em;
+    margin-bottom: 1em;
+    border-radius: 4px;
+    border-left: 4px solid #00ACEE;
+}
+
+.severity-high {
+    border-left-color: #e74c3c;
+    background-color: rgba(231, 76, 60, 0.05);
+}
+
+.severity-medium {
+    border-left-color: #f39c12;
+    background-color: rgba(243, 156, 18, 0.05);
+}
+
+.severity-low {
+    border-left-color: #27ae60;
+    background-color: rgba(39, 174, 96, 0.05);
+}
+
+.severity-label {
+    display: inline-block;
+    padding: 3px 8px;
+    border-radius: 3px;
+    font-weight: bold;
+    font-size: 0.85em;
+    margin-right: 8px;
+    color: white;
+}
+
+.high {
+    background-color: #e74c3c;
+}
+
+.medium {
+    background-color: #f39c12;
+}
+
+.low {
+    background-color: #27ae60;
+}
+
+.code-block {
+    background: #282c34;
+    color: #abb2bf;
+    padding: 1em;
+    border-radius: 4px;
+    overflow-x: auto;
+    font-family: 'Consolas', 'Monaco', 'Courier New', monospace;
+    font-size: 0.9em;
+    line-height: 1.5;
+}
+
+.tech-diagram {
+    width: 100%;
+    padding: 1em;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin: 1.5em 0;
+    text-align: center;
+}
+
+.future-tech-div {
+    border-top: 1px solid #eee;
+    margin-top: 2em;
+    padding-top: 1.5em;
+}
+
+.tech-prediction {
+    border-left: 3px solid #00ACEE;
+    padding-left: 1.2em;
+    margin: 1.5em 0;
+}

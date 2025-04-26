@@ -5,20 +5,11 @@ header {
     background-position: center;
     color: #fff;
     text-align: center;
-    padding: 4rem 20px;
-    margin-bottom: 3rem;
-    position: relative;
-}
-
-header::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-color: rgba(0, 0, 0, 0.1);
-    z-index: 0;
+    align-items: center;
+    padding: 1.5rem;
+    margin-bottom: 1.5rem;
+    display: flex;
+    flex-direction: column;
 }
 
 .header-text-wrapper {
@@ -45,7 +36,6 @@ header::before {
     object-fit: cover;
     border: 4px solid #e94560;
     margin-bottom: 1rem;
-    position: relative;
     z-index: 1;
 }
 
@@ -66,11 +56,28 @@ header p {
 
 /* Header Navigation Bar Styles */
 .main-nav {
-    margin-top: 1rem;
     display: flex;
     justify-content: center;
     align-items: center;
     position: relative;
+    margin-bottom: 2rem;
+}
+
+.menu-bars {
+    background-image: url(../assets/images/menu.png);
+    background-size: cover;
+    width: 35px;
+    height: 35px;
+    display: inline-block;
+}
+
+.menu-times {
+    background-image: url(../assets/images/times.png);
+    background-size: cover;
+    background-position: right;
+    width: 22px;
+    height: 22px;
+    display: inline-block;
 }
 
 .main-nav .nav-links {
@@ -81,14 +88,11 @@ header p {
     margin: 0;
     transition: max-height 0.3s;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: #fff;
     background: none;
 }
 
 .main-nav .nav-links li a {
     text-decoration: none;
-    color: #fff;
-    /* White text for contrast */
     font-weight: 600;
     font-size: 1.08rem;
     padding: 0.25rem 0.5rem;
@@ -105,7 +109,6 @@ header p {
 
 /* Navigation Link Styling for Drawer/Menu */
 .main-nav .nav-links li a {
-    color: #fff;
     font-size: 1.13rem;
     font-weight: 600;
     text-decoration: none;
@@ -147,7 +150,6 @@ header p {
     cursor: pointer;
     margin-right: 1rem;
     text-shadow: 0 1px 4px rgba(0, 0, 0, 0.4);
-
 }
 
 .nav-close {
@@ -237,6 +239,8 @@ header p {
         border-radius: 6px;
         font-size: 1.08rem;
         display: block;
+        color: #fff;
+
     }
 
     .nav-toggle {
@@ -281,5 +285,21 @@ header p {
 
     .header-profile {
         display: none;
+    }
+}
+
+@media (min-width: 2000px) {
+    header {
+        height: 85vh;
+
+    }
+
+    .header-profile {
+        margin-top: 25vh;
+        align-self: center;
+    }
+
+    nav {
+        height: 15vh;
     }
 }

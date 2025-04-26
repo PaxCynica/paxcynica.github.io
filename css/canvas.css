@@ -1,0 +1,34 @@
+@media (min-width: 2000px) {
+    #splash {
+        border: 1px solid #000;
+        width: 100%;
+        height: 100%;
+    }
+
+    .canvas__wrapper {
+        width: 100%;
+        height: 100%;
+        padding: 10rem;
+    }
+
+    .viewport {
+        position: relative;
+        height: calc(50vh);
+        /* Full height minus controls */
+        overflow: hidden;
+        margin-bottom: 60px;
+    }
+
+    .script-container {
+        position: absolute;
+        width: 100%;
+        transition: transform 0.1s linear;
+        /* For smoother small adjustments */
+    }
+
+    .script {
+        font-size: 24px;
+        padding-bottom: 100vh;
+        /* Extra space at bottom */
+    }
+}

@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="css/general.css">
     <link rel="stylesheet" href="css/header.css">
     <link rel="stylesheet" href="css/main-links.css ">
+    <link rel="stylesheet" href="css/canvas.css ">
     <link rel="stylesheet" href="css/footer.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
         integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg=="
@@ -23,48 +24,52 @@
             <h1>Datum Global</h1>
             <p>Strategic Insights for Informed Citizens</p>
         </div>
-        <!-- Header Navigation Bar -->
-        <nav class="main-nav" aria-label="Main Navigation">
-            <button class="nav-toggle" aria-label="Open navigation">
-                <span class="fas fa-bars"></span>
-            </button>
-            <ul class="nav-links">
-                <li>
-                    <button class="nav-close" aria-label="Close navigation">
-                        <span class="fas fa-times"></span>
-                    </button>
-                </li>
-                <li><a href="index.html">Home</a></li>
-                <li><a href="reports.html">Reports</a></li>
-                <li><a href="about.html">About</a></li>
-                <!-- <li><a href="contact.html">Contact</a></li> -->
-            </ul>
-        </nav>
+
     </header>
+    
+    <!-- Header Navigation Bar -->
+    <nav class="main-nav" aria-label="Main Navigation">
+        <button class="nav-toggle" aria-label="Open navigation">
+            <span class="menu-bars"></span>
+        </button>
+        <ul class="nav-links">
+            <li>
+                <button class="nav-close" aria-label="Close navigation">
+                    <span class="menu-times"></span>
+                </button>
+            </li>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="reports.html">Reports</a></li>
+            <li><a href="about.html">About</a></li>
+            <!-- <li><a href="contact.html">Contact</a></li> -->
+        </ul>
+    </nav>
     <main>
         <div class="container">
             <!-- Resources Section -->
             <section class="resources-links">
-                <h2>News Analysis</h2>
-                <p>Curated topics and strategic insights to navigate the complexities of global politics and the information war.</p>
-                <a href="reports.html">Reports</a>
+                <div class="intro__wrapper">
+                    <h2>News Analysis</h2>
+                    <p>Curated topics and strategic insights to navigate the complexities of global politics and the
+                        information war.</p>
+                    <a href="reports.html">Dive In</a>
+                </div>
+                <div class="canvas__wrapper">
+                </div>
             </section>
 
             <!-- Disinfo Links Section -->
             <section class="disinfo-links">
                 <h2>Disinformation and Psychology</h2>
                 <p>Dive deeper into specific topics and tactics related to disinformation.</p>
-                <nav>
-                    <ul>
-                        <li><a href="disinfo/manipulation-tactics.html">Manipulation Tactics & Defenses</a></li>
-                        <li><a href="disinfo/interpersonal-manipulation.html">Interpersonal Manipulation</a></li>
-                        <li><a href="disinfo/machine-targeting.html">Machine Targeting</a></li>
-                        <li><a href="disinfo/adaptive-precision-deployment.html">Adaptive Precision Deployment (IW)</a>
-                        </li>
-                        <li><a href="disinfo/challenge-conspiracies.html">Challenge Conspiracies</a></li>
-                        <li><a href="disinfo/human-networks.html">Human Networks</a></li>
-                    </ul>
-                </nav>
+                <ul>
+                    <li><a href="disinfo/human-networks.html">Human Networks</a></li>
+                    <li><a href="disinfo/adaptive-precision-deployment.html">Adaptive Precision Deployment (IW)</a></li>
+                    <li><a href="disinfo/machine-targeting.html">Machine Targeting</a></li>
+                    <li><a href="disinfo/manipulation-tactics.html">Manipulation Tactics & Defenses</a></li>
+                    <li><a href="disinfo/interpersonal-manipulation.html">Interpersonal Dynamics</a></li>
+                    <li><a href="disinfo/challenge-conspiracies.html">Challenge Conspiracies</a></li>
+                </ul>
             </section>
         </div>
     </main>
@@ -81,7 +86,7 @@
             <a href="https://x.com/datumglobal" target="_blank" aria-label="X"><i class="fab fa-twitter"></i></a>
 
         </nav>
-        <p>&copy; 2023 Datum Global</p>
+        <p>&copy; 2025 Datum Global</p>
     </footer>
     <script src="js/script.js"></script>
 </body>

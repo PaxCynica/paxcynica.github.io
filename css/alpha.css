@@ -1,0 +1,76 @@
+.category-label {
+    display: inline-block;
+    background: #3A5998;
+    /* Alpha's color */
+    color: white;
+    padding: 6px 14px;
+    border-radius: 4px;
+    font-size: 1.1em;
+    margin-bottom: 1.5em;
+}
+
+.agent-attribution {
+    display: flex;
+    align-items: center;
+    margin-bottom: 2em;
+    padding: 0.5em 1em;
+    border-left: 4px solid #3A5998;
+    background-color: #f5f8ff;
+}
+
+.summary-section {
+    background-color: #f0f7fb;
+    border-left: 4px solid #3498db;
+    padding: 1.5em;
+    margin: 2em 0;
+}
+
+a {
+    color: #3A5998;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #2c4a80;
+}
+
+/* Alpha-specific sections */
+.historical-context {
+    background-color: #f8f9fa;
+    border-left: 3px solid #3A5998;
+    padding: 1.2em;
+    margin: 1.5em 0;
+}
+
+.power-dynamics-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1.5em 0;
+}
+
+.power-dynamics-table th {
+    background-color: #3A5998;
+    color: white;
+    text-align: left;
+    padding: 10px;
+}
+
+.power-dynamics-table td {
+    padding: 8px 10px;
+    border-bottom: 1px solid #eee;
+}
+
+.policy-implications {
+    border-left: 3px solid #2c3e50;
+    padding-left: 1.2em;
+    margin: 1.5em 0;
+}
+
+.key-quote {
+    font-style: italic;
+    border-left: 2px solid #3A5998;
+    padding-left: 1em;
+    color: #444;
+    margin: 1.5em 0;
+}

@@ -1,0 +1,1476 @@
+{
+    "category": "Emerging Technologies and Future Trends",
+    "query": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Arxiv.org"
+            },
+            "author": null,
+            "title": "PyGraph: Robust Compiler Support for CUDA Graphs in PyTorch",
+            "description": "CUDA Graphs -- a recent hardware feature introduced for NVIDIA GPUs -- aim to reduce CPU launch overhead by capturing and launching a series of GPU tasks (kernels) as a DAG. However, deploying CUDA Graphs faces several challenges today due to the static struc…",
+            "url": "https://arxiv.org/abs/2503.19779",
+            "urlToImage": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+            "publishedAt": "2025-04-24T19:28:29Z",
+            "content": "arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\r\nBoth individuals and organizations that work with arXivLabs have embraced and acce… [+257 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "chiara.castro@futurenet.com (Chiara Castro)",
+            "title": "DeepSeek is \"a profound threat\" to national security and privacy, according to the US Congress",
+            "description": "A new report into DeepSeek AI revealed data privacy and security issues, the use of tracking tools, the spread of propaganda, and more. Here's all you need to know.",
+            "url": "https://www.techradar.com/computing/cyber-security/deepseek-is-a-profound-threat-to-national-security-and-privacy-according-to-the-us-congress",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/fvZCDyWV3PpzSHKnoXCZ4S.jpg",
+            "publishedAt": "2025-04-24T15:06:15Z",
+            "content": "<ul><li>A Special Committee within the US Congress concluded that DeepSeek AI represents a profound threat to US national security</li><li>The report reveals data privacy and security issues, the use… [+3612 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Kurt Knutsson, CyberGuy Report",
+            "title": "329,000 mph nuclear rocket leading next era of space travel",
+            "description": "Tech expert Kurt “CyberGuy\" Knutsson says 329,000 mph fusion rocket promises to be fast, disruptive and enable deep-space missions.",
+            "url": "https://www.foxnews.com/tech/329000-mph-nuclear-rocket-leading-next-era-space-travel",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/04/1-329000-mph-nuclear-rocket-leading-the-next-era-of-space-travel.jpg",
+            "publishedAt": "2025-04-24T10:00:50Z",
+            "content": "Get ready because the future of traveling to other planets just got a massive upgrade. Pulsar Fusion, a U.K.-based aerospace company, is developing a compact fusion engine called the Dual Direct Fusi… [+4407 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Thomas Macaulay",
+            "title": "Meet the Dutch tech stars speaking at TNW Conference",
+            "description": "As our favourite Dutch holiday approaches, TNW is celebrating the tech titans shaping the future in the Netherlands. Our beloved home country is the proud parent of a prodigious brood of digital talent. It’s given birth to cultivated meat, raised Booking.com …",
+            "url": "https://thenextweb.com/news/meet-dutch-tech-tech-startup-leaders-tnw-conference",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2025%2F04%2FUntitled-design-31.jpg&signature=6ad3f2d75a325f94e185b04bbb882514",
+            "publishedAt": "2025-04-24T18:26:57Z",
+            "content": "As our favourite Dutch holiday approaches, TNW is celebrating the tech titans shaping the future in the Netherlands.\r\nOur beloved home country is the proud parent of a prodigious brood of digital tal… [+8164 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Scientific American"
+            },
+            "author": "Louis Friedman",
+            "title": "Slashing NASA’s Programs Will Squander America’s Place in Space",
+            "description": "The Trump administration’s plans to cut NASA’s science missions will destroy the U.S. space legacy",
+            "url": "https://www.scientificamerican.com/article/slashing-nasas-programs-will-squander-americas-place-in-space/",
+            "urlToImage": "https://static.scientificamerican.com/dam/m/29ceb86a22996441/original/Astronaut-Alan-Bean.jpg?m=1745425009.78&w=1200",
+            "publishedAt": "2025-04-24T11:30:00Z",
+            "content": "For more than half a century planetary exploration and space science have been a hallmark of American achievement and excellence. From Mercury to Pluto and beyond, we have gained enormous understandi… [+6056 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Project Syndicate"
+            },
+            "author": "Vera Songwe",
+            "title": "Climate Action Requires Debt Relief",
+            "description": "Developing countries are caught in a vicious cycle of debt distress and climate vulnerability, where rising borrowing costs and climate risks curtail growth and strain public budgets. Breaking free will require reforms that combine climate finance, debt relie…",
+            "url": "https://www.project-syndicate.org/commentary/developing-countries-need-debt-assistance-to-invest-in-climate-adaptation-by-vera-songwe-and-moritz-kraemer-2025-04",
+            "urlToImage": "https://webapi.project-syndicate.org/library/27939c00aafd02dac56641053dacf1b0.2-1-super.1.jpg",
+            "publishedAt": "2025-04-24T10:57:45Z",
+            "content": "Developing countries are caught in a vicious cycle of debt distress and climate vulnerability, where rising borrowing costs and climate risks curtail growth and strain public budgets. Breaking free w… [+6312 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yanko Design"
+            },
+            "author": "Gaurav Sood",
+            "title": "This modular wearable is smartwatch by day and a smart ring by night",
+            "description": "This modular wearable is smartwatch by day and a smart ring by nightWearables have become essential in the fast paced modern life where stress levels can go through the roof in a matter of hours or minutes....",
+            "url": "https://www.yankodesign.com/2025/04/24/this-modular-wearable-is-smartwatch-by-day-and-a-smart-ring-by-night/",
+            "urlToImage": "https://www.yankodesign.com/images/design_news/2025/04/this-modular-wearable-is-smartwatch-by-day-and-a-smart-ring-by-night-for-non-intrusive-around-the-clock-health-monitoring/Allai-Wearable-1-Smartwatch-Smart-Ring.jpg",
+            "publishedAt": "2025-04-24T13:20:02Z",
+            "content": "Wearables have become essential in the fast paced modern life where stress levels can go through the roof in a matter of hours or minutes. To humankinds rescue come the smartwatches that keep a tab o… [+3215 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "John Hayward, John Hayward",
+            "title": "South Korea Says China’s DeepSeek AI App Transferred User Data Overseas",
+            "description": "South Korea’s data privacy watchdog agency, the Personal Information Protection Commission (PIPC), said on Thursday that China’s DeepSeek artificial intelligence (AI) transferred user data to companies in China and the United States without obtaining proper c…",
+            "url": "https://www.breitbart.com/asia/2025/04/24/south-korea-says-chinas-deepseek-ai-app-transferred-user-data-overseas/",
+            "urlToImage": "https://media.breitbart.com/media/2025/04/y-n-y-n-x5DH2d63Lz8-unsplash-640x335.jpg",
+            "publishedAt": "2025-04-24T19:03:31Z",
+            "content": "South Koreas data privacy watchdog agency, the Personal Information Protection Commission (PIPC), said on Thursday that Chinas DeepSeek artificial intelligence (AI) transferred user data to companies… [+3065 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Journalism.co.uk"
+            },
+            "author": "Jacob Granger",
+            "title": "AI, ethics and editorial power: voices from the IQ Media Conference",
+            "description": "Can AI free journalists to do better work? Will it deepen inequalities? And what happens when the line between human and machine-generated content starts to blur? These questions and more answered",
+            "url": "https://www.journalism.co.uk/podcast/what-we-learned-about-ai-at-the-iq-conference-in-athens/s399/a1240440/",
+            "urlToImage": "https://www.journalism.co.uk/assets/183/rectpodcastlogo.png",
+            "publishedAt": "2025-04-24T15:49:00Z",
+            "content": "And check out the Journalism.co.uk podcast on Apple Podcasts and Spotify\r\nLast week, we were in sunny Athens attending the IQ Media Conference, hearing all about what the future of digital journalism… [+1739 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "American Phytopathological Society",
+            "title": "New risk maps help soybean farmers spot charcoal rot before it strikes",
+            "description": "Charcoal rot, caused by the soilborne fungus Macrophomina phaseolina (Mp), poses a serious threat to soybean health and harvests on a global scale. The disease thrives in dry, hot conditions and can quietly devastate crops before symptoms even appear. Now, re…",
+            "url": "https://phys.org/news/2025-04-soybean-farmers-charcoal.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/new-risk-maps-help-soy.jpg",
+            "publishedAt": "2025-04-24T19:30:31Z",
+            "content": "Charcoal rot, caused by the soilborne fungus Macrophomina phaseolina (Mp), poses a serious threat to soybean health and harvests on a global scale. The disease thrives in dry, hot conditions and can … [+4035 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "DeepSeek transferred data without consent, South Korean watchdog says",
+            "description": "Personal Information Protection Commission says AI model sent personal data to Beijing-based cloud service.",
+            "url": "https://www.aljazeera.com/economy/2025/4/24/deepseek-transferred-data-without-consent-south-korean-watchdog-says",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/04/2025-01-29T180203Z_718211840_RC2TJCA4E1MK_RTRMADP_3_DEEPSEEK-MARKETS-1745485336.jpg?resize=1920%2C1440",
+            "publishedAt": "2025-04-24T09:48:44Z",
+            "content": "South Koreas data protection watchdog has accused DeepSeek, the Chinese start-up whose artificial intelligence-powered chatbot took the tech scene by storm earlier this year, of transferring personal… [+1818 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Rachel Wells, Contributor, \n Rachel Wells, Contributor\n https://www.forbes.com/sites/rachelwells/",
+            "title": "5 Free AI Courses To Build High-Income Skills In 2025",
+            "description": "Did you know that professionals with AI skills are less likely to be laid off? Here are five free courses to learn hands-on AI skills in 2025.",
+            "url": "https://www.forbes.com/sites/rachelwells/2025/04/24/5-free-ai-courses-to-build-high-income-skills-in-2025/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/680a5fd73687c41b7383d99a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-04-24T16:09:37Z",
+            "content": "You are 57% less likely to be laid off if you have AI skills\r\ngetty\r\nDid you know that professionals with AI skills are less likely to be laid off? General Assembly surveyed managers/HR who hire tech… [+3379 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space Daily"
+            },
+            "author": null,
+            "title": "ELVIS imaging tech heads to space to advance life detection",
+            "description": "Los Angeles CA (SPX) Apr 23, 2025\n\n\nA cutting-edge holographic imaging device named ELVIS is now aboard the International Space Station, poised to transform the study of life in space. Officially known as the Extant Life Volumetric Imaging System, ELVIS is de…",
+            "url": "https://www.spacedaily.com/reports/ELVIS_imaging_tech_heads_to_space_to_advance_life_detection_999.html",
+            "urlToImage": "https://www.spxdaily.com/images-hg/iss-spix-hg.jpg",
+            "publishedAt": "2025-04-24T08:11:16Z",
+            "content": "ELVIS imaging tech heads to space to advance life detectionby Clarence OxfordLos Angeles CA (SPX) Apr 23, 2025\r\nA cutting-edge holographic imaging device named ELVIS is now aboard the International S… [+2358 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Royal Society of Chemistry"
+            },
+            "author": "Tianyu Shu, Chao Tan, Guohua Hu, Siyuan Luo, Zegao Wang",
+            "title": "Bi2Se3/PtSe2 heterostructure ultra-broadband UV-to-THz negative photoconductive photodetectors with wide-temperature-range operation",
+            "description": "Nanoscale, 2025, Accepted ManuscriptDOI: 10.1039/D5NR00822K, PaperTianyu Shu, Chao Tan, Guohua Hu, Siyuan Luo, Zegao WangUltra-broadband photodetectors have important applications in biomedical imaging, environmental monitoring, optical communication, and spa…",
+            "url": "https://pubs.rsc.org/en/content/articlelanding/2025/nr/d5nr00822k",
+            "urlToImage": null,
+            "publishedAt": "2025-04-23T23:00:00Z",
+            "content": "Ultra-broadband photodetectors have important applications in biomedical imaging, environmental monitoring, optical communication, and space exploration, etc. The need for wide temperature range adap… [+2097 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "General Atomics",
+            "title": "Pacific Fusion and General Atomics Team Up to Deliver Breakthroughs in Inertial Fusion Energy",
+            "description": "Expanding Collaboration Accelerates Path to Clean, Sustainable Fusion Energy Expanding Collaboration Accelerates Path to Clean, Sustainable Fusion Energy",
+            "url": "https://www.globenewswire.com/news-release/2025/04/24/3067836/0/en/Pacific-Fusion-and-General-Atomics-Team-Up-to-Deliver-Breakthroughs-in-Inertial-Fusion-Energy.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/74c838d2-a066-4c8a-8e4c-03c06bc77214",
+            "publishedAt": "2025-04-24T18:00:00Z",
+            "content": "FREMONT, Calif., April 24, 2025 (GLOBE NEWSWIRE) -- Pacific Fusion Corporation, which raised a &gt;$900M series A in 2024 to power the world with abundant, affordable, and clean energy, is collaborat… [+4274 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Search Engine Journal"
+            },
+            "author": "Dan Taylor",
+            "title": "Developing A Content Strategy In Regulated Industries via @sejournal, @TaylorDanRW",
+            "description": "Create compliant content without sacrificing clarity or impact. Build scalable systems, align with legal early, and deliver confidently in regulated sectors.\nThe post Developing A Content Strategy In Regulated Industries appeared first on Search Engine Journa…",
+            "url": "https://www.searchenginejournal.com/developing-content-strategy-in-regulated-industries/544968/",
+            "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2025/04/compliance-623.png",
+            "publishedAt": "2025-04-24T12:30:35Z",
+            "content": "Throughout my career, I’ve worked with companies across highly regulated sectors, including finance, insurance, banking, and tobacco.\r\nNavigating these industries means understanding how regulation i… [+7349 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Archinect"
+            },
+            "author": "Nathaniel Bahadursingh",
+            "title": "Explore 20 Project Manager and Project Architect roles in New York City",
+            "description": "Our latest weekly curated jobs roundup from the Archinect Job board features 20 Project Manager and Project Architect roles available in New York City. To explore specific job titles from the architectural profession, consult Archinect's Guide to Job...",
+            "url": "https://archinect.com/news/article/150477401/explore-20-project-manager-and-project-architect-roles-in-new-york-city",
+            "urlToImage": "https://archinect.gumlet.io/uploads/97/97c8400d20ec95b185745f9d747f24fc.jpg?fit=crop&auto=compress%2Cformat&enlarge=true&crop=faces&w=1200&h=707",
+            "publishedAt": "2025-04-24T16:30:00Z",
+            "content": "Our latest weekly curated jobs roundup from the Archinect Job board features 20 Project Manager and Project Architect roles available in New York City.\r\nTo explore specific job titles from the archit… [+11506 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Creative Bloq"
+            },
+            "author": "Ian Dean",
+            "title": "\"Everything we do is to benefit creativity\" – love it or hate it, Adobe has a bold vision for AI and creative tools",
+            "description": "Adobe's Alexandru Costin tells me why Adobe's balancing act can work for all.",
+            "url": "https://www.creativebloq.com/art/digital-art/everything-we-do-is-to-benefit-creativity-love-it-or-hate-it-adobe-has-a-bold-vision-for-ai-and-creative-tools",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/pATKjqkhtLKZ3QcHdrZep6.png",
+            "publishedAt": "2025-04-24T12:00:00Z",
+            "content": "Today at Adobe MAX London I'll get to see and hear just what is coming to Photoshop, Illustrator, Fresco and other digital art software but the through-line linking everything is more AI. Love it or … [+7455 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GeekTyrant"
+            },
+            "author": "Joey Paur",
+            "title": "LOVE, DEATH + ROBOTS Volume 4 Trailer and Details Tease 10 New Insane Animated Shorts!",
+            "description": "Netflix has dropped a new trailer for Love, Death + Robots Volume 4, and it offers our best look yet at the insanity that is in store for us! This new season will deliver 10 new short films and a great voice cast.David Fincher directs the premiere episode tit…",
+            "url": "https://geektyrant.com/news/love-death-robots-volume-4-trailer-and-details-tease-10-new-awesome-animated-shorts",
+            "urlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/680a71f7818ae84cf93e09d0/1745519145407/Screenshot+2025-04-24+at+10.33.14%E2%80%AFAM.jpg?format=1500w",
+            "publishedAt": "2025-04-24T18:25:00Z",
+            "content": "Netflix has dropped a new trailer for Love, Death + Robots Volume 4, and it offers our best look yet at the insanity that is in store for us! This new season will deliver 10 new short films and a gre… [+5946 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Bleeding Cool News"
+            },
+            "author": "Ray Flook",
+            "title": "Love, Death + Robots Vol 4 Trailer, Episode Details & More Released",
+            "description": "Earlier this month, we were treated to a teaser for the fourth volume of Executive Producers Tim Miller and David Fincher's Love, Death + Robots. With only a little more than three weeks to go until the animated anthology series debuts on May 15th, we're gett…",
+            "url": "https://bleedingcool.com/tv/love-death-robots-vol-4-trailer-episode-details-more-released/",
+            "urlToImage": "https://bleedingcool.com/wp-content/uploads/2025/04/ENC_6528-2000x1125.jpg",
+            "publishedAt": "2025-04-24T17:02:08Z",
+            "content": "Posted in: Netflix, TV | Tagged: Love Death + Robots\r\nCheck out the trailer, voice cast, directors, and more for Netflix and EPs Tim Miller and David Fincher's Love, Death + Robots Vol 4.\r\nEarlier th… [+7545 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Techpowerup.com"
+            },
+            "author": "btarunr",
+            "title": "Block Ads on YouTube and the Web With This $16 Lifetime App",
+            "description": "Online chaos doesn't just come from pop-up ads or autoplay videos—it's in hidden trackers, shady websites, and data leaks that turn a simple scroll into a security risk. If you're managing devices for the whole family, things can get out of hand fast. That's …",
+            "url": "https://www.techpowerup.com/335917/block-ads-on-youtube-and-the-web-with-this-usd-16-lifetime-app",
+            "urlToImage": "https://www.techpowerup.com/img/xpvJIGUL1GDgi8oo.jpg",
+            "publishedAt": "2025-04-24T18:33:19Z",
+            "content": "Online chaos doesn't just come from pop-up ads or autoplay videosit's in hidden trackers, shady websites, and data leaks that turn a simple scroll into a security risk. If you're managing devices for… [+1423 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Naturalnews.com"
+            },
+            "author": "Willow Tohi",
+            "title": "Breaking the methane chain: New feeds and seaweed offer pathways to sustainable beef and dairy production",
+            "description": "Two 2025 studies (University of Florida and UC Davis) show that adjusting livestock diets—such as adding flaxseed and pea protein for dairy cows or asparagopsis seaweed for grazing cattle—could cut methane emissions by up to 40% while maintaining animal healt…",
+            "url": "https://www.naturalnews.com/2025-04-24-new-feeds-seaweed-offer-pathways-sustainable-beef-production.html",
+            "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/04/Steer-Cattle-Ranch.jpg",
+            "publishedAt": "2025-04-24T06:00:00Z",
+            "content": "<ul><li>Two 2025 studies (University of Florida and UC Davis) show that adjusting livestock dietssuch as adding flaxseed and pea protein for dairy cows or asparagopsis seaweed for grazing cattlecould… [+7630 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": "financial-post",
+                "name": "Financial Post"
+            },
+            "author": "GlobeNewswire",
+            "title": "Pacific Fusion and General Atomics Team Up to Deliver Breakthroughs in Inertial Fusion Energy",
+            "description": "Expanding Collaboration Accelerates Path to Clean, Sustainable Fusion Energy FREMONT, Calif., April 24, 2025 (GLOBE NEWSWIRE) — Pacific Fusion Corporation, which raised a >$900M series A in 2024 to power the world with abundant, affordable, and clean energy, …",
+            "url": "https://financialpost.com/globe-newswire/pacific-fusion-and-general-atomics-team-up-to-deliver-breakthroughs-in-inertial-fusion-energy",
+            "urlToImage": null,
+            "publishedAt": "2025-04-24T18:04:25Z",
+            "content": "Expanding Collaboration Accelerates Path to Clean, Sustainable Fusion Energy\r\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY\r\nSubscribe now to read the latest news in your city and across Canada.\r\n<ul… [+5270 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Star Online"
+            },
+            "author": "TARRENCE TAN",
+            "title": "A panel to rule food prices",
+            "description": "PUTRAJAYA: The Cabinet has agreed to the formation of a technical committee to ensure food supplies and prices remain stable at all times, says Domestic Trade and Cost of Living Minister Datuk Armizan Mohd Ali. Read full story",
+            "url": "https://www.thestar.com.my/news/nation/2025/04/24/a-panel-to-rule-food-prices",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/04/24/3281031.JPG",
+            "publishedAt": "2025-04-23T23:00:00Z",
+            "content": "PUTRAJAYA: The Cabinet has agreed to the formation of a technical committee to ensure food supplies and prices remain stable at all times, says Domestic Trade and Cost of Living Minister Datuk Armiza… [+2300 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Infosecurity Magazine"
+            },
+            "author": "Alessandro  Mascellino",
+            "title": "Blue Shield of California Data Breach Affects 4.7 Million Members",
+            "description": "A misconfigured tracking tool has exposed protected health information of 4.7 million Blue Shield members to Google Ads",
+            "url": "https://www.infosecurity-magazine.com/news/blue-shield-california-data-breach/",
+            "urlToImage": "https://assets.infosecurity-magazine.com/webpage/og/ecaaaf48-a538-4749-bea1-417e27d45c27.jpg",
+            "publishedAt": "2025-04-24T15:00:00Z",
+            "content": "A misconfigured tracking tool on Blue Shield of California’s websites exposed the protected health information (PHI) of 4.7 million members to Google Ads over a nearly three-year period, the insurer … [+2231 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Themorningnews.org"
+            },
+            "author": null,
+            "title": "Thursday headlines: Kite of the living dead",
+            "description": "Russia hits Kyiv with missiles and drones, one of the deadliest attacks on the capital since last year. / The Kyiv IndependentA tunnel between Denmark and Germany will link 90 individual segments, piece by piece, \"like Lego bricks.\" / BBC NewsItaly's transfor…",
+            "url": "https://themorningnews.org/p/thursday-headlines-kite-of-the-living-dead",
+            "urlToImage": "https://themorningnews.org/images/tmn-logo-share.png",
+            "publishedAt": "2025-04-24T13:48:00Z",
+            "content": "Trump often blames popular resistance to his policies as bad polling, but the size and scope of the Hands Off protests were far too large to be the product of faulty data. / Strength in Numbers\r\nThe … [+3329 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pypi.org"
+            },
+            "author": "fidesteam@ethyca.com",
+            "title": "ethyca-fides 2.60.0rc3",
+            "description": "Open-source ecosystem for data privacy as code.",
+            "url": "https://pypi.org/project/ethyca-fides/2.60.0rc3/",
+            "urlToImage": null,
+            "publishedAt": "2025-04-24T20:24:36Z",
+            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pypi.org"
+            },
+            "author": "fidesteam@ethyca.com",
+            "title": "ethyca-fides 2.60.0rc1",
+            "description": "Open-source ecosystem for data privacy as code.",
+            "url": "https://pypi.org/project/ethyca-fides/2.60.0rc1/",
+            "urlToImage": null,
+            "publishedAt": "2025-04-24T17:12:14Z",
+            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pypi.org"
+            },
+            "author": "fidesteam@ethyca.com",
+            "title": "ethyca-fides 2.60.0rc2",
+            "description": "Open-source ecosystem for data privacy as code.",
+            "url": "https://pypi.org/project/ethyca-fides/2.60.0rc2/",
+            "urlToImage": null,
+            "publishedAt": "2025-04-24T17:31:17Z",
+            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Moondaily.com"
+            },
+            "author": null,
+            "title": "China selects global payloads and opens lunar samples to foreign scientists",
+            "description": "Sydney, Australia (SPX) Apr 24, 2025\n\n\nChina has announced the selection of 10 international payloads for its upcoming Chang'e 8 lunar mission, underscoring its commitment to global collaboration in space science. The China National Space Administration (CNSA…",
+            "url": "https://www.moondaily.com/reports/China_selects_global_payloads_and_opens_lunar_samples_to_foreign_scientists_999.html",
+            "urlToImage": "https://www.spxdaily.com/images-hg/lunar-spix-hg.jpg",
+            "publishedAt": "2025-04-24T14:03:30Z",
+            "content": "China selects global payloads and opens lunar samples to foreign scientistsby Simon MansfieldSydney, Australia (SPX) Apr 24, 2025\r\nChina has announced the selection of 10 international payloads for i… [+3212 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Computerworld"
+            },
+            "author": "Gyana Swain",
+            "title": "European tech firm rallies for digital sovereignty amid rising tech nationalism globally",
+            "description": "A growing chorus of European technology executives is calling for the continent to assert control over its digital future, with Danish IT services giant Netcompany leading the latest push for technological self-reliance.\r\n\n\n\n\nIn an open letter published on We…",
+            "url": "https://www.computerworld.com/article/3969691/european-tech-firm-rallies-for-digital-sovereignty-amid-rising-tech-nationalism-globally.html",
+            "urlToImage": "https://www.computerworld.com/wp-content/uploads/2025/04/3969691-0-57788000-1745498436-shutterstock_318496325.jpg?quality=50&strip=all&w=1024",
+            "publishedAt": "2025-04-24T12:39:55Z",
+            "content": "The high-profile campaign comes amid escalating tensions in global technology markets, with the European Commission recently intensifying scrutiny of US cloud providers’ market practices and ahead of… [+806 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Help Net Security"
+            },
+            "author": "Industry News",
+            "title": "Metomic AI Data Protection prevents data leakage in AI tools",
+            "description": "Metomic launched AI Data Protection Solution, an offering designed to prevent sensitive business data from being inadvertently exposed through AI tools such as ChatGPT, Copilot, Glean, Notion AI, Box AI, and others. As enterprises accelerate AI integration, t…",
+            "url": "https://www.helpnetsecurity.com/2025/04/24/metomic-ai-data-protection-solution/",
+            "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2024/11/28150559/hns-large_logo.webp",
+            "publishedAt": "2025-04-24T09:15:06Z",
+            "content": "Metomic launched AI Data Protection Solution, an offering designed to prevent sensitive business data from being inadvertently exposed through AI tools such as ChatGPT, Copilot, Glean, Notion AI, Box… [+2299 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Tanzania bans South Africa and Malawi imports as trade row escalates",
+            "description": "Tanzanian bananas are among the things hit after Malawi stopped them from coming into the country.",
+            "url": "https://www.bbc.com/news/articles/cvg7jkx04d0o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15fe/live/2a71e6c0-20e6-11f0-8c2e-77498b1ce297.jpg",
+            "publishedAt": "2025-04-24T08:30:38Z",
+            "content": "Sammi Awami\r\nTanzania has banned all agricultural imports from South Africa and Malawi in the latest episode of a growing trade row.\r\n\"We are taking this step to protect our business interests. This … [+2940 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "AP",
+            "title": "China launches 3 astronauts to replace crew on Chinese space station",
+            "description": "China launched the Shenzhou 20 spaceship, carrying three astronauts, to replace the current crew on the Tiangong space station. This mission underscores China's growing space ambitions, including future crewed missions to the Moon and Mars. The Tiangong stati…",
+            "url": "https://timesofindia.indiatimes.com/world/china/china-launches-3-astronauts-to-replace-crew-on-chinese-space-station/articleshow/120581168.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-120581373,width-1070,height-580,imgsize-1067283,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2025-04-24T09:56:56Z",
+            "content": "10 most hard to spot and rare nocturnal animals",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Canonical.com"
+            },
+            "author": "Canonical (Canonical)",
+            "title": "The hitchhiker’s guide to infrastructure modernization",
+            "description": "One of my favourite authors, Douglas Adams, once said that “we are stuck with technology when what we really want is just stuff that works.” Whilst Adams is right about a lot of things, he got this one wrong – at least when it comes to infrastructure. As our …",
+            "url": "https://canonical.com/blog/hitchhikers-guide-to-infrastructure-modernization",
+            "urlToImage": "https://ubuntu.com/wp-content/uploads/25c8/InfraMastersBlog.png",
+            "publishedAt": "2025-04-24T12:36:45Z",
+            "content": "One of my favourite authors, Douglas Adams, once said that we are stuck with technology when what we really want is just stuff that works. Whilst Adams is right about a lot of things, he got this one… [+8347 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Jacob (Yakup) Kalvo, Forbes Councils Member, \n Jacob (Yakup) Kalvo, Forbes Councils Member\n https://www.forbes.com/councils/forbestechcouncil/people/jacobyakupkalvo/",
+            "title": "How Information Can Give Companies A Competitive Advantage",
+            "description": "Leveraging information effectively is essential for gaining a competitive advantage.",
+            "url": "https://www.forbes.com/councils/forbestechcouncil/2025/04/24/how-information-can-give-companies-a-competitive-advantage/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/680935b8ef4509c6e1e0810d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-04-24T11:15:00Z",
+            "content": "Jacob Kalvo, CEO of Live Proxies, a leading provider of web data collection solutions.\r\ngetty\r\nThe business world is highly competitive because many companies offer similar products and services. Bus… [+5613 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Tor Constantino, MBA, Contributor, \n Tor Constantino, MBA, Contributor\n https://www.forbes.com/sites/torconstantino/",
+            "title": "If OpenAI Buys Chrome, AI May Rule The Browser Wars",
+            "description": "Now that Google is appealing its antitrust lawsuit, if it's forced to divest the world's leading brower — and OpenAI buys it — wouldn't that create a new monopoly?",
+            "url": "https://www.forbes.com/sites/torconstantino/2025/04/24/if-openai-buys-chrome-ai-may-rule-the-browser-wars/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68099aa49dc4075a18859f25/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-04-24T12:09:48Z",
+            "content": "OpenAI leadership has publicly expressed interest in acquiring Google's Chrome browser if the ... More Alphabet company is forced to divest.\r\ngetty\r\nIn a bid that would reshape the digital landscape,… [+5107 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Craig Costigan, Forbes Councils Member, \n Craig Costigan, Forbes Councils Member\n https://www.forbes.com/councils/forbestechcouncil/people/craigcostigan/",
+            "title": "Meet Agentic AI: Your New Ally In The Fight Against Financial Crime",
+            "description": "Assess what AI and agentic AI can do for your business and proceed accordingly. Don't be left behind.",
+            "url": "https://www.forbes.com/councils/forbestechcouncil/2025/04/24/meet-agentic-ai-your-new-ally-in-the-fight-against-financial-crime/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6809205abe4a55c7bc635e3b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-04-24T10:00:00Z",
+            "content": "Craig Costigan, CEO, NICE Actimize.\r\ngetty\r\nAs AI continues to deliver business impact, 2025 has brought a new twist with the emergence of agentic AI. The advanced capabilities of agentic AI are tran… [+6631 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Paul Marcantonio, Forbes Councils Member, \n Paul Marcantonio, Forbes Councils Member\n https://www.forbes.com/councils/forbesbusinessdevelopmentcouncil/people/paulmarcantonio/",
+            "title": "AI: Transforming Payment Processing And Fraud Detection For A Safer, Smarter Future",
+            "description": "As with all advancements, this transformation brings challenges and solutions worth exploring.",
+            "url": "https://www.forbes.com/councils/forbesbusinessdevelopmentcouncil/2025/04/24/ai-transforming-payment-processing-and-fraud-detection-for-a-safer-smarter-future/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67530047947a608815a66138/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-04-24T11:00:00Z",
+            "content": "Paul Marcantonio, Executive Director of Ecommpay, an international payment service provider &amp; fintech ecosystem built for business growth.\r\ngetty\r\nAs the executive director of a payment service p… [+5929 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "Global Center on Adaptation",
+            "title": "Åsmund Grøver Aukrust, Minister of International Development for Norway Joins GCA Advisory Board",
+            "description": "Washington DC, USA, April 24, 2025 (GLOBE NEWSWIRE) -- The Global Center on Adaptation (GCA) is pleased to announce that Åsmund Grøver Aukrust, Minister of International Development for Norway formally accepted an invitation to serve on GCA’s Advisory Board d…",
+            "url": "https://www.globenewswire.com/news-release/2025/04/24/3067524/0/en/%C3%85smund-Gr%C3%B8ver-Aukrust-Minister-of-International-Development-for-Norway-Joins-GCA-Advisory-Board.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/886778bc-b6a1-4a82-9229-12bc54a8f6f9",
+            "publishedAt": "2025-04-24T13:11:00Z",
+            "content": "Washington DC, USA, April 24, 2025 (GLOBE NEWSWIRE) -- The Global Center on Adaptation (GCA) is pleased to announce that Åsmund Grøver Aukrust, Minister of International Development for Norway formal… [+3034 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Macsparky.com"
+            },
+            "author": "David Sparks",
+            "title": "When the Machines Remember",
+            "description": "Early in my experience with ChatGPT’s voice feature, my daughter walked into the room and I told it to say hello to her. It did, cheerfully, and it totally creeped her out. I turned the voice off. A week later, I fired ChatGPT back up, and it asked me how Sam…",
+            "url": "https://www.macsparky.com/blog/2025/04/when-the-machines-remember/",
+            "urlToImage": null,
+            "publishedAt": "2025-04-23T23:03:02Z",
+            "content": "Early in my experience with ChatGPT’s voice feature, my daughter walked into the room and I told it to say hello to her. It did, cheerfully, and it totally creeped her out. I turned the voice off.\r\nA… [+3504 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Bloody Disgusting"
+            },
+            "author": "John Squires",
+            "title": "‘Love, Death + Robots’ Volume 4 Trailer – David Fincher Directs a Segment Starring Red Hot Chili Peppers!",
+            "description": "Netflix’s animated anthology series “Love, Death + Robots” will return for a fourth volume on May 15, and the streamer has unleashed the official trailer this afternoon. The animated, genre-bending series is created by Deadpool and Terminator: Dark Fate direc…",
+            "url": "https://bloody-disgusting.com/tv/3865630/love-death-robots-volume-4-trailer-david-fincher-directs-a-segment-starring-red-hot-chili-peppers/",
+            "urlToImage": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2025/04/BOY_12587_Approved-e1745516057363.png?resize=1000%2C600&ssl=1",
+            "publishedAt": "2025-04-24T17:42:10Z",
+            "content": "Netflixs animated anthology series Love, Death + Robots will return for a fourth volume on May 15, and the streamer has unleashed the official trailer this afternoon.\r\nThe animated, genre-bending ser… [+5618 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Bloody Disgusting"
+            },
+            "author": "Alex DiVincenzo",
+            "title": "Jamie Lee Curtis to Produce ‘Darkly’ Series Adaptation for Blumhouse TV",
+            "description": "Blumhouse Television has acquired rights to Marisha Pessl’s #1 national bestselling novel Darkly for a series adaptation, Deadline reports. Jamie Lee Curtis will executive produce the project through her company Comet Pictures’ first-look deal with the studio…",
+            "url": "https://bloody-disgusting.com/tv/3865643/jamie-lee-curtis-to-produce-darkly-series-adaptation-for-blumhouse-tv/",
+            "urlToImage": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/5756_D021_00299_RV3.jpg?resize=1000%2C600&ssl=1",
+            "publishedAt": "2025-04-24T18:37:25Z",
+            "content": "Netflixs animated anthology series Love, Death + Robots will return for a fourth volume on May 15, and the streamer has unleashed the official trailer this afternoon.\r\nThe animated, genre-bending ser… [+5618 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Kiri Masters, Contributor, \n Kiri Masters, Contributor\n https://www.forbes.com/sites/kirimasters/",
+            "title": "How AI Can Solve Retail Media’s Growing Pains",
+            "description": "Retail media stands to benefit from the AI revolution, but there are unique challenges in implementing it in this sector of the advertising space.",
+            "url": "https://www.forbes.com/sites/kirimasters/2025/04/24/how-ai-can-solve-retail-medias-growing-pains/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68082df55510ab7e106f4bda/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-04-24T11:00:00Z",
+            "content": "As artificial intelligence (AI) evolves, it is upending how media campaigns are executed, from ... More audience segmentation and media buying to real-time optimization and performance measurement, a… [+13114 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Vaibhav Kakkar, Forbes Councils Member, \n Vaibhav Kakkar, Forbes Councils Member\n https://www.forbes.com/councils/forbesagencycouncil/people/vaibhavkakkar/",
+            "title": "How To Use AI And Machine Learning To Transform Your Marketing Strategies",
+            "description": "AI and machine learning are reshaping how brands interact with their audiences and redefining campaign management, customer engagement and data-driven decision making.",
+            "url": "https://www.forbes.com/councils/forbesagencycouncil/2025/04/24/how-to-use-ai-and-machine-learning-to-transform-your-marketing-strategies/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68097becbde09737484dc906/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-04-24T11:00:00Z",
+            "content": "Vaibhav Kakkar, Founder and CEO of Digital Web Solutions, empowers global agencies and marketers through strategic digital solutions.\r\ngetty\r\nPicture this: Youve tried everything to position your bra… [+7009 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Globalsecurity.org"
+            },
+            "author": "John Pike",
+            "title": "India suspends water treaty with Pakistan after terror attack",
+            "description": "The Indian government has suspended an old water sharing treaty with Pakistan, a move seen as an existential threat to Pakistan's massive agriculture sector, after a deadly attack on tourists in its Kashmir region.",
+            "url": "https://www.globalsecurity.org/military/library/news/2025/04/mil-250423-presstv02.htm",
+            "urlToImage": null,
+            "publishedAt": "2025-04-24T09:07:03Z",
+            "content": "Iran Press TV\r\nWednesday, 23 April 2025 5:58 PM\r\nThe Indian government has suspended an old water sharing treaty with Pakistan, a move seen as an existential threat to Pakistan's massive agriculture … [+1729 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Advocate.com"
+            },
+            "author": "John Casey",
+            "title": "Why Elon Musk Is the New Mike 'MyPillow' Lindell",
+            "description": "Whatever happened to Mike Lindell\r\n, a.k.a. Mr. MyPillow? Does anyone really care what happened to LIndell? He flew too close to Donald Trump, and like everyone else who did the same thing, he flamed out. And so did his business.",
+            "url": "https://www.advocate.com/voices/elon-musk-new-mike-lindell",
+            "urlToImage": "https://www.advocate.com/media-library/elon-musk-in-a-tesla-car-mike-lindell-hugging-a-mypillow.jpg?id=60022145&width=1200&height=600&coordinates=0%2C39%2C0%2C39",
+            "publishedAt": "2025-04-24T09:00:02Z",
+            "content": "Whatever happened to Mike Lindell\r\n, a.k.a. Mr. MyPillow? Does anyone really care what happened to LIndell? He flew too close to Donald Trump, and like everyone else who did the same thing, he flamed… [+7528 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Arxiv.org"
+            },
+            "author": "Cristiana Dimulescu, Ronja Strömsdörfer, Agnes Flöel, Klaus Obermayer",
+            "title": "On the robustness of the emergent spatiotemporal dynamics in\n biophysically realistic and phenomenological whole-brain models at multiple\n network resolutions",
+            "description": "The human brain is a complex dynamical system which displays a wide range of\nmacroscopic and mesoscopic patterns of neural activity, whose mechanistic\norigin remains poorly understood. Whole-brain modelling allows us to explore\ncandidate mechanisms causing th…",
+            "url": "https://arxiv.org/abs/2504.17491",
+            "urlToImage": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+            "publishedAt": "2025-04-24T12:32:40Z",
+            "content": "arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\r\nBoth individuals and organizations that work with arXivLabs have embraced and acce… [+257 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ComicBook.com"
+            },
+            "author": "Evan Valentine",
+            "title": "Love, Death + Robots Vol 4 Reveals New Trailer, Voice Cast & Directors",
+            "description": "Love Death + Robots V4 Cr. COURTESY OF NETFLIX © 2025\nLove, Death + Robots first arrived on Netflix in 2019, with producers Tim Miller, David Fincher, Jennifer Miller, and Joshua Donen helping to create some of the most jaw-dropping animated segments ever bro…",
+            "url": "http://comicbook.com/anime/news/love-death-robots-vol-4-new-trailer-voice-cast-directors/",
+            "urlToImage": "https://comicbook.com/wp-content/uploads/sites/4/2025/04/Love-Death-Robots.jpg?w=1920",
+            "publishedAt": "2025-04-24T17:00:47Z",
+            "content": "Love, Death + Robots first arrived on Netflix in 2019, with producers Tim Miller, David Fincher, Jennifer Miller, and Joshua Donen helping to create some of the most jaw-dropping animated segments ev… [+6101 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "ET Online",
+            "title": "Indus Water Treaty: Can India really turn off the Indus tap for Pakistan?",
+            "description": "India’s suspension of the Indus Waters Treaty, following the Pahalgam terror attack, signals a sharp shift in its strategy towards Pakistan. While the move won’t immediately cut off water flows, it removes long-standing restraints on hydro projects across key…",
+            "url": "https://economictimes.indiatimes.com/news/new-updates/indus-water-treaty-can-india-really-turn-off-the-indus-tap-for-pakistan/articleshow/120575133.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-120580047,width-1200,height-630,imgsize-94821,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-04-24T09:07:59Z",
+            "content": "Indias decision to suspend the Indus Waters Treaty (IWT) has raised fears of a looming water crisis in Pakistan. Following the deadly Pahalgam terror attack, New Delhis move marks a clear shift in it… [+8177 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Thecuriousbrain.com"
+            },
+            "author": "thebrainbehind",
+            "title": "The Color of Collapse: Why Bleaching Reefs Signal the End of Our Illusions",
+            "description": "Imagine watching your childhood home slowly fade to white—not from renovation, but from rot. That’s what’s happening beneath our oceans. Not to homes, but to the ancient, radiant metropolises of coral reefs. According to a new CNN report, 84% of the world’s r…",
+            "url": "https://thecuriousbrain.com/?p=146460",
+            "urlToImage": "https://i0.wp.com/thecuriousbrain.com/wp-content/uploads/the-color-of-collapse-why-bleach.jpg?fit=1200%2C675&ssl=1",
+            "publishedAt": "2025-04-24T12:05:03Z",
+            "content": "Imagine watching your childhood home slowly fade to whitenot from renovation, but from rot. Thats whats happening beneath our oceans. Not to homes, but to the ancient, radiant metropolises of coral r… [+3100 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CIO Dive"
+            },
+            "author": "Lindsey Wilkinson",
+            "title": "Walmart is all-in on generative AI, agentic tools",
+            "description": "The company is “throwing the doors wide open” and wants associates to use the technology every day, executives said.",
+            "url": "https://www.ciodive.com/news/walmart-agentic-generative-AI-strategy-developer-experience/745820/",
+            "urlToImage": "https://imgproxy.divecdn.com/ic78bYZ5UeW_KUE7xYqTx46pYQOh2CKDP0YetaL5qWA/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjA5NDIyMTQ4LmpwZw==.webp",
+            "publishedAt": "2025-04-24T17:00:00Z",
+            "content": "After two years exploring generative AI use, Walmart has embedded the technology across workflows, honing its deployment strategy and expanding the toolkit for associates and developers in the proces… [+5186 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nextbigwhat.com"
+            },
+            "author": "NBW: AI, Products and YOU : The curiousity Copilot.",
+            "title": "Ten years from now, we could be curing all diseases... and traveling the stars: Google Deepmind CEO on AGI",
+            "description": "\"We’re on the cusp of AGI... maybe 5 to 10 years out\"",
+            "url": "https://www.nextbigwhat.com/p/ten-years-from-now-we-could-be-curing",
+            "urlToImage": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd63b4b52-5a25-486b-a176-09d4470c98bf_1593x1195.jpeg",
+            "publishedAt": "2025-04-24T15:46:33Z",
+            "content": "Artificial General Intelligence is no longer a distant dream. Its fast approaching perhaps within a decade and it could change everything: health, energy, science, even how we define life itself. But… [+7107 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": "ign",
+                "name": "IGN"
+            },
+            "author": "Wesley Yin-Poole",
+            "title": "Netflix's Love, Death + Robots Season 4 Cast List Includes John Boyega, the Red Hot Chili Peppers, and MrBeast",
+            "description": "Netflix has announced the Love, Death + Robots Season 4 cast list alongside episode details and a new trailer.",
+            "url": "https://www.ign.com/articles/netflixs-love-death-robots-season-4-cast-list-includes-john-boyega-the-red-hot-chili-peppers-and-mrbeast",
+            "urlToImage": "https://assets-prd.ignimgs.com/2025/04/24/chillies-1745513313798.jpg?width=1280",
+            "publishedAt": "2025-04-24T17:00:00Z",
+            "content": "Netflix has announced the Love, Death + Robots Season 4 cast list alongside episode details and a new trailer.\r\nThe fourth volume of the animated anthology series features 10 episodes brought to life… [+6374 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Conversation Africa"
+            },
+            "author": "May East, MSc Supervisor, Urban Planning & Education, University of Edinburgh",
+            "title": "How growing and foraging food can become a common part of cities",
+            "description": "Community gardens can create access to local, fresh food that reduce reliance on convenience food.",
+            "url": "https://theconversation.com/how-growing-and-foraging-food-can-become-a-common-part-of-cities-253868",
+            "urlToImage": "https://images.theconversation.com/files/659814/original/file-20250404-62-9psh7k.jpg?ixlib=rb-4.1.0&rect=0%2C89%2C4000%2C2000&q=45&auto=format&w=1356&h=668&fit=crop",
+            "publishedAt": "2025-04-24T16:08:28Z",
+            "content": "The early morning light spills over the raised beds of a thriving community garden in Harlem, New York. It’s a Saturday, and people of all ages move among the plants – harvesting collard greens, maki… [+6094 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digiday"
+            },
+            "author": "Jessica Davies",
+            "title": "Media Briefing: Publishers are frustrated — and quietly grateful — after Google’s cookie u-turn",
+            "description": "After years of preparing for the deprecation of third-party cookies, Google’s u-turn this week has landed like a slap. And yet, most publishers concede the effort wasn’t a waste.",
+            "url": "http://digiday.com/media/media-briefing-publishers-are-frustrated-and-quietly-grateful-after-googles-cookie-u-turn/",
+            "urlToImage": "https://digiday.com/wp-content/uploads/sites/3/2025/04/coins-floating-digiday.jpg",
+            "publishedAt": "2025-04-24T04:01:00Z",
+            "content": "This Media Briefing covers the latest in media trends for Digiday+ members and is distributed over email every Thursday at 10 a.m. ET. More from the series →In this week’s Media Briefing, publishers … [+12458 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Globalsecurity.org"
+            },
+            "author": "John Pike",
+            "title": "Tahrir Hospital director: Gaza children at most severe stage of malnutrition",
+            "description": "The director of Tahrir Hospital at Nasser Medical Complex in Gaza has warned that the children of the besieged Palestinian territory have reached the most severe stage of malnutrition.",
+            "url": "https://www.globalsecurity.org/military/library/news/2025/04/mil-250423-presstv05.htm",
+            "urlToImage": null,
+            "publishedAt": "2025-04-24T09:05:54Z",
+            "content": "Iran Press TV\r\nWednesday, 23 April 2025 3:29 PM\r\nThe director of Tahrir Hospital at Nasser Medical Complex in Gaza has warned that the children of the besieged Palestinian territory have reached the … [+2662 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Alexandra Steigrad",
+            "title": "‘CBS Mornings’ gets boost from Gayle King space ride — but ratings quickly drop back to Earth",
+            "description": "CBS should send Gayle King into space more often.",
+            "url": "https://nypost.com/2025/04/23/media/cbs-mornings-gets-boost-from-gayle-king-space-ride-but-ratings-quickly-drop-back-to-earth/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/04/newspress-collage-zmd8qx5al-1745450250164.jpg?quality=75&strip=all&1745435863&w=1024",
+            "publishedAt": "2025-04-23T23:18:09Z",
+            "content": "CBS should send Gayle King into space more often.\r\nThe “CBS Mornings” anchor’s 11-minute ride into orbit on Jeff Bezos’ Blue Origin — with an all-female crew that included pop star Katy Perry and the… [+3136 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Celebitchy.com"
+            },
+            "author": "Kaiser",
+            "title": "Wiz Khalifa is a flat-earther: ‘I just believe that we live on a flat plane’",
+            "description": "A few days ago, Wiz Khalifa appeared on The Joe Budden Podcast, where he discussed his new album (Kush & OJ 2) and bragged about how well he’s doing financially these days. He claims that he still gets paid $250K for a feature and books shows for $2 million. …",
+            "url": "https://www.celebitchy.com/919175/wiz_khalifa_is_a_flat-earther_i_just_believe_that_we_live_on_a_flat_plane/",
+            "urlToImage": null,
+            "publishedAt": "2025-04-24T13:40:11Z",
+            "content": "A few days ago, Wiz Khalifa appeared on The Joe Budden Podcast, where he discussed his new album (Kush &amp; OJ 2) and bragged about how well hes doing financially these days. He claims that he still… [+3979 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Mohammed Soliman",
+            "title": "No, China Is Not the 'New Soviet Union' | Opinion",
+            "description": "The American attempt to \"contain\" China as if it were the Soviet Union is not only misguided—it is dangerous.",
+            "url": "https://www.newsweek.com/no-china-not-new-soviet-union-opinion-2062514",
+            "urlToImage": "https://d.newsweek.com/en/full/2632677/xi-jinping-chinese-flag.jpg",
+            "publishedAt": "2025-04-24T18:12:23Z",
+            "content": "From the collapse of the Berlin Wall to the most recent proclamations from Washington's foreign policy think tanks, a persistent illusion has shaped American strategic thinking: the belief that great… [+6829 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Palash Volvoikar",
+            "title": "Add a Burner Phone to Your List of International Travel Gear. Here's Why",
+            "description": "A simple phone that doesn't include all your personal correspondence can be a smart choice for many reasons.",
+            "url": "https://www.cnet.com/tech/mobile/add-a-burner-phone-to-your-list-of-international-travel-gear-heres-why/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/dafcf48cb80958a60176440d2cb165a9384e0d2b/hub/2013/08/08/b6eea48a-67c2-11e3-a665-14feb5ca9861/Nokia_105_35619089-0858.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-04-24T10:12:03Z",
+            "content": "If your summer travel plans involve entering the US, you may want to consider getting a \"burner,\" a phone you use for basic communication and which doesn't include sensitive data. That's due to incre… [+5477 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SiliconANGLE News"
+            },
+            "author": "Mike Wheatley",
+            "title": "Legal AI tech startup Noxtua raises €80.7M to help European lawyers automate their work",
+            "description": "Germany-based legal technology startup Noxtua SE said today it has closed on an €80.7 million ($91.6 million) round of funding after undergoing a corporate rebranding. The company, which was previously known as Xayn SE, said today’s round was led by Verlag C.…",
+            "url": "https://siliconangle.com/2025/04/23/legal-ai-tech-startup-noxtua-raises-e80-7m-help-european-lawyers-automate-work/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/04/Screenshot-from-2025-04-24-09-14-25.png",
+            "publishedAt": "2025-04-24T02:16:42Z",
+            "content": "Germany-based legal technology startup Noxtua SE said today it has closed on an 80.7 million ($91.6 million) round of funding after undergoing a corporate rebranding.\r\nThe company, which was previous… [+4141 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "EURACTIV"
+            },
+            "author": "Sofia Sanchez Manzanaro",
+            "title": "Bug burgers don’t work, so insect industry pivots to animal feed",
+            "description": "The insect industry is now trying to find a new market, but one expert says, \"it's not clear that there is one.\"",
+            "url": "https://www.euractiv.com/section/agriculture-food/news/bug-burgers-dont-work-so-insect-industry-pivots-to-animal-feed/",
+            "urlToImage": "https://www.euractiv.com/wp-content/uploads/sites/2/2025/04/GettyImages-2024488658-4.jpg",
+            "publishedAt": "2025-04-24T04:00:28Z",
+            "content": "After failing to convince Europeans to swap steaks for cricket pasta, insect producers have turned to the animal feed market as their next big hope. \r\nThe problem is that industry watchers are questi… [+5270 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": null,
+            "title": "Amid U.S.-China Trade War, Africa Must Pivot to the Middle East | Opinion",
+            "description": "The Persian Gulf is emerging as the new hub of globalization, and may be willing to offer African countries deals without Western moralizing or Chinese debt traps.",
+            "url": "https://www.newsweek.com/amid-us-china-trade-war-africa-must-pivot-middle-east-opinion-2062515",
+            "urlToImage": "https://d.newsweek.com/en/full/2632453/african-heads-state.jpg",
+            "publishedAt": "2025-04-24T13:52:05Z",
+            "content": "As the American eagle and Chinese dragon clash over tariffs that burned more than $10 trillion in global wealth, some are declaring the death of globalization.\r\nBut globalization isn't dying—it's jus… [+6305 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "Can technology revolutionize health science? The promise of exposomics",
+            "description": "Researchers in the field of exposomics explain how cutting-edge technologies are unlocking this biological archive, ushering in a new era of disease prevention and personalized medicine.",
+            "url": "https://www.sciencedaily.com/releases/2025/04/250424172942.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+            "publishedAt": "2025-04-24T21:29:42Z",
+            "content": "Every breath we take, every meal we eat, and every environment we encounter leaves a molecular fingerprint in our bodies -- a hidden record of our lifelong exposures. Researchers in the field of expo… [+4396 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hospitality Net"
+            },
+            "author": "Enseo",
+            "title": "Enseo Announces New Hires and Promotions to Strengthen Leadership and Drive Growth",
+            "description": "Enseo, the essential technology services provider and innovator responsible for foundational technology in hospitality, announces the addition of Matt Guggenheim, Chief Financial Officer, as well as the promotions of Helen Jenkins to Chief Legal Officer and K…",
+            "url": "https://www.hospitalitynet.org/news/4126859.html",
+            "urlToImage": "https://www.hospitalitynet.org/HN-icon.jpg",
+            "publishedAt": "2025-04-24T09:37:00Z",
+            "content": "Plano, TXEnseo, the essential technology services provider and innovator responsible for foundational technology in hospitality, announces the addition of Matt Guggenheim, Chief Financial Officer, as… [+2795 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Postgresql.org"
+            },
+            "author": "Dalibo",
+            "title": "PostgreSQL Anonymizer 2.1: Blurring Images",
+            "description": "Eymoutiers, France, April 18, 2025\nPostgreSQL Anonymizer 2.1 is out and it brings new possibilities in the field\nof database privacy protection!\nEnhanced Privacy Protection for Your Data\nPostgreSQL Anonymizer is an extension that hides or replaces personally\n…",
+            "url": "https://www.postgresql.org/about/news/postgresql-anonymizer-21-blurring-images-3061/",
+            "urlToImage": null,
+            "publishedAt": "2025-04-24T00:00:00Z",
+            "content": "Eymoutiers, France, April 18, 2025\r\nPostgreSQL Anonymizer 2.1 is out and it brings new possibilities in the field\r\nof database privacy protection!\r\nEnhanced Privacy Protection for Your Data\r\nPostgreS… [+2589 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Geeky Gadgets"
+            },
+            "author": "Julian Horsey",
+            "title": "OpenAI’s Framework & Guide to Building Production-Ready AI Agents",
+            "description": "OpenAI has introduced a detailed framework for building production-ready AI agents, focusing on simplicity, iterative refinement, and the strategic integration of tools, models, and instructions. In this overview, Prompt Engineering explores the core componen…",
+            "url": "https://www.geeky-gadgets.com/openai-ai-agent-framework-and-guide/",
+            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/04/openai-ai-agents-framework_optimized.jpg",
+            "publishedAt": "2025-04-24T10:22:28Z",
+            "content": "OpenAI has introduced a detailed framework for building production-ready AI agents, focusing on simplicity, iterative refinement, and the strategic integration of tools, models, and instructions. In … [+7223 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BusinessLine"
+            },
+            "author": "Our Bureau",
+            "title": "Avaana Capital leads seed round of ₹32 cr in insect protein firm GreenGrahi",
+            "description": "The ₹32 crore raise will be used to build India’s largest BSF bio-factory, capable of processing 150 tonnes of feedstock daily",
+            "url": "https://www.thehindubusinessline.com/economy/agri-business/avaana-capital-leads-seed-round-of-32-cr-in-insect-protein-firm-greengrahi/article69486676.ece",
+            "urlToImage": "https://bl-i.thgim.com/public/incoming/mon2ej/article69486668.ece/alternates/LANDSCAPE_1200/Founders%20of%20GreenGrahi%20Siddharth%20Sharma%20and%20Shivali%20Sugand%20%20.png",
+            "publishedAt": "2025-04-24T13:50:15Z",
+            "content": "Venture capital firm Avaana Capital has led the seed funding of 32 crore (approximately $3.8 million) in GreenGrahi, an insect protein start-up. The round also saw participation from existing investo… [+2995 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Livemint"
+            },
+            "author": "Jatin Grover",
+            "title": "Q4 earnings: Jio set for steady growth on last tariff hike, subscriber additions",
+            "description": "During Friday's earnings, eyes would be Jio's guidance on fixed wireless access expansion, Arpu growth, tariff hike benefit pass-through, 5G monetisation trends, and the growth in its AI cloud offerings",
+            "url": "https://www.livemint.com/companies/company-results/reliance-jio-q4-earnings-analyst-estimates-expectations-revenue-profit-arpu-guidance-5g-telecom-sector-11745473384311.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2025/04/24/1600x900/INDIA-RELIANCE-24_1713787018722_1745475652540.jpg",
+            "publishedAt": "2025-04-24T06:34:27Z",
+            "content": "NEW DELHI\r\n : \r\nReliance Jio Infocomm Ltd, Indias largest telecom operator by market share, is expected to report a steady performance in the March quarter, driven by subscriber additions and the lin… [+2727 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "BRAZIL POTASH CORP",
+            "title": "Brazil Potash Expands Advisory Board With Appointment of Marcelo Lessa, Former Executive of IFC/World Bank and Bunge Ltda.",
+            "description": "Executive Brings Extensive Experience in International Financing of Agribusiness and Infrastructure Projects to Support Project Construction Funding Executive Brings Extensive Experience in International Financing of Agribusiness and Infrastructure Projects t…",
+            "url": "https://www.globenewswire.com/news-release/2025/04/24/3067901/0/en/Brazil-Potash-Expands-Advisory-Board-With-Appointment-of-Marcelo-Lessa-Former-Executive-of-IFC-World-Bank-and-Bunge-Ltda.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/2db3213b-1d91-4431-a3b7-9d85c76f9226",
+            "publishedAt": "2025-04-24T20:05:00Z",
+            "content": "MANAUS, Brazil, April 24, 2025 (GLOBE NEWSWIRE) -- Brazil Potash Corp. (\"Brazil Potash\" or the \"Company\") (NYSE-American: GRO), a mineral exploration and development company with a critical mineral p… [+5154 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "Research and Markets",
+            "title": "Internet Search Portals Market Report 2025 | Revenues to Exceed $270 Billion by 2030 | Integration of Augmented Reality (AR) in Search Engines Enhancing User Interaction",
+            "description": "Dublin, April 24, 2025 (GLOBE NEWSWIRE) -- The \"Internet Search Portals - Global Strategic Business Report\" has been added to ResearchAndMarkets.com's offering.The global market for Internet Search Portals was valued at US$225.4 Billion in 2024 and is project…",
+            "url": "https://www.globenewswire.com/news-release/2025/04/24/3067533/28124/en/Internet-Search-Portals-Market-Report-2025-Revenues-to-Exceed-270-Billion-by-2030-Integration-of-Augmented-Reality-AR-in-Search-Engines-Enhancing-User-Interaction.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+            "publishedAt": "2025-04-24T13:18:00Z",
+            "content": "Dublin, April 24, 2025 (GLOBE NEWSWIRE) -- The \"Internet Search Portals - Global Strategic Business Report\" has been added to ResearchAndMarkets.com's offering.\r\nThe global market for Internet Search… [+7313 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "Research and Markets",
+            "title": "Security-as-a-Service (SECaaS) a $43.4 Billion Industry by 2030 - Technological Advancements in AI-Driven Security and Automation Propel Market Innovation",
+            "description": "Dublin, April 24, 2025 (GLOBE NEWSWIRE) -- The \"Security as a Service - Global Strategic Business Report\" report has been added to ResearchAndMarkets.com's offering.The global market for Security as a Service was valued at US$19.8 Billion in 2024 and is proje…",
+            "url": "https://www.globenewswire.com/news-release/2025/04/24/3067536/28124/en/Security-as-a-Service-SECaaS-a-43-4-Billion-Industry-by-2030-Technological-Advancements-in-AI-Driven-Security-and-Automation-Propel-Market-Innovation.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+            "publishedAt": "2025-04-24T13:23:00Z",
+            "content": "Dublin, April 24, 2025 (GLOBE NEWSWIRE) -- The \"Security as a Service - Global Strategic Business Report\" report has been added to ResearchAndMarkets.com's offering.\r\nThe global market for Security a… [+7357 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": "the-irish-times",
+                "name": "The Irish Times"
+            },
+            "author": "Ciara O'Brien",
+            "title": "Ericsson plans €200m Irish investment",
+            "description": "Move seen as big boost for its Ireland operation",
+            "url": "https://www.irishtimes.com/business/2025/04/24/ericsson-plans-200m-irish-investment/",
+            "urlToImage": "https://www.irishtimes.com/resizer/v2/72TC6W5T4YYNENN2VPVXFDJC4E.jpg?smart=true&auth=1d5a92d8bcd9ed722cc9637b325fade775b5eead4f85707a40415014a9c7be3b&width=1200&height=630",
+            "publishedAt": "2025-04-23T23:01:00Z",
+            "content": "Telecoms company Ericsson is to invest 200 million in its Athlone facility as part of a three-year research and development project that aims to improve efficiency in 5G networks around the world. \r\n… [+2081 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Geeky Gadgets"
+            },
+            "author": "Julian Horsey",
+            "title": "Ex-OpenAI Insider Just Dropped Shocking Predictions About AI’s Future",
+            "description": "What if the future of humanity was being shaped behind closed doors, and one insider just decided to pull back the curtain? That’s exactly what’s happening as a former OpenAI employee steps forward to reveal AI future predictions and the untold story of artif…",
+            "url": "https://www.geeky-gadgets.com/ai-future-predictions/",
+            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/04/ai-future-predictions-2025-to-2035_optimized.jpg",
+            "publishedAt": "2025-04-24T09:13:41Z",
+            "content": "What if the future of humanity was being shaped behind closed doors, and one insider just decided to pull back the curtain? Thats exactly whats happening as a former OpenAI employee steps forward to … [+9012 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "What's on Netflix"
+            },
+            "author": "Kasey Moore",
+            "title": "‘Love, Death and Robots’ Volume 4 Will Feature Red Hot Chili Peppers, MrBeast, John Oliver & Kevin Hart",
+            "description": "A deep-dive into the animation studios, directors, and voice actors for each of the 10 new episodes coming in May 2025.",
+            "url": "https://www.whats-on-netflix.com/news/love-death-and-robots-volume-4-episode-titles-voice-actors-directors-list/",
+            "urlToImage": "https://www.whats-on-netflix.com/wp-content/uploads/2025/04/love-death-and-robots-volume-4-episode-breakdowns.jpg",
+            "publishedAt": "2025-04-24T16:59:15Z",
+            "content": "Picture: Netflix\r\nAfter three years, Love, Death and Robots is returning for an extended 10-episode fourth volume, and today, Netflix has lifted the lid on the upcoming suite of episodes, including t… [+9027 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GoNintendo"
+            },
+            "author": "nintendojam",
+            "title": "Stardiver announced for Switch",
+            "description": "Visit the site to view the full article.",
+            "url": "https://gonintendo.com/contents/47793-stardiver-announced-for-switch",
+            "urlToImage": "https://gonintendo.com/attachments/image/64152/file/medium-a63514d9b5ee60c7fb66f072f0e3c368.jpg",
+            "publishedAt": "2025-04-24T13:57:00Z",
+            "content": "First released for PC last year, Take IT Studio has announced that Stardiver is now making its way to consoles. While no release date has been shared yet, the Switch version of the atmospheric sci-fi… [+1941 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Martech.zone"
+            },
+            "author": "Douglas Karr",
+            "title": "VPNLY: The Free VPN for Secure, Global, and Private Workflows",
+            "description": "When you browse the web on a typical Wi-Fi or public network, your data doesn’t just go straight from your device to the website. It travels through the local network, your internet service provider (ISP), and often several other points in between. Along the …",
+            "url": "https://martech.zone/vpnly-free-global-secure-vpn/",
+            "urlToImage": "https://cdn.martech.zone/wp-content/uploads/2025/04/vpnly-free-vpn-global-secure-private.png",
+            "publishedAt": "2025-04-24T14:20:49Z",
+            "content": "When you browse the web on a typical Wi-Fi or public network, your data doesnt just go straight from your device to the website. It travels through the local network, your internet service provider (… [+6505 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ComputerWeekly.com"
+            },
+            "author": "Aaron Tan",
+            "title": "ASEAN telcos going beyond the 5G hype",
+            "description": "Telcos from Singapore, Malaysia and Indonesia are moving beyond the 5G hype as they focus on driving enterprise 5G and AI adoption to drive value for customers",
+            "url": "https://www.computerweekly.com/news/366622987/ASEAN-telcos-going-beyond-the-5G-hype",
+            "urlToImage": "https://www.computerweekly.com/visuals/searchTelecom/wireless_mobile_networks/telecom_article_014.jpg",
+            "publishedAt": "2025-04-24T06:00:00Z",
+            "content": "Some five years after the first 5G launches, the conversation among Southeast Asias leading mobile operators is shifting from network roll-out and speed benchmarks towards harnessing artificial intel… [+4709 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Nelson Aguilar",
+            "title": "Your iPhone Has 23 Settings That Could Make Your Life Way Easier",
+            "description": "Small changes in your iPhone's settings can make a big difference in how it works.",
+            "url": "https://www.cnet.com/tech/mobile/your-iphone-has-23-settings-that-could-make-your-life-way-easier/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/4e48e5cd58e1fd8fec17739ca6260f6dd252ec66/hub/2025/02/28/b2a77e99-4d9e-4acf-831f-ec70d7264a56/ios18-settings-change-hero-mar2025.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-04-24T14:00:10Z",
+            "content": "If you haven't taken a closer look at your iPhone settings lately, you're probably missing out on features that could save time, reduce distractions, and personalize your experience in a big way. Eve… [+18714 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "avillasboas@insider.com (Antonio Villas-Boas)",
+            "title": "Motorola still makes foldable Razr phones, in case you were wondering. The brand just launched 3 new styles with some serious tech upgrades from the original Paris Hilton days.",
+            "description": "Motorola's 2025 Razr phones all include AI from Google and Motorola, and the new high-end Razr Ultra model comes in premium wood and fabric finishes.",
+            "url": "https://www.businessinsider.com/guides/tech/motorola-razr-2025-price-release-date-features-specs",
+            "urlToImage": "https://i.insider.com/680a6bf1a466d2b74ab410f2?width=1200&format=jpeg",
+            "publishedAt": "2025-04-24T20:34:55Z",
+            "content": "Motorola announced three new foldable Razr phones on April 24, including the standard Razr, Razr Plus, and Razr Ultra. The phones will be available to preorder on May 7 before a May 15 release date.\r… [+10724 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Independent.ie"
+            },
+            "author": "Azmia Riaz",
+            "title": "Ericsson bucks trend of slowing FDI, with €200m investment in Athlone facility to work on 5G",
+            "description": "Swedish telecom company Ericsson has announced a €200m investment into its facility in Athlone where it will work to enhance its 5G network products for the telecons sector.",
+            "url": "https://www.independent.ie/business/ericsson-bucks-trend-of-slowing-fdi-with-200m-investment-in-athlone-facility-to-work-on-5g/a539070569.html",
+            "urlToImage": "https://focus.independent.ie/thumbor/GzxHZuIKrn2ayZO0QQDSfO8PqQo=/547x609:2525x1929/629x0/prod-mh-ireland/39041f32-0ca8-4f87-806f-a5e848729b33/4d21cba1-5f5f-46da-92db-23391ee33208/39041f32-0ca8-4f87-806f-a5e848729b33.jpg",
+            "publishedAt": "2025-04-24T01:30:00Z",
+            "content": "Swedish telecom company Ericsson has announced a 200m investment into its facility in Athlone where it will work to enhance its 5G network products for the telecons sector.The announcement bucks the … [+2658 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SiliconANGLE News"
+            },
+            "author": "Paul Nashawaty",
+            "title": "Why AI gateways are emerging as cloud-native’s next battleground",
+            "description": "There’s a new front opening in the race to build intelligent applications: the intersection of artificial intelligence, application programming interfaces and infrastructure. At KubeCon + CloudNativeCon Europe 2025 in London, the surge of interest in AI wasn’…",
+            "url": "https://siliconangle.com/2025/04/24/ai-gateways-emerge-key-cloud-native-infrastructure-thecube/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/04/Sudeep-Goswami-Clean-Thumb.jpg",
+            "publishedAt": "2025-04-24T18:22:35Z",
+            "content": "Theres a new front opening in the race to build intelligent applications: the intersection of artificial intelligence, application programming interfaces and infrastructure. At KubeCon + CloudNativeC… [+5552 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "MarketsandMarkets Research Pvt. Ltd.",
+            "title": "US Humanoid Robot Market to Reach $3.83 Billion by 2029 — Embrace the Future of Robotics",
+            "description": "Delray Beach, FL, April 24, 2025 (GLOBE NEWSWIRE) -- The report \"Humanoid Robot Market by Biped Robots, Wheel Drive Robots, Sensors (Gyroscopes, Accelerometers, Tilt Sensors, Position Sensors, Vision Sensors, Torque Sensors), Actuators (Electrical, Pneumatic,…",
+            "url": "https://www.globenewswire.com/news-release/2025/04/24/3067404/0/en/US-Humanoid-Robot-Market-to-Reach-3-83-Billion-by-2029-Embrace-the-Future-of-Robotics.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/afcc5182-4ae0-43a8-a965-4351d590b7ed",
+            "publishedAt": "2025-04-24T12:30:00Z",
+            "content": "Delray Beach, FL, April 24, 2025 (GLOBE NEWSWIRE) -- The report \"Humanoid Robot Market by Biped Robots, Wheel Drive Robots, Sensors (Gyroscopes, Accelerometers, Tilt Sensors, Position Sensors, Vision… [+5317 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "SPOTLIGHT",
+            "title": "Galaxy M56 5G: The slimmest phone in its segment* has arrived",
+            "description": "The smartphone world has always been a space where innovation drives excitement, and with each new release, brands push the limits of what we can expect. Samsung continues to set the bar high with cutting-edge technology, particularly with the Galaxy M56 5G. …",
+            "url": "https://gadgetsnow.indiatimes.com/gn-advertorial/galaxy-m56-5g-the-slimmest-phone-in-its-segment-has-arrived/articleshow/120544378.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/resizemode-4,msid-120544378,imgsize-27548,width-800/120544378.jpg",
+            "publishedAt": "2025-04-24T12:35:07Z",
+            "content": "The smartphone world has always been a space where innovation drives excitement, and with each new release, brands push the limits of what we can expect. Samsung continues to set the bar high with cu… [+7371 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "Research and Markets",
+            "title": "Mobile Email Industry Analysis 2025-2030: Convergence of Technological Advancements, User Demand, and Evolving Communication Trends",
+            "description": "Development of AI-Driven Threat Detection Spurs Growth in Security-Focused Mobile Email Applications Development of AI-Driven Threat Detection Spurs Growth in Security-Focused Mobile Email Applications",
+            "url": "https://www.globenewswire.com/news-release/2025/04/24/3067602/28124/en/Mobile-Email-Industry-Analysis-2025-2030-Convergence-of-Technological-Advancements-User-Demand-and-Evolving-Communication-Trends.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+            "publishedAt": "2025-04-24T14:03:00Z",
+            "content": "Dublin, April 24, 2025 (GLOBE NEWSWIRE) -- The \"Mobile Email - Global Strategic Business Report\" has been added to ResearchAndMarkets.com's offering.\r\nThe global market for Mobile Email was sized at … [+7551 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "Research and Markets",
+            "title": "Internet Services Market and Companies Analysis Report 2025-2030: Fiber Optics, Wireless, Satellite, Cable, and Digital Subscriber Line (DSL) Market Shares by End-Use and Region",
+            "description": "Expansion of Smart Cities and Urbanization Spurs Demand for Integrated Internet Services Expansion of Smart Cities and Urbanization Spurs Demand for Integrated Internet Services",
+            "url": "https://www.globenewswire.com/news-release/2025/04/24/3067553/28124/en/Internet-Services-Market-and-Companies-Analysis-Report-2025-2030-Fiber-Optics-Wireless-Satellite-Cable-and-Digital-Subscriber-Line-DSL-Market-Shares-by-End-Use-and-Region.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+            "publishedAt": "2025-04-24T13:37:00Z",
+            "content": "Dublin, April 24, 2025 (GLOBE NEWSWIRE) -- The \"Internet Services - Global Strategic Business Report\" has been added to ResearchAndMarkets.com's offering.\r\nThe global market for Internet Services was… [+7831 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Graphicdesignjunction.com"
+            },
+            "author": "Muhammad Faisal",
+            "title": "Top AI Trends Revolutionizing WordPress – Build Smarter, Faster Sites",
+            "description": "The world of web development is undergoing a seismic shift, thanks to the integration of Artificial Intelligence (AI) into platforms like WordPress. As one of the most popular content management systems (CMS) globally\nThe post Top AI Trends Revolutionizing Wo…",
+            "url": "https://graphicdesignjunction.com/2025/04/top-ai-trends-revolutionizing-wordpress/",
+            "urlToImage": "https://graphicdesignjunction.com/wp-content/uploads/2025/04/top_ai-trends_revolutionizing_wordpress.jpg",
+            "publishedAt": "2025-04-24T18:29:27Z",
+            "content": "The world of web development is undergoing a seismic shift, thanks to the integration of Artificial Intelligence (AI) into platforms like WordPress. As one of the most popular content management syst… [+10318 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Github.com"
+            },
+            "author": "fakechris",
+            "title": "kortix-ai/suna: Suna - Open Source Generalist AI Agent",
+            "description": "Suna - Open Source Generalist AI Agent. Contribute to kortix-ai/suna development by creating an account on GitHub.",
+            "url": "https://github.com/kortix-ai/suna",
+            "urlToImage": "https://repository-images.githubusercontent.com/868173144/c12ebf0e-b8aa-4050-ba6a-e4edc7b999a6",
+            "publishedAt": "2025-04-24T05:47:01Z",
+            "content": "(that acts on your behalf)\r\nSuna is a fully open source AI assistant that helps you accomplish real-world tasks with ease. Through natural conversation, Suna becomes your digital companion for resear… [+7289 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Independent.ie"
+            },
+            "author": "Irish Independent",
+            "title": "The Big Tech Show: Phallic rockets and fake astronauts: the case for space with Leo Enright",
+            "description": "What is the case for space? Does humanity benefit from it? And are the environmental impacts too great?",
+            "url": "https://www.independent.ie/podcasts/the-big-tech-show/the-big-tech-show-phallic-rockets-and-fake-astronauts-the-case-for-space-with-leo-enright/a1865596908.html",
+            "urlToImage": "https://focus.independent.ie/thumbor/Hh0vujC0nrouli5gIwCByG20NVQ=/0x0:314x209/314x0/prod-mh-ireland/620ab9bf-54ec-4054-a021-016123e37b1d/c3f0c5f3-49ad-4ab9-8a85-3373f7aa7008/620ab9bf-54ec-4054-a021-016123e37b1d.jpg",
+            "publishedAt": "2025-04-24T06:16:14Z",
+            "content": "What is the case for space? Does humanity benefit from it? And are the environmental impacts too great?Leo Enright, space commentator, former RTE and BBC correspondent joins Adrian on the Big Tech Sh… [+630 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Elearningindustry.com"
+            },
+            "author": "Nidhi Dubey",
+            "title": "Upskilling Employees For Citizen Development: L&D Strategies For Non-IT Staff",
+            "description": "Discover how to upskill your non-IT workforce for citizen development with effective L&D strategies. Learn how no-code/low-code training boosts innovation, agility, and digital transformation across your organization.\nThis post was first published on eLearnin…",
+            "url": "https://elearningindustry.com/upskilling-employees-for-citizen-development-ld-strategies-for-non-it-staff",
+            "urlToImage": "https://cdn.elearningindustry.com/wp-content/uploads/2025/04/Shutterstock_2318902917.jpg",
+            "publishedAt": "2025-04-24T11:00:39Z",
+            "content": "The speed of digital transformation demands more than just a capable IT department. Today's organizations must equip their entire workforce with tools to innovate and solve problems independently. Th… [+8755 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Jessica Rajan",
+            "title": "Agri-biotech startup GreenGrahi raises Rs 32 crore in round led by Avaana Capital",
+            "description": "Huddle, Campus Fund, Blume Founders Fund, and angel investors Nitin Sharma and Sameer Brij Verma participated in the funding round. The funds will be used to build and scale its insect biomanufacturing platform, hire people and expand globally. Founded in 202…",
+            "url": "https://economictimes.indiatimes.com/tech/funding/agri-biotech-startup-greengrahi-raises-rs-32-crore-in-round-led-by-avaana-capital/articleshow/120571247.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-120571337,width-1200,height-630,imgsize-56992,overlay-ettech/articleshow.jpg",
+            "publishedAt": "2025-04-24T04:28:10Z",
+            "content": "Agri-biotech startup GreenGrahi has raised Rs 32 crore in a funding round led by early-stage investment firm Avaana Capital.The round, which was majorly equity, also saw participation from Huddle, Ca… [+2426 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "JOHN HANNA Associated Press",
+            "title": "From banning tech to ending sister-city ties, US states have at least 240 anti-China proposals",
+            "description": "State lawmakers across the U.S. have introduced at least 240 anti-China proposals this year",
+            "url": "https://abcnews.go.com/US/wireStory/banning-tech-ending-sister-city-ties-us-states-121112448",
+            "urlToImage": "https://i.abcnewsfe.com/a/4ccb3039-24a0-4d17-81f4-ad80b2b58556/wirestory_ec3da7d5d28d385105d68c7c36f87169_16x9.jpg?w=1600",
+            "publishedAt": "2025-04-24T04:30:14Z",
+            "content": "TOPEKA, Kan. -- State lawmakers across the U.S. have introduced at least 240 anti-China proposals this year, aiming to ensure public funds don't buy Chinese technology or even T-shirts, coffee mugs a… [+5333 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Shareable.net"
+            },
+            "author": "Tom Llewellyn",
+            "title": "From City to Sink: Urban Carbon Removal as Promise and Practice with Duncan McLaren",
+            "description": "In this talk, Duncan will survey how cities are engaging with carbon removal – reviewing the realistic scope of possibilities such as carbon negative building materials, and carbon removal through urban waste management; and suggest ways in which urban carbon…",
+            "url": "https://www.shareable.net/cities_tufts/urban-carbon-removal-with-duncan-mclaren/",
+            "urlToImage": "https://www.resilience.org/wp-content/uploads/2025/04/Biochar_pile.jpg",
+            "publishedAt": "2025-04-24T11:39:11Z",
+            "content": "Climate policy increasingly relies on techniques to remove CO2 from the environment as a supplement to cutting emissions: counter-balancing residual emissions in net-zero and reducing atmospheric con… [+46795 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": null,
+            "title": "LNG could help break Canada's dependence on the U.S. energy economy — but there are no guarantees",
+            "description": "The debate is over the environmental and economic impacts as the industry calls for a Team Canada approach against the backdrop of a trade war.",
+            "url": "https://www.cbc.ca/news/canada/british-columbia/liquefied-natural-gas-federal-parties-economy-carney-poilievre-1.7516579",
+            "urlToImage": "https://i.cbc.ca/1.7516694.1745437599!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/tanker.jpg?im=Resize%3D620",
+            "publishedAt": "2025-04-24T11:00:00Z",
+            "content": "There's something new on the scenic skyline in Kitimat, B.C., more than 600 kilometres up the coast from Vancouver.\r\nA bright orange flare, burning above LNG Canada's sprawling export terminal as tes… [+11696 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "AP",
+            "title": "From banning tech to ending sister-city ties, US states have at least 240 anti-China proposals",
+            "description": "Across the U.S., state lawmakers have introduced numerous anti-China proposals this year, restricting public funds from being used on Chinese technology and goods. These measures target sister-city relationships and aim to prevent government agencies from uti…",
+            "url": "https://economictimes.indiatimes.com/news/international/global-trends/from-banning-tech-to-ending-sister-city-ties-us-states-have-at-least-240-anti-china-proposals/articleshow/120571712.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-120571746,width-1200,height-630,imgsize-94496,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-04-24T04:41:48Z",
+            "content": "State lawmakers across the U.S. have introduced at least 240 anti-China proposals this year, aiming to ensure public funds don't buy Chinese technology or even T-shirts, coffee mugs and key chains fo… [+5518 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": "financial-post",
+                "name": "Financial Post"
+            },
+            "author": "Bloomberg News",
+            "title": "China’s Farmers Battle Early Weather Threats as Trade Curbs Bite",
+            "description": "Dry spells and heavy rains in key Chinese farming regions are raising early concerns over crops, at a time when trade conflicts are hampering the country’s imports.",
+            "url": "https://financialpost.com/pmn/business-pmn/chinas-farmers-battle-early-weather-threats-as-trade-curbs-bite",
+            "urlToImage": null,
+            "publishedAt": "2025-04-23T23:45:54Z",
+            "content": "(Bloomberg) Dry spells and heavy rains in key Chinese farming regions are raising early concerns over crops, at a time when trade conflicts are hampering the countrys imports. \r\nTHIS CONTENT IS RESER… [+4856 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        },
+        {
+            "source": {
+                "id": "financial-post",
+                "name": "Financial Post"
+            },
+            "author": "The Associated Press",
+            "title": "From banning tech to ending sister-city ties, US states have at least 240 anti-China proposals",
+            "description": "TOPEKA, Kan. (AP) — State lawmakers across the U.S. have introduced at least 240 anti-China proposals this year, aiming to ensure public funds don’t buy Chinese technology or even T-shirts, coffee mugs and key chains for tourists. They’re also targeting siste…",
+            "url": "https://financialpost.com/pmn/from-banning-tech-to-ending-sister-city-ties-us-states-have-at-least-240-anti-china-proposals",
+            "urlToImage": null,
+            "publishedAt": "2025-04-24T04:11:05Z",
+            "content": "TOPEKA, Kan. (AP) State lawmakers across the U.S. have introduced at least 240 anti-China proposals this year, aiming to ensure public funds dont buy Chinese technology or even T-shirts, coffee mugs … [+5174 chars]",
+            "topic": "\"quantum supremacy\" OR \"fusion energy\" OR \"carbon capture technology\" OR \"climate adaptation\" OR \"ocean conservation\" OR \"space exploration\" OR \"lunar missions\" OR \"Mars colonization\" OR \"asteroid mining\" OR \"AI ethics\" OR \"data privacy\" OR \"digital sovereignty\" OR \"5G networks\" OR \"6G technology\" OR \"renewable energy storage\" OR \"smart grids\" OR \"urban resilience\" OR \"food security\"",
+            "category": "Emerging Technologies and Future Trends"
+        }
+    ]
+}

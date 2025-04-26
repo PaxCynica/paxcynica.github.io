@@ -1,0 +1,221 @@
+.category-label {
+    display: inline-block;
+    background: #DD4B39;
+    /* Delta's color */
+    color: white;
+    padding: 6px 14px;
+    border-radius: 4px;
+    font-size: 1.1em;
+    margin-bottom: 1.5em;
+}
+
+/* Agent attribution section */
+.agent-attribution {
+    display: flex;
+    align-items: center;
+    margin-bottom: 2em;
+    padding: 0.5em 1em;
+    border-left: 4px solid #DD4B39;
+    background-color: #FFF5F3;
+}
+
+.summary-section {
+    background-color: #FFF5F3;
+    /* Soft red for Delta */
+    border-left: 4px solid #DD4B39;
+    padding: 1.5em;
+    margin: 2em 0;
+}
+
+a {
+    color: #DD4B39;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #c0392b;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    .perspective-container {
+        flex-direction: column;
+    }
+
+    .timeline {
+        padding-left: 1.5em;
+    }
+
+    .timeline-item {
+        padding-left: 1.5em;
+    }
+}
+
+/* Delta-specific sections */
+.human-story {
+    background-color: #FFF9F5;
+    border-left: 3px solid #DD4B39;
+    padding: 1.2em;
+    margin: 1.5em 0;
+    font-style: italic;
+}
+
+.human-story-source {
+    display: block;
+    text-align: right;
+    font-style: normal;
+    font-size: 0.9em;
+    color: #666;
+    margin-top: 0.5em;
+}
+
+/* Timeline for chronological reports */
+.timeline {
+    position: relative;
+    max-width: 1200px;
+    margin: 2em 0;
+    padding-left: 2em;
+}
+
+.timeline::before {
+    content: '';
+    position: absolute;
+    width: 4px;
+    background-color: #DD4B39;
+    top: 0;
+    bottom: 0;
+    left: 0;
+}
+
+.timeline-item {
+    position: relative;
+    margin-bottom: 2em;
+    padding-left: 2em;
+}
+
+.timeline-item::before {
+    content: '';
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    left: -9px;
+    background-color: white;
+    border: 4px solid #DD4B39;
+    top: 0;
+    border-radius: 50%;
+    z-index: 1;
+}
+
+.timeline-date {
+    position: absolute;
+    left: 2em;
+    top: -5px;
+    background-color: #DD4B39;
+    color: white;
+    padding: 3px 10px;
+    border-radius: 3px;
+    font-size: 0.8em;
+}
+
+.timeline-content {
+    padding-top: 1.5em;
+}
+
+/* Debate perspective styling */
+.perspective-container {
+    display: flex;
+    gap: 20px;
+    margin: 2em 0;
+}
+
+.perspective {
+    flex: 1;
+    padding: 1.5em;
+    background-color: #FFF9F5;
+    border-radius: 8px;
+}
+
+.perspective-a {
+    border-top: 4px solid #DD4B39;
+}
+
+.perspective-b {
+    border-top: 4px solid #7F8C8D;
+}
+
+.perspective h3 {
+    margin-top: 0;
+    color: #444;
+}
+
+.cultural-context {
+    background-color: #F9F9F9;
+    border-left: 4px solid #7F8C8D;
+    padding: 1.2em;
+    margin: 1.5em 0;
+}
+
+.impact-rating {
+    display: inline-block;
+    padding: 3px 8px;
+    border-radius: 3px;
+    font-size: 0.85em;
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+.high-impact {
+    background-color: rgba(231, 76, 60, 0.2);
+    color: #c0392b;
+}
+
+.medium-impact {
+    background-color: rgba(243, 156, 18, 0.2);
+    color: #d35400;
+}
+
+.low-impact {
+    background-color: rgba(39, 174, 96, 0.2);
+    color: #27ae60;
+}
+
+.key-stakeholders {
+    margin: 1.5em 0;
+}
+
+.key-stakeholders h3 {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    color: #444;
+}
+
+.stakeholder-intro {
+    margin-bottom: 1em;
+}
+
+/* Consider adding stakeholder groups */
+.stakeholder-group {
+    margin-bottom: 1em;
+}
+
+.stakeholder-group-name {
+    font-weight: bold;
+    color: #666;
+    margin-bottom: 0.5em;
+}
+
+.stakeholder {
+    padding: 0.8em;
+    margin-bottom: 0.8em;
+    background-color: #f8f9fa;
+    border-left: 3px solid #DD4B39;
+}
+
+blockquote {
+    font-style: italic;
+    color: #555;
+    border-left: 3px solid #DD4B39;
+    padding-left: 1em;
+    margin-left: 1em;
+}
