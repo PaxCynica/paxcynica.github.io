@@ -1,0 +1,1506 @@
+{
+    "category": "Defense Production Companies",
+    "query": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+    "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sean Hollister",
+            "title": "Intel will require four-day office work week as it aims to ‘flatten organization’",
+            "description": "Today is Intel’s Q1 2025 earnings call, and the first we’re truly hearing from new Intel CEO Lip-Bu Tan, who took over the company on March 18th. But he didn’t wait until the call to announce major changes at Intel, nor did he begin his reign by laying off 20…",
+            "url": "https://www.theverge.com/news/655969/intel-q1-2025-earnings-first-new-ceo-lip-bu-tan",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/acastro_STK094_02.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-04-24T21:17:10Z",
+            "content": "Today is Intel’s Q1 2025 earnings call, and the first we’re truly hearing from new Intel CEO Lip-Bu Tan, who took over the company on March 18th. But he didn’t wait until the call to announce major c… [+10173 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Windows Central"
+            },
+            "author": "c.cale.hunt@gmail.com (Cale Hunt)",
+            "title": "Best gaming laptops for playing The Elder Scrolls 4: Oblivion Remastered in 2025",
+            "description": "Oblivion Remastered is here, and your aging PC might not be able to handle the beautiful new graphics. Here are five gaming laptops that will get the job done.",
+            "url": "https://www.windowscentral.com/hardware/laptops/best-gaming-laptop-oblivion-remastered",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/rAbq9RtrVjaW8yX8qGhCAZ.jpg",
+            "publishedAt": "2025-04-24T17:27:15Z",
+            "content": "Oblivion Remastered is here, and the awesome remake's overhauled graphics for Unreal Engine 5 aren't easy on PC hardware.\r\nMany gamers are looking to get in on the RPG action, and a new gaming laptop… [+14631 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Windows Central"
+            },
+            "author": "ben.wilson@windowscentral.com (Ben Wilson)",
+            "title": "Intel Arc graphics driver brings support for The Elder Scrolls IV: Oblivion Remastered to desktop PCs and Core Ultra laptop GPUs",
+            "description": "Intel's new Arc \"Game On\" driver 32.0.101.6737 supports The Elder Scrolls 4: Oblivion Remastered and recent Game Pass hit \"Clair Obscur: Expedition 33\" on PC.",
+            "url": "https://www.windowscentral.com/gaming/pc-gaming/intel-game-on-graphics-driver-april-2025-oblivion-remastered",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/DEcBdvidmaYBz5Yco3zyj9.jpg",
+            "publishedAt": "2025-04-24T14:16:34Z",
+            "content": "Yesterday, on April 23, Intel updated its \"Game On\" driver for Arc &amp; Iris Xe graphics hardware, moving to version 32.0.101.6737 — now available for download directly from Intel.com.\r\nThe new driv… [+2608 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hackaday"
+            },
+            "author": "Jonathan Bennett",
+            "title": "This Week in Security: XRP Poisoned, MCP Bypassed, and More",
+            "description": "Researchers at Aikido run the Aikido Intel system, an LLM security monitor that ingests the feeds from public package repositories, and looks for anything unusual. In this case, the unusual …read more",
+            "url": "https://hackaday.com/2025/04/25/this-week-in-security-xrp-poisoned-mcp-bypassed-and-more/",
+            "urlToImage": "https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg",
+            "publishedAt": "2025-04-25T14:00:21Z",
+            "content": "Researchers at Aikido run the Aikido Intel system, an LLM security monitor that ingests the feeds from public package repositories, and looks for anything unusual. In this case, the unusual activity … [+7734 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Brittany Vincent",
+            "title": "Amazon Is Clearing Out This HP 14-Inch Laptop With MS Office and SD Card for 50% Off",
+            "description": "This laptop has just about all of your needs covered, and you don't have to pay a penny over $300.",
+            "url": "https://gizmodo.com/amazon-is-clearing-out-this-hp-14-inch-laptop-with-ms-office-and-sd-card-for-50-off-2000594199",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/04/hp14.jpg",
+            "publishedAt": "2025-04-25T12:45:11Z",
+            "content": "If the time has come for you to pick up a new computer, you’re probably looking for the most affordable one you can get. That makes sense, because computers, even laptops, can be quite expensive. You… [+2004 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "Intel offers weak forecast amid trade tensions as CEO talks to TSMC",
+            "description": null,
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b0328dfc-d0cb-4bdd-ae44-72cbbb85df79",
+            "urlToImage": null,
+            "publishedAt": "2025-04-24T20:01:54Z",
+            "content": "If you click 'Accept all', we and our partners, including 241 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+702 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Sabina Graves",
+            "title": "Bid on Animation History and Rarities to Raise Money for LA Wildfire Relief",
+            "description": "DreamWorks Animation, Sony Pictures Animation, Walt Disney Animation, LAIKA, WB Animation, and more have contributed to the fundraising efforts.",
+            "url": "https://gizmodo.com/bid-on-animation-history-and-rarities-to-raise-money-for-la-wildfire-relief-2000594210",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/04/animAID-The-Art-of-Animation.jpg",
+            "publishedAt": "2025-04-24T23:45:22Z",
+            "content": "The animation industry in partnership with ASIFA-Hollywood has launched AnimAID, and a fundraising auction at Sotheby’s is set to raise money for industry folks affected by the LA wildfires. The Walt… [+1523 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PCWorld"
+            },
+            "author": "Friedrich Stiemer",
+            "title": "Keep your graphics driver fresh and your games will thank you",
+            "description": "The graphics card driver plays a major role in system performance, which is why occasionally checking for updates is a good habit to adopt. This is especially important for gamers, as keeping the graphics drivers up to date can significantly boost performance…",
+            "url": "https://www.pcworld.com/article/2693045/keep-your-graphics-driver-fresh-and-your-games-will-thank-you.html",
+            "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/04/corsair-gaming2.jpg?quality=50&strip=all&w=1024",
+            "publishedAt": "2025-04-24T14:30:00Z",
+            "content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nThe graphics card dr… [+2533 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "Tech stocks climb as Nvidia, Amazon reject claims of AI buildout slowdown",
+            "description": null,
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0012d661-6c14-4b56-b2f2-16f70c22cdf9",
+            "urlToImage": null,
+            "publishedAt": "2025-04-24T20:18:42Z",
+            "content": "If you click 'Accept all', we and our partners, including 241 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+702 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Windows Central"
+            },
+            "author": "c.cale.hunt@gmail.com (Cale Hunt)",
+            "title": "NVIDIA's next 8GB RTX GPU could arrive May 19, but here's why buying on launch day isn't a good idea",
+            "description": "A new leak points to an RTX 5060 launch on May 19, but the leak also points to the review embargo lifting the same day. Does that raise alarms for anyone else?",
+            "url": "https://www.windowscentral.com/hardware/cpu-gpu-components/nvidia-leak-rtx-5060-launch-review-embargo",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/nftsTi3VvASUWWsiWttvKE.jpg",
+            "publishedAt": "2025-04-25T13:48:12Z",
+            "content": "NVIDIA made its RTX 5060 series of graphics cards official on April 15, 2025, launching the 5060 Ti in 8GB and 16GB versions one day later.\r\nA new leak from Videocardz indicates the non-Ti RTX 5060 i… [+2616 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Raymond Wong",
+            "title": "Motorola’s New Razr Flip Phones Cram in AI from Nearly Everyone Except OpenAI",
+            "description": "Moto AI on the Razr, Razr+, and Razr Ultra is basically like the Avengers.",
+            "url": "https://gizmodo.com/motorolas-new-razr-flip-phones-cram-in-ai-from-nearly-everyone-except-openai-2000593499",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/04/motorola-razr-2025-20.jpg",
+            "publishedAt": "2025-04-24T16:00:55Z",
+            "content": "Two things were glaringly clear to me after sitting through a 2.5-hour event yesterday where Motorola pre-briefed press on its new trio of Razr Android phones. The company really believes in the flip… [+4976 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "barrons.com",
+            "title": "Alibaba, JD.com, and Other China Stocks Fall. They’re Caught in the Trade War",
+            "description": "",
+            "url": "https://biztoc.com/x/687ce78849a6f6ea",
+            "urlToImage": "https://biztoc.com/cdn/930/og.png",
+            "publishedAt": "2025-04-25T02:29:59Z",
+            "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Nvidia stock facing a potential crash? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How are tariffs impacting U… [+949 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Github.com"
+            },
+            "author": "godzie44",
+            "title": "Show HN: BugStalker - a modern Rust debugger",
+            "description": "Rust debugger for Linux x86-64. Contribute to godzie44/BugStalker development by creating an account on GitHub.",
+            "url": "https://github.com/godzie44/BugStalker",
+            "urlToImage": "https://opengraph.githubassets.com/2b406b427ef8f6f6d14b1d71e1ef3bb0ecc31a6b864ee8b31faaa565ef3dbb19/godzie44/BugStalker",
+            "publishedAt": "2025-04-25T13:58:55Z",
+            "content": "Modern debugger for Linux x86-64. Written in Rust for Rust programs.\r\n<ul><li>Rust-native: Built in Rust specifically for Rust development, with a focus on simplicity</li><li>Core debugging capabilit… [+1017 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "bradypsnyder@gmail.com (Brady Snyder)",
+            "title": "Motorola Razr Ultra 2025 vs. Razr Plus 2024: Two flagship flip phones, compared",
+            "description": "Motorola's top-of-the-line foldable is now the Razr Ultra 2025, but how does it compare to the Razr Plus 2024 from last year? Let's find out.",
+            "url": "https://www.androidcentral.com/phones/motorola/motorola-razr-ultra-2025-vs-razr-plus-2024",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/wZDVDLRL6HzK2sW8MUhALe.jpg",
+            "publishedAt": "2025-04-24T18:37:23Z",
+            "content": "Motorola's new Razr 2025 lineup is here, and it includes a new member: the Motorola Razr Ultra 2025. While the Razr Plus isn't going anywhere, the Razr Ultra now represents the company's top-of-the-l… [+10129 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "Intel forecast falls short of estimates, fanning tariff worries",
+            "description": null,
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_88572045-0096-444b-8bf3-ee8f12aab456",
+            "urlToImage": null,
+            "publishedAt": "2025-04-24T20:01:54Z",
+            "content": "If you click 'Accept all', we and our partners, including 241 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+702 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Lwn.net"
+            },
+            "author": "corbet",
+            "title": "Security updates for Friday",
+            "description": "Security updates have been issued by AlmaLinux (thunderbird), Debian (libbpf), Fedora (golang-github-openprinting-ipp-usb, ImageMagick, mingw-libsoup, mingw-poppler, and pgbouncer), SUSE (glib2, govulncheck-vulndb, libsoup-2_4-1, libxml2-2, mozjs60, ruby2.5, …",
+            "url": "https://lwn.net/Articles/1018912/",
+            "urlToImage": null,
+            "publishedAt": "2025-04-25T13:27:39Z",
+            "content": "Copyright © 2025, Eklektix, Inc.Comments and public postings are copyrighted by their creators.Linux is a registered trademark of Linus Torvalds",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phoronix"
+            },
+            "author": "Michael Larabel",
+            "title": "GCC 15.1 Released With COBOL Compiler & Many Other Improvements",
+            "description": "GCC 15.1 was just released as the newest annual feature release to the GNU Compiler Collection. This first stable GCC 15 release brings a COBOL compiler front-end, many C and C++ language support improvements, support for new CPUs and ISA capabilities, better…",
+            "url": "https://www.phoronix.com/news/GCC-15.1-Released",
+            "urlToImage": "https://www.phoronix.net/image.php?id=2025&image=gcc_15_fedora",
+            "publishedAt": "2025-04-25T10:46:00Z",
+            "content": "GCC 15.1 was just released as the newest annual feature release to the GNU Compiler Collection. This first stable GCC 15 release brings a COBOL compiler front-end, many C and C++ language support imp… [+1364 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Hasan Chowdhury",
+            "title": "AI supercomputers could need as much power as a city by 2030",
+            "description": "Supercomputers for running and training AI could need the equivalent of nine nuclear reactors of power by the end of the decade, new research said.",
+            "url": "https://www.businessinsider.com/ai-supercomputers-power-2030-city-nuclear-2025-4",
+            "urlToImage": "https://i.insider.com/680a47903fe8d3928363f21a?width=1200&format=jpeg",
+            "publishedAt": "2025-04-24T14:55:54Z",
+            "content": "Companies like Jensen Huang's Nvidia are busy investing in supercomputers to power future AI.Patrick T. Fallon / AFP\r\n<ul><li>The future of AI depends on building more powerful supercomputers.</li><l… [+3683 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Police"
+            },
+            "author": "Matthew Sholtz",
+            "title": "Sony's lightest noise-canceling wireless headphones just hit an all-time low price at 35% off",
+            "description": "Thanks to this limited-time deal, you can pick up Sony's lightest noise-canceling wireless headphones at their cheapest price ever",
+            "url": "https://www.androidpolice.com/sonys-lightest-noise-canceling-wireless-headphones-hit-all-time-low-price/",
+            "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2025/04/sony-wh-ch720n-noise-canceling-wireless-headphones.jpg",
+            "publishedAt": "2025-04-24T15:28:46Z",
+            "content": "Sony WH-CH720N\r\nThe Sony WH-CH720N over-ear headphones are the company's lightest noise-canceling wireless headphones, ensuring a comfy fit that won't bog you down with extended wear. And thanks to t… [+2461 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CoinDesk"
+            },
+            "author": "Helene Braun, Tom Carreras",
+            "title": "SoftBank Is Buying Bitcoin Again, After $130M Loss in 2018. Is This Time Different?",
+            "description": "SoftBank returns to crypto years after founder Masayoshi Son lost $130M on bitcoin.",
+            "url": "https://www.coindesk.com/markets/2025/04/24/softbank-is-buying-bitcoin-why-bulls-should-be-worried",
+            "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/54ef981d8be8786dd631bc24591e1b207a8bef40-7712x5141.jpg?auto=format",
+            "publishedAt": "2025-04-24T18:17:41Z",
+            "content": "Japanese investment giant SoftBank is dipping its toes back into crypto by backing a new bitcoin (BTC) investment vehicle, Twenty One Capital, in conjunction with Tether, Bitfinex, and Cantor Fitzger… [+1959 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Authority"
+            },
+            "author": "Ryan McNeal",
+            "title": "Sony Xperia 1 VII photos reveals that purple is making a comeback",
+            "description": "The Sony Xperia 1 VII has been spotted on a certification website. The listing includes live images of the device.",
+            "url": "https://www.androidauthority.com/sony-xperia-1-vii-live-photos-3547861/",
+            "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2024/08/sony-xperia-1-vi-review-camera-scaled.jpg",
+            "publishedAt": "2025-04-24T17:49:40Z",
+            "content": "<ul><li>Live photos of the Xperia 1 VII have appeared on the Taiwanese certification website NCC.</li><li>The images appear to match previous renders.</li><li>Sonys flagship may only feature one Exmo… [+1841 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Internet"
+            },
+            "author": "info@thehackernews.com (The Hacker News)",
+            "title": "SAP Confirms Critical NetWeaver Flaw Amid Suspected Zero-Day Exploitation by Hackers",
+            "description": "Threat actors are likely exploiting a new vulnerability in SAP NetWeaver to upload JSP web shells with the goal of facilitating unauthorized file uploads and code execution. \n\"The exploitation is likely tied to either a previously disclosed vulnerability like…",
+            "url": "https://thehackernews.com/2025/04/sap-confirms-critical-netweaver-flaw.html",
+            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPg3YczVk3_NYfOM_AzuvXm1KZMxD0jMFDk8D9HVtMf8210sa5Vw9uWfg7YwrRA6Xz_le7r8TniIw1dkWrvFGHm8CRmAh2YlYhPvfFspWCb0Dcz818qhYT2cjlIdihRaGMHpSUVP7b-oCezwLPxrLXznL1cKfYsomjjY6yzshJKnLyFc-Cnob8qB4N2c2I/s728-rw-e365/SAP.jpg",
+            "publishedAt": "2025-04-25T10:41:00Z",
+            "content": "Threat actors are likely exploiting a new vulnerability in SAP NetWeaver to upload JSP web shells with the goal of facilitating unauthorized file uploads and code execution. \r\n\"The exploitation is li… [+2919 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NASA"
+            },
+            "author": "NASA Science Editorial Team",
+            "title": "New York Stock Exchange Welcomes NASA’s SPHEREx Team",
+            "description": "Members of NASA’s recently launched SPHEREx (Spectro-Photometer for the History of the Universe, Epoch of Reionization and Ices Explorer) mission team participated in the New York Stock Exchange’s closing bell ceremony in New York City on April 22. Michael Th…",
+            "url": "https://science.nasa.gov/image-article/new-york-stock-exchange-welcomes-nasas-spherex-team/",
+            "urlToImage": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/spherex/spherexnyse2.jpg",
+            "publishedAt": "2025-04-24T20:18:05Z",
+            "content": "Members of NASAs recently launched SPHEREx (Spectro-Photometer for the History of the Universe, Epoch of Reionization and Ices Explorer) mission team participated in the New York Stock Exchanges clos… [+1891 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Neowin"
+            },
+            "author": "Sayan Sen",
+            "title": "Lian Li SP750 SFX PSU is now 21% off, ideal for AMD 9070 XT, Nvidia 5070 Ti, and more",
+            "description": "Lian Li's SP750 SFX power supply is currently back at its lowest price in the last six months. This PSU is a powerful SFX SMPS that can power most mid-range GPUs, and even some high end ones. Read more...",
+            "url": "https://www.neowin.net/deals/lian-li-sp750-sfx-psu-is-now-21-off-ideal-for-amd-9070-xt-nvidia-5070-ti-and-more/",
+            "urlToImage": "https://cdn.neowin.com/news/images/uploaded/2025/04/1745564567_lian_li_sp750_story.jpg",
+            "publishedAt": "2025-04-25T07:08:01Z",
+            "content": "If you are looking to power your new system or upgrade an existing one and are looking for something SFF (small form factor) then Lian Li has a great deal currently that is absolutely worth consideri… [+1548 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Hank Tucker, Forbes Staff, \n Hank Tucker, Forbes Staff\n https://www.forbes.com/sites/hanktucker/",
+            "title": "These 7 European And Asian Stocks Are Crushing It And Still Cheap",
+            "description": "American exceptionalism in stocks has come to an abrupt end. Here’s where global fund managers are seeing the most opportunities.",
+            "url": "https://www.forbes.com/sites/hanktucker/2025/04/25/these-7-european-and-asian-stocks-are-crushing-it-and-still-cheap/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/680ac25b050e2520529105c7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-04-25T10:30:00Z",
+            "content": "London-based BAE Systems makes the Eurofighter Typhoon fighter jet and is benefitting from European nations turning away from U.S. defense contractors.\r\nAFP via Getty Images\r\nPortfolio managers inves… [+6404 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slickdeals.net"
+            },
+            "author": "Bojjihuntindeals",
+            "title": "Skytech Archangel Desktop Gaming PC: i5-13400F, ARC B580, 16GB DDR5, 1TB SSD $846 + Free Shipping",
+            "description": "Amazon [amazon.com] has Skytech Archangel Gaming PC Desktop: Intel i5 13400F 2.5 GHz (4.6GHz Turbo Boost), Intel ARC B580 12GB, 1TB SSD, 16GB DDR5, 650W Gold PSU for $845.99. Shipping is free.\n\n\nProdu",
+            "url": "https://slickdeals.net/f/18273994-skytech-archangel-gaming-pc-desktop-intel-i5-13400f-2-5-ghz-4-6ghz-turbo-boost-intel-arc-b580-12gb-1tb-ssd-16gb-ddr5-650w-gold-psu-845-99-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+            "urlToImage": "https://slickdeals.net/attachment/2/7/3/8/6/3/8/7/450x450/17466172.thumb",
+            "publishedAt": "2025-04-25T00:33:35Z",
+            "content": "This collaborative space allows users to contribute additional information, tips, and insights to enhance the original deal post. Feel free to share your knowledge and help fellow shoppers make infor… [+26 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Ayana Archie",
+            "title": "A moose trek across Sweden pulls in millions of viewers looking for 'Slow TV'",
+            "description": "Last year, more than 9 million people watched across the world, and executive producer Johan Erhag said he expects viewership will be even higher this year.",
+            "url": "https://www.npr.org/2025/04/25/nx-s1-5372841/great-moose-migration-stream-sweden",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/720x405+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd4%2F0b%2Fd8595c3a499088e2ef2fc6fd91e5%2Fap25098519385545.jpg",
+            "publishedAt": "2025-04-25T09:00:00Z",
+            "content": "The moose are on the move again.\r\nAcross Sweden, that is. The mammals have begun their annual migration in the small village of Kullberg, in the northern part of the country. And over the past few ye… [+4959 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Lindsay Dodgson",
+            "title": "Staring out the window is not a waste of time, says this workplace coach. Here are her top 3 tips for boosting creativity at work.",
+            "description": "Kirsty Hulse, a motivational speaker, author, and career coach, explains how people can find joy at work, and how it can help make them more productive.",
+            "url": "https://www.businessinsider.com/productivity-work-creativity-joy-tips-workplace-coach-kirsty-hulse-2025-4",
+            "urlToImage": "https://i.insider.com/6800c1cca466d2b74ab36681?width=1200&format=jpeg",
+            "publishedAt": "2025-04-25T11:34:35Z",
+            "content": "Kirsty Hulse is the author of \"Don't Swear at Work: The Rule Breakers' Guide to Workplace Brilliance.\"Kirsty Hulse\r\n<ul><li>Kirsty Hulse burned out as the head of a marketing company.</li><li>She now… [+4209 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SamMobile"
+            },
+            "author": "Mihai Matei",
+            "title": "Samsung Electronics still has a problem naming its products",
+            "description": "I believe that a concise naming scheme is crucial for a manufacturer that has an expansive product portfolio. When done right, clear branding helps customers understand the product lineup without digging deeper into model numbers and what they mean. When done…",
+            "url": "https://www.sammobile.com/news/samsung-ac-sales-massive-rise-south-korea-summer-2025/",
+            "urlToImage": "https://www.sammobile.com/wp-content/uploads/2025/04/Galaxy-S25-Samsung-Logo-1200x675.jpg",
+            "publishedAt": "2025-04-25T13:18:38Z",
+            "content": "I believe that a concise naming scheme is crucial for a manufacturer that has an expansive product portfolio. When done right, clear branding helps customers understand the product lineup without dig… [+2916 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PC Gamer"
+            },
+            "author": "Jacob Fox",
+            "title": "Chipmaker TSMC's new A14 process will apparently offer a '15% speed improvement' but our GPUs won't be made on it for a while",
+            "description": "I wonder what the GPU market will be like in 2028...",
+            "url": "https://www.pcgamer.com/hardware/processors/chipmaker-tsmcs-new-a14-process-will-apparently-offer-a-15-percent-speed-improvement-but-our-gpus-wont-be-made-on-it-for-a-while/",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/dack3ubkkCLzGNpiVehom7.jpg",
+            "publishedAt": "2025-04-24T15:52:06Z",
+            "content": "TSMC, the world's biggest chipmaker, has just announced another process node which will almost certainly, amongst an undoubted slew of AI chips, be used to make some of our gaming GPUs and CPUs in th… [+3688 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Spacewar.com"
+            },
+            "author": null,
+            "title": "EU chief says talks with UK PM could 'pave way' for defence pact",
+            "description": "London (AFP) April 24, 2025\n\n\n Talks with UK Prime Minister Keir Starmer on Thursday could \"pave the way\" for a defence and security pact between Britain and the European Union, EU chief Ursula von der Leyen said as the pair met in London. \n\nWith a landmark p…",
+            "url": "https://www.spacewar.com/reports/EU_chief_says_talks_with_UK_PM_could_pave_way_for_defence_pact_999.html",
+            "urlToImage": "https://www.spxdaily.com/images-hg/milplex-spix-hg.jpg",
+            "publishedAt": "2025-04-25T06:30:51Z",
+            "content": "EU chief says talks with UK PM could 'pave way' for defence pactby AFP Staff WritersLondon (AFP) April 24, 2025\r\nTalks with UK Prime Minister Keir Starmer on Thursday could \"pave the way\" for a defen… [+2862 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "harish.jonnalagadda@futurenet.com (Harish Jonnalagadda)",
+            "title": "OPPO Find X8 Ultra vs. Samsung Galaxy S25 Ultra: It's not even a contest",
+            "description": "With the Find X8 Ultra, OPPO has one of the best overall packages of 2025. Thanks to outstanding cameras and excellent tuning, the phone destroys the Galaxy S25 Ultra in key areas.",
+            "url": "https://www.androidcentral.com/phones/oppo-phones/oppo-find-x8-ultra-vs-samsung-galaxy-s25-ultra",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/h2SeJ4hRpM2dXCPSnjMv6F.jpg",
+            "publishedAt": "2025-04-25T08:24:07Z",
+            "content": "OPPO Find X8 Ultra vs. Samsung Galaxy S25 Ultra: Design \r\n(Image credit: Apoorva Bhardwaj / Android Central)\r\nModern phone design has coalesced into a sea of similar-looking flat-sided devices, and t… [+7275 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digitimes"
+            },
+            "author": "Charlene Chen",
+            "title": "Sony exits 8K TV market; why Samsung continues its technology investment",
+            "description": "With Sony exiting the 8K television (TV) market, industry attention has turned to whether Samsung Electronics' high-end TV strategy will also undergo changes.",
+            "url": "https://www.digitimes.com/news/a20250423PD217/8k-sony-market-tv-samsung.html",
+            "urlToImage": "https://img.digitimes.com/newsshow/20250423pd217_files/2_b.jpg",
+            "publishedAt": "2025-04-25T03:55:48Z",
+            "content": "Save my User ID and Password\r\nSome subscribers prefer to save their log-in information so they do not have to enter their User ID and Password each time they visit the site. To activate this function… [+307 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Craig Hale",
+            "title": "IBM says multiple contracts cancelled following US government DOGE probes - but it's not worried",
+            "description": "IBM says it has lost up to $100 million in DOGE cancelled contracts.",
+            "url": "https://www.techradar.com/pro/ibm-says-multiple-contracts-cancelled-following-us-government-doge-probes-but-its-not-worried",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/97wdD8xH7YW9mXTkWcBsS4.png",
+            "publishedAt": "2025-04-24T15:04:00Z",
+            "content": "<ul><li>DOGE's cancelled contracts could cost IBM up to $100 million</li><li>IBM's consulting business is worth $5.1 billion, down 2% year-over-year</li><li>IBM is still banking on revenue growth, no… [+2218 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slickdeals.net"
+            },
+            "author": "Hefdeebs",
+            "title": "ASUS B650E MAX GAMING WIFI W AMD B650 AM5 ATX Motherboard + 32GB Corsair DDR5 RAM $170 & More + Free Shipping",
+            "description": "Seems this board just came out and the specs look decent plus the free ram. Thoughts?\nEdit: You can also add the Ryzen 5 9600x bundle for $219.99 (includes 16gb DDR5 and Monster Hunter Wilds game free",
+            "url": "https://slickdeals.net/f/18272584-asus-b650e-max-gaming-wifi-w-amd-b650-am5-atx-motherboard-with-free-32-gb-corsair-ddr5-ram-6000-169-99-at-newegg?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+            "urlToImage": "https://slickdeals.net/attachment/5/4/6/0/7/3/450x450/17462773.thumb",
+            "publishedAt": "2025-04-24T16:17:59Z",
+            "content": "Newegg has ASUS B650E MAX GAMING WIFI W AMD B650 AM5 ATX Motherboard + 32GB Corsair DDR5 RAM 6000 on sale for $169.99. Shipping is free.Thanks to Community Members Hefdeebs, Pulvarize63, &amp; Skepti… [+754 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Juli Clover",
+            "title": "Everything Rumored for the 2025 Apple Watch Series 11",
+            "description": "As we celebrate the 10th anniversary of the Apple Watch today, we thought we'd take a look at what Apple has in store for the next-generation version of the device that's coming this fall. The Apple Watch Series 11 doesn't sound like it's going to be a ground…",
+            "url": "https://www.macrumors.com/guide/apple-watch-series-11/",
+            "urlToImage": "https://images.macrumors.com/t/jdzZpnmsQKKjg1ZYdw-RuMLwE7Y=/2500x/article-new/2025/03/apple-watch-series-10-blue-hue.jpeg",
+            "publishedAt": "2025-04-24T23:52:26Z",
+            "content": "As we celebrate the 10th anniversary of the Apple Watch today, we thought we'd take a look at what Apple has in store for the next-generation version of the device that's coming this fall. The Apple … [+5411 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phoronix"
+            },
+            "author": "Michael Larabel",
+            "title": "Lenovo ThinkPad X1 Carbon Gen 13 Aura Can Work Well As A Solid Linux Laptop",
+            "description": "The Framework Laptop 13 with AMD Strix Point is now shipping that as detailed in our review earlier this month can provide for a very capable Linux laptop for Linux developers, creators, and enthusiasts. But for those hesitant about the high price and still w…",
+            "url": "https://www.phoronix.com/review/lenovo-thinkpad-x1-gen13-linux",
+            "urlToImage": "https://www.phoronix.net/image.php?id=lenovo-thinkpad-x1-gen13-linux&image=thinkpad_x1gen13_1",
+            "publishedAt": "2025-04-24T15:00:00Z",
+            "content": "The Framework Laptop 13 with AMD Strix Point is now shipping that as detailed in our review earlier this month can provide for a very capable Linux laptop for Linux developers, creators, and enthusia… [+5083 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "matthewgrobar",
+            "title": "Ralph Macchio Signs With Gersh",
+            "description": "EXCLUSIVE: Ahead of next month’s release of Karate Kid: Legends, actor, filmmaker and New York Times bestselling author Ralph Macchio has signed with Gersh for representation in all areas. Macchio is of course best known for his leading role of Daniel LaRusso…",
+            "url": "http://deadline.com/2025/04/ralph-macchio-signs-gersh-agency-1236376155/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2025/04/WaxingOn_RalphMacchio_mktg.jpg?w=1024",
+            "publishedAt": "2025-04-24T16:32:04Z",
+            "content": "EXCLUSIVE: Ahead of next month’s release of Karate Kid: Legends, actor, filmmaker and New York Times bestselling author Ralph Macchio has signed with Gersh for representation in all areas.\r\nMacchio i… [+1799 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Fahad Saleem",
+            "title": "Josh Brown Explains Long-Term Threats to Nvidia (NVDA)",
+            "description": "We recently published a list of 10 Stocks on Analysts’ Radar Amid Tariff Turbulence. In this article, we are going to take a look at where NVIDIA Corporation...",
+            "url": "https://finance.yahoo.com/news/josh-brown-explains-long-term-164428198.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/kZveoOmr3ngssVpudK1u4A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/aa94e059977d3251b8b0630718e013fc",
+            "publishedAt": "2025-04-24T16:44:28Z",
+            "content": "We recently published a list of 10 Stocks on Analysts Radar Amid Tariff Turbulence. In this article, we are going to take a look at where NVIDIA Corporation (NASDAQ:NVDA) stands against other stocks … [+5903 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slickdeals.net"
+            },
+            "author": "MasterRigger",
+            "title": "AMD Ryzen 5 8500G Phoenix 6-Core 3.5 GHz Socket AM5 65W Radeon 740M Processor $133 + Free Shipping",
+            "description": "Check this out on @Newegg:AMD Ryzen 5 8500G - Ryzen 5 8000-G Series Phoenix (Zen 4) 6-Core 3.5 GHz Socket AM5 65W AMD Radeon 740M Processor - 100-100000931BOX  \n$ 10 off coupon no combo purchase neces",
+            "url": "https://slickdeals.net/f/18273757-amd-ryzen-5-8500g-ryzen-5-8000-g-series-phoenix-zen-4-6-core-3-5-ghz-socket-am5-65w-amd-radeon-740m-processor-100-100000931box-newegg-com-132-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+            "urlToImage": "https://slickdeals.net/attachment/8/4/0/9/0/5/1/450x450/17465731.thumb",
+            "publishedAt": "2025-04-25T03:17:38Z",
+            "content": "This collaborative space allows users to contribute additional information, tips, and insights to enhance the original deal post. Feel free to share your knowledge and help fellow shoppers make infor… [+26 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Osnews.com"
+            },
+            "author": "Thom Holwerda",
+            "title": "A tour inside the IBM z17",
+            "description": "Welcome to a photo-driven tour of the IBM z17. I’ve scoured the image library to pull dig deep inside these machines that most people don’t get an opportunity to see inside, and I’ll share some of the specifications gleaned from the announcement and related R…",
+            "url": "https://www.osnews.com/story/142196/a-tour-inside-the-ibm-z17/",
+            "urlToImage": null,
+            "publishedAt": "2025-04-24T20:38:18Z",
+            "content": "Welcome to a photo-driven tour of the IBM z17. I’ve scoured the image library to pull dig deep inside these machines that most people don’t get an opportunity to see inside, and I’ll share some of th… [+369 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Neowin"
+            },
+            "author": "Taras Buria",
+            "title": "Nvidia reportedly launches RTX 5060 on May 19",
+            "description": "Nvidia's most affordable graphics card from the RTX 50 series is reportedly coming in just a few weeks. Read more...",
+            "url": "https://www.neowin.net/news/nvidia-reportedly-launches-rtx-5060-on-may-19/",
+            "urlToImage": "https://cdn.neowin.com/news/images/uploaded/2025/04/1744728000_rtx_5060_ti_png_story.jpg",
+            "publishedAt": "2025-04-25T12:06:01Z",
+            "content": "Nvidia has one more RTX 50 series graphics card to launch in the pipeline. While the RTX 5060 Ti is already available, the RTX 5060 has yet to receive its official launch date. VideoCardz reports tha… [+1582 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Quartz India"
+            },
+            "author": "Catherine Baab",
+            "title": "AI budgets stay hot even as tech gets weird",
+            "description": "Corporate AI spending is proving remarkably resilient, even as broader enterprise tech budgets wobble under tariff pressure, according to a new memo from Wedbush Securities released Thursday.Read more...",
+            "url": "https://qz.com/wedbush-ai-msft-amzn-goog-1851777664",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/2a371696e4f3479cafd5d258e90318a3.jpg",
+            "publishedAt": "2025-04-24T14:32:00Z",
+            "content": "In This Story\r\nCorporate AI spending is proving remarkably resilient, even as broader enterprise tech budgets wobble under tariff pressure, according to a new memo from Wedbush Securities released Th… [+1803 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Bloomberg",
+            "title": "IBM Earnings Underwhelm Investors",
+            "description": "David Bahnsen, chief investment officer at The Bahnsen Group, says recent tech results are good news for markets but investors should still be wary of...",
+            "url": "https://finance.yahoo.com/video/ibm-earnings-underwhelm-investors-182628457.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/3zMZAl.aH.QI.G6vjKWFrQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/bloomberg_markets_video_2/9dd8e6c371099755740e5e2e47c9bea5",
+            "publishedAt": "2025-04-24T18:26:28Z",
+            "content": "David Bahnsen, chief investment officer at The Bahnsen Group, says recent tech results are good news for markets but investors should still be wary of overpaying. Bahnsen joins Caroline Hyde and Ed L… [+31 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digitimes"
+            },
+            "author": "Levi Li",
+            "title": "China reportedly stockpiled US$12B worth of Nvidia H20 chips ahead of US ban",
+            "description": "Ahead of the US government's early April export restrictions, Chinese tech giants ByteDance, Alibaba, and Tencent reportedly preemptively stockpiled up to one million units of Nvidia's H20 GPU, a chip custom-built for the Chinese market. Nikkei Asia reported …",
+            "url": "https://www.digitimes.com/news/a20250423PD232/nvidia-chips-government-ban-tencent.html",
+            "urlToImage": "https://img.digitimes.com/newsshow/20250423pd232_files/1_b.jpg",
+            "publishedAt": "2025-04-25T04:00:58Z",
+            "content": "Save my User ID and Password\r\nSome subscribers prefer to save their log-in information so they do not have to enter their User ID and Password each time they visit the site. To activate this function… [+307 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nextbigwhat.com"
+            },
+            "author": "Tom",
+            "title": "HP introduces Copilot+ PCs in India with AI features like HP AI Companion and Poly Camera Pro, spanning EliteBook, ProBook, and OmniBook series; priced between Rs 78,999 and Rs 1,86,499, and equipped with Intel, AMD, and Qualcomm chips.",
+            "description": "HP launches Copilot+ PCs in India, featuring AI tools like HP AI Companion and Poly Camera Pro for enhanced productivity. Available in EliteBook, ProBook, and OmniBook lines, prices range from…\nThe post HP introduces Copilot+ PCs in India with AI features lik…",
+            "url": "https://nextbigwhat.com/hp-introduces-copilot-pcs-in-india-with-ai-features-like-hp-ai-companion-and-poly-camera-pro-spanning-elitebook-probook-and-omnibook-series-priced-between-rs-78999-and-rs-186499-and-equipped/",
+            "urlToImage": "https://i0.wp.com/nextbigwhat.com/wp-content/uploads/2023/03/nextbigwhat-social-media-logo.jpg?fit=1080%2C1080&ssl=1",
+            "publishedAt": "2025-04-25T08:34:46Z",
+            "content": "HP launches Copilot+ PCs in India, featuring AI tools like HP AI Companion and Poly Camera Pro for enhanced productivity. Available in EliteBook, ProBook, and OmniBook lines, prices range from Rs 78,… [+93 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PCWorld"
+            },
+            "author": "Mark Hachman",
+            "title": "Intel customers are buying up all its older CPUs to beat tariffs",
+            "description": "How are Intel’s customers weathering tariffs and a possible recession? By buying Intel’s older products, and not its latest chips.\r\n\n\n\n\nIntel chief financial officer David Zinsner told analysts on Thursday that Intel sold more volume in its Raptor Lake chips …",
+            "url": "https://www.pcworld.com/article/2763684/intel-customers-are-buying-up-all-its-older-cpus-to-beat-tariffs.html",
+            "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/04/Intel-Core-logo-expand-1.png?w=1024",
+            "publishedAt": "2025-04-24T23:14:02Z",
+            "content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nHow are Intel’s cust… [+6274 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Arxiv.org"
+            },
+            "author": null,
+            "title": "PyGraph: Robust Compiler Support for CUDA Graphs in PyTorch",
+            "description": "CUDA Graphs -- a recent hardware feature introduced for NVIDIA GPUs -- aim to reduce CPU launch overhead by capturing and launching a series of GPU tasks (kernels) as a DAG. However, deploying CUDA Graphs faces several challenges today due to the static struc…",
+            "url": "https://arxiv.org/abs/2503.19779",
+            "urlToImage": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+            "publishedAt": "2025-04-24T19:28:29Z",
+            "content": "arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\r\nBoth individuals and organizations that work with arXivLabs have embraced and acce… [+257 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "wsj.com",
+            "title": "Stocks to Watch Thursday: P&G, IBM, Merck, ServiceNow",
+            "description": "",
+            "url": "https://biztoc.com/x/5285c49af4dca38e",
+            "urlToImage": "https://biztoc.com/cdn/930/og.png",
+            "publishedAt": "2025-04-24T14:30:48Z",
+            "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did US home sales drop sharply in March? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How is Trump's tariff war im… [+1041 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slickdeals.net"
+            },
+            "author": "DSF767",
+            "title": "85\" Sony Bravia XR X90L Series 4K Full Array LED Smart Google TV (2023 Model) from $1498 + Free S/H",
+            "description": "Looks like the 85\" X90L has dropped to $1,498 which I think is the best price ive seen on it. It's not Mini LED but it's a Sony XR TV that has great reviews and has a similar RTINGS rating then...",
+            "url": "https://slickdeals.net/f/18272455-sony-85-inch-4k-ultra-hd-tv-x90l-2023-amazon-1-498-00-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+            "urlToImage": "https://slickdeals.net/attachment/4/3/4/7/1/450x450/17462425.thumb",
+            "publishedAt": "2025-04-24T22:19:48Z",
+            "content": "This collaborative space allows users to contribute additional information, tips, and insights to enhance the original deal post. Feel free to share your knowledge and help fellow shoppers make infor… [+70 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NASA"
+            },
+            "author": "Anthony Greicius",
+            "title": "NASA Orbiter Spots Curiosity Rover Making Tracks to Next Science Stop",
+            "description": "The image marks what may be the first time one of the agency’s Mars orbiters has captured the rover driving. NASA’s Curiosity Mars rover has never been camera shy, having been seen in selfies and images taken from space. But on Feb. 28 — the 4,466th Martian d…",
+            "url": "https://www.nasa.gov/missions/mars-science-laboratory/nasa-orbiter-spots-curiosity-rover-making-tracks-to-next-science-stop/",
+            "urlToImage": "https://www.nasa.gov/wp-content/uploads/2025/04/1-pia26553-hirise-views-curiosity-during-a-drive-figure-a.png",
+            "publishedAt": "2025-04-24T15:58:48Z",
+            "content": "The image marks what may be the first time one of the agencys Mars orbiters has captured the rover driving.\r\nNASAs Curiosity Mars rover has never been camera shy, having been seen in selfies and imag… [+2548 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Carrie Marshall, Matt Bolton",
+            "title": "Horizon Forbidden West at 8K 120Hz was just shown on a Samsung 8K TV in world-first demo – but a few caveats might spoil your excitement",
+            "description": "It was a customized TV… but why, when the new Samsung TVs should support this tech?",
+            "url": "https://www.techradar.com/televisions/horizon-forbidden-west-at-8k-120hz-was-just-shown-on-a-samsung-8k-tv-in-world-first-demo-but-a-few-caveats-might-spoil-your-excitement",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/mTYJLd6FLE7GkeiqyuvjBe.jpg",
+            "publishedAt": "2025-04-25T13:15:17Z",
+            "content": "<ul><li>Real-time 8K 120fps gaming was shown from an AMD-powered gaming PC</li><li>Horizon Forbidden West was the demo game</li><li>The Samsung TV was a customized unit</li></ul>\r\nHere's some excitin… [+2500 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "Why IBM Stock Is Sinking Today",
+            "description": null,
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_3ddbb618-ab30-492b-a217-70ded14e3c98",
+            "urlToImage": null,
+            "publishedAt": "2025-04-24T16:31:00Z",
+            "content": "If you click 'Accept all', we and our partners, including 241 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+702 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Reuters",
+            "title": "Tencent Music in talks to buy China's Ximalaya for $2.4 billion, Bloomberg News reports",
+            "description": "Tencent Music, controlled by Chinese tech giant Tencent Holdings , is planning to use a combination of cash and shares for the acquisition, the agreement for...",
+            "url": "https://finance.yahoo.com/news/tencent-music-talks-buy-chinas-114233953.html",
+            "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/786edae0dd3af077f7d8f7ae9271b477",
+            "publishedAt": "2025-04-25T11:42:33Z",
+            "content": "(Reuters) -Tencent Music Entertainment Group is in advanced talks to buy China's largest online audio platform, Ximalaya Inc, for $2.4 billion, Bloomberg News reported on Friday, citing sources.\r\nTen… [+737 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Trefis Team, Contributor, \n Trefis Team, Contributor\n https://www.forbes.com/sites/greatspeculations/people/trefis/",
+            "title": "Nvidia Stock To Crash More?",
+            "description": "Before you say it - yes we know the chip giant's stock just surged on tariff relief rumors - but that’s like a dead cat bounce.",
+            "url": "https://www.forbes.com/sites/greatspeculations/2025/04/25/nvidia-stock-to-crash-more/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/680a3534c2e0fc195b643785/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-04-25T11:40:13Z",
+            "content": "Japanese Prime Minister Shigeru Ishiba (R) receives a gift from Nvidia CEO Jensen Huang at the start ... More of their meeting at the prime minister's official residence in Tokyo on April 21, 2025. (… [+2799 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PC Gamer"
+            },
+            "author": "Jeremy Laird",
+            "title": "New Intel CEO is looking 'for partnership with the industry leader to build purpose-built silicon' for AI, but is he talking about making chips with Nvidia or for OpenAI?",
+            "description": "Lip-Bu Tan also says he hooked up with TSMC to talk about a possible collab'.",
+            "url": "https://www.pcgamer.com/hardware/processors/new-intel-ceo-is-looking-for-partnership-with-the-industry-leader-to-build-purpose-built-silicon-for-ai-but-is-he-talking-about-making-chips-with-nvidia-or-for-openai/",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/gywvJokCYFrGaCdJJFwopR.png",
+            "publishedAt": "2025-04-25T11:58:50Z",
+            "content": "Intel's new CEO Lip-Bu Tan conducted his very first earnings call with the usual roll call of investors and banking bigwigs yesterday. Along with promising to bash the company into shape, including \"… [+3880 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tom's Hardware UK"
+            },
+            "author": "Jowi Morales",
+            "title": "China reportedly waives tariffs on some US chip imports — duties paid are eligible for refunds",
+            "description": "Chinese authorities might be putting an exemption from their 125% tariff on some American chip imports.",
+            "url": "https://www.tomshardware.com/tech-industry/china-reportedly-waives-tariffs-on-some-us-chip-imports-duties-paid-are-eligible-for-refunds",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/wtn2YAGLUS3Wu5q8RXbaFj.jpg",
+            "publishedAt": "2025-04-25T12:21:51Z",
+            "content": "There have been reports that Beijing is easing some of its retaliatory tariffs on American products, specifically, chip and semiconductor imports. According to the South China Morning Post (SCMP), a … [+2602 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tom's Hardware UK"
+            },
+            "author": "palcorn@outlook.com (Paul Alcorn)",
+            "title": "Intel's AI PC chips aren't selling; instead, last-gen Raptor Lake booms, creating a shortage",
+            "description": "Intel announced that its new AI PC chips aren't selling as well as expected. As a result, it faces a shortage of production capacity for its 'Intel 7' process node, and the company expects this shortage to \"persist for the foreseeable future.\"",
+            "url": "https://www.tomshardware.com/pc-components/cpus/intels-ai-pc-chips-arent-selling-instead-last-gen-raptor-lake-booms-and-creates-a-shortage",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/QjuPFHVf8wKuRHtB3p4dHH.jpg",
+            "publishedAt": "2025-04-24T23:14:00Z",
+            "content": "Times are tough for Intel, and it turns out its new heavily-promoted AI PC chips aren't selling as well as expected, thus creating a shortage of capacity for its older chips. The news comes as the CE… [+3103 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Rachel Wells, Contributor, \n Rachel Wells, Contributor\n https://www.forbes.com/sites/rachelwells/",
+            "title": "5 Free AI Courses To Build High-Income Skills In 2025",
+            "description": "Did you know that professionals with AI skills are less likely to be laid off? Here are five free courses to learn hands-on AI skills in 2025.",
+            "url": "https://www.forbes.com/sites/rachelwells/2025/04/24/5-free-ai-courses-to-build-high-income-skills-in-2025/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/680a5fd73687c41b7383d99a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-04-24T16:09:37Z",
+            "content": "You are 57% less likely to be laid off if you have AI skills\r\ngetty\r\nDid you know that professionals with AI skills are less likely to be laid off? General Assembly surveyed managers/HR who hire tech… [+3379 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Windows Central"
+            },
+            "author": "Alexander Cope",
+            "title": "GOG just saved one of the greatest JRPGs of all time — availablenowonPC",
+            "description": "With the help of GOG's Preservation Program, Capcom has finally re-released Breath of Fire 4, one of its most beloved JRPGs of all time, onto PC.",
+            "url": "https://www.windowscentral.com/gaming/gog-just-saved-one-of-the-greatest-jrpgs-of-all-time-available-now-on-pc",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/5sKk74ccPcx2gzBU99gP3n.jpg",
+            "publishedAt": "2025-04-25T12:46:23Z",
+            "content": "Back in February 2025, long-time Capcom and JRPG fans began expressing their wishes to see Breath of Fire 4 re-released on PC via GOG.com.\r\nFast-forward two months later and GOG has fulfilled that pr… [+4268 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "SoftBank Is Buying Bitcoin Again, After $130M Loss in 2018. Is This Time Different?",
+            "description": null,
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f50f2b70-8ec0-4ee0-af3a-e6d5686f6bb5",
+            "urlToImage": null,
+            "publishedAt": "2025-04-24T18:17:41Z",
+            "content": "If you click 'Accept all', we and our partners, including 241 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+702 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "Analysis-After years of failed AI deals, Intel plans homegrown challenge to Nvidia",
+            "description": null,
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_32369171-70ad-4288-a583-b2416f27db13",
+            "urlToImage": null,
+            "publishedAt": "2025-04-25T00:17:45Z",
+            "content": "If you click 'Accept all', we and our partners, including 241 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+702 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Craig Hale",
+            "title": "Intel confirms upcoming layoffs as new CEO reveals return to office mandate in big shake-up",
+            "description": "Lip-Bu Tan wants to flatten Intel by removing layers of management, but workers will have to be in the office four days a week.",
+            "url": "https://www.techradar.com/pro/intel-confirms-upcoming-layoffs-as-new-ceo-reveals-return-to-office-mandate-in-big-shake-up",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/YUCE5MfzYamiZqoMBo7UtC.jpg",
+            "publishedAt": "2025-04-25T09:27:00Z",
+            "content": "<ul><li>Intel didn't lay off 20,000 workers after all, but layers of managers are at risk</li><li>CEO Lip-Bu Tan has also asked teams to remove unnecessary meetings</li><li>Workers will need to be in… [+2476 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Fahad Saleem",
+            "title": "AI Trade Skeptic Dan Niles Finally Reveals His Favorite Tech Stock for 2025",
+            "description": "We recently published a list of 10 Stocks on Analysts’ Radar Amid Tariff Turbulence. In this article, we are going to take a look at where Cisco Systems, Inc...",
+            "url": "https://finance.yahoo.com/news/ai-trade-skeptic-dan-niles-210951581.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/gj1z3I2b24hNm6RMHqDh5w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/d25b3866bc1552f975e750324a887a7e",
+            "publishedAt": "2025-04-24T21:09:51Z",
+            "content": "We recently published a list of 10 Stocks on Analysts Radar Amid Tariff Turbulence. In this article, we are going to take a look at where Cisco Systems, Inc. (NASDAQ:CSCO) stands against other stocks… [+4646 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GameSpot"
+            },
+            "author": "Tomas Franzese",
+            "title": "These Are The Games Leaving PS Plus Premium And Extra In May 2025",
+            "description": "These Are The Games Leaving PS Plus Premium And Extra In May 2025\r\nEvery month, the game catalog of the PlayStation Plus Premium and Extra subscription services lose some games. May 2025 seems like it will be a particularly brutal month for PS Plus, as over 2…",
+            "url": "https://www.gamespot.com/gallery/these-are-the-games-leaving-ps-plus-premium-and-extra-in-may-2025/2900-6499/",
+            "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1849/18498836/4482032-gtavart.jpg",
+            "publishedAt": "2025-04-24T15:58:00Z",
+            "content": "GameSpot may receive revenue from affiliate and advertising partnerships for sharing this content and from purchases through links.",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Medium"
+            },
+            "author": "Johnny Dunn",
+            "title": "How to Vibe Code a Logomaker in 10 Days",
+            "description": "Down the latest rabbit hole of large language models and GPTs, we see that the web endures the latest onslaught of trending AI content: Apps. I see UIs and UXes created within days (or hours) by…",
+            "url": "https://medium.com/@johnnyfived/how-to-vibe-code-a-logomaker-in-10-days-llms-can-they-build-it-b744209e350b",
+            "urlToImage": "https://miro.medium.com/v2/resize:fit:1024/0*LoJMTi5yLhhtuMyf.png",
+            "publishedAt": "2025-04-24T14:36:50Z",
+            "content": "The machine rages back\r\nHere is the answer ChatGPT (4o) gave me when I asked it to give me a full refactor of a 2000 line script.\r\nThe 2000 LOC script was refactored into 200 lines.\r\nGPT-4 refactored… [+4932 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Amalya Dubrovsky",
+            "title": "Stock market today: S&P 500, Nasdaq rise as Tesla, Nvidia lead tech higher for fourth straight session",
+            "description": "US stocks were mixed after Google parent Alphabet reported strong earnings results and Wall Street saw its third day of gains on renewed hope of trade deals.",
+            "url": "https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-rise-as-tesla-nvidia-lead-tech-higher-for-4th-straight-session-133034740.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/upkqX5sPAyUgoRj7Fz.rqg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-04/bedce7f0-2056-11f0-97df-b03e84cd18dd",
+            "publishedAt": "2025-04-25T13:30:34Z",
+            "content": "US stocks rose on Friday, with Big Tech outperforming, as trade tensions remained in focus and Federal Reserve officials hinted at possible rate cuts by the summer.\r\nThe Dow Jones Industrial Average … [+7909 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "Analysis-After years of failed AI deals, Intel plans homegrown challenge to Nvidia",
+            "description": null,
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5ab06b60-4af3-4ca7-a095-7e6ff1f0ff66",
+            "urlToImage": null,
+            "publishedAt": "2025-04-25T00:17:45Z",
+            "content": "If you click 'Accept all', we and our partners, including 241 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+702 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "redmondpie.com"
+            },
+            "author": "Oliver Haslam",
+            "title": "A New Sony PlayStation 5 Update Has Brought Classic Console Themes Back And More",
+            "description": "A new Sony PS5 update has brought classic console themes back and more. Here are all the details on this.\nThe post A New Sony PlayStation 5 Update Has Brought Classic Console Themes Back And More first appeared on Redmond Pie.",
+            "url": "https://www.redmondpie.com/a-new-sony-playstation-5-update-has-brought-classic-console-themes-back-and-more/",
+            "urlToImage": "https://cdn.redmondpie.com/wp-content/uploads/2025/04/image_2025-04-24_235230735.png",
+            "publishedAt": "2025-04-24T19:04:11Z",
+            "content": "A new PS5 software update has brought back the popular classic PlayStation console themes, while new additions include a new audio option.\r\nSony announced the new update via a blog post, confirming t… [+1362 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Sponsored",
+            "title": "Why the MSI Prestige A16 AI+ is the perfect productivity partner",
+            "description": "If you’re ready to enter the age of AI, you’re in for a treat. Offering exceptional efficiency and more productivity tools than ever before, AI laptops are ready to accelerate your projects to new heights.",
+            "url": "https://www.techradar.com/computing/laptops/why-the-msi-prestige-a16-ai-is-the-perfect-productivity-partner",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/wgcbd3swedGcj4bjmo3yJ7.jpg",
+            "publishedAt": "2025-04-25T13:31:50Z",
+            "content": "If you’re ready to enter the age of AI, you’re in for a treat. Offering exceptional efficiency and more productivity tools than ever before, AI laptops are ready to accelerate your projects to new he… [+3197 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "finance.yahoo.com",
+            "title": "US existing home sales fall more than expected in March",
+            "description": "U.S. existing home sales fell more than expected in March, weighed down by higher borrowing costs, and further weakness is likely as growing concerns of an economic slowdown because of tariffs sap demand.\nHome sales dropped 5.9% last month to a seasonally adj…",
+            "url": "https://biztoc.com/x/53e7e2d0af62c8a3",
+            "urlToImage": "https://biztoc.com/cdn/53e7e2d0af62c8a3_s.webp",
+            "publishedAt": "2025-04-24T14:19:46Z",
+            "content": "U.S. existing home sales fell more than expected in March, weighed down by higher borrowing costs, and further weakness is likely as growing concerns of an economic slowdown because of tariffs sap de… [+147 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PCWorld"
+            },
+            "author": "Author: Chris Hoffman",
+            "title": "HP EliteBook Ultra G1i review: Luxury AI laptop at a cost",
+            "description": "At a glanceExpert's Rating\r\n\n\nPros\r\n\n<ul>\n<li>Long battery life</li>\n\n\n\n<li>Sleek build quality with nice touches like a haptic touchpad</li>\n\n\n\n<li>Bundled AI software is more useful than on past AI PCs</li>\n</ul>\n\r\n\n\n\n\nCons\r\n\n<ul>\n<li>It’s just too expensiv…",
+            "url": "https://www.pcworld.com/article/2763415/hp-elitebook-ultra-g1i-review.html",
+            "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/04/HP-EliteBook-Ultra-G1i-head-on.jpg?quality=50&strip=all&w=1024",
+            "publishedAt": "2025-04-25T13:00:00Z",
+            "content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nAt a glance<ul><li>L… [+12544 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Javacodegeeks.com"
+            },
+            "author": "Eleftheria Drosopoulou",
+            "title": "The Erosion of Trust: How Oracle’s Monetization Strategy Threatens Java’s Future",
+            "description": "For decades, Java stood as the bedrock of enterprise software development – a reliable, open ecosystem that powered everything from banking systems to Android apps. However, Oracle’s increasingly aggressive monetization tactics have cast a long shadow over Ja…",
+            "url": "https://www.javacodegeeks.com/2025/04/the-erosion-of-trust-how-oracles-monetization-strategy-threatens-javas-future.html",
+            "urlToImage": "https://www.javacodegeeks.com/wp-content/uploads/2012/10/java-logo.jpg",
+            "publishedAt": "2025-04-25T04:41:00Z",
+            "content": "For decades, Java stood as the bedrock of enterprise software development – a reliable, open ecosystem that powered everything from banking systems to Android apps. However, Oracle’s increasingly agg… [+4381 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Designboom"
+            },
+            "author": "matthew burgos I designboom",
+            "title": "the story behind 1986 grandeur sedan before hyundai restores it into a concept electric car",
+            "description": "before evolving into the more advanced ‘azera’, the sedan had already introduced new features, including the jet airplane-style gear selector.\nThe post the story behind 1986 grandeur sedan before hyundai restores it into a concept electric car appeared first …",
+            "url": "https://www.designboom.com/technology/the-story-behind-1986-grandeur-sedan-hyundai-restore-concept-electric-car-04-25-2025/",
+            "urlToImage": "https://www.designboom.com/twitterimages/uploads/2025/04/story-1986-grandeur-sedan-hyundai-restore-electric-vehicle-designboom-fb-1.jpg",
+            "publishedAt": "2025-04-25T10:10:28Z",
+            "content": "Hyundai 1986 Grandeur sedan before it becomes electric\r\nHyundai restores its 1986 Grandeur sedan into a conceptelectriccar. Also known as Azera, it looks real and road-fitting, but the restored versi… [+5193 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Creative Bloq"
+            },
+            "author": "Ian Evenden",
+            "title": "We've tested the new HP Omen Max 16, and its gaming power can be put to good 3D and video use",
+            "description": "The HP Omen Max 16 is a rendering powerhouse, but has a few limitations.",
+            "url": "https://www.creativebloq.com/tech/laptops/weve-tested-the-new-hp-omen-max-16-and-its-gaming-power-can-be-put-to-good-3d-and-video-use",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/M73dkaHSWMbL9P8jQrcoeL.jpg",
+            "publishedAt": "2025-04-25T10:00:04Z",
+            "content": "Why you can trust Creative Bloq\r\nOur expert reviewers spend hours testing and comparing products and services so you can choose the best for you. Find out more about how we test.\r\nHP’s gaming laptops… [+11288 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Janakiram MSV, Senior Contributor, \n Janakiram MSV, Senior Contributor\n https://www.forbes.com/sites/janakirammsv/",
+            "title": "Nvidia Releases NeMo Microservices To Streamline AI Agent Development",
+            "description": "As enterprises move beyond experimentation toward production AI systems, tools that simplify the creation of continually improving models become increasingly valuable.",
+            "url": "https://www.forbes.com/sites/janakirammsv/2025/04/25/nvidia-releases-nemo-microservices-to-streamline-ai-agent-development/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/680b22b5bd6ef7ac44578dd6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-04-25T05:56:04Z",
+            "content": "Nemo Microservices\r\nNvidia\r\nNvidia unveiled the general availability of its NeMo microservices, equipping enterprises with tools to build AI agents that integrate with business systems and continuall… [+4657 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "chiara.castro@futurenet.com (Chiara Castro)",
+            "title": "DeepSeek is \"a profound threat\" to national security and privacy, according to the US Congress",
+            "description": "A new report into DeepSeek AI revealed data privacy and security issues, the use of tracking tools, the spread of propaganda, and more. Here's all you need to know.",
+            "url": "https://www.techradar.com/computing/cyber-security/deepseek-is-a-profound-threat-to-national-security-and-privacy-according-to-the-us-congress",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/fvZCDyWV3PpzSHKnoXCZ4S.jpg",
+            "publishedAt": "2025-04-24T15:06:15Z",
+            "content": "<ul><li>A Special Committee within the US Congress concluded that DeepSeek AI represents a profound threat to US national security</li><li>The report reveals data privacy and security issues, the use… [+3612 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TechSpot"
+            },
+            "author": "Rob Thubron",
+            "title": "Tariff fears push buyers away from Intel's new AI PC chips and toward older processors",
+            "description": "Intel revealed during its recent earnings call that its Intel 7 process node production capacity was facing shortages, something it predicted would \"persist for the foreseeable future.\"Read Entire Article",
+            "url": "https://www.techspot.com/news/107681-tariff-fears-push-buyers-away-intel-new-ai.html",
+            "urlToImage": "https://www.techspot.com/images2/news/bigimage/2024/06/2024-06-15-image-9.jpg",
+            "publishedAt": "2025-04-25T10:18:00Z",
+            "content": "In a nutshell: Intel is discovering what most of us already knew: people aren't willing to pay more for CPUs just because they have added AI abilities. Team Blue said sales of its cheaper previous-ge… [+2787 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "seekingalpha.com",
+            "title": "Why Nvidia's Real Story Is Mispriced",
+            "description": "As headlines obsess over NVIDIA Corporation's (NASDAQ:NVDA) Wall Street's downgrades and its massive $2.4 trillion market cap, they overlook more profound changes underway. Nvidia is not simply making silicon quicker; it is re-architecting the AI value chain …",
+            "url": "https://biztoc.com/x/79244ba1605d5bd2",
+            "urlToImage": "https://biztoc.com/cdn/79244ba1605d5bd2_s.webp",
+            "publishedAt": "2025-04-25T06:32:55Z",
+            "content": "As headlines obsess over NVIDIA Corporation's (NASDAQ:NVDA) Wall Street's downgrades and its massive $2.4 trillion market cap, they overlook more profound changes underway. Nvidia is not simply makin… [+151 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Techpowerup.com"
+            },
+            "author": "T0@st",
+            "title": "(PR) MSI Presenting AI's Next Leap at Japan IT Week Spring 2025",
+            "description": "MSI, a leading global provider of high-performance server solutions, is bringing AI-driven innovation to Japan IT Week Spring 2025 at Booth #21-2 with high-performance server platforms built for next-generation AI and cloud computing workloads. MSI's NVIDIA M…",
+            "url": "https://www.techpowerup.com/335905/msi-presenting-ais-next-leap-at-japan-it-week-spring-2025",
+            "urlToImage": "https://www.techpowerup.com/img/Zxt7hjo9ipESRYSX.jpg",
+            "publishedAt": "2025-04-24T14:51:53Z",
+            "content": "MSI, a leading global provider of high-performance server solutions, is bringing AI-driven innovation to Japan IT Week Spring 2025 at Booth #21-2 with high-performance server platforms built for next… [+4674 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "HYPEBEAST"
+            },
+            "author": "info@hypebeast.com (Hypebeast)",
+            "title": "'Ghost of Yōtei' Sets PlaySation 5 Release Date",
+            "description": "The highly anticipated sequel to Ghost of Tsushima, titled Ghost of Yōtei has officially received a release date for PlayStation 5.Ghost of Yōtei was announced just last year as the follow-up to 2020's prequel. The original game focused on the last samurai Ji…",
+            "url": "https://hypebeast.com/2025/4/ghost-of-yotei-sets-playsation-5-release-date-info",
+            "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2025%2F04%2F25%2Fghost-of-yotei-sets-playsation-5-release-date-info-tw.jpg?w=1080&cbr=1&q=90&fit=max",
+            "publishedAt": "2025-04-25T08:45:16Z",
+            "content": "The highly anticipated sequel to Ghost of Tsushima, titled Ghost of Ytei has officially received a release date for PlayStation 5.\r\nGhost of Ytei was announced just last year as the follow-up to 2020… [+1750 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tom's Hardware UK"
+            },
+            "author": "Jarred Walton",
+            "title": "Nvidia GeForce RTX 5060 Ti 16GB vs RTX 4060 Ti 16GB: Blackwell GB206 takes on Ada AD106",
+            "description": "The new RTX 5060 Ti 16GB should naturally be faster than the previous-generation RTX 4060 Ti 16GB, but just how much faster, and are there any other differences you should know about? We compare the RTX 5060 Ti 16GB vs RTX 4060 Ti 16GB and look at price, perf…",
+            "url": "https://www.tomshardware.com/pc-components/gpus/rtx-5060-ti-16gb-vs-rtx-4060-ti-16gb-gpu-faceoff",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/mkkRFhcacpJZ98yKRhk98J.jpg",
+            "publishedAt": "2025-04-24T15:40:09Z",
+            "content": "RTX 5060 Ti 16GB vs RTX 4060 Ti 16GB Introduction\r\nThe Nvidia GeForce RTX 5060 Ti 16GB and RTX 4060 Ti 16GB represent the new and old guards of the 16GB realm for Team Green. Both of these are mainst… [+21320 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GSMArena.com"
+            },
+            "author": "Ivan",
+            "title": "Motorola's Edge 60, Edge 60 Pro are official with big batteries, quad-curved screens",
+            "description": "Motorola just unveiled its Edge 60 series as its first quad-curved models in their respective segment. The Motorola Edge 60 Pro and Edge 60 come in a choice of Pantone-curated colors and new textured backings.\n\nThe two phones have the same 6.7-inch quad-curve…",
+            "url": "https://www.gsmarena.com/motorolas_edge_60_edge_60_pro_are_official_with_big_batteries_quadcurved_screens-news-67532.php",
+            "urlToImage": "https://fdn.gsmarena.com/imgroot/news/25/04/motorola-edge-60-pro-edge-60-official/-952x498w6/gsmarena_000.jpg",
+            "publishedAt": "2025-04-24T16:13:02Z",
+            "content": "Motorola just unveiled its Edge 60 series as its first quad-curved models in their respective segment. The Motorola Edge 60 Pro and Edge 60 come in a choice of Pantone-curated colors and new textured… [+2614 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "tipranks.com",
+            "title": "‘A Crash May Be Imminent,’ Says Investor About Nvidia Stock",
+            "description": "Nvidia (NASDAQ:NVDA) investors had reason to smile this week, as the Trump administration signaled that it would be easing up on its aggressive stance vis-a-vis China.\nPresident Trump’s assertion that he would be “very nice” to China in order to reach a trade…",
+            "url": "https://biztoc.com/x/6af1ccc17c968be0",
+            "urlToImage": "https://biztoc.com/cdn/930/og.png",
+            "publishedAt": "2025-04-25T02:30:06Z",
+            "content": "Nvidia (NASDAQ:NVDA) investors had reason to smile this week, as the Trump administration signaled that it would be easing up on its aggressive stance vis-a-vis China.President Trumps assertion that … [+145 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "Intel reverses course, opts not to spin out Intel Capital",
+            "description": null,
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_21637fa8-fb90-40ad-a24a-8c2c2a73db2f",
+            "urlToImage": null,
+            "publishedAt": "2025-04-24T21:33:05Z",
+            "content": "If you click 'Accept all', we and our partners, including 241 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+702 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Liliputing"
+            },
+            "author": "Brad Linder",
+            "title": "MINISFORUM G1 Pro is a console-sized desktop PC with Ryzen 9 8945HX and RTX 5060",
+            "description": "The MINISFORUM G1 Pro is about the size and shape of a game console, but it’s a full-fledged desktop computer with an AMD Ryzen 9 8945HX Dragon Range processor and an NVIDIA GeForce RTX 5060 discrete GPU. While AMD’s Dragon Range processors are ostensibly mob…",
+            "url": "https://liliputing.com/minisforum-g1-pro-is-a-console-sized-desktop-pc-with-ryzen-9-8945hx-and-rtx-5060/",
+            "urlToImage": "https://liliputing.com/wp-content/uploads/2025/04/g1-pro_01.jpg",
+            "publishedAt": "2025-04-24T19:10:30Z",
+            "content": "The MINISFORUM G1 Pro is about the size and shape of a game console, but it’s a full-fledged desktop computer with an AMD Ryzen 9 8945HX Dragon Range processor and an NVIDIA GeForce RTX 5060 discrete… [+1484 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Tim Lammers, Contributor, \n Tim Lammers, Contributor\n https://www.forbes.com/sites/timlammers/",
+            "title": "When Is Horror Thriller ‘Until Dawn’ Coming To Streaming?",
+            "description": "“Until Dawn,” which is based on the hit PlayStation Studios video game, is new in theaters. How soon will it be before viewers can stream it at home?",
+            "url": "https://www.forbes.com/sites/timlammers/2025/04/24/when-is-horror-thriller-until-dawn-coming-to-streaming/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/680a97bfc304fb25185073c6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-04-24T20:08:54Z",
+            "content": "Ella Rubin in \"Until Dawn.\"\r\nSony Pictures Entertainment/Kerry Brown\r\nUntil Dawn, which is based on the hit PlayStations Studios video game, is new in theaters. How soon will it be before viewers can… [+3629 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Brendan Ahern, Senior Contributor, \n Brendan Ahern, Senior Contributor\n https://www.forbes.com/sites/brendanahern/",
+            "title": "China Market Update: Tariff Talk Roller Coaster Continues",
+            "description": "Asian stocks were lower, except for Vietnam, which outperformed the region. This followed roller coaster comments yesterday, as President Trump suggested tariff rollbacks could be in the cards soon.",
+            "url": "https://www.forbes.com/sites/brendanahern/2025/04/24/china-market-update-tariff-talk-roller-coaster-continues/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/680a4fafbab97290795ed8ed/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-04-24T14:53:22Z",
+            "content": "CLN\r\nKraneShares\r\nTAL Education Q1 Earnings Overview\r\nOnline education company TAL Education missed on the big three (revenue, net income, and earnings per share (EPS)), despite topline revenue growt… [+4485 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Geeksaresexy.net"
+            },
+            "author": "Geeks are Sexy",
+            "title": "Today’s Hot Deals: Real Time Translation Earbuds, Atari Pocket Player Pro Portable Console, Touchscreen Toaster, Fitbit Charge 6 Fitness Tracker, and MORE!",
+            "description": "For today’s edition of our Hot Deals post here are some of the best deals we stumbled on while browsing the web this morning! Please note that Geeks are Sexy might get a small commission from qualifying purchases done through our posts. As an Amazon Associate…",
+            "url": "https://www.geeksaresexy.net/2025/04/25/todays-hot-deals-real-time-translation-earbuds-atari-pocket-player-pro-portable-console-100w-usb-c-to-usb-c-cable-fitbit-charge-6-fitness-tracker-and-more/",
+            "urlToImage": "https://www.geeksaresexy.net/wp-content/uploads/2025/04/deal-april-25.jpg",
+            "publishedAt": "2025-04-25T13:14:23Z",
+            "content": "For todays edition of our Hot Deals post here are some of the best deals we stumbled on while browsing the web this morning! Please note that Geeks are Sexy might get a small commission from qualifyi… [+1364 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": "ign",
+                "name": "IGN"
+            },
+            "author": "Eric Song",
+            "title": "PSA: MSI Sells Its Nvidia GeForce RTX 50-Series Blackwell Graphic Cards Under a Pen Name at Walmart",
+            "description": "RTX 5060 Ti, 5070, 5070 Ti, and 5080 graphics cards are all in stock.",
+            "url": "https://www.ign.com/articles/msi-nvidia-geforce-rtx-50-series-blackwell-graphics-cards-deals-5060-5070-5080-5090",
+            "urlToImage": "https://assets-prd.ignimgs.com/2025/04/24/msi5080-1745522682055.jpg?width=1280",
+            "publishedAt": "2025-04-24T19:40:00Z",
+            "content": "If you're hunting for one of the new Nvidia Blackwell graphics cards and don't want to pay a huge markup, who better to trust than the cardmakers themselves? MSI is one of Nvidia's biggest AIB manufa… [+3561 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investopedia"
+            },
+            "author": "Andrew Kessel",
+            "title": "What Analysts Think of Intel Stock Ahead of Earnings",
+            "description": "Intel is slated to report first-quarter results after the market closes Thursday, in the chipmaker’s first report since Lip-Bu Tan was named CEO in mid-March...",
+            "url": "https://www.investopedia.com/what-analysts-think-of-intel-stock-ahead-of-earnings-q1-fy2025-11721302",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/4i8OdZgJaqaT.iQQQlPvqA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/investopedia_245/966165b556c642ac2f48db5ecb44bb20",
+            "publishedAt": "2025-04-24T17:23:39Z",
+            "content": "David Paul Morris / Bloomberg / Getty Images\r\n<ul><li>Intel is scheduled to report first-quarter earnings after the market closes Thursday.\r\n</li><li>The report is the chipmaker's first under CEO Lip… [+1425 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eater"
+            },
+            "author": "Emma Orlow",
+            "title": "Can This Restaurant Group Make Penn Station Dining Cool?",
+            "description": "Plus, an Italian pastry shop lands in Manhattan — and more intel",
+            "url": "https://ny.eater.com/2025/4/25/24414701/new-steakhouse-dynamo-room-opening-penn-station-sunday-hospitality",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/V9_IOeo3G7_mGjzGCwzunOgsvzk=/0x586:1201x1215/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25968285/DynamoRoom.jpg",
+            "publishedAt": "2025-04-25T13:44:40Z",
+            "content": "Dynamo is opening near Penn Station. | Eric Medsker/Dynamo Room\r\n\n \n\n Plus, an Italian pastry shop lands in Manhattan — and more intel Dining options around Penn Station have leveled up over the past… [+1832 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Neowin"
+            },
+            "author": "Pulasthi Ariyasinghe",
+            "title": "Oblivion Remastered, Clair Obscur: Expedition 33, and more join GeForce NOW supported list",
+            "description": "Nvidia has a brand-new list of games that it has added to the supported pile of its GeForce NOW cloud gaming service. Read more...",
+            "url": "https://www.neowin.net/news/oblivion-remastered-clair-obscur-expedition-33-and-more-join-geforce-now-supported-list/",
+            "urlToImage": "https://cdn.neowin.com/news/images/uploaded/2025/04/1745535491_gfn-thursday-4-24-nv-blog-1280x6_1_story.jpg",
+            "publishedAt": "2025-04-24T23:04:01Z",
+            "content": "The final GeForce NOW update of April with support for a fresh slate of games is now available. It is touting official support for brand-new games like Bethesda's newly released remaster, the turn-ba… [+1510 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Marco Wutz",
+            "title": "NBA 2K25 playoff sim predicts Celtics sweep, Pacers eliminated by Bucks",
+            "description": "2K Games attempted to predict how the first round of the playoffs will go.",
+            "url": "https://www.espn.com/gaming/story/_/id/44834899/nba-2k25-simulation-playoffs-first-round-boston-celtics-indiana-pacers",
+            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0424%2Fr1483311_1296x729_16%2D9.jpg",
+            "publishedAt": "2025-04-24T16:27:00Z",
+            "content": "It's playoff season in the world's foremost basketball league and 2K Games is trying its luck at playing oracle via NBA 2K25 simulations.\r\nWhile the game anticipates some matchups will look pretty on… [+930 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cartoon Brew"
+            },
+            "author": "Amid Amidi",
+            "title": "Netflix To Release ‘KPOP Demon Hunters’ On June 20",
+            "description": "'KPOP' is the first film from Sony Pictures Animation since 2023's 'Spider-Man: Across the Spider-Verse.'",
+            "url": "https://www.cartoonbrew.com/feature-film/netflix-to-release-kpop-demon-hunters-on-june-20-246973.html",
+            "urlToImage": "https://www.cartoonbrew.com/wp-content/uploads/2025/04/kpopdemonhunters_a.jpg",
+            "publishedAt": "2025-04-25T02:12:05Z",
+            "content": "Netflix will release the Sony Pictures Animation (SPA) feature KPOP Demon Hunters on June 20. \r\nKPOP is SPAs first release since 2023s Spider-Man: Across the Spider-Verse. The studio has previously s… [+1641 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investopedia"
+            },
+            "author": "Timothy Smith",
+            "title": "Watch These Intel Price Levels as Chipmaker's Stock Tumbles on Soft Outlook",
+            "description": "Intel shares dropped 5% in extended trading on Thursday after the chipmaker posted a quarterly outlook that fell short of Wall Street expectations. Monitor...",
+            "url": "https://www.investopedia.com/watch-these-intel-price-levels-as-chipmaker-stock-tumbles-on-soft-outlook-11721816",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/k1pr8NMnfIebxSrA59bsOQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD00NzQ-/https://media.zenfs.com/en/investopedia_245/e71481dea3c3d9e95545b0509988841e",
+            "publishedAt": "2025-04-25T02:48:29Z",
+            "content": "Source: TradingView.com\r\n<ul><li>Intel shares dropped 5% in extended trading on Thursday after the chipmaker posted a quarterly outlook that fell short of Wall Street expectations.\r\n</li><li>Since ga… [+3457 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "benzinga.com",
+            "title": "Intel To Report Q1 Earnings Under New CEO: Revenue, Restructuring, Tariff Concerns On Watch",
+            "description": "Intel Corp. (NASDAQ:INTC) is set to release its first-quarter financial results after Thursday's closing bell. Here's a look at what to watch in the report. \nNew CEO: Thursday's earnings release will be Intel's first under new CEO Lip-Bu Tan who took over las…",
+            "url": "https://biztoc.com/x/050fed070f60f921",
+            "urlToImage": "https://biztoc.com/cdn/050fed070f60f921_s.webp",
+            "publishedAt": "2025-04-24T16:21:05Z",
+            "content": "Intel Corp. (NASDAQ:INTC) is set to release its first-quarter financial results after Thursday's closing bell. Here's a look at what to watch in the report. New CEO: Thursday's earnings release will … [+141 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Thomas Macaulay",
+            "title": "Meet the Dutch tech stars speaking at TNW Conference",
+            "description": "As our favourite Dutch holiday approaches, TNW is celebrating the tech titans shaping the future in the Netherlands. Our beloved home country is the proud parent of a prodigious brood of digital talent. It’s given birth to cultivated meat, raised Booking.com …",
+            "url": "https://thenextweb.com/news/meet-dutch-tech-tech-startup-leaders-tnw-conference",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2025%2F04%2FUntitled-design-31.jpg&signature=6ad3f2d75a325f94e185b04bbb882514",
+            "publishedAt": "2025-04-24T18:26:57Z",
+            "content": "As our favourite Dutch holiday approaches, TNW is celebrating the tech titans shaping the future in the Netherlands.\r\nOur beloved home country is the proud parent of a prodigious brood of digital tal… [+8164 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "/FILM"
+            },
+            "author": "staff@slashfilm.com (Bill Bria)",
+            "title": "Until Dawn Director David F. Sandberg Had To Convince His Colleagues To Attempt In-Camera Special Effects [Exclusive]",
+            "description": "Until Dawn director David F. Sandberg had to convince some of his colleagues (and the studio) that he could do some of the movie's effects practically.",
+            "url": "https://www.slashfilm.com/1842734/until-dawn-director-david-f-sandberg-interview/",
+            "urlToImage": "https://www.slashfilm.com/img/gallery/until-dawn-director-david-f-sandberg-had-to-convince-his-colleagues-to-attempt-in-camera-special-effects-exclusive/l-intro-1745417437.jpg",
+            "publishedAt": "2025-04-24T15:55:16Z",
+            "content": "\"Until Dawn\" is far from the only evidence of Sandberg's love of filmmaking. Over his career, the director has taken it upon himself to produce a series of instructional and behind-the-scenes videos … [+2044 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nofilmschool.com"
+            },
+            "author": "Jourdan Aldredge",
+            "title": "Portkeys' New On-Camera Touchscreen Monitor Makes 3D LUT Monitoring Easy",
+            "description": "While the film and video industry remains at a high point, despite potential tariffs threatening possible price increases and reductions in manufacturing, the on-camera monitor market in particular has been blazing hot.The latest new addition to this area com…",
+            "url": "https://nofilmschool.com/portkeys-pt5-iii",
+            "urlToImage": "https://nofilmschool.com/media-library/portkeys-new-on-camera-touchscreen-monitor-makes-3d-lut-monitoring-easy.png?id=60031966&width=1200&height=600&coordinates=0%2C90%2C0%2C91",
+            "publishedAt": "2025-04-24T16:38:08Z",
+            "content": "Hands-on with the Nikon Z5II\r\nWhen first announced earlier this month, the Nikon Z5II was billed as a next-gen intermediate-level camera that would be an ideal easy-entry option for video professiona… [+3530 chars]",
+            "topic": "\"BAE Systems\" OR \"Intel\" OR \"AMD\" OR \"Qualcomm\" OR \"Alibaba\" OR \"Tencent\" OR \"SoftBank\" OR \"Hitachi\" OR \"Panasonic\" OR \"Mitsubishi\" OR \"GE Aerospace\" OR \"Rolls-Royce Holdings\" OR \"Samsung Electronics\" OR \"NVIDIA\" OR \"IBM\" OR \"Oracle\" OR \"SAP\" OR \"Cisco Systems\" OR \"Ericsson\" OR \"Sony\" OR \"Thales Alenia Space\" OR \"Honeywell Aerospace\" OR \"Dassault Aviation\" OR \"Airbus\" OR \"Kaspersky Lab\"",
+            "category": "Defense Production Companies"
+        }
+    ]
+}

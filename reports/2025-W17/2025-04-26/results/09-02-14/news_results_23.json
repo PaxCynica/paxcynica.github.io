@@ -1,0 +1,1491 @@
+{
+    "category": "AI Advanced Computing",
+    "query": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Juli Clover",
+            "title": "Apple's Secret Robotics Team Gets New Leadership",
+            "description": "Apple is removing another project from AI chief John Giannandrea, and he will no longer oversee Apple's secret robotics division, according to Bloomberg.\n\n\n\n\n\nAfter Apple failed to deliver promised Apple Intelligence Siri features on time under Giannandrea's …",
+            "url": "https://www.macrumors.com/2025/04/24/apple-robotics-team-leadership-change/",
+            "urlToImage": "https://images.macrumors.com/t/KdXjFsjzo4cHBQoKsRPq92YgURk=/2500x/article-new/2025/02/Apple-Robot-Emoji-Feature.jpg",
+            "publishedAt": "2025-04-24T20:25:31Z",
+            "content": "Apple is removing another project from AI chief John Giannandrea, and he will no longer oversee Apple's secret robotics division, according to Bloomberg.\r\nAfter Apple failed to deliver promised Apple… [+1799 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Juli Clover",
+            "title": "Apple Explains How AI-Generated App Store Review Summaries Work in iOS 18.4",
+            "description": "With the launch of iOS 18.4, Apple introduced a new App Store feature that summarizes multiple user reviews to provide an at-a-glance summary of what people think of an app or a game. In a new blog post on its Machine Learning Research blog, Apple provides so…",
+            "url": "https://www.macrumors.com/2025/04/24/apple-ai-generated-review-summaries/",
+            "urlToImage": "https://images.macrumors.com/t/ByMKy8Y5Ac-5TV9lPNNW1wJ4BCM=/2000x/article-new/2025/02/app-store-review-summaries.jpg",
+            "publishedAt": "2025-04-24T19:54:27Z",
+            "content": "With the launch of iOS 18.4, Apple introduced a new App Store feature that summarizes multiple user reviews to provide an at-a-glance summary of what people think of an app or a game. In a new blog p… [+1613 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Dominic Preston",
+            "title": "ChatGPT is getting a ‘lightweight’ version of its deep research tool",
+            "description": "OpenAI is introducing a new version of its ChatGPT deep research tool that it says is cheaper to operate. The “lightweight” model is available now to free users, as well as those on several of the company’s paid tiers. Deep research (lightweight) is powered b…",
+            "url": "https://www.theverge.com/news/656142/chatgpt-lightweight-deep-research-free-plus-team-pro",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-04-25T11:42:33Z",
+            "content": "Its the first version of deep research available to ChatGPTs free users.\r\nIts the first version of deep research available to ChatGPTs free users.\r\nOpenAI is introducing a new version of its ChatGPT … [+1251 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Natalie Musumeci",
+            "title": "Google's Gemini usage is skyrocketing, but rivals like ChatGPT and Meta AI are still blowing it out of the water",
+            "description": "Google's Gemini usage data was revealed this week by the tech giant during a court hearing in the company's internet search monopoly case.",
+            "url": "https://www.businessinsider.com/google-gemini-usage-surging-rivals-chatgpt-meta-dominating-2025-4",
+            "urlToImage": "https://i.insider.com/680a7770a466d2b74ab4128b?width=1024&format=jpeg",
+            "publishedAt": "2025-04-24T18:31:30Z",
+            "content": "Google says Gemini has 350 million monthly active users.Jaque Silva/NurPhoto\r\n<ul><li>Google's AI chatbot Gemini has seen massive user growth.</li><li>It's still trailing behind rivals like ChatGPT a… [+3511 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hackaday"
+            },
+            "author": "Navarre Bartz",
+            "title": "LLMs Coming for a DNA Sequence Near You",
+            "description": "While tools like CRISPR have blown the field of genome hacking wide open, being able to predict what will happen when you tinker with the code underlying the living things on our planet is still tr…",
+            "url": "https://hackaday.com/2025/04/24/llms-coming-for-a-dna-sequence-near-you/",
+            "urlToImage": "https://hackaday.com/wp-content/uploads/2025/04/wide-EVO2-final-with-text-300dpi-01.jpg",
+            "publishedAt": "2025-04-25T02:00:10Z",
+            "content": "While tools like CRISPR have blown the field of genome hacking wide open, being able to predict what will happen when you tinker with the code underlying the living things on our planet is still tric… [+1344 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "David Gilbert",
+            "title": "Behold the Social Security Administration’s AI Training Video",
+            "description": "Social Security workers are being asked to use an AI chatbot. An animated video on how to do so failed to mention that the chatbot can’t be trusted with personally identifiable information.",
+            "url": "https://www.wired.com/story/social-security-ai-training-video/",
+            "urlToImage": "https://media.wired.com/photos/680aa7aebe33bc94c4126851/191:100/w_1280,c_limit/IMG_7421.png",
+            "publishedAt": "2025-04-25T10:30:00Z",
+            "content": "Amidst the chaos and upheaval at the Social Security Administration (SSA) caused by Elon Musks so-called Department of Government Efficiency (DOGE), employees have now been asked to integrate the use… [+2284 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Raymond Wong",
+            "title": "Motorola’s New Razr Flip Phones Cram in AI from Nearly Everyone Except OpenAI",
+            "description": "Moto AI on the Razr, Razr+, and Razr Ultra is basically like the Avengers.",
+            "url": "https://gizmodo.com/motorolas-new-razr-flip-phones-cram-in-ai-from-nearly-everyone-except-openai-2000593499",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/04/motorola-razr-2025-20.jpg",
+            "publishedAt": "2025-04-24T16:00:55Z",
+            "content": "Two things were glaringly clear to me after sitting through a 2.5-hour event yesterday where Motorola pre-briefed press on its new trio of Razr Android phones. The company really believes in the flip… [+4976 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Openai.com"
+            },
+            "author": null,
+            "title": "OpenAI releases image generation in the API",
+            "description": "Our latest image generation model is now available in the API via ‘gpt-image-1’—enabling developers and businesses to build professional-grade, customizable visuals directly into their own tools and platforms.",
+            "url": "https://openai.com/index/image-generation-api/",
+            "urlToImage": "https://images.ctfassets.net/kftzwdyauwt9/572UKpToOWAsLoMXXdAg9H/1c9a2cce86965f1ed56e24a97feeaf50/Image_Gen_Hero.png?w=1600&h=900&fit=fill",
+            "publishedAt": "2025-04-24T19:27:51Z",
+            "content": "Were also continuing to work with developers and businesses to uncover more ways image generation in the API can serve their use cases, including:\r\nDesigning and editing: Canva is exploring ways to i… [+1658 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Lauren Feiner",
+            "title": "Yahoo wants to buy Chrome",
+            "description": "Legacy search brand Yahoo has been working on its own web browser prototype, and says it would like to buy Google's Chrome if the company is forced by a court to sell it. The information came out during the fourth day of the Justice Department's remedies tria…",
+            "url": "https://www.theverge.com/policy/655975/yahoo-search-web-browser-prototype-google-trial-antitrust-chrome",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK114_Google_Chrome_03.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-04-24T21:35:08Z",
+            "content": "And its prototyping its own web browser.\r\nAnd its prototyping its own web browser.\r\nLegacy search brand Yahoo has been working on its own web browser prototype, and says it would like to buy Googles … [+2116 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (Marko Zivkovic)",
+            "title": "Apple explains how App Store reviews are summarized with AI",
+            "description": "Apple's iconic App Store was recently updated to feature AI-generated summaries of user reviews, and now we know how it all works.Apple has explained how its AI generates summaries of App Store Reviews.In October 2024, an unlisted App Store article revealed t…",
+            "url": "https://appleinsider.com/articles/25/04/24/apple-explains-how-app-store-reviews-are-summarized-with-ai",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/63412-131774-IMG_2023-xl.jpg",
+            "publishedAt": "2025-04-24T21:31:15Z",
+            "content": "Apple's iconic App Store was recently updated to feature AI-generated summaries of user reviews, and now we know how it all works.\r\nIn October 2024, an unlisted App Store article revealed that Apple … [+2957 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Blake Stimac",
+            "title": "Razer Releases a Vertical Edition Ergonomic Mouse",
+            "description": "Two new mice for productivity still look like they were made for gamers, and that's okay.",
+            "url": "https://www.cnet.com/tech/computing/razer-releases-a-vertical-edition-ergonomic-mouse/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/b587b1c6eecf22e6b43cdcc270aa95ed2d80583f/hub/2025/04/24/9c162223-c538-426d-8c58-13674ddcefeb/pro-click-vertical-2025-sg-2.png?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-04-24T21:32:07Z",
+            "content": "Razer has unveiled the Pro Click V2 and the Pro Click V2 Vertical Edition -- two PC mice with ergonomics in mind, complete with expected Razer Chroma RGB LEDs in tow. The latter mouse, revealed Thurs… [+471 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Medium"
+            },
+            "author": "Johnny Dunn",
+            "title": "How to Vibe Code a Logomaker in 10 Days",
+            "description": "Down the latest rabbit hole of large language models and GPTs, we see that the web endures the latest onslaught of trending AI content: Apps. I see UIs and UXes created within days (or hours) by…",
+            "url": "https://medium.com/@johnnyfived/how-to-vibe-code-a-logomaker-in-10-days-llms-can-they-build-it-b744209e350b",
+            "urlToImage": "https://miro.medium.com/v2/resize:fit:1024/0*LoJMTi5yLhhtuMyf.png",
+            "publishedAt": "2025-04-24T14:36:50Z",
+            "content": "The machine rages back\r\nHere is the answer ChatGPT (4o) gave me when I asked it to give me a full refactor of a 2000 line script.\r\nThe 2000 LOC script was refactored into 200 lines.\r\nGPT-4 refactored… [+4932 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Substack.com"
+            },
+            "author": "Vikram Sreekanti, Joseph E. Gonzalez",
+            "title": "Should every startup give up and go home? AI Acquisitions and consolidation",
+            "description": "Should every startup give up and go home?",
+            "url": "https://frontierai.substack.com/p/acquisitions-consolidation-and-innovation",
+            "urlToImage": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fec5bbf45-c861-4cdd-8430-a8f840b03e3b_1536x1024.png",
+            "publishedAt": "2025-04-24T18:31:01Z",
+            "content": "The rumors of OpenAI potentially acquiring Windsurf last week triggered a whole round of new takes on the internet: concerns about moving up into the application layer, fears of widespread consolidat… [+6607 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PetaPixel"
+            },
+            "author": "Kate Garibaldi",
+            "title": "Adobe Firefly Image Model 4 Ultra Is its Most Realistic AI Image Generator",
+            "description": "Fresh from its MAX London event, Adobe showcased its brand new Firefly Image Model 4 Ultra. The new generative AI model promises more realistic results.\n[Read More]",
+            "url": "https://petapixel.com/2025/04/24/adobe-firefly-image-model-4-ultra-is-its-most-realistic-ai-image-generator/",
+            "urlToImage": "https://petapixel.com/assets/uploads/2025/04/Adobe-Firefly-Image-Model-4-1.jpg",
+            "publishedAt": "2025-04-24T19:04:16Z",
+            "content": "Fresh from its MAX London event, Adobe showcased its brand new Firefly Image Model 4 Ultra. The new generative AI model promises more realistic results. \r\nAdobe Firefly is the all-in-one app for arti… [+5502 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Thomas Maxwell",
+            "title": "Google Calls More Remote Staff Back to Office—or Else",
+            "description": "Google cofounder Sergey Brin recently said that employees should work 60 hours a week in-office to keep up in artificial intelligence race.",
+            "url": "https://gizmodo.com/google-calls-more-remote-staff-back-to-office-or-else-2000593916",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/07/google-hq.jpg",
+            "publishedAt": "2025-04-24T17:37:02Z",
+            "content": "We forget how good we had it. Google is putting the last nails in the work-from-home coffin as it orders more remote employees to return to offices on a hybrid schedule or risk losing their jobs. The… [+4374 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "ledmonds@businessinsider.com (Lauren Edmonds,Katherine Li)",
+            "title": "Alphabet reports first-quarter earnings that exceed initial expectations and credits 'unique full-stack approach to AI' for growth",
+            "description": "Alphabet, the parent company of Google, reported its first-quarter earning results on Thursday.",
+            "url": "https://www.businessinsider.com/alphabet-q1-earnings-2025-4",
+            "urlToImage": "https://i.insider.com/680a40f8a466d2b74ab408c8?width=1200&format=jpeg",
+            "publishedAt": "2025-04-24T20:26:40Z",
+            "content": "Alphabet, the parent company of Google and YouTube, reported its first-quarter earnings Thursday after market close, mostly exceeding initial revenue estimates, sending shares up 4%.\r\nAlphabet Inc., … [+4405 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PetaPixel"
+            },
+            "author": "Ken Klein",
+            "title": "How a Photojournalist Used Generative AI to Illustrate a Classic Story",
+            "description": "In Bengali culture, Subha is a short story of a mute girl written in 1892 by the first Asian to win the Nobel Prize in Literature, Rabindranath Tagore.\n[Read More]",
+            "url": "https://petapixel.com/2025/04/24/how-a-photojournalist-is-using-generative-ai-to-illustrate-classic-stories/",
+            "urlToImage": "https://petapixel.com/assets/uploads/2025/04/subha-ai-featured.jpg",
+            "publishedAt": "2025-04-24T16:35:39Z",
+            "content": "In Bengali culture, Subha is a short story of a mute girl written in 1892 by the first Asian to win the Nobel Prize in Literature, Rabindranath Tagore. \r\nThere are very few, almost no previous visual… [+5288 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Vox"
+            },
+            "author": "Kelsey Piper",
+            "title": "Who should control OpenAI? Humanity.",
+            "description": "A version of this story originally appeared in the Future Perfect newsletter. Sign up here! Right now, OpenAI is something unique in the landscape of not just AI companies but huge companies in general. OpenAI’s board of directors is bound not to the mission …",
+            "url": "https://www.vox.com/future-perfect/410261/openai-non-profit-transition-letter-sam-altman-artificial-intelligence",
+            "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/04/gettyimages-2211793504.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-04-24T18:51:25Z",
+            "content": "OpenAI CEO Sam Altman speaks remotely during a keynote discussion for the 2025 Global Privacy Summit on April 24 in Washington. | Anna Moneymaker/Getty Images\r\n\n\nA version of this story originally ap… [+14118 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theregister.com"
+            },
+            "author": "Thomas Claburn",
+            "title": "Virgin Atlantic is piloting an OpenAI agent in to help with the 'customer journey'",
+            "description": "Hello, operator? Book me to Memphis, Tennessee\nInterview For all the talk of the \"agentic era\" from AI vendors like OpenAI, Google, Anthropic, Microsoft, and just about everyone else in the space, corporate use of the technology is still tentative. Virgin Atl…",
+            "url": "https://www.theregister.com/2025/04/25/virgin_agentic_airline_tests_ai/",
+            "urlToImage": "https://regmedia.co.uk/2015/12/04/cosmic_girl_747_400.jpg",
+            "publishedAt": "2025-04-25T12:27:06Z",
+            "content": "Interview For all the talk of the \"agentic era\" from AI vendors like OpenAI, Google, Anthropic, Microsoft, and just about everyone else in the space, corporate use of the technology is still tentativ… [+9039 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fb.com"
+            },
+            "author": "Facebook",
+            "title": "Space Llama: Meta’s Open Source AI Model is Heading Into Orbit",
+            "description": "Booz Allen has collaborated with Meta to deploy a fine-tuned version of Llama 3.2 aboard the International Space Station (ISS) National Laboratory.\nThe post Space Llama: Meta’s Open Source AI Model is Heading Into Orbit appeared first on Meta.",
+            "url": "https://about.fb.com/news/2025/04/space-llama-metas-open-source-ai-model-heading-into-orbit/",
+            "urlToImage": "https://about.fb.com/wp-content/uploads/2025/04/LlamaSpace_Header-1.gif?w=1200",
+            "publishedAt": "2025-04-25T10:00:47Z",
+            "content": "Our open source AI model, Llama, is going to space. In a standout case of American innovation, Booz Allen has collaborated with Meta to deploy a fine-tuned version of Llama 3.2 aboard the Internation… [+3974 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "VentureBeat"
+            },
+            "author": "Michael Nunez",
+            "title": "Zencoder buys Machinet to challenge GitHub Copilot as AI coding assistant consolidation accelerates",
+            "description": "Zencoder acquires Machinet to strengthen its position in the rapidly consolidating AI coding assistant market, expanding its JetBrains ecosystem integration while outperforming competitors like GitHub Copilot with innovative features such as Repo Grokking and…",
+            "url": "https://venturebeat.com/ai/zencoder-buys-machinet-to-challenge-github-copilot-as-ai-coding-assistant-consolidation-accelerates/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/04/nuneybits_Vector_art_of_a_computer_showing_computer_code_on_the_b4c8782a-6f38-4e8c-b768-7610d6c9e5b7.webp?w=1024?w=1200&strip=all",
+            "publishedAt": "2025-04-24T20:36:27Z",
+            "content": "Join our daily and weekly newsletters for the latest updates and exclusive content on industry-leading AI coverage. Learn More\r\nZencoder announced today the acquisition of Machinet, a developer of co… [+7580 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Bernard Marr, Contributor, \n Bernard Marr, Contributor\n https://www.forbes.com/sites/bernardmarr/",
+            "title": "How Zoom Is Revolutionizing Work With Agentic AI: From Meetings To Milestones",
+            "description": "Zoom is transforming a video conferencing platform into an AI-powered productivity hub through pioneering agentic AI systems that can reason, plan, and act autonomously.",
+            "url": "https://www.forbes.com/sites/bernardmarr/2025/04/25/how-zoom-is-revolutionizing-work-with-agentic-ai-from-meetings-to-milestones/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/680b234f5b700bf2c193cd7a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-04-25T05:54:25Z",
+            "content": "Zoom is transforming from a video conferencing platform into an AI-powered productivity hub through ... More pioneering agentic AI systems that can reason, plan, and act autonomously to solve workpla… [+7893 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Blake Brittain",
+            "title": "Publisher Ziff Davis sues OpenAI for copyright infringement",
+            "description": "(Reuters) -Digital media publisher Ziff Davis sued OpenAI in Delaware federal court on Thursday, accusing the Microsoft-backed artificial-intelligence...",
+            "url": "https://finance.yahoo.com/news/publisher-ziff-davis-sues-openai-224521988.html",
+            "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/27ff5b3e8cd018afdab8ffee5d642508",
+            "publishedAt": "2025-04-24T22:45:21Z",
+            "content": "By Blake Brittain\r\n(Reuters) -Digital media publisher Ziff Davis sued OpenAI in Delaware federal court on Thursday, accusing the Microsoft-backed artificial-intelligence company of misusing its publi… [+1470 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Effie Webb",
+            "title": "This Texas mom made $8,000 in 3 weeks training AI at her kitchen table. She says it's 'not easy money.'",
+            "description": "Amanda Overcash trains AI at night after her real estate job. She likes the flexibility, says it helps pay the bills, and \"show up\" for her daughter.",
+            "url": "https://www.businessinsider.com/ai-training-side-hustle-earnings-real-estate-mom-2025-4",
+            "urlToImage": "https://i.insider.com/680a00aa3fe8d3928363ec92?width=1200&format=jpeg",
+            "publishedAt": "2025-04-25T08:00:01Z",
+            "content": "Amanda Overcash fits in AI work around parenting and a full-time job.Natalie Szolomayer\r\n<ul><li>Amanda Overcash trains AI from home after clocking out from her full-time real estate job.</li><li>She… [+7745 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (Andrew Orr)",
+            "title": "Inside Apple Journal - the most personal diary you'll ever have",
+            "description": "Imagine turning everyday experiences — a photo, a song, a quiet moment — into something worth remembering. With Apple's Journal app, you can do just that, but only on your iPhone.How to get the most out of JournalJournal isn't just about capturing your though…",
+            "url": "https://appleinsider.com/inside/ios/tips/inside-apple-journal---the-most-personal-diary-youll-ever-have",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/61251-126458-journal-app-header-xl.jpg",
+            "publishedAt": "2025-04-25T12:04:47Z",
+            "content": "Imagine turning everyday experiences — a photo, a song, a quiet moment — into something worth remembering. With Apple's Journal app, you can do just that, but only on your iPhone.\r\nJournal isn't just… [+6277 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PetaPixel"
+            },
+            "author": "David Crewe",
+            "title": "Luminar Neo’s Spring Update Adds Workflow-Focused AI Enhancements",
+            "description": "Skylum Software released its Spring update for its Luminar Neo photo editing software, adding new artificial intelligence (AI) tools designed to streamline the user's workflow.\n[Read More]",
+            "url": "https://petapixel.com/2025/04/24/luminar-neos-spring-update-adds-workflow-focused-ai-enhancements/",
+            "urlToImage": "https://petapixel.com/assets/uploads/2025/04/Luminar-Neo-Spring-Update-Adds-Powerful-New-Tools-To-Speedup-Workflow.jpg",
+            "publishedAt": "2025-04-24T15:00:26Z",
+            "content": "Skylum Software released its Spring update for its Luminar Neo photo editing software, adding new artificial intelligence (AI) tools designed to streamline the user’s workflow.\r\nAccording to the comp… [+2176 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PetaPixel"
+            },
+            "author": "Kate Garibaldi",
+            "title": "Why Photographers Should Care About the New Content Authenticity App",
+            "description": "Adobe just released the public beta of its free Content Authenticity app, and photographers should take notice.\n[Read More]",
+            "url": "https://petapixel.com/2025/04/24/why-photographers-should-care-about-the-new-content-authenticity-app/",
+            "urlToImage": "https://petapixel.com/assets/uploads/2025/04/Adobe-Content-Credentials-LI.jpg",
+            "publishedAt": "2025-04-24T20:36:15Z",
+            "content": "Adobe just released the public beta of its free Content Authenticity app, and photographers should take notice.\r\nWith technology moving so quickly right now, especially that of artificial intelligenc… [+9878 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Authority"
+            },
+            "author": "Ankit Banerjee",
+            "title": "AI-powered features take the Roborock Saros Z70 from a robot cleaner to a robot helper",
+            "description": "With a mechanical arm and AI features, the Roborock Saros Z70 aims to be so much more than a simple robot vacuum cleaner.",
+            "url": "https://www.androidauthority.com/ai-powered-features-roborock-saros-z70-3547844/",
+            "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/04/roborock-saros-z70-6.jpg",
+            "publishedAt": "2025-04-25T11:17:35Z",
+            "content": "Robot vacuums have evolved exponentially in just a few years, progressing from relatively low-powered models that simply rolled around and found their way, to powerful vacuum and mop combos that buil… [+6492 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Arxiv.org"
+            },
+            "author": null,
+            "title": "PyGraph: Robust Compiler Support for CUDA Graphs in PyTorch",
+            "description": "CUDA Graphs -- a recent hardware feature introduced for NVIDIA GPUs -- aim to reduce CPU launch overhead by capturing and launching a series of GPU tasks (kernels) as a DAG. However, deploying CUDA Graphs faces several challenges today due to the static struc…",
+            "url": "https://arxiv.org/abs/2503.19779",
+            "urlToImage": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+            "publishedAt": "2025-04-24T19:28:29Z",
+            "content": "arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\r\nBoth individuals and organizations that work with arXivLabs have embraced and acce… [+257 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Thomas Macaulay",
+            "title": "Meet the Dutch tech stars speaking at TNW Conference",
+            "description": "As our favourite Dutch holiday approaches, TNW is celebrating the tech titans shaping the future in the Netherlands. Our beloved home country is the proud parent of a prodigious brood of digital talent. It’s given birth to cultivated meat, raised Booking.com …",
+            "url": "https://thenextweb.com/news/meet-dutch-tech-tech-startup-leaders-tnw-conference",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2025%2F04%2FUntitled-design-31.jpg&signature=6ad3f2d75a325f94e185b04bbb882514",
+            "publishedAt": "2025-04-24T18:26:57Z",
+            "content": "As our favourite Dutch holiday approaches, TNW is celebrating the tech titans shaping the future in the Netherlands.\r\nOur beloved home country is the proud parent of a prodigious brood of digital tal… [+8164 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Jack Kelly, Senior Contributor, \n Jack Kelly, Senior Contributor\n https://www.forbes.com/sites/jackkelly/",
+            "title": "The Jobs That Will Fall First As AI Takes Over The Workplace",
+            "description": "Artificial intelligence is advancing at breakneck speed. AI technology will soon dominate the job market. Start planning now to stay relevant and get ahead of the curve.",
+            "url": "https://www.forbes.com/sites/jackkelly/2025/04/25/the-jobs-that-will-fall-first-as-ai-takes-over-the-workplace/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/680b86f06fd49e385f10f445/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-04-25T13:16:08Z",
+            "content": "AI generated businessman\r\ngetty\r\nArtificial intelligence (AI) is advancing at breakneck speed. The big question is how long it will take until technology dominates the job market. You should start th… [+5590 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Neowin"
+            },
+            "author": "David Uzondu",
+            "title": "Adobe launches major Firefly update featuring new image generation models and more",
+            "description": "Adobe Firefly, the company's generative AI platform, has received an update that notably introduces improved image-generation models. Read more...",
+            "url": "https://www.neowin.net/news/adobe-launches-major-firefly-update-featuring-new-image-generation-models-and-more/",
+            "urlToImage": "https://cdn.neowin.com/news/images/uploaded/2025/04/1745501171_adobe-firefly_story.jpg",
+            "publishedAt": "2025-04-24T14:16:01Z",
+            "content": "Adobe Firefly is a suite of generative artificial intelligence AI models designed to assist creators. Last February, Adobe made its Firefly Video Model available for anyone to try through a public be… [+4116 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TalkAndroid"
+            },
+            "author": "Talk Android",
+            "title": "Meta wants WhatsApp to become your AI assistant — here’s why it matters",
+            "description": "Meta's artificial intelligence assistant on WhatsApp has raised eyebrows with its unexpected responses about the company's intentions. Several LinkedIn users",
+            "url": "https://www.talkandroid.com/505430-meta-wants-whatsapp-to-become-your-ai-assistant-heres-why-it-matters/",
+            "urlToImage": "https://www.talkandroid.com/wp-content/uploads/2025/04/Canva-TalkAndroid-6-1.png",
+            "publishedAt": "2025-04-24T15:30:00Z",
+            "content": "Meta's artificial intelligence assistant on WhatsApp has raised eyebrows with its unexpected responses about the company's intentions. Several LinkedIn users have discovered that Meta AI, powered by … [+4900 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "R-bloggers.com"
+            },
+            "author": "T. Moudiki",
+            "title": "‘Bayesian’ optimization of hyperparameters in a R machine learning model using the bayesianrvfl package",
+            "description": "Example of use of bayesianrvfl package for Bayesian optimization of hyperparameters in a machine learning model\n\n\nContinue reading: ‘Bayesian’ optimization of hyperparameters in a R machine learning model using the bayesianrvfl package",
+            "url": "https://www.r-bloggers.com/2025/04/bayesian-optimization-of-hyperparameters-in-a-r-machine-learning-model-using-the-bayesianrvfl-package/",
+            "urlToImage": "https://thierrymoudiki.github.io/images/2025-04-25/2025-04-25-image1.png",
+            "publishedAt": "2025-04-25T00:00:00Z",
+            "content": "In this post, I will demonstrate how to use the bayesianrvfl package for Bayesian optimization of hyperparameters in a machine learning model. We will use the Sonar dataset from the mlbench package a… [+4544 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Peter Cohan, Senior Contributor, \n Peter Cohan, Senior Contributor\n https://www.forbes.com/sites/petercohan/",
+            "title": "ServiceNow Stock Pops 15.5% As DOGE And Tariffs Drive New Demand",
+            "description": "After beating first quarter expectations and raising guidance for the current quarter, ServiceNow stock popped almost 16% — joining Netflix as a Trump turbulence winner.",
+            "url": "https://www.forbes.com/sites/petercohan/2025/04/25/servicenow-stock-pops-155-as-doge-and-tariffs-drive-new-demand/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/64c12bfc2d4a6a7cdd16a7fe/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-04-25T13:00:01Z",
+            "content": "SUN VALLEY, IDAHO - JULY 14: Bill McDermott, CEO of ServiceNow, and Julie McDermott walks to a ... More morning session at the Allen &amp; Company Sun Valley Conference on July 14, 2023 in Sun Valley… [+7732 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Zac Hall",
+            "title": "iPhone 17 Air now expected to have this Pro hardware feature",
+            "description": "Apple’s rumored iPhone 17 Air won’t just be thinner than the standard iPhone 17. According to analyst Ming-Chi Kuo, it may also share an important hardware feature with the iPhone 17 Pro models.\n\n\n\n more…",
+            "url": "https://9to5mac.com/2025/04/24/iphone-17-air-now-expected-to-have-this-pro-hardware-feature/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/03/Heres-how-thin-the-iPhone-17-Air-is-expected-to-be-with-the-camera-bar.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2025-04-24T14:31:03Z",
+            "content": "Apple’s rumored iPhone 17 Air won’t just be thinner than the standard iPhone 17. According to analyst Ming-Chi Kuo, it may also share an important hardware feature with the iPhone 17 Pro models.\r\nBas… [+1375 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Dr. Sai Balasubramanian, M.D., J.D., Contributor, \n Dr. Sai Balasubramanian, M.D., J.D., Contributor\n https://www.forbes.com/sites/saibala/",
+            "title": "Big Pharma Is Investing Billions In AI— And The Value Is Finally Starting To Show",
+            "description": "AI has redefined the drug discovery and development process.",
+            "url": "https://www.forbes.com/sites/saibala/2025/04/25/big-pharma-is-investing-billions-in-ai--and-the-value-is-finally-starting-to-show/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/680ae3625ab0e1d8bd5f2d25/0x0.jpg?format=jpg&crop=4328,2432,x0,y0,safe&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-04-25T12:00:00Z",
+            "content": "AI has redefined the drug discovery and development process.\r\ngetty\r\nThe last two years have witnessed explosive growth in the implementation of artificial intelligence for big healthcare organizatio… [+3693 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Harry Booth",
+            "title": "OpenAI Wants to Go For-Profit. Experts Say Regulators Should Step In",
+            "description": "OpenAI faces backlash over their for-profit plans. In a new letter citing AI safety, experts have asked Attorneys General to intervene.",
+            "url": "https://time.com/7279977/openai-for-profit-letter-elon-musk/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2025/04/GettyImages-2197366908.jpg?quality=85&w=1024&h=628&crop=1",
+            "publishedAt": "2025-04-24T18:18:43Z",
+            "content": "In the latest development in an ongoing struggle over OpenAI's future directionand potentially the future of artificial intelligence itselfdozens of prominent figures are urging the Attorneys General… [+5467 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Tanya Rawat",
+            "title": "Geoffrey Hinton, Ex-OpenAI Insiders, And Top AI Experts Sound Alarm On OpenAI's Restructuring: Warn It Could Strip Public Of Oversight, Betray AGI Mission",
+            "description": "A coalition of over 30 leading artificial intelligence researchers and ethicists has issued an urgent warning about OpenAI‘s proposed corporate restructuring...",
+            "url": "https://finance.yahoo.com/news/geoffrey-hinton-ex-openai-insiders-182524598.html",
+            "urlToImage": "https://media.zenfs.com/en/Benzinga/7cd709183fc29272dfac69799a4c9f23",
+            "publishedAt": "2025-04-24T18:25:24Z",
+            "content": "A coalition of over 30 leading artificial intelligence researchers and ethicists has issued an urgent warning about OpenAIs proposed corporate restructuring, expressing grave concerns that the change… [+2332 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theregister.com"
+            },
+            "author": "Liam Proven",
+            "title": "Fedora 42 has the Answer, but Ubuntu's Plucky Puffin isn't far behind",
+            "description": "Watch your partitions – GPT and dual-boot don't always mix\nWhile The Reg FOSS desk was on spring break, both the latest interim Ubuntu and latest Fedora debuted.…<!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' -->",
+            "url": "https://www.theregister.com/2025/04/24/ubuntu_fedora_spring/",
+            "urlToImage": "https://regmedia.co.uk/2016/03/02/dont_panic_97346534657892345.jpg",
+            "publishedAt": "2025-04-24T19:04:10Z",
+            "content": "While The Reg FOSS desk was on spring break, both the latest interim Ubuntu and latest Fedora debuted.\r\nWhich came first, the seabird or Deep Thought's Answer to the Ultimate Question of Life, the Un… [+7220 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investor's Business Daily"
+            },
+            "author": "REINHARDT KRAUSE, Investor's Business Daily",
+            "title": "Palantir, Google Expand Cloud Computing Partnership To Target Federal Agencies",
+            "description": "Palantir stock rose amid an expanded cloud computing partnership with Google that targets federal government agencies.",
+            "url": "https://www.investors.com/news/technology/palantir-stock-google-stock-fedramp-cloud-partnership/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2023/04/Stock-palantir-nyse-01-shutt.jpg",
+            "publishedAt": "2025-04-24T14:09:23Z",
+            "content": "Google-parent Alphabet's (GOOGL) cloud computing unit has expanded its partnership with Palantir Technologies (PLTR) to target federal agencies with security-approved services, the companies said. Pa… [+2954 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PetaPixel"
+            },
+            "author": "Jeremy Gray",
+            "title": "Photoshop and Lightroom Updates Improve Color Editing and Selections",
+            "description": "At Adobe MAX London, Adobe announced new updates and improvements for its popular photo editing applications, Photoshop and Lightroom. The improvements include better selections, improved color editing, and a streamlined workflow.\n[Read More]",
+            "url": "https://petapixel.com/2025/04/24/photoshop-and-lightroom-updates-improve-color-editing-and-selections/",
+            "urlToImage": "https://petapixel.com/assets/uploads/2025/04/adobe-ps-max-london-colors.jpg",
+            "publishedAt": "2025-04-24T14:27:40Z",
+            "content": "At Adobe MAX London, Adobe announced new updates and improvements for its popular photo editing applications, Photoshop and Lightroom. The improvements include better selections, improved color editi… [+2506 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Microsoft.com"
+            },
+            "author": "Ram Shankar Siva Kumar",
+            "title": "New whitepaper outlines the taxonomy of failure modes in AI agents",
+            "description": "Read the new whitepaper from the Microsoft AI Red Team to better understand the taxonomy of failure mode in agentic AI.\nThe post New whitepaper outlines the taxonomy of failure modes in AI agents appeared first on Microsoft Security Blog.",
+            "url": "https://www.microsoft.com/en-us/security/blog/2025/04/24/new-whitepaper-outlines-the-taxonomy-of-failure-modes-in-ai-agents/",
+            "urlToImage": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2025/04/Blog_1053663_a.jpg",
+            "publishedAt": "2025-04-24T16:00:00Z",
+            "content": "We are releasing a taxonomy of failure modes in AI agents to help security professionals and machine learning engineers think through how AI systems can fail and design them with safety and security … [+6424 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SiliconANGLE News"
+            },
+            "author": "Maria Deutscher",
+            "title": "Anthropic launches AI welfare research program",
+            "description": "OpenAI rival Anthropic PBC has launched a research program focused on the concept of artificial intelligence welfare. The company detailed the initiative today. The project is led by Kyle Fish, an AI welfare researcher who joined Anthropic last year. He previ…",
+            "url": "https://siliconangle.com/2025/04/24/anthropic-launches-ai-welfare-research-program/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/04/Claude2_Blog_V1-1-800x450.png",
+            "publishedAt": "2025-04-24T21:42:39Z",
+            "content": "OpenAI rival Anthropic PBC has launched a research program focused on the concept of artificial intelligence welfare.\r\nThe company detailed the initiative today. The project is led by Kyle Fish, an “… [+3013 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Mindtheproduct.com"
+            },
+            "author": "Eira Hayward",
+            "title": "An Anthropic report on Claude misuse, Intel restructuring and layoffs: This week’s news round-up",
+            "description": "The Washington Post gets cosy with OpenAI, Anthropic underlines its commitment to safety and Intel proposes more layoffs and restructuring, here are the news stories that caught our attention this week. Washington Post partners with OpenAI The Washington Post…",
+            "url": "https://www.mindtheproduct.com/anthropic-report-on-claude-misuse-intel-restructuring-and-layoffs/",
+            "urlToImage": "https://www.mindtheproduct.com/wp-content/uploads/2025/03/AdobeStock_1084271986_Editorial_Use_Only-1024x633.jpeg",
+            "publishedAt": "2025-04-25T11:00:29Z",
+            "content": "The Washington Post gets cosy with OpenAI, Anthropic underlines its commitment to safety and Intel proposes more layoffs and restructuring, here are the news stories that caught our attention this we… [+2759 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Tony Bradley, Senior Contributor, \n Tony Bradley, Senior Contributor\n https://www.forbes.com/sites/tonybradley/",
+            "title": "Carving An Unconventional New Lane In Cybersecurity",
+            "description": "Torq is breaking away from cybersecurity convention with bold branding, agentic AI, and rapid growth—positioning itself as a standout in a crowded, post-Wiz market.",
+            "url": "https://www.forbes.com/sites/tonybradley/2025/04/24/carving-an-unconventional-new-lane-in-cybersecurity/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/680a4390740736fda99adf7e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-04-24T14:02:21Z",
+            "content": "In a sea of sameness, Torq stands unapologetically boldfusing disruptive tech with a fearless brand ... More identity that refuses to blend in.\r\ngetty\r\nThe cybersecurity industry has long been define… [+6458 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Wowebook.org"
+            },
+            "author": "WOW! eBook",
+            "title": "Machine Learning Algorithms in Depth, Video Edition",
+            "description": "Machine Learning Algorithms in Depth, Video Edition English | MP4 | AVC 1920×1080 | AAC 44KHz 2ch | 6h 21m | 1.11 GB Machine Learning Algorithms in Depth, Video Edition: Learn how machine learning algorithms work from the ground up so you can effectively trou…",
+            "url": "https://www.wowebook.org/machine-learning-algorithms-in-depth-video-edition/",
+            "urlToImage": null,
+            "publishedAt": "2025-04-25T04:38:43Z",
+            "content": "English | MP4 | AVC 1920×1080 | AAC 44KHz 2ch | 6h 21m | 1.11 GB\r\nMachine Learning Algorithms in Depth, Video Edition: Learn how machine learning algorithms work from the ground up so you can effecti… [+2228 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nextbigwhat.com"
+            },
+            "author": "Tom",
+            "title": "Sam Altman Explores AI’s Potential: Insights on Creativity, Responsibility, and Innovation",
+            "description": "In a comprehensive discussion with Chris Anderson, Sam Altman, CEO of OpenAI, explores the rapid advancements in artificial intelligence, the ethical implications of AI's integration into society, and the evolving relationship between technology and creativit…",
+            "url": "https://nextbigwhat.com/sam-altman-explores-ais-potential-insights-on-creativity-responsibility-and-innovation-at-ted2025/",
+            "urlToImage": "https://nextbigwhat.com/wp-content/uploads/2025/04/youtube-thumbnail-5MWT_doo68k.jpg",
+            "publishedAt": "2025-04-25T09:23:29Z",
+            "content": "The creative spirit of humanity is an incredibly important thing, and we want to build tools that lift that up.\r\nIn a comprehensive discussion with Chris Anderson, Sam Altman, CEO of OpenAI, explores… [+6806 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Spencer Kimball, CNBC",
+            "title": "Amazon and Nvidia say AI data center demand is not slowing down",
+            "description": "OKLAHOMA CITY — Amazon and Nvidia executives said Thursday that the construction of artificial intelligence data centers is not slowing down, as recession fears have some investors questioning whether tech companies will pull back on some of their plans.",
+            "url": "https://www.nbcnews.com/business/business-news/amazon-nvidia-say-ai-data-center-demand-not-slowing-rcna202863",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-04/250424-amazon-data-center-mn-1425-2c3f8f.jpg",
+            "publishedAt": "2025-04-24T18:29:22Z",
+            "content": "OKLAHOMA CITY Amazon and Nvidia executives said Thursday that the construction of artificial intelligence data centers is not slowing down, as recession fears have some investors questioning whether … [+2120 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hackaday"
+            },
+            "author": "Jonathan Bennett",
+            "title": "This Week in Security: XRP Poisoned, MCP Bypassed, and More",
+            "description": "Researchers at Aikido run the Aikido Intel system, an LLM security monitor that ingests the feeds from public package repositories, and looks for anything unusual. In this case, the unusual …read more",
+            "url": "https://hackaday.com/2025/04/25/this-week-in-security-xrp-poisoned-mcp-bypassed-and-more/",
+            "urlToImage": "https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg",
+            "publishedAt": "2025-04-25T14:00:21Z",
+            "content": "Researchers at Aikido run the Aikido Intel system, an LLM security monitor that ingests the feeds from public package repositories, and looks for anything unusual. In this case, the unusual activity … [+7734 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Geeky Gadgets"
+            },
+            "author": "Julian Horsey",
+            "title": "9 OpenAI o3 Use Cases for Real-World Scenarios : Beginners Guide 2025",
+            "description": "What if you had an AI assistant that could not only analyze complex datasets but also write compelling narratives, solve intricate problems, and adapt to real-world scenarios—all with minimal input from you? Meet OpenAI’s o3 model, a new leap in artificial in…",
+            "url": "https://www.geeky-gadgets.com/openai-o3-model-use-cases-explained/",
+            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/04/openai-03-model-ai-assistant_optimized.jpg",
+            "publishedAt": "2025-04-25T09:14:57Z",
+            "content": "What if you had an AI assistant that could not only analyze complex datasets but also write compelling narratives, solve intricate problems, and adapt to real-world scenariosall with minimal input fr… [+6879 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Peter Kafka",
+            "title": "Google made an extra $8 billion last quarter but won't say how. I have some guesses.",
+            "description": "Google reports an $8 billion gain from its investment in a private company. It's tight-lipped about which one. I have some guesses.",
+            "url": "https://www.businessinsider.com/google-windfall-profit-investment-which-company-anthropic-stripe-databricks-2025-4",
+            "urlToImage": "https://i.insider.com/680ab905c6ad288d147f1bc8?width=1200&format=jpeg",
+            "publishedAt": "2025-04-24T22:30:56Z",
+            "content": "Google reported an $8 billion gain on a company it's invested in. But which one?Vuk Valcic/SOPA Images/LightRocket via Getty Images\r\n<ul><li>Imagine making an extra $8 billion and not really caring a… [+3104 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "DIYphotography"
+            },
+            "author": "Dunja Djudjic",
+            "title": "Luminar Neo Update Brings AI Auto Adjust, Realistic Fog, and Speed Boosts",
+            "description": "Skylum has rolled out a new Spring Luminar Neo update. The company’s flagship photo editing software now includes several AI-driven enhancements designed to streamline editing,...\nThe post Luminar Neo Update Brings AI Auto Adjust, Realistic Fog, and Speed Boo…",
+            "url": "https://www.diyphotography.net/luminar-neo-update-ai-tools-auto-adjust-spring-2025/",
+            "urlToImage": "https://www.diyphotography.net/wp-content/uploads/2025/04/Fog-Creation-1920x1080-1.png",
+            "publishedAt": "2025-04-24T16:30:49Z",
+            "content": "Skylum has rolled out a new Spring Luminar Neo update. The companys flagship photo editing software now includes several AI-driven enhancements designed to streamline editing, boost performance, and … [+1766 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Idownloadblog.com"
+            },
+            "author": "Christian Zibreg",
+            "title": "All 2025 iPhones, including “iPhone 17 Air,” should feature 12GB of RAM",
+            "description": "Apple is rumored to equip all models in its 2025 smartphone lineup with 12GB of RAM, including the so-called ultra-thin “iPhone 17 Air.”",
+            "url": "https://www.idownloadblog.com/2025/04/24/apple-iphone-17-air-2025-lineup-12-gb-ram-rumor/",
+            "urlToImage": "https://media.idownloadblog.com/wp-content/uploads/2025/04/iPhone-17-Pro-Max-facedown-white-chair-green-leaves.jpg",
+            "publishedAt": "2025-04-24T16:15:31Z",
+            "content": "Apple is rumored to equip all models in its upcoming 2025 smartphone lineup with 12GB of RAM, including the so-called ultra-thin iPhone 17 Air.\r\nExtra RAM will be great for high-end games. Image: Tha… [+2938 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Casey B. Renner",
+            "title": "A16z Unleashes $20 Billion AI Fund Fueled By 20,000 Nvidia GPUs As Marc Andreessen Bets Big On The Next Tech Superstars",
+            "description": "Andreessen Horowitz is doubling down on artificial intelligence—literally. The Silicon Valley powerhouse, co-founded by Marc Andreessen and Ben Horowitz, is ...",
+            "url": "https://finance.yahoo.com/news/a16z-unleashes-20-billion-ai-141615040.html",
+            "urlToImage": "https://media.zenfs.com/en/Benzinga/1bf1a960d0fbb191cdc11cb5c8dbd8f4",
+            "publishedAt": "2025-04-24T14:16:15Z",
+            "content": "Andreessen Horowitz is doubling down on artificial intelligenceliterally. The Silicon Valley powerhouse, co-founded by Marc Andreessen and Ben Horowitz, is in early talks to raise a massive $20 billi… [+3456 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Macdailynews.com"
+            },
+            "author": "MacDailyNews",
+            "title": "Apple to strip not-so-secret robotics unit from struggling AI chief John Giannandrea",
+            "description": "Apple will transfer its not-so-secret robotics unit from the oversight of its struggling AI chief, John Giannandrea, to the hardware…\nThe post Apple to strip not-so-secret robotics unit from struggling AI chief John Giannandrea appeared first on MacDailyNews.",
+            "url": "https://macdailynews.com/2025/04/25/apple-to-strip-not-so-secret-robotics-unit-from-struggling-ai-chief-john-giannandrea/",
+            "urlToImage": "https://149359564.v2.pressablecdn.com/wp-content/uploads/2022/07/220726_apple_park.png",
+            "publishedAt": "2025-04-25T13:20:34Z",
+            "content": "Apple Park in Cupertino, California\r\nApple will transfer its not-so-secret robotics unit from the oversight of its struggling AI chief, John Giannandrea, to the hardware division later this month, so… [+2901 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Jon Reed",
+            "title": "ChatGPT Expands Image Tools to More Devs and Apps",
+            "description": "OpenAI said its image generation model was so popular its GPUs were melting. Now you can access it in tools like Adobe Firefly or Microsoft Copilot",
+            "url": "https://www.cnet.com/tech/services-and-software/chatgpt-expands-image-tools-to-more-devs-and-apps/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/d8cac025b4f0baa9022c40b2fa36cc5e0bce7e65/hub/2025/03/25/6caf5155-6be7-4c73-92dc-ff3335309a11/chatgpt-ai-newton-3.png?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-04-24T19:04:03Z",
+            "content": "The image-generating feature of ChatGPT that OpenAI said brought its servers to their knees last month is expanding to other apps and generative AI developers, the company announced Wednesday.\r\nThat … [+1921 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Craig Hale",
+            "title": "Google says the UK needs to do more to adopt AI, then it can reap the benefits",
+            "description": "Google report claims the UK could unlock £400 billion in economic growth if it adopted AI effectively.",
+            "url": "https://www.techradar.com/pro/google-says-the-uk-needs-to-do-more-to-adopt-ai-then-it-can-reap-the-benefits",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/dUxibtp8fAtsBHpwYssG4o.jpg",
+            "publishedAt": "2025-04-25T08:49:24Z",
+            "content": "<ul><li>Google's report reveals worrying adoption gaps among UK workers</li><li>The Government should \"guarantee AI training\" for these workers</li><li>Enabling the workforce to adopt AI effectively … [+2766 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Craig Hale",
+            "title": "Microsoft fixes annoying bug which marked Adobe emails as spam",
+            "description": "Adobe emails containing URLs to legitimate documents were being flagged as spam by Microsoft.",
+            "url": "https://www.techradar.com/pro/security/microsoft-fixes-annoying-bug-which-marked-adobe-emails-as-spam",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/eeUPUFgCgfEqAstqqCN6aL.jpg",
+            "publishedAt": "2025-04-25T12:13:00Z",
+            "content": "<ul><li>Microsoft was flagging some legitimate Adobe emails as spam</li><li>The company blamed it on an error with its machine learning model</li><li>The issue now appears to be fixed</li></ul>\r\nMicr… [+2229 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Chance Miller",
+            "title": "Apple removing key robotics team from John Giannandrea’s oversight",
+            "description": "Apple is preparing another leadership shakeup, this time for its secretive robotics team. Bloomberg reports that Apple is shifting its robotics team from AI chief John Giannandrea to John Ternus, its Senior Vice President of Hardware Engineering.\n\n\n\nThis move…",
+            "url": "https://9to5mac.com/2025/04/24/apple-robotics-ternus-giannandrea/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/02/apple-robot.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2025-04-24T20:23:20Z",
+            "content": "Apple is preparing another leadership shakeup, this time for its secretive robotics team. Bloomberg reports that Apple is shifting its robotics team from AI chief John Giannandrea to John Ternus, its… [+2712 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MakeUseOf"
+            },
+            "author": "Tyler Fyock",
+            "title": "Switching From ChatGPT to Grok: What I Miss and What I Don’t",
+            "description": "Once you make the switch, you won't look back.",
+            "url": "https://www.makeuseof.com/reasons-switch-chatgpt-to-grok/",
+            "urlToImage": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2025/04/grok-and-chatgpt-logos-on-smartphone-screen.jpg",
+            "publishedAt": "2025-04-24T20:00:17Z",
+            "content": "ChatGPT is part of my daily workflow for everything from simple definitions to self-diagnosis. When I switched to Grok for a week, I knew thered be an adjustmentbut I didnt expect just how much Id mi… [+8680 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Craig Hale",
+            "title": "IBM says multiple contracts cancelled following US government DOGE probes - but it's not worried",
+            "description": "IBM says it has lost up to $100 million in DOGE cancelled contracts.",
+            "url": "https://www.techradar.com/pro/ibm-says-multiple-contracts-cancelled-following-us-government-doge-probes-but-its-not-worried",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/97wdD8xH7YW9mXTkWcBsS4.png",
+            "publishedAt": "2025-04-24T15:04:00Z",
+            "content": "<ul><li>DOGE's cancelled contracts could cost IBM up to $100 million</li><li>IBM's consulting business is worth $5.1 billion, down 2% year-over-year</li><li>IBM is still banking on revenue growth, no… [+2218 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Patently Apple"
+            },
+            "author": "Jack Purcher",
+            "title": "Apple’s AI chief John Giannandrea has been removed from leading Apple’s Robotics Team",
+            "description": "Apple is stripping another project away from its artificial intelligence chief John Giannandrea",
+            "url": "https://www.patentlyapple.com/2025/04/apples-ai-chief-john-giannandrea-has-been-removed-from-leading-apples-robotics-team.html",
+            "urlToImage": "https://patentlyapple.typepad.com/.a/6a0120a5580826970c02c8d3d1e6b5200c-600wi",
+            "publishedAt": "2025-04-25T11:04:36Z",
+            "content": "According to Bloomberg report, Apple is stripping another project away from its artificial intelligence chief John Giannandrea, who will no longer be responsible for the management of Apple's secret … [+1125 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Patrick Moorhead, Senior Contributor, \n Patrick Moorhead, Senior Contributor\n https://www.forbes.com/sites/patrickmoorhead/",
+            "title": "Google Cloud Gets More Serious About Infrastructure At Next 2025",
+            "description": "The Google Cloud Next event offered a reference point for the company's work in connectivity, infrastructure and AI — and its new boldness in competitive positioning.",
+            "url": "https://www.forbes.com/sites/moorinsights/2025/04/24/google-cloud-gets-more-serious-about-infrastructure-at-next-2025/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/680a6856b479afabb62ce027/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-04-24T16:54:53Z",
+            "content": "Google Cloud was especially bold in its competitive positioning against AWS at the Google Cloud Next ... More 2025 conference. Here, Mark Lohmeyer, vice president and general manager of AI and comput… [+11757 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Rachel Doherty",
+            "title": "Automation isn't replacing auditors, it's rewriting the job description",
+            "description": "As automation and artificial intelligence (AI) continue to reshape the workforce, the University of Waterloo is at the forefront of finding solutions to this challenge. With the increasing value placed on hands-on data analytics training, the School of Accoun…",
+            "url": "https://phys.org/news/2025-04-automation-isnt-auditors-rewriting-job.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2025/automation-isnt-replac.jpg",
+            "publishedAt": "2025-04-24T14:30:01Z",
+            "content": "As automation and artificial intelligence (AI) continue to reshape the workforce, the University of Waterloo is at the forefront of finding solutions to this challenge. With the increasing value plac… [+4890 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketingProfs.com"
+            },
+            "author": null,
+            "title": "AI Update, April 25, 2025: AI News and Views From the Past Week",
+            "description": "Catch up on select AI news and developments from the past week or so. Stay in the know. Read the full article at MarketingProfs",
+            "url": "https://www.marketingprofs.com/opinions/2025/53078/ai-update-april-25-2025-ai-news-and-views-from-the-past-week",
+            "urlToImage": "https://i.marketingprofs.com/assets/images/articles/lg/MP-AI-Update-lg.jpg",
+            "publishedAt": "2025-04-25T14:00:00Z",
+            "content": "Catch up on select AI news and developments from the past week or so (in no particular order):\r\nYouTube tests AI Overviews carousel in search results. YouTube is experimenting with an AI Overviews fe… [+13908 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Creative Bloq"
+            },
+            "author": "Ian Dean",
+            "title": "Did Adobe Fresco's new 'made by a human' tag just make it a safe space for artists?",
+            "description": "The overlooked free digital painting app just became important.",
+            "url": "https://www.creativebloq.com/art/digital-art/did-adobe-frescos-new-made-by-a-human-tag-just-make-it-a-safe-space-for-artists",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/2oPhBtocDfZRQ5xz8XurQo.jpg",
+            "publishedAt": "2025-04-24T14:44:13Z",
+            "content": "Buried behind all of today's Adobe MAX London news is a small blink-and-you'll-miss-it announcement for Adobe Fresco, the free to use digital painting app, that makes it a safe space for artists want… [+2044 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Janakiram MSV, Senior Contributor, \n Janakiram MSV, Senior Contributor\n https://www.forbes.com/sites/janakirammsv/",
+            "title": "Nvidia Releases NeMo Microservices To Streamline AI Agent Development",
+            "description": "As enterprises move beyond experimentation toward production AI systems, tools that simplify the creation of continually improving models become increasingly valuable.",
+            "url": "https://www.forbes.com/sites/janakirammsv/2025/04/25/nvidia-releases-nemo-microservices-to-streamline-ai-agent-development/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/680b22b5bd6ef7ac44578dd6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-04-25T05:56:04Z",
+            "content": "Nemo Microservices\r\nNvidia\r\nNvidia unveiled the general availability of its NeMo microservices, equipping enterprises with tools to build AI agents that integrate with business systems and continuall… [+4657 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Week Magazine"
+            },
+            "author": "theweekonlineeditors@futurenet.com (Devika Rao, The Week US)",
+            "title": "And the Oscar goes to … no one in particular: Movies made with AI can now win awards",
+            "description": "Generative AI is no longer a barrier to acclaim",
+            "url": "https://theweek.com/culture-life/film/ai-films-academy-awards",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/TxRQz4ThoosnqmsGZdJGY8.jpg",
+            "publishedAt": "2025-04-25T06:00:40Z",
+            "content": "The Academy of Motion Picture Arts and Sciences has introduced new rules for next year's Oscars, and one of them allows for the use of AI in films. The new guidelines do not exclude movies made with … [+2711 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yanko Design"
+            },
+            "author": "Srishti Mitra",
+            "title": "10 Best Indoor Planters That Are Design-Forward Solutions For Effortless Home Gardening",
+            "description": "10 Best Indoor Planters That Are Design-Forward Solutions For Effortless Home GardeningCreating the ultimate indoor garden is easier than ever thanks to innovative planter designs that cater to every lifestyle, space, and level of gardening experience....",
+            "url": "https://www.yankodesign.com/2025/04/25/10-best-indoor-planters-that-are-design-forward-solutions-for-effortless-home-gardening/",
+            "urlToImage": "https://www.yankodesign.com/images/design_news/2025/04/10-best-indoor-gardening-planters/10_best_planters_yanko_design_hero.jpg",
+            "publishedAt": "2025-04-25T11:40:26Z",
+            "content": "Creating the ultimate indoor garden is easier than ever thanks to innovative planter designs that cater to every lifestyle, space, and level of gardening experience. Whether youre seeking the hands-o… [+12626 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Instantshift.com"
+            },
+            "author": "Daniel Adams",
+            "title": "5 Proven Ways to Make Money With AI Skills",
+            "description": "From AI artwork to chatbots that never sleep, the rise of generative AI has flipped traditional career paths on their heads. We understand that this rise can be stressful; No one wants robots to take over, after all. But, this doesn’t need to be a bad thing! …",
+            "url": "http://www.instantshift.com/2025/04/25/make-money-with-ai-skills/",
+            "urlToImage": "https://i1.wp.com/www.instantshift.com/assets/uploads/2025/04/make-money-with-ai-skills.jpg",
+            "publishedAt": "2025-04-25T12:13:40Z",
+            "content": "From AI artwork to chatbots that never sleep, the rise of generative AI has flipped traditional career paths on their heads.\r\nWe understand that this rise can be stressful; No one wants robots to tak… [+5502 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Art Gilliland, Forbes Councils Member, \n Art Gilliland, Forbes Councils Member\n https://www.forbes.com/councils/forbestechcouncil/people/artgilliland/",
+            "title": "The Shadow AI Dilemma: Balancing Innovation And Security",
+            "description": "As AI evolves at breakneck speed, businesses must balance innovation with security. This balance is crucial, as risks can quickly overshadow AI’s benefits.",
+            "url": "https://www.forbes.com/councils/forbestechcouncil/2025/04/25/the-shadow-ai-dilemma-balancing-innovation-and-security/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/63e4f4ed8f2e0048a1db7365/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-04-25T11:15:00Z",
+            "content": "Art Gilliland, CEO at Delinea.\r\ngetty\r\nLeaders worldwide are promoting minimal AI regulation to drive innovation and avoid hindering growth. This strategy empowers businesses to explore new applicati… [+7175 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cert.org"
+            },
+            "author": null,
+            "title": "VU#667211: Various GPT services are vulnerable to \"Inception\" jailbreak, allows for bypass of safety guardrails",
+            "description": "Overview\nTwo systemic jailbreaks, affecting a number of generative AI services, were discovered. These jailbreaks can result in the bypass of safety protocols and allow an attacker to instruct the corresponding LLM to provide illicit or dangerous content. The…",
+            "url": "https://kb.cert.org/vuls/id/667211",
+            "urlToImage": null,
+            "publishedAt": "2025-04-25T13:48:21Z",
+            "content": "Overview\r\n\nTwo systemic jailbreaks, affecting a number of generative AI services, were discovered. These jailbreaks can result in the bypass of safety protocols and allow an attacker to instruct the … [+3753 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Klaudia Zaika, Forbes Councils Member, \n Klaudia Zaika, Forbes Councils Member\n https://www.forbes.com/councils/forbestechcouncil/people/klaudiazaika/",
+            "title": "AI-Assisted Software Development: Hype Vs. Reality—What You Need To Know",
+            "description": "Addressing these downsides takes more than introducing extra quality metrics—you’ll need to change the way you approach AI-assisted software engineering at its core.",
+            "url": "https://www.forbes.com/councils/forbestechcouncil/2025/04/25/ai-assisted-software-development-hype-vs-reality-what-you-need-to-know/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/680a8bd910155715c57a252a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-04-25T14:00:00Z",
+            "content": "Klaudia Zaika is the CEO of Apriorit, a software development company that provides engineering services globally to tech companies.\r\ngetty\r\nWith all the hype around the ways technologies powered by a… [+6664 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Rachel Wells, Contributor, \n Rachel Wells, Contributor\n https://www.forbes.com/sites/rachelwells/",
+            "title": "5 Free AI Courses To Build High-Income Skills In 2025",
+            "description": "Did you know that professionals with AI skills are less likely to be laid off? Here are five free courses to learn hands-on AI skills in 2025.",
+            "url": "https://www.forbes.com/sites/rachelwells/2025/04/24/5-free-ai-courses-to-build-high-income-skills-in-2025/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/680a5fd73687c41b7383d99a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-04-24T16:09:37Z",
+            "content": "You are 57% less likely to be laid off if you have AI skills\r\ngetty\r\nDid you know that professionals with AI skills are less likely to be laid off? General Assembly surveyed managers/HR who hire tech… [+3379 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BetaNews"
+            },
+            "author": "Ian Barker",
+            "title": "Crisis in 'digital dexterity' threatens AI investments",
+            "description": "A new study shows that 92 percent of IT leaders believe the new era of digital transformation will increase digital friction and that less than half (47 percent) of employees have the requisite digital dexterity to adapt to technological changes. The report f…",
+            "url": "https://betanews.com/2025/04/24/crisis-in-digital-dexterity-threatens-ai-investments/",
+            "urlToImage": "https://betanews.com/wp-content/uploads/2024/08/AI-investment-money-50x50.jpg",
+            "publishedAt": "2025-04-24T14:19:11Z",
+            "content": "A new study shows that 92 percent of IT leaders believe the new era of digital transformation will increase digital friction and that less than half (47 percent) of employees have the requisite digit… [+3021 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Tor Constantino, MBA, Contributor, \n Tor Constantino, MBA, Contributor\n https://www.forbes.com/sites/torconstantino/",
+            "title": "How One Company Is Quietly Working To Transform AI Forever",
+            "description": "Decentralized AI's next leap is taking place at Bittensor's Endgame Summit, where one of AI's biggest disruptors to Big Tech is building an open-source AI ecosystem.",
+            "url": "https://www.forbes.com/sites/torconstantino/2025/04/25/how-one-company-is-quietly-working-to-transform-ai-forever/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/680b802516622bd803ce2024/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-04-25T12:39:54Z",
+            "content": "Decentralized AI could displace centralized AI with more reliable compute and energy generation ... More and a blockchain company Bittensor is leading the way.\r\ngetty\r\nA few short years ago, decentra… [+5371 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "abarr@businessinsider.com (Alistair Barr)",
+            "title": "ChatGPT is crushing Google in the AI race. Unless you look at the data differently.",
+            "description": "ChatGPT leads in app usage, but Google's platform distribution through Search and Android presents a significant reach advantage in the AI race.",
+            "url": "https://www.businessinsider.com/chatgpt-crushing-google-ai-unless-you-look-data-differently-2025-4",
+            "urlToImage": "https://i.insider.com/680a9aab3fe8d3928364026d?width=1200&format=jpeg",
+            "publishedAt": "2025-04-25T09:01:02Z",
+            "content": "When it comes to measuring the frontrunner in the generative AI race, the answer depends on which data you look at, and how you think about that information.\r\nOpenAI's ChatGPT is either crushing Goog… [+4483 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "DIYphotography"
+            },
+            "author": "Alex Baker",
+            "title": "Adobe’s New Content Authenticity App is Now in Public Beta, Here’s What It Actually Does",
+            "description": "In an era when AI-generated content is exploding and digital attribution is often overlooked, Adobe has launched a public beta for its Content Authenticity app....\nThe post Adobe’s New Content Authenticity App is Now in Public Beta, Here’s What It Actually Do…",
+            "url": "https://www.diyphotography.net/adobes-new-content-authenticity-app-is-now-in-public-beta-heres-what-it-actually-does/",
+            "urlToImage": "https://www.diyphotography.net/wp-content/uploads/2025/04/Screenshot-2025-04-24-at-18.22.31-scaled.jpg",
+            "publishedAt": "2025-04-24T16:37:02Z",
+            "content": "In an era when AI-generated content is exploding and digital attribution is often overlooked, Adobe has launched a public beta for its Content Authenticity app. Its a free tool designed to help creat… [+3424 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Mindtheproduct.com"
+            },
+            "author": "Leslie Grandy",
+            "title": "Three creative problem-solving frameworks for ideating with generative AI",
+            "description": "Explore how human creativity and AI combine to unlock bold, innovative solutions through structured, imaginative thinking. Read more »\nThe post Three creative problem-solving frameworks for ideating with generative AI appeared first on Mind the Product.",
+            "url": "https://www.mindtheproduct.com/three-creative-problem-solving-frameworks-for-ideating-with-generative-ai/",
+            "urlToImage": "https://www.mindtheproduct.com/wp-content/uploads/2025/04/AdobeStock_214897313-1.jpg",
+            "publishedAt": "2025-04-25T07:00:00Z",
+            "content": "The human-AI partnership can lead to countless variations of ideas, sparking innovative concepts that provoke thought and challenge traditional norms. This is the promise of generative AIit acts as a… [+8978 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Neowin"
+            },
+            "author": "Pradeep Viswanathan",
+            "title": "Alphabet Q1 revenue hits $90.2B; Search grows despite ChatGPT challenge",
+            "description": "Alphabet revealed strong Q1 2025 earnings with $90.2 billion in revenue, up 12% year-over-year, driven by growth in Search and Google Cloud. Read more...",
+            "url": "https://www.neowin.net/news/alphabet-q1-revenue-hits-902b-search-grows-despite-chatgpt-challenge/",
+            "urlToImage": "https://cdn.neowin.com/news/images/uploaded/2024/12/1734863492_google_logo_graphics_story.jpg",
+            "publishedAt": "2025-04-24T23:48:01Z",
+            "content": "Alphabet, the parent company of Google, today announced the financial results for the quarter ended March 31, 2025. Alphabet reported revenue of $90.2 billion, a 12% increase year over year. The reve… [+1704 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Tiancheng Xie",
+            "title": "Why AI needs zkML: the missing puzzle piece to AI accountability",
+            "description": "AI requires cryptographic verification to establish trust and credibility",
+            "url": "https://www.techradar.com/pro/why-ai-needs-zkml-the-missing-puzzle-piece-to-ai-accountability",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/PGZLeFf3rcosDdc9c7mF4e.png",
+            "publishedAt": "2025-04-25T06:49:58Z",
+            "content": "From DeepSeek to Anthropic’s Computer Use and ChatGPT’s ‘Operator,’ AI tools have taken the world by storm, and this may be just the beginning. Yet, as AI agents debut with remarkable capabilities, a… [+5874 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "Carolyn Giardina",
+            "title": "CalArts, Chanel Launch Center for Artists and Tech With AI Focus",
+            "description": "Chanel is funding a new Chanel Center for Artists and Technology at the California Institute of the Arts, which is slated to begin work this fall. The Center, at the Santa Clarita, Calif. campus, is aimed at providing CalArts students, faculty, and visiting f…",
+            "url": "https://variety.com/2025/artisans/news/calarts-chanel-launch-center-for-artists-and-technology-ai-1236377659/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2025/04/CIA_20100707_8333_0.jpg?crop=0px%2C9px%2C1600px%2C900px&resize=1000%2C563",
+            "publishedAt": "2025-04-24T22:24:25Z",
+            "content": "Chanel is funding a new Chanel Center for Artists and Technology at the California Institute of the Arts, which is slated to begin work this fall.\r\nThe Center, at the Santa Clarita, Calif. campus, is… [+1843 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SiliconANGLE News"
+            },
+            "author": "Kyt Dotson",
+            "title": "Adobe unveils new Firefly generative AI models and creative tools",
+            "description": "Adobe Inc. is improving its suite of artificial intelligence-powered creative tools with new Firefly generative AI models alongside alongside a newly announced Firefly app. Today, at the company’s Max London creativity conference, the company unveiled a new F…",
+            "url": "https://siliconangle.com/2025/04/24/adobe-unveils-new-firefly-generative-ai-models-creative-tools/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/04/Screenshot-2025-04-24-092212.png",
+            "publishedAt": "2025-04-24T16:35:45Z",
+            "content": "Adobe Inc. is improving its suite of artificial intelligence-powered creative tools with new Firefly generative AI models alongside alongside a newly announced Firefly app.\r\nToday, at the companys Ma… [+3665 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Max Juang",
+            "title": "Why Is Hasbro (HAS) Stock Rocketing Higher Today",
+            "description": "Shares of toy and entertainment company Hasbro (NASDAQ:HAS) jumped 16.1% in the afternoon session after the company reported strong first quarter 2025...",
+            "url": "https://finance.yahoo.com/news/why-hasbro-stock-rocketing-higher-184322172.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/hnbGg3SokQLpK2H9LbwrZw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/stockstory_922/d7d72a93f9a5c55e974cd9aa13b0dde5",
+            "publishedAt": "2025-04-24T18:43:22Z",
+            "content": "Shares of toy and entertainment company Hasbro (NASDAQ:HAS) jumped 16.1% in the afternoon session after the company reported strong first quarter 2025 results which significantly exceeded analysts' e… [+1807 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Thurrott.com"
+            },
+            "author": "Paul Thurrott",
+            "title": "Motorola Partners with Google, Meta, Microsoft, and Perplexity on AI Features in New Phones",
+            "description": "Motorola today announced its 2025 product lineup, which includes the Motorola Edge 60 series and a new family of Razr flip phones.\nThe post Motorola Partners with Google, Meta, Microsoft, and Perplexity on AI Features in New Phones appeared first on Thurrott.…",
+            "url": "https://www.thurrott.com/mobile/android/320174/motorola-partners-with-google-meta-microsoft-and-perplexity-on-ai-features-in-new-phones",
+            "urlToImage": "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2025/04/new-moto-ai-phones.jpg",
+            "publishedAt": "2025-04-24T18:52:40Z",
+            "content": "Motorola today announced its 2025 product lineup, which includes the Motorola Edge 60 series and a new family of Razr flip phones.\r\n“For years, Artificial Intelligence has been central to Motorolas i… [+3755 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TechSpot"
+            },
+            "author": "Skye Jacobs",
+            "title": "Chrome is worth around $50 billion, DuckDuckGo CEO guesstimates",
+            "description": "Weinberg described his estimate as a \"back-of-the-envelope\" calculation, based on Chrome's vast user base and global reach – a figure that far exceeds previous estimates, such as the $20 billion valuation offered by Bloomberg analyst Mandeep Singh last Novemb…",
+            "url": "https://www.techspot.com/news/107677-chrome-worth-around-50-billion-duckduckgo-ceo-guesstimates.html",
+            "urlToImage": "https://www.techspot.com/images2/news/bigimage/2025/04/2025-04-24-image-30.jpg",
+            "publishedAt": "2025-04-25T05:26:00Z",
+            "content": "Big quote: The ongoing antitrust trial against Google has placed the search giant's Chrome web browser at the center of a heated debate over the future of internet search and competition. During test… [+2631 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cool Hunting"
+            },
+            "author": "Evan Orensten",
+            "title": "Milan Design Week 2025: Fashion Houses",
+            "description": "Prada, Gucci, Louis Vuitton, Hermés and Loewe flex their takes on artisanship and craftsmanship During Milan Design Week many luxury fashion houses celebrated artisanal heritage and creative experimentation that went well beyond …",
+            "url": "http://coolhunting.com/design/milan-design-week-2025-fashion-houses/",
+            "urlToImage": "https://150102931.v2.pressablecdn.com/wp-content/uploads/2025/04/EF97DD33-3271-400E-863B-1D188410AE95_1_201_a-scaled.jpeg",
+            "publishedAt": "2025-04-24T20:49:28Z",
+            "content": "Prada, Gucci, Louis Vuitton, Hermés and Loewe flex their takes on artisanship and craftsmanship\r\nEstudio Campana's Calcio Balilla mermaid foosball table for Louis Vuitton Objets Nomades. Photo by Eva… [+8103 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Search Engine Journal"
+            },
+            "author": "Matt G. Southern",
+            "title": "Google’s AI Overviews Reach 1.5 Billion Monthly Users via @sejournal, @MattGSouthern",
+            "description": "Google AI Overviews reaches 1.5 billion monthly users with Alphabet's Q1 earnings showing 10% search revenue growth.\nThe post Google’s AI Overviews Reach 1.5 Billion Monthly Users appeared first on Search Engine Journal.",
+            "url": "https://www.searchenginejournal.com/googles-ai-overviews-reach-1-5-billion-monthly-users/545333/",
+            "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2025/04/e52a45d0-fdd5-4f96-ab92-35d66a52613e-262.jpeg",
+            "publishedAt": "2025-04-24T21:04:49Z",
+            "content": "Google’s AI search features have reached widespread adoption. The company announced that AI Overviews in Search now reach 1.5 billion users per month.\r\nThis information was revealed during Alphabet’s… [+3672 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "pymnts.com",
+            "title": "Using ChatGPT for Therapy? The AI Chatbot Can Get Anxiety, Too",
+            "description": "People are increasingly turning to artificial intelligence (AI) chatbots like OpenAI’s ChatGPT for therapy. It turns out ChatGPT could use mental health support itself. \nAccording to a new study from Yale, ChatGPT can experience increased “anxiety” when expos…",
+            "url": "https://biztoc.com/x/fcf6d4096f8af31f",
+            "urlToImage": "https://biztoc.com/cdn/930/og.png",
+            "publishedAt": "2025-04-24T23:22:45Z",
+            "content": "People are increasingly turning to artificial intelligence (AI) chatbots like OpenAIs ChatGPT for therapy. It turns out ChatGPT could use mental health support itself. According to a new study from Y… [+136 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Journalism.co.uk"
+            },
+            "author": "Jacob Granger",
+            "title": "AI, ethics and editorial power: voices from the IQ Media Conference",
+            "description": "Can AI free journalists to do better work? Will it deepen inequalities? And what happens when the line between human and machine-generated content starts to blur? These questions and more answered",
+            "url": "https://www.journalism.co.uk/podcast/what-we-learned-about-ai-at-the-iq-conference-in-athens/s399/a1240440/",
+            "urlToImage": "https://www.journalism.co.uk/assets/183/rectpodcastlogo.png",
+            "publishedAt": "2025-04-24T15:49:00Z",
+            "content": "And check out the Journalism.co.uk podcast on Apple Podcasts and Spotify\r\nLast week, we were in sunny Athens attending the IQ Media Conference, hearing all about what the future of digital journalism… [+1739 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "iPhone in Canada"
+            },
+            "author": "Usman Qureshi",
+            "title": "Adobe Expands Firefly with New AI Models, Mobile App Launch",
+            "description": "Adobe has announced significant enhancements to its Firefly generative AI platform, introducing advanced image and video models.\nThe post Adobe Expands Firefly with New AI Models, Mobile App Launch first appeared on iPhone in Canada Blog.",
+            "url": "https://www.iphoneincanada.ca/2025/04/24/adobe-firefly-new-ai-models-mobile-app-launch/",
+            "urlToImage": "https://cdn.iphoneincanada.ca/wp-content/uploads/2017/09/iic-logo-1.svg",
+            "publishedAt": "2025-04-24T18:37:06Z",
+            "content": "Adobe has announced significant updates to its Firefly generative AI platform at the Adobe MAX London conference, introducing advanced image and video models, a forthcoming iOS and Android app, and n… [+1422 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theregister.com"
+            },
+            "author": "Jessica Lyons",
+            "title": "Darcula adds AI to its DIY phishing kits to help would-be vampires bleed victims dry",
+            "description": "Because coding phishing sites from scratch is a real pain in the neck Darcula, a cybercrime outfit that offers a phishing-as-a-service kit to other criminals, this week added AI capabilities to its kit that help would-be vampires spin up phishing sites in mul…",
+            "url": "https://www.theregister.com/2025/04/25/darcula_ai/",
+            "urlToImage": "https://regmedia.co.uk/2015/06/11/christopher_lee.jpg",
+            "publishedAt": "2025-04-25T06:18:14Z",
+            "content": "Darcula, a cybercrime outfit that offers a phishing-as-a-service kit to other criminals, this week added AI capabilities to its kit that help would-be vampires spin up phishing sites in multiple lang… [+2945 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Creative Bloq"
+            },
+            "author": "joe.foley@futurenet.com (Joe Foley)",
+            "title": "Adobe Concept AI is now Firefly Boards, and you can apply to join the beta",
+            "description": "Here's everything you need to know about the new moodboarding tool.",
+            "url": "https://www.creativebloq.com/ai/adobe-concept-ai-is-now-firefly-boards-and-you-can-apply-to-join-the-beta",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/BpSDc7dZAGWGAQw6xWMxFY.jpg",
+            "publishedAt": "2025-04-24T14:38:20Z",
+            "content": "We've seen some big announcements at Adobe MAX London today. There are big Photoshop updates along with the addition of third-party AI models in Firefly.\r\nLinked to that latter announcement is the la… [+2836 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Infosecurity Magazine"
+            },
+            "author": "Kevin  Poireault",
+            "title": "Security Experts Flag Chrome Extension Using AI Engine to Act Without User Input",
+            "description": "Researchers have found a Chrome extension that can act on the user’s behalf by using a popular AI agent orchestration protocol",
+            "url": "https://www.infosecurity-magazine.com/news/chrome-extension-ai-engine-act-mcp/",
+            "urlToImage": "https://assets.infosecurity-magazine.com/webpage/og/730e47dc-ec21-499a-b691-5260f3998472.jpg",
+            "publishedAt": "2025-04-25T12:15:00Z",
+            "content": "AI agents are projected to revolutionize the AI online experience, performing tasks and chores we’ve asked them to do in the background while we’re doing something more productive or enjoyable.\r\nHowe… [+5114 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (Amber Neely)",
+            "title": "How Apple's use of eucalyptus in Apple 2030 is controversial",
+            "description": "Apple invests quite a bit of time, money, and effort into its environmental initiatives, but it's hard to see whether or not its efforts are making an impact.Eucalyptus trees | Image credit: ekaterinvor on PixabayThe saying goes, \"the road to hell is paved wi…",
+            "url": "https://appleinsider.com/articles/25/04/24/how-apples-use-of-eucalyptus-in-apple-2030-is-controversial",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/63411-131771-euc-xl.jpg",
+            "publishedAt": "2025-04-24T19:34:49Z",
+            "content": "Apple invests quite a bit of time, money, and effort into its environmental initiatives, but it's hard to see whether or not its efforts are making an impact.\r\nThe saying goes, \"the road to hell is p… [+4776 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Neowin"
+            },
+            "author": "Paul Hill",
+            "title": "Here's a round up of the talks you can tune into at Google I/O 2025 next month",
+            "description": "Here is a full schedule of the talks Google will be live streaming at its I/O 2025 event on May 20 and 21. Read more...",
+            "url": "https://www.neowin.net/news/heres-a-round-up-of-the-talks-you-can-tune-into-at-google-io-2025-next-month/",
+            "urlToImage": "https://cdn.neowin.com/news/images/uploaded/2025/04/1745502586_io25_story.jpg",
+            "publishedAt": "2025-04-24T14:30:02Z",
+            "content": "With Google I/O less than a month away (May 20-21), the search giant has released a schedule of the event. While many people tune into the main keynote event, there will be more than this live-stream… [+2322 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Andres Zunino, Forbes Councils Member, \n Andres Zunino, Forbes Councils Member\n https://www.forbes.com/councils/forbestechcouncil/people/andreszunino/",
+            "title": "Securing The Future: A Strategic Framework For GenAI Code Safety In Enterprise Applications",
+            "description": "IT business leaders face a practical challenge: how to gain efficiencies from GenAI while implementing appropriate safeguards.",
+            "url": "https://www.forbes.com/councils/forbestechcouncil/2025/04/25/securing-the-future-a-strategic-framework-for-genai-code-safety-in-enterprise-applications/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/680a815283dced0cbd6c019d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-04-25T12:45:00Z",
+            "content": "Andres Zunino, cofounder of ZirconTech. An AWS partner, his company delivers traditional web and blockchain solutions.\r\ngetty\r\nGenerative AI technology has significantly altered software development … [+6666 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Noupe.com"
+            },
+            "author": "Carl Torrence",
+            "title": "AI-Generated Content in SaaS: Game-Changer or SEO Nightmare?",
+            "description": "With AI making strides every day, it is becoming increasingly difficult to ignore it. AI-generated content, or content that’s almost entirely produced by AI, is gaining a lot of attention in B2B SaaS marketing.  And while the use of AI is being greatly advoca…",
+            "url": "https://www.noupe.com/business-online/ai-generated-content-in-saas.html",
+            "urlToImage": "https://www.noupe.com/wp-content/uploads/2025/04/pexels-tara-winstead-8386440.jpg",
+            "publishedAt": "2025-04-25T07:24:33Z",
+            "content": "With AI making strides every day, it is becoming increasingly difficult to ignore it. AI-generated content, or content thats almost entirely produced by AI, is gaining a lot of attention in B2B SaaS … [+7720 chars]",
+            "topic": "\"artificial intelligence\" OR \"AI ethics\" OR \"machine learning\" OR \"neural network\" OR \"AI regulation\" OR \"GPT\" OR \"large language model\" OR \"autonomous systems\" OR \"agentic AI\" OR \"OpenAI\" OR \"Anthropic\" OR \"AI safety\" OR \"AI alignment\" OR \"foundation model\" OR \"generative AI\" OR \"synthetic media\" OR \"AI capabilities\" OR \"transformer model\"",
+            "category": "AI Advanced Computing"
+        }
+    ]
+}

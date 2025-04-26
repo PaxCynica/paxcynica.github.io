@@ -1,0 +1,179 @@
+.disinfo-carousel-container {
+    position: relative;
+    width: 100%;
+    height: 400px;
+    background-color: rgba(15, 15, 20, 0.85);
+    border-radius: 10px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
+    border: 1px solid rgba(233, 69, 96, 0.2);
+    padding: 1rem;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.carousel-navigation {
+    position: absolute;
+    width: calc(100% + 20px); /* Extend beyond card width */
+    top: 50%;
+    left: -10px; /* Offset to keep buttons aligned */
+    transform: translateY(-50%);
+    display: flex;
+    justify-content: space-between;
+    padding: 0;
+    z-index: 10;
+    pointer-events: none;
+}
+
+.carousel-navigation button {
+    background-color: rgba(233, 69, 96, 0.8);
+    color: white;
+    border: none;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: transform 0.2s, background-color 0.2s;
+    pointer-events: auto;
+}
+
+.carousel-navigation button:hover {
+    background-color: rgba(233, 69, 96, 1);
+    transform: scale(1.1);
+}
+
+.carousel-cards {
+    position: relative;
+    width: 92%; /* Reduced from 100% */
+    height: 330px;
+    overflow: hidden;
+    margin: 0 auto; /* Center the cards container */
+}
+
+.disinfo-card {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    transition: opacity 0.7s ease, transform 0.7s ease;
+    transform: scale(0.9);
+    padding: 1rem 2rem; /* More horizontal padding */
+    color: white;
+    display: flex;
+    flex-direction: column;
+    border-radius: 8px;
+}
+
+.disinfo-card.active {
+    opacity: 1;
+    transform: scale(1);
+    z-index: 5;
+}
+
+.disinfo-card h4 {
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
+    font-weight: 600;
+    text-align: center;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid rgba(255, 255, 255, 0.2);
+}
+
+.disinfo-card .category {
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 0.5rem;
+    opacity: 0.8;
+}
+
+.disinfo-card ul {
+    list-style-type: none;
+    padding: 0;
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.disinfo-card li {
+    margin-bottom: 0.8rem;
+    position: relative;
+    padding-left: 1.5rem;
+    line-height: 1.4;
+}
+
+.disinfo-card li:before {
+    content: "•";
+    position: absolute;
+    left: 0;
+    color: rgba(233, 69, 96, 1);
+    font-weight: bold;
+}
+
+.carousel-indicators {
+    position: absolute;
+    bottom: 15px;
+    left: 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+    z-index: 6;
+}
+
+.carousel-indicator {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: rgba(255, 255, 255, 0.3);
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.carousel-indicator.active {
+    background-color: rgba(233, 69, 96, 0.8);
+}
+
+/* Themes for cards */
+.theme-red {
+    background: linear-gradient(145deg, #450a0a, #7f1d1d);
+}
+
+.theme-dark {
+    background: linear-gradient(145deg, #1e293b, #334155);
+}
+
+.theme-blue {
+    background: linear-gradient(145deg, #1e3a8a, #1e40af);
+}
+
+.theme-green {
+    background: linear-gradient(145deg, #14532d, #166534);
+}
+
+.theme-purple {
+    background: linear-gradient(145deg, #581c87, #7e22ce);
+}
+
+.theme-sunset {
+    background: linear-gradient(145deg, #7c2d12, #9a3412);
+}
+
+@media (max-width: 768px) {
+    .disinfo-carousel-container {
+        height: 450px;
+    }
+    
+    .carousel-cards {
+        height: 380px;
+    }
+    
+    .disinfo-card h4 {
+        font-size: 1.5rem;
+    }
+}

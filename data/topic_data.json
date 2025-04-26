@@ -1,52 +1,52 @@
 [
   {
     "topic": "China",
-    "frequency": 54,
+    "frequency": 66,
     "agentColor": "#3498db"
   },
   {
     "topic": "tariffs",
-    "frequency": 40,
+    "frequency": 52,
     "agentColor": "#0E76A8"
   },
   {
-    "topic": "Trump",
-    "frequency": 36,
+    "topic": "Russia",
+    "frequency": 51,
     "agentColor": "#3498db"
   },
   {
-    "topic": "Russia",
-    "frequency": 36,
+    "topic": "Trump",
+    "frequency": 48,
     "agentColor": "#3498db"
   },
   {
     "topic": "Ukraine",
-    "frequency": 28,
+    "frequency": 38,
     "agentColor": "#00ACEE"
   },
   {
+    "topic": "US",
+    "frequency": 32,
+    "agentColor": "#3498db"
+  },
+  {
     "topic": "Israel",
-    "frequency": 26,
+    "frequency": 32,
     "agentColor": "#3498db"
   },
   {
     "topic": "Donald Trump",
-    "frequency": 24,
-    "agentColor": "#3498db"
-  },
-  {
-    "topic": "US",
-    "frequency": 23,
+    "frequency": 30,
     "agentColor": "#3498db"
   },
   {
     "topic": "trade war",
-    "frequency": 20,
+    "frequency": 26,
     "agentColor": "#3A5998"
   },
   {
     "topic": "India",
-    "frequency": 20,
+    "frequency": 26,
     "agentColor": "#3498db"
   }
 ]

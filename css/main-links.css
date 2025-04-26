@@ -59,6 +59,7 @@
     background-color: #16213e;
 }
 
+
 /* Resources Section Styles */
 .resources-links {
     padding: 2rem;
@@ -113,6 +114,7 @@
     transform: translateY(-5px);
 }
 
+
 /* Responsive design */
 @media (max-width: 600px) {
     .disinfo-links ul {
@@ -160,7 +162,7 @@
 
     .resources-links h2 {
         font-size: 3rem;
-        margin-bottom: 3rem;
+        margin-bottom: 6rem;
         padding-bottom: 0.5em;
         border-bottom: 2px solid #3498db;
     }
@@ -170,12 +172,14 @@
         padding: 1.5rem;
         margin-left: 3rem;
         margin-right: 3rem;
-        margin-bottom: 3rem;
+        margin-bottom: 6rem;
         text-align: left;
         border-left: 3px solid #16213e;
         border-right: 3px solid #16213e;
         border-radius: 8px;
         padding: 1.5rem;
+        grid-template-columns: 1fr 2fr;
+
     }
 
     .resources-links a {
@@ -189,11 +193,13 @@
         margin-left: 3rem;
         margin-right: 3rem;
         padding: 2rem;
+        display: grid;
+        grid-template-columns: 1fr 2fr;
     }
 
     .disinfo-links h2 {
         font-size: 3rem;
-        margin-bottom: 3rem;
+        margin-bottom: 6rem;
         padding-bottom: 0.5em;
         border-bottom: 2px solid #3498db;
         width: fit-content;
@@ -201,8 +207,7 @@
 
     .disinfo-links p {
         font-size: 1.5rem;
-        max-width: 33%;
-        margin-bottom: 3rem;
+        margin-bottom: 6rem;
         text-align: left;
         border-left: 3px solid #16213e;
         border-right: 3px solid #16213e;
@@ -213,6 +218,5 @@
     .disinfo-links ul {
         display: grid;
         grid-template-columns: 1fr 1fr;
-        max-width: 50%;
     }
 }
