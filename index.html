@@ -14,7 +14,9 @@
         integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg=="
         crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="icon" href="assets/favicon.ico" type="image/x-icon">
-
+    <link rel="stylesheet" href="css/visualization.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2"></script>
 </head>
 
 <body>
@@ -55,6 +57,10 @@
                     <a href="reports.html">Dive In</a>
                 </div>
                 <div class="canvas__wrapper">
+                    <h3>Topic Radar</h3>
+                    <div class="topic-radar-container">
+                        <canvas id="topicRadar" width="800" height="800"></canvas>
+                    </div>
                 </div>
             </section>
 
@@ -89,6 +95,7 @@
         <p>&copy; 2025 Datum Global</p>
     </footer>
     <script src="js/script.js"></script>
+    <script src="js/topic-radar.js"></script>
 </body>
 
 </html>
