@@ -3,10 +3,16 @@ Chart.defaults.color = "#ffffff";
 Chart.defaults.font.family = "'Segoe UI', 'Arial', sans-serif";
 
 document.addEventListener('DOMContentLoaded', function () {
-    // Fetch the topic data from JSON file
-    fetch('/data/topic_data.json')
-        .then(response => response.json())
+    // Fetch the topic data from JSON file with a relative path
+    fetch('./data/topic_data.json')  // Changed from /data/topic_data.json to relative path
+        .then(response => {
+            if (!response.ok) {
+                throw new Error(`HTTP error! Status: ${response.status}`);
+            }
+            return response.json();
+        })
         .then(topicData => {
+            console.log("Successfully loaded topic data:", topicData);
             renderTopicRadar(topicData);
         })
         .catch(error => {
@@ -14,56 +20,56 @@ document.addEventListener('DOMContentLoaded', function () {
             // Fall back to static data if JSON fetch fails
             renderTopicRadar([
                 {
-                    "topic": "Global Powers",
-                    "frequency": 2259,
-                    "agentColor": "#3A5998"
+                  "topic": "China",
+                  "frequency": 54,
+                  "agentColor": "#3498db"
                 },
                 {
-                    "topic": "Defense Corporations",
-                    "frequency": 1211,
-                    "agentColor": "#0E76A8"
+                  "topic": "tariffs",
+                  "frequency": 40,
+                  "agentColor": "#0E76A8"
                 },
                 {
-                    "topic": "World Leaders",
-                    "frequency": 1107,
-                    "agentColor": "#3A5998"
+                  "topic": "Trump",
+                  "frequency": 36,
+                  "agentColor": "#3498db"
                 },
                 {
-                    "topic": "Smaller Nations",
-                    "frequency": 1009,
-                    "agentColor": "#3498db"
+                  "topic": "Russia",
+                  "frequency": 36,
+                  "agentColor": "#3498db"
                 },
                 {
-                    "topic": "Defense Production Companies",
-                    "frequency": 706,
-                    "agentColor": "#3498db"
+                  "topic": "Ukraine",
+                  "frequency": 28,
+                  "agentColor": "#00ACEE"
                 },
                 {
-                    "topic": "Technologies Relationships",
-                    "frequency": 667,
-                    "agentColor": "#00ACEE"
+                  "topic": "Israel",
+                  "frequency": 26,
+                  "agentColor": "#3498db"
                 },
                 {
-                    "topic": "Cybersecurity Military Technology",
-                    "frequency": 529,
-                    "agentColor": "#3A5998"
+                  "topic": "Donald Trump",
+                  "frequency": 24,
+                  "agentColor": "#3498db"
                 },
                 {
-                    "topic": "Global Trade Tariffs",
-                    "frequency": 476,
-                    "agentColor": "#0E76A8"
+                  "topic": "US",
+                  "frequency": 23,
+                  "agentColor": "#3498db"
                 },
                 {
-                    "topic": "Industry Leaders",
-                    "frequency": 470,
-                    "agentColor": "#3A5998"
+                  "topic": "trade war",
+                  "frequency": 20,
+                  "agentColor": "#3A5998"
                 },
                 {
-                    "topic": "AI Advanced Computing",
-                    "frequency": 460,
-                    "agentColor": "#00ACEE"
+                  "topic": "India",
+                  "frequency": 20,
+                  "agentColor": "#3498db"
                 }
-            ]);
+              ]);
         });
 
     function renderTopicRadar(topicData) {
