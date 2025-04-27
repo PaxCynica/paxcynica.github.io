@@ -1,0 +1,51 @@
+[
+    {
+        "category": "Major Global Powers",
+        "query": "\"United States\" AND (Russia OR China OR \"Saudi Arabia\" OR Canada OR Mexico OR Philippines OR Japan OR Australia OR \"United Kingdom\" OR France OR Germany OR Ukraine OR Iran OR India OR Brazil OR Turkey OR \"South Korea\") OR China AND (\"United States\" OR Russia OR \"Saudi Arabia\" OR Canada OR Mexico OR Philippines OR Japan OR Australia OR \"United Kingdom\" OR France OR Germany OR Ukraine OR Iran OR India OR Brazil OR Turkey OR \"South Korea\") OR Russia AND (\"United States\" OR China OR IRAN)",
+        "articles_found": 59,
+        "total_available": 62,
+        "file_path": "C:\\Users\\crame\\Documents\\hound\\reports\\2025-W17\\2025-04-26\\22-10-40\\results\\news_results_1.json",
+        "suggested_terms": [
+            [
+                "trump",
+                25
+            ],
+            [
+                "nuclear",
+                18
+            ],
+            [
+                "market",
+                15
+            ],
+            [
+                "world",
+                12
+            ],
+            [
+                "president",
+                11
+            ],
+            [
+                "materials",
+                10
+            ],
+            [
+                "talks",
+                9
+            ],
+            [
+                "2025",
+                9
+            ],
+            [
+                "global",
+                9
+            ],
+            [
+                "april",
+                8
+            ]
+        ]
+    }
+]

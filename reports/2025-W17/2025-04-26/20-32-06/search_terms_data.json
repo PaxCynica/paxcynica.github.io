@@ -1,0 +1,100 @@
+[
+    {
+        "category": "Major Global Powers",
+        "query": "\"United States\" OR Russia OR China OR Germany OR Japan OR France OR \"United Kingdom\" OR India OR Brazil OR Indonesia OR Turkey OR Egypt OR South Africa OR Canada OR Spain OR Italy OR Greece OR Pakistan OR Afghanistan OR Syria OR Iraq OR Venezuela OR Colombia OR Chile OR Argentina OR Ethiopia OR Kenya OR Ukraine OR Georgia OR Sudan OR Yemen OR Saudi Arabia OR Australia OR South Korea",
+        "articles_found": 97,
+        "total_available": 253,
+        "file_path": "c:\\Users\\crame\\Documents\\hound\\reports\\2025-W17\\2025-04-26\\20-32-06\\results\\news_results_1.json",
+        "suggested_terms": [
+            [
+                "market",
+                54
+            ],
+            [
+                "2025",
+                34
+            ],
+            [
+                "global",
+                24
+            ],
+            [
+                "trump",
+                23
+            ],
+            [
+                "growth",
+                23
+            ],
+            [
+                "trade",
+                18
+            ],
+            [
+                "april",
+                17
+            ],
+            [
+                "galaxy",
+                16
+            ],
+            [
+                "analysis",
+                16
+            ],
+            [
+                "week",
+                15
+            ]
+        ]
+    },
+    {
+        "category": "Smaller Nations",
+        "query": "\"Taiwan\" OR \"Hong Kong\" OR \"Palestine\" OR \"Israel\" OR \"Armenia\" OR \"Azerbaijan\" OR \"Philippines\" OR \"Mexico\" OR \"Nigeria\" OR \"Myanmar\" OR \"Kazakhstan\" OR \"Uzbekistan\" OR \"Bangladesh\" OR \"Vietnam\" OR \"Thailand\" OR \"Malaysia\" OR \"Singapore\" OR \"Cuba\" OR \"Peru\" OR \"Morocco\" OR \"Algeria\" OR \"Angola\" OR \"Zimbabwe\" OR \"Congo\" OR \"Libya\" OR \"Lebanon\" OR \"Jordan\" OR \"Qatar\" OR \"Bahrain\" OR \"Oman\" OR \"New Zealand\"",
+        "articles_found": 97,
+        "total_available": 2021,
+        "file_path": "c:\\Users\\crame\\Documents\\hound\\reports\\2025-W17\\2025-04-26\\20-32-06\\results\\news_results_2.json",
+        "suggested_terms": [
+            [
+                "world",
+                13
+            ],
+            [
+                "pope",
+                11
+            ],
+            [
+                "trump",
+                10
+            ],
+            [
+                "2025",
+                8
+            ],
+            [
+                "china",
+                7
+            ],
+            [
+                "amazon",
+                7
+            ],
+            [
+                "francis",
+                7
+            ],
+            [
+                "michael",
+                6
+            ],
+            [
+                "like",
+                6
+            ],
+            [
+                "people",
+                6
+            ]
+        ]
+    }
+]

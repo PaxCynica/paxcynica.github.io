@@ -1,0 +1,51 @@
+[
+    {
+        "category": "Major Global Powers",
+        "query": "\"United States\" OR Russia OR China OR Germany OR Japan OR France OR \"United Kingdom\" OR India OR Brazil OR Indonesia OR Turkey OR Egypt OR South Africa OR Canada OR Spain OR Italy OR Greece OR Pakistan OR Afghanistan OR Syria OR Iraq OR Venezuela OR Colombia OR Chile OR Argentina OR Ethiopia OR Kenya OR Ukraine OR Georgia OR Sudan OR Yemen OR Saudi Arabia OR Australia OR South Korea",
+        "articles_found": 97,
+        "total_available": 254,
+        "file_path": "c:\\Users\\crame\\Documents\\hound\\reports\\2025-W17\\2025-04-26\\19-33-16\\results\\news_results_1.json",
+        "suggested_terms": [
+            [
+                "market",
+                54
+            ],
+            [
+                "2025",
+                34
+            ],
+            [
+                "global",
+                24
+            ],
+            [
+                "trump",
+                23
+            ],
+            [
+                "growth",
+                23
+            ],
+            [
+                "april",
+                17
+            ],
+            [
+                "trade",
+                16
+            ],
+            [
+                "galaxy",
+                16
+            ],
+            [
+                "analysis",
+                16
+            ],
+            [
+                "week",
+                15
+            ]
+        ]
+    }
+]
