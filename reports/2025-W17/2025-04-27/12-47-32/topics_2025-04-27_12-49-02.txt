@@ -1,0 +1,64 @@
+// United States
+"United States" AND (Russia OR China OR "Saudi Arabia" OR Canada OR Mexico OR Philippines OR Japan OR Australia OR "United Kingdom" OR France OR Germany OR Ukraine OR Iran OR India OR Brazil OR Turkey OR "South Korea")
+// China
+China AND ("United States" OR Russia OR "Saudi Arabia" OR Canada OR Mexico OR Philippines OR Japan OR Australia OR "United Kingdom" OR France OR Germany OR Ukraine OR Iran OR India OR Brazil OR Turkey OR "South Korea" OR Vietnam OR Thailand OR Malaysia OR Singapore OR Pakistan OR "North Korea" OR Indonesia OR Cambodia OR Africa)
+// Russia
+Russia AND ("United States" OR China OR Iran OR Belarus OR Kazakhstan OR Armenia OR Azerbaijan OR Turkey OR Syria OR Israel OR Germany OR France OR "United Kingdom" OR India)
+// Ukraine
+Ukraine AND (Russia OR "United States" OR "European Union" OR Poland OR Belarus OR Germany OR France OR "United Kingdom" OR Turkey)
+// Poland
+Poland AND (Germany OR Russia OR Ukraine OR "United States" OR "European Union" OR Belarus OR Lithuania OR Czechia OR Slovakia)
+// Germany
+Germany AND (France OR Poland OR Russia OR "United States" OR "European Union" OR "United Kingdom" OR China OR Turkey OR Italy)
+// France
+France AND (Germany OR "United Kingdom" OR "United States" OR "European Union" OR Russia OR Italy OR Spain OR Turkey)
+// United Kingdom
+"United Kingdom" AND (France OR Germany OR "United States" OR "European Union" OR Russia OR Ireland OR China OR India)
+// Europe
+("European Union" OR Europe OR "EU") AND ("United States" OR China OR Russia OR "United Kingdom" OR France OR Germany OR Italy OR Spain OR Poland OR Turkey OR Hungary OR Slovakia OR Kaliningrad OR Japan OR Australia OR Switzerland OR Norway OR Sweden OR Finland OR Denmark OR Belgium OR Netherlands OR Portugal OR Greece OR Romania OR Bulgaria OR Czechia OR Austria OR Ireland OR Croatia OR Serbia)
+// Additional Nations
+Taiwan OR "Hong Kong" OR Palestine OR Israel OR Armenia OR Azerbaijan OR Philippines OR Mexico OR Nigeria OR Myanmar OR Kazakhstan OR Uzbekistan OR Bangladesh OR Vietnam OR Thailand OR Malaysia OR Singapore OR Cuba OR Peru OR Morocco OR Algeria OR Angola OR Zimbabwe OR Congo OR Libya OR Lebanon OR Jordan OR Qatar OR Bahrain OR Oman OR New Zealand OR Estonia OR Latvia OR Lithuania OR Serbia OR Croatia OR Bosnia OR Montenegro OR "North Macedonia" OR Albania OR Kosovo OR Kyrgyzstan OR Tajikistan
+// Major World Leaders
+"Donald Trump" OR "Xi Jinping" OR "Vladimir Putin" OR "Volodymyr Zelenskyy" OR "Joe Biden" OR "Kamala Harris" OR "Narendra Modi" OR "Benjamin Netanyahu" OR "Kim Jong Un" OR "Mohammed bin Salman" OR "Olaf Scholz" OR "Emmanuel Macron" OR "Rishi Sunak" OR "Recep Tayyip Erdoğan" OR "Abdel Fattah el-Sisi" OR "Bashar al-Assad" OR "Justin Trudeau" OR "Lula da Silva" OR Bola Tinubu OR Gabriel Boric OR Gustavo Petro
+// Additional World Leaders
+"Yoon Suk-yeol" OR "Isaac Herzog" OR "Mahmoud Abbas" OR "Nicolás Maduro" OR "Giorgia Meloni" OR "Fumio Kishida" OR "Ebrahim Raisi" OR "Andrés Manuel López Obrador" OR "Cyril Ramaphosa" OR "Alberto Fernández" OR "Pedro Sánchez" OR "Alexander Lukashenko" OR "Hun Sen" OR "Prayut Chan-o-cha" OR "Joko Widodo" OR "Scott Morrison" OR "Jacinda Ardern"
+// Industry Leaders
+"Elon Musk" OR "Peter Thiel" OR "Jeff Bezos" OR "Bill Gates" OR "Mark Zuckerberg" OR "Tim Cook" OR "Sundar Pichai" OR "Satya Nadella" OR "Jack Ma" OR "Masayoshi Son" OR "Warren Buffett" OR "Larry Page" OR "Sergey Brin" OR "Reed Hastings" OR "Jensen Huang" OR "Andrew Ng" OR "Demis Hassabis" OR "Sam Altman" OR "Drew Houston" OR "Daniel Ek"
+// Political Operatives
+"Erik Prince" OR "Paul Manafort" OR "Roger Stone" OR "Ruper Murdoch" OR "Wendy Deng" OR "Ivanka Trump" OR "Jared Kushner" OR MBS OR "Felix Sater" OR "Artem Klyushin" OR "Steve Bannon" OR "Mike Pompeo" OR "John Bolton" OR "Michael Flynn" OR "Rudy Giuliani" OR "Sidney Powell" OR "Michael Cohen" OR "Jeff Sessions" OR "Chris Christie" OR "Mike Pence" OR "William Barr"
+// International Organizations
+("NATO expansion" OR "NATO defense") OR ("European Union" AND (commission OR parliament OR regulation OR directive)) OR ("United Nations" AND (resolution OR security OR council OR general)) OR (ASEAN AND (summit OR trade OR southeast OR asia)) OR ("World Bank" AND (loan OR development OR finance)) OR (IMF AND (economic OR financial OR loan OR bailout)) OR (WHO AND (health OR disease OR pandemic OR regulation)) OR (WTO AND (trade OR tariff OR dispute OR ruling))
+// Geopolitical Concepts
+"geopolitical competition" OR "great power rivalry" OR "democratic backsliding" OR "authoritarian governance" OR "diplomatic negotiations" OR coup OR insurrection OR uprising OR revolution OR occupation OR annexation OR blockade OR embargo OR sanctions OR "arms embargo" OR "territorial disputes" OR "border conflicts" OR "peace talks" OR "ceasefire violations" OR "humanitarian corridors"
+// Political Science
+"state sovereignty" OR "political legitimacy" OR "strategic autonomy" OR "Frontier Services" OR "asymmetric warfare" OR "arms control treaties" OR "defense modernization" OR "military alliances" OR "nuclear deterrence" OR "proxy conflicts" OR "counterinsurgency operations" OR "peacekeeping missions" OR "economic sanctions" OR "trade disputes" OR "financial warfare"
+// Cybersecurity Military Technology
+cyberattack OR "cyber defense" OR "electronic warfare" OR "missile defense" OR "drone strike" OR satellite OR "GPS jamming" OR EMP OR bioweapon OR "chemical weapon" OR "quantum computing" OR "quantum encryption" OR "biometric surveillance" OR "genetic engineering" OR "nanotechnology" OR "directed energy weapons" OR "hypersonic glide vehicles" OR "space-based weapons" OR "robotic warfare"
+// Economic Strategic Concepts
+"strategic investments" OR "resource nationalism" OR "supply chain security" OR "currency manipulation" OR "critical mineral access" OR "rare earth supply chains" OR "energy security" OR "critical technologies" OR "cyber operations" OR "surveillance systems" OR "information warfare" OR "disinformation campaigns" OR "autonomous weapons" OR "space militarization" OR "AI military applications"
+// Economic Technological Topics
+"digital currencies" OR "cryptocurrency regulation" OR "semiconductor industry" OR "internet fragmentation" OR "digital authoritarianism" OR inflation OR "debt crisis" OR "IMF bailout" OR "oil prices" OR "gas pipeline" OR "rare earths" OR "water scarcity" OR "green energy transition" OR "carbon markets" OR "climate finance" OR "electric vehicles" OR "battery technology" OR "hydrogen economy"
+// Humanitarian Issues
+"migration crises" OR "refugee protection" OR "human rights violations" OR "war crimes" OR "Genocide" OR famine OR epidemic OR pandemic OR "disaster relief" OR "gender violence" OR "child soldiers" OR "ethnic cleansing" OR "human trafficking" OR "modern slavery" OR "poverty alleviation" OR "access to education" OR "clean water initiatives" OR "mental health support" OR "disability rights"
+// Political Process Democracy
+"election interference" OR "political polarization" OR "economic nationalism" OR "strategic corruption" OR "civil-military relations" OR "societal resilience" OR "institutional integrity" OR "populist movements" OR "global governance" OR "pro-democracy" OR "anti-government" OR protest OR "election fraud" OR "voter suppression" OR "election monitoring" OR "democratic transition"
+// Strategic Defense Corporations
+Palantir OR Tesla OR Eaton OR SpaceX OR Boeing OR CECOT OR "Lockheed Martin" OR Raytheon OR "Northrop Grumman" OR Huawei OR TSMC OR Microsoft OR Google OR Meta OR Gazprom OR "Saudi Aramco" OR "Wagner Group" OR "Shanghai Cooperation" OR "RAND Corporation" OR Rosatom OR blockchain OR "OpenAI" OR "Boston Dynamics" OR "Blue Origin" OR "General Dynamics" OR "Siemens" OR "Thales Group"
+// Defense Production Companies
+"BAE Systems" OR "Intel" OR "AMD" OR "Qualcomm" OR "Alibaba" OR "Tencent" OR "SoftBank" OR "Hitachi" OR "Panasonic" OR "Mitsubishi" OR "GE Aerospace" OR "Rolls-Royce Holdings" OR "Samsung Electronics" OR "NVIDIA" OR "IBM" OR "Oracle" OR "SAP" OR "Cisco Systems" OR "Ericsson" OR "Sony" OR "Thales Alenia Space" OR "Honeywell Aerospace" OR "Dassault Aviation" OR "Airbus" OR "Kaspersky Lab"
+// Military Weapons Systems
+"hypersonic weapons" OR "nuclear proliferation" OR "biodefense" OR "autonomous weapons" OR "space militarization" OR "AI military applications" OR "ballistic missile" OR "cruise missile" OR Artillery OR "FPV Drone" OR "Shahed Drone" OR "Fiber Optic" OR "military exercises" OR "private security contractors" OR "Treaty" OR "ceasefire" OR "peace agreement" OR "diplomatic relations" OR "foreign aid"
+// Emerging Applications
+"quantum supremacy" OR "fusion energy" OR "carbon capture technology" OR "climate adaptation" OR "ocean conservation" OR "space exploration" OR "lunar missions" OR "Mars colonization" OR "asteroid mining" OR "AI ethics" OR "data privacy" OR "digital sovereignty" OR "5G networks" OR "6G technology" OR "renewable energy storage" OR "smart grids" OR "urban resilience" OR "food security"
+// Signals Intelligence Communications
+"radio signal" OR "signals jamming" OR "weather balloon" OR "signal collection" OR SIGINT OR ELINT OR COMINT OR "radio spectrum" OR "spectrum monitoring" OR "signal analysis" OR interception OR surveillance OR "electronic warfare" OR "listening post" OR antenna OR receiver OR "Software Defined Radio" OR "direction finding" OR eavesdropping OR telemetry
+// Regional Geopolitical Groupings
+("Middle East" AND (Israel OR Palestine OR "Gaza Strip" OR Lebanon OR Syria)) OR ("East Asia" AND (Taiwan OR "Hong Kong" OR Philippines OR "South China Sea")) OR ("Southeast Asia" AND (Vietnam OR Thailand OR Malaysia OR Indonesia OR Singapore)) OR ("North Africa" AND (Morocco OR Algeria OR Libya OR Egypt)) OR ("Sub-Saharan Africa" AND (Nigeria OR Congo OR Angola OR Zimbabwe OR Ethiopia OR Kenya)) OR ("Latin America" AND (Cuba OR Mexico OR Venezuela OR Peru OR Chile))
+// Strategic Technologies Relationships
+(Tesla AND (Musk OR electric OR vehicle OR earnings OR stock)) OR (SpaceX AND (launch OR rocket OR Starship OR satellite OR Musk)) OR ((Boeing OR Airbus) AND (aircraft OR defense OR contract OR delivery)) OR ((Microsoft OR Google OR Meta) AND (AI OR regulation OR technology OR earnings)) OR (("defense contractor" OR aerospace) AND ("Lockheed Martin" OR Raytheon OR "Northrop Grumman")) OR ("chip maker" AND (TSMC OR Nvidia OR Intel OR AMD OR semiconductor))
+// Global Trade Tariffs
+"tariff policy" OR "trade war" OR "import tax" OR "export restriction" OR "trade deficit" OR "supply chain" OR "economic nationalism" OR "protectionism" OR "WTO ruling" OR "customs duty" OR "trade agreement" OR "trade negotiation" OR "bilateral trade" OR "trade barriers" OR "market access" OR "trade sanctions"
+// AI Advanced Computing
+"artificial intelligence" OR "AI ethics" OR "machine learning" OR "neural network" OR "AI regulation" OR "GPT" OR "large language model" OR "autonomous systems" OR "agentic AI" OR "OpenAI" OR "Anthropic" OR "AI safety" OR "AI alignment" OR "foundation model" OR "generative AI" OR "synthetic media" OR "AI capabilities" OR "transformer model"
+// Geopolitical Flashpoints
+"Gaza conflict" OR "Ukraine war" OR "Taiwan strait" OR "South China Sea" OR "Korean peninsula" OR "Iran nuclear" OR (Russia AND NATO) OR (Israel AND Hamas) OR "border dispute" OR "territorial claim" OR Crimea OR Donbas OR "West Bank" OR "Gaza blockade" OR (China AND India) OR (India AND Pakistan) OR (Armenia AND Azerbaijan) OR (Ethiopia AND Tigray) OR "Straight of Malacca"

@@ -1,0 +1,4 @@
+// Major Global Powers
+"United States" AND (Russia OR China OR "Saudi Arabia" OR Canada OR Mexico OR Philippines OR Japan OR Australia OR "United Kingdom" OR France OR Germany OR Ukraine OR Iran OR India OR Brazil OR Turkey OR "South Korea") OR China AND ("United States" OR Russia OR "Saudi Arabia" OR Canada OR Mexico OR Philippines OR Japan OR Australia OR "United Kingdom" OR France OR Germany OR Ukraine OR Iran OR India OR Brazil OR Turkey OR "South Korea") OR Russia AND ("United States" OR China OR IRAN)
+
+

@@ -1,0 +1,6 @@
+// Major Global Powers
+"United States" OR Russia OR China OR Germany OR Japan OR France OR "United Kingdom" OR India OR Brazil OR Indonesia OR Turkey OR Egypt OR South Africa OR Canada OR Spain OR Italy OR Greece OR Pakistan OR Afghanistan OR Syria OR Iraq OR Venezuela OR Colombia OR Chile OR Argentina OR Ethiopia OR Kenya OR Ukraine OR Georgia OR Sudan OR Yemen OR Saudi Arabia OR Australia OR South Korea
+
+// Smaller Nations
+"Taiwan" OR "Hong Kong" OR "Palestine" OR "Israel" OR "Armenia" OR "Azerbaijan" OR "Philippines" OR "Mexico" OR "Nigeria" OR "Myanmar" OR "Kazakhstan" OR "Uzbekistan" OR "Bangladesh" OR "Vietnam" OR "Thailand" OR "Malaysia" OR "Singapore" OR "Cuba" OR "Peru" OR "Morocco" OR "Algeria" OR "Angola" OR "Zimbabwe" OR "Congo" OR "Libya" OR "Lebanon" OR "Jordan" OR "Qatar" OR "Bahrain" OR "Oman" OR "New Zealand"
+
