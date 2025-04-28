@@ -1,0 +1,12 @@
+KNOWLEDGE CONTEXT SUMMARY:
+Total characters loaded: 138717/150000 (92.5%)
+
+LOADED FILES (6):
+- challenge-conspiracies.js (19360 chars)
+- human-networks.js (20951 chars)
+- interpersonal-dynamics.js (9388 chars)
+- irregular-warfare.js (4964 chars)
+- machine-targeting.js (32884 chars)
+- manipulation-tactics.js (51170 chars)
+
+SKIPPED FILES (0):
