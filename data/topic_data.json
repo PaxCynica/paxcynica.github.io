@@ -1,52 +1,52 @@
 [
   {
-    "topic": "Trump",
-    "frequency": 32,
-    "agentColor": "#3498db"
-  },
-  {
-    "topic": "Russia",
-    "frequency": 24,
-    "agentColor": "#3498db"
-  },
-  {
     "topic": "China",
-    "frequency": 23,
+    "frequency": 11,
     "agentColor": "#3498db"
   },
   {
-    "topic": "Ukraine",
-    "frequency": 21,
+    "topic": "Trump",
+    "frequency": 11,
+    "agentColor": "#3498db"
+  },
+  {
+    "topic": "AI",
+    "frequency": 10,
     "agentColor": "#00ACEE"
   },
   {
     "topic": "tariffs",
-    "frequency": 20,
+    "frequency": 9,
     "agentColor": "#0E76A8"
   },
   {
-    "topic": "US",
-    "frequency": 18,
+    "topic": "Russia",
+    "frequency": 9,
     "agentColor": "#3498db"
   },
   {
-    "topic": "India",
-    "frequency": 14,
+    "topic": "Google",
+    "frequency": 8,
     "agentColor": "#3498db"
   },
   {
-    "topic": "Iran",
-    "frequency": 14,
+    "topic": "Donald Trump",
+    "frequency": 7,
     "agentColor": "#3498db"
   },
   {
-    "topic": "Pope Francis",
-    "frequency": 14,
+    "topic": "OpenAI",
+    "frequency": 6,
+    "agentColor": "#00ACEE"
+  },
+  {
+    "topic": "Israel",
+    "frequency": 6,
     "agentColor": "#3498db"
   },
   {
-    "topic": "trade war",
-    "frequency": 13,
-    "agentColor": "#3A5998"
+    "topic": "AI ethics",
+    "frequency": 5,
+    "agentColor": "#00ACEE"
   }
 ]
