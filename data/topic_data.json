@@ -1,11 +1,11 @@
 [
   {
-    "topic": "Israel",
-    "frequency": 10,
+    "topic": "China",
+    "frequency": 6,
     "agentColor": "#3498db"
   },
   {
-    "topic": "China",
+    "topic": "Israel",
     "frequency": 6,
     "agentColor": "#3498db"
   },
@@ -15,37 +15,37 @@
     "agentColor": "#3498db"
   },
   {
-    "topic": "US",
-    "frequency": 5,
+    "topic": "Russia",
+    "frequency": 6,
     "agentColor": "#3498db"
-  },
-  {
-    "topic": "Iran",
-    "frequency": 5,
-    "agentColor": "#3498db"
-  },
-  {
-    "topic": "Yemen",
-    "frequency": 4,
-    "agentColor": "#3498db"
-  },
-  {
-    "topic": "Ukraine",
-    "frequency": 4,
-    "agentColor": "#00ACEE"
   },
   {
     "topic": "tariffs",
-    "frequency": 4,
+    "frequency": 5,
     "agentColor": "#0E76A8"
   },
   {
-    "topic": "Russia",
+    "topic": "Ukraine",
+    "frequency": 5,
+    "agentColor": "#00ACEE"
+  },
+  {
+    "topic": "Palestine",
     "frequency": 4,
+    "agentColor": "#3498db"
+  },
+  {
+    "topic": "Huawei",
+    "frequency": 3,
     "agentColor": "#3498db"
   },
   {
     "topic": "Nvidia",
+    "frequency": 3,
+    "agentColor": "#3498db"
+  },
+  {
+    "topic": "Yemen",
     "frequency": 3,
     "agentColor": "#3498db"
   }
