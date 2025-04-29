@@ -1,0 +1,1476 @@
+{
+    "category": "Advanced Tech & Intelligence",
+    "query": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Lucas Ropek",
+            "title": "Lawyer for MyPillow Founder Filed AI-Generated Brief with ‘Nearly 30’ Bogus Citations",
+            "description": "For Mike Lindell's legal defense, his attorney sought help from an unusual (and unreliable) source: a chatbot.",
+            "url": "https://gizmodo.com/lawyer-for-mypillow-founder-filed-ai-generated-brief-with-nearly-30-bogus-citations-2000594743",
+            "urlToImage": "https://gizmodo.com/app/uploads/2021/02/adequmxvv7mpzceodppy.jpg",
+            "publishedAt": "2025-04-27T16:35:15Z",
+            "content": "MyPillow CEO Mike Lindell’s diehard support for Donald Trump’s election lies has landed him in multiple legal entanglements, including a case in Denver, where the pillow salesman is currently being s… [+2664 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New Atlas"
+            },
+            "author": "Loz Blain",
+            "title": "'Spark of Life' demo puts quantum chips in control of AI robot",
+            "description": "Ultra-deep tech startup Nirvanic put on a fairly humble-looking robotics demo at Jeff Bezos's private MARS 2025 conference – but it may go down as a landmark moment both in AI robotics, and in our understanding of consciousness itself.Continue ReadingCategory…",
+            "url": "https://newatlas.com/ai-humanoids/quantum-ai-robot-demo/",
+            "urlToImage": "https://assets.newatlas.com/dims4/default/8da4433/2147483647/strip/true/crop/4000x2100+0+284/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F8f%2Ff1%2F7ab1599b409ca4ea0e09b81014f9%2Fmars2025-1064-cb-15866.JPG&na.image_optimisation=0",
+            "publishedAt": "2025-04-27T14:03:00Z",
+            "content": "Ultra-deep tech startup Nirvanic put on a fairly humble-looking robotics demo at Jeff Bezos's private MARS 2025 conference but it may go down as a landmark moment both in AI robotics, and in our unde… [+8285 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Stephen Ornes",
+            "title": "A New Quantum Algorithm Speeds Up Solving a Huge Class of Problems",
+            "description": "It’s been difficult to find important questions that quantum computers can answer faster than classical machines, but a new algorithm appears to do so for some critical optimization tasks.",
+            "url": "https://www.wired.com/story/quantum-speedup-found-for-huge-class-of-hard-problems/",
+            "urlToImage": "https://media.wired.com/photos/68078d16352af82654075418/191:100/w_1280,c_limit/Hard-Quantum-Advantage_crDaniel-Garcia-Lede.jpeg",
+            "publishedAt": "2025-04-27T11:00:00Z",
+            "content": "The original version ofthis storyappeared in Quanta Magazine.\r\nFor computer scientists, solving problems is a bit like mountaineering. First they must choose a problem to solveakin to identifying a p… [+4217 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Lakshmi Varanasi",
+            "title": "Inside the AI boom that's transforming how consultants work at McKinsey, BCG, and Deloitte",
+            "description": "AI is quietly reshaping what it means to work as a consultant at top firms like McKinsey, BCG, Deloitte, KPMG, and others.",
+            "url": "https://www.businessinsider.com/consulting-ai-mckinsey-bcg-deloitte-pwc-kpmg-chatbots-ai-tools-2025-4",
+            "urlToImage": "https://i.insider.com/680313213fe8d39283638cfe?width=1200&format=jpeg",
+            "publishedAt": "2025-04-27T09:44:01Z",
+            "content": "AI is changing how consulting companies work.Tyler Le/BI\r\n<ul><li>Consulting firms are rapidly adopting AI tools to enhance efficiency and innovation.</li><li>Firms say that workers were ambivalent a… [+11978 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hackaday"
+            },
+            "author": "Lewin Day",
+            "title": "VESC Mods Made Via Vibe Coding",
+            "description": "[David Bloomfield] wanted to make some tweaks to an embedded system, but didn’t quite have the requisite skills. He decided to see if vibe coding could help. [David]’s goal was …read more",
+            "url": "https://hackaday.com/2025/04/27/vesc-mods-made-via-vibe-coding/",
+            "urlToImage": "https://hackaday.com/wp-content/uploads/2025/04/VESC-Telemetry-Display-0-8-screenshot-1.png",
+            "publishedAt": "2025-04-27T14:00:00Z",
+            "content": "[David Bloomfield] wanted to make some tweaks to an embedded system, but didn’t quite have the requisite skills. He decided to see if vibe coding could help.\r\n[David]’s goal was simple. To take the V… [+1196 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Lukew.com"
+            },
+            "author": "info@lukew.com",
+            "title": "The Evolution of AI Products",
+            "description": "At this point, the use of artificial intelligence and machine learning models in software has a long history. But the past three years really accelerated the evolution of \"AI products\". From behind the scenes models to chat to agents, here's how I've seen thi…",
+            "url": "https://www.lukew.com/ff/entry.asp?2096",
+            "urlToImage": "https://static.lukew.com/aiproducts_Claudeindex2.png",
+            "publishedAt": "2025-04-28T00:00:00Z",
+            "content": "At this point, the use of artificial intelligence and machine learning models in software has a long history. But the past three years really accelerated the evolution of \"AI products\". From behind t… [+5767 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Jason Snyder, Contributor, \n Jason Snyder, Contributor\n https://www.forbes.com/sites/jasonsnyder/",
+            "title": "The Mirror Trap: AI Ethics And The Collapse Of Human Imagination",
+            "description": "AI doesn’t reflect reality—it reflects and reshapes us. We are polishing mirrors, not expanding truth, and unless AI ethics changes, we risk erasing ourselves.",
+            "url": "https://www.forbes.com/sites/jasonsnyder/2025/04/27/the-mirror-trap-ai-ethics-and-the-collapse-of-human-imagination/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/680e7f34c4bcd45e0883c601/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-04-27T21:23:38Z",
+            "content": "Synthetic reflections replace human identity in the accelerating collapse of AI ethics.\r\ngetty\r\nThe Crisis - Imagination and AI Ethics\r\nWe are not racing toward a future of artificial intelligencewe … [+14345 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Tim Paradis",
+            "title": "This company had 800 applications for a single role. Here's why these 3 stood out to the CEO.",
+            "description": "In a tight job market, standing out is key. Jennifer Dulski, CEO of Rising Team, found that applicants who did this rose above the rest.",
+            "url": "https://www.businessinsider.com/ceo-says-job-applications-stood-out-when-hiring-research-work-2025-4",
+            "urlToImage": "https://i.insider.com/680bc5f23fe8d39283641bf2?width=1200&format=jpeg",
+            "publishedAt": "2025-04-27T09:21:02Z",
+            "content": "In a tight job market, just applying to open roles often isn't enough.Joe Raedle/Getty Images\r\n<ul><li>Jennifer Dulski was hiring for a chief of staff role at her company, Rising Team.</li><li>Three … [+5042 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hackaday"
+            },
+            "author": "Dan Maloney",
+            "title": "Hackaday Links: April 27, 2025",
+            "description": "Looks like the Simpsons had it right again, now that an Australian radio station has been caught using an AI-generated DJ for their midday slot. Station CADA, a Sydney-based broadcaster …read more",
+            "url": "https://hackaday.com/2025/04/27/hackaday-links-april-27-2025/",
+            "urlToImage": "https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg",
+            "publishedAt": "2025-04-27T23:00:09Z",
+            "content": "Looks like the Simpsons had it right again, now that an Australian radio station has been caught using an AI-generated DJ for their midday slot. Station CADA, a Sydney-based broadcaster that’s part o… [+3969 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Gizmodo Deals",
+            "title": "Amazon Says “Stop”: It’s Clearing Out Stock of The New iPad 11 at a New Record Low",
+            "description": "Second price drop in just one month for the new iPad released this March.",
+            "url": "https://gizmodo.com/amazon-says-stop-its-clearing-out-stock-of-the-new-ipad-11-at-a-new-record-low-2000595012",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/11/ipad-10-apple-1.jpg",
+            "publishedAt": "2025-04-27T15:10:51Z",
+            "content": "Amazon is shaking up the market this weekend with aggressive price drops on Apple’s newest devices, ignoring tariffs and slashing prices to unprecedented levels-even on Black Friday or Prime Day. In … [+2631 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Rachel Wells, Contributor, \n Rachel Wells, Contributor\n https://www.forbes.com/sites/rachelwells/",
+            "title": "The 2 In-Demand Jobs Paying $200,000+ At AI Startups In 2025",
+            "description": "Ever wondered what it would be like to work at an AI startup? Here are the two hottest, high-paying AI jobs of 2025—and they pay $200k and above.",
+            "url": "https://www.forbes.com/sites/rachelwells/2025/04/27/the-2-in-demand-jobs-paying-200000-at-ai-startups-in-2025/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/680e25614f92dbd9ade60e84/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-04-27T16:00:33Z",
+            "content": "As VC investment in AI startups continues to soar, AI jobs like ML engineers and enterprise sales ... More will surge in demand\r\ngetty\r\nIn the World Economic Forum's latest report, they predict that … [+4871 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "benzinga.com",
+            "title": "Trump's AI Education Push, Cramer's AI Stock Optimism, And More: This Week In Artificial Intelligence",
+            "description": "As the week comes to a close, we look back at a week filled with significant developments in the world of artificial intelligence (AI). From President Trump’s push for AI education to Jim Cramer’s bullish stance on AI stocks, the week was abuzz with AI-relate…",
+            "url": "https://biztoc.com/x/1b265f7ecff2b21e",
+            "urlToImage": "https://biztoc.com/cdn/1b265f7ecff2b21e_s.webp",
+            "publishedAt": "2025-04-27T13:31:29Z",
+            "content": "As the week comes to a close, we look back at a week filled with significant developments in the world of artificial intelligence (AI). From President Trumps push for AI education to Jim Cramers bull… [+143 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Windows Central"
+            },
+            "author": "Adam Harrison",
+            "title": "Meta, Facebook, and Instagram AI is coming for EU data — Here's what you need to know (and how to opt out)",
+            "description": "Meta's new AI tools have come under increasing scrutiny, but the firm believes they are now in compliance with EU regulations. Here's what you need to know.",
+            "url": "https://www.windowscentral.com/microsoft/meta-facebook-and-instagram-ai-is-coming-for-eu-data-heres-what-you-need-to-know-and-how-to-opt-out",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/MjmSPPaBWDjNrDjZk3YEL5.jpg",
+            "publishedAt": "2025-04-27T16:11:19Z",
+            "content": "Meta has confirmed that it will begin training its AI models on public data from users in the European Union – a move that brings it in line with other AI agents like Microsoft Copilot, OpenAI, and G… [+5164 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Boaz Sobrado, Contributor, \n Boaz Sobrado, Contributor\n https://www.forbes.com/sites/boazsobrado/",
+            "title": "Crypto Growing Up: Blockchain Surveillance’s Accountability Moment",
+            "description": "Crypto's key players face growing scrutiny as Chainalysis's surveillance tech meets legal challenges, signaling the industry's uncomfortable but necessary path to maturity.",
+            "url": "https://www.forbes.com/sites/boazsobrado/2025/04/27/crypto-growing-up-blockchain-surveillances-accountability-moment/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/680e71567eaea37dd90ec00d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-04-27T18:25:45Z",
+            "content": "Chainalysis logo displayed on a phone screen and representation of cryptocurrencies are seen in this ... More illustration photo taken in Krakow, Poland on January 29, 2023. (Photo by Jakub Porzycki/… [+8824 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "China’s Huawei develops new AI chip to compete with US’s Nvidia: Report",
+            "description": "The chip is in early development and will undergo a series of tests before it will be deemed ready for customer use.",
+            "url": "https://www.aljazeera.com/news/2025/4/27/chinas-huawei-develops-new-ai-chip-to-compete-with-uss-nvidia-report",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/04/AP25065365526918-1745771453.jpg?resize=1920%2C1440",
+            "publishedAt": "2025-04-27T18:09:17Z",
+            "content": "Chinas Huawei Technologies is preparing to test its newest and most powerful artificial intelligence (AI) processor, as it hopes to replace some higher-end products of US chip giant Nvidia, the Wall … [+2211 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Live Science"
+            },
+            "author": "Roland Moore-Colyer",
+            "title": "AI can handle tasks twice as complex every few months. What does this exponential growth mean for how we use it?",
+            "description": "AIs can outperform humans easily on short tasks, but longer ones are the true hurdle to overcome before we can deem them to be truly intelligent systems.",
+            "url": "https://www.livescience.com/technology/artificial-intelligence/ai-can-handle-tasks-twice-as-complex-every-few-months-what-does-this-exponential-growth-mean-for-how-we-use-it",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/nJomX4P4KxjEx44xtEbaW4.jpg",
+            "publishedAt": "2025-04-27T11:00:00Z",
+            "content": "Scientists have devised a new way to measure how capable artificial intelligence\r\n (AI) systems are — how fast they can beat, or compete with, humans in challenging tasks.\r\nWhile AIs can generally ou… [+6731 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Police"
+            },
+            "author": "Taylor Kerns",
+            "title": "I've been generating AI videos using Google's Veo 2 — here are 5 of my favorites",
+            "description": "Veo 2 seems very familiar with Cyberpunk 2077",
+            "url": "https://www.androidpolice.com/interesting-gemini-veo-2-video-samples/",
+            "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2024/09/google-veo-hero.jpg",
+            "publishedAt": "2025-04-27T15:00:11Z",
+            "content": "Last week, Google started rolling out its Veo 2 video generation model to Gemini Advanced subscribers. I've been playing around with it since so much so, I've apparently already bumped up against Goo… [+5266 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Signal"
+            },
+            "author": "Rob Bluey",
+            "title": "New Secure Messaging Platform Offers Quantum-Resistant Defense Against Chinese Cyber Threats",
+            "description": "A communications platform called Titanium Secure is positioning itself as a quantum-resistant defense against growing cyber threats from China and data harvesting by Big Tech... Read More\nThe post New Secure Messaging Platform Offers Quantum-Resistant Defense…",
+            "url": "https://www.dailysignal.com/2025/04/27/new-secure-messaging-platform-offers-quantum-resistant-defense-against-chinese-cyber-threats/",
+            "urlToImage": "https://www.dailysignal.com/wp-content/uploads/2025/04/250427_QuantumWarfare.jpg",
+            "publishedAt": "2025-04-27T16:15:00Z",
+            "content": "A communications platform called Titanium Secure is positioning itself as a quantum-resistant defense against growing cyber threats from China and data harvesting by Big Tech companies.\r\n“We saw a ne… [+1831 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "2 Top Artificial Intelligence Stocks to Buy While They're on Sale",
+            "description": null,
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b0919ada-66ee-4ce2-9c48-ad8a7526aa65",
+            "urlToImage": null,
+            "publishedAt": "2025-04-27T08:07:00Z",
+            "content": "If you click 'Accept all', we and our partners, including 241 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+702 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "1 Incredible Artificial Intelligence (AI) Stock Down 29% to Buy Right Now",
+            "description": null,
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_296899b8-3f1f-4ea7-b86a-621ee3a65b6f",
+            "urlToImage": null,
+            "publishedAt": "2025-04-27T09:43:00Z",
+            "content": "If you click 'Accept all', we and our partners, including 241 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+702 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Signal"
+            },
+            "author": "George Caldwell",
+            "title": "New Secure Messaging Platform Offers Quantum-Resistant Defense Against Chinese Cyber Threats",
+            "description": "A communications platform called Titanium Secure is positioning itself as a quantum-resistant defense against growing cyber threats from China and data harvesting by Big Tech... Read More\nThe post New Secure Messaging Platform Offers Quantum-Resistant Defense…",
+            "url": "https://www.dailysignal.com/2025/04/27/new-secure-messaging-platform-offers-quantum-resistant-defense-against-chinese-cyber-threats-2/",
+            "urlToImage": "https://www.dailysignal.com/wp-content/uploads/2024/05/shareCardDailySignal.png",
+            "publishedAt": "2025-04-28T01:13:00Z",
+            "content": "A communications platform called Titanium Secure is positioning itself as a quantum-resistant defense against growing cyber threats from China and data harvesting by Big Tech companies.\r\n“We saw a ne… [+1831 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Grace Atta",
+            "title": "The ABC fact-checked an AI scam. Here's what we found",
+            "description": "As artificial intelligence becomes more prolific in modern society, scammers are using the tool to produce highly convincing scams that leave even the experts second-guessing.",
+            "url": "https://www.abc.net.au/news/2025-04-28/scammers-using-ai-produce-sophisticated-scams/105150946",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/9ffcb0b2078ec1d737282ffcf0eec15e?impolicy=wcms_watermark_news&cropH=2809&cropW=4994&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+            "publishedAt": "2025-04-27T19:34:48Z",
+            "content": "Leon knows a scam when he sees it he's a fraud and data analyst who has previously worked for financial institutions.\r\nBut even he was left second-guessing when he was contacted by scammers who he be… [+8878 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Kurt Knutsson, CyberGuy Report",
+            "title": "Blue Shield exposed 4.7M patients’ health data to Google",
+            "description": "Health insurance giant Blue Shield of California confirmed it had been sharing private health data of 4.7 million users with Google for three years without even realizing it.",
+            "url": "https://www.foxnews.com/tech/blue-shield-exposed-4-7m-patients-health-data-google-2",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/04/3-blue-shield-of-california-leaks-4.7-million-members-protected-health-data-outro.jpg",
+            "publishedAt": "2025-04-27T14:00:20Z",
+            "content": "Healthcare institutions and insurers arguably collect the most sensitive information about you, including IDs, contact details, addresses and medical records. But they often dont put in the same leve… [+8943 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Alexis Keenan",
+            "title": "Google's breakup trial is turning into a fight for the future of AI",
+            "description": "Competition for any advantage in the booming artificial intelligence industry is so fierce that the fighting is spilling over into US courtrooms, as happened...",
+            "url": "https://finance.yahoo.com/news/googles-breakup-trial-is-turning-into-a-fight-for-the-future-of-ai-130145144.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Ijn2oGV12wwPj2Krt5IYoQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-04/ddfca460-2144-11f0-bedc-378b1a5debcb",
+            "publishedAt": "2025-04-27T13:01:45Z",
+            "content": "Competition for any advantage in the booming artificial intelligence industry is so fierce that the fighting is spilling over into US courtrooms.\r\nIt happened this past week in the start of a trial t… [+5484 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNA"
+            },
+            "author": null,
+            "title": "US wants to explore ‘creative solutions’ on trade with Singapore, says DPM Gan",
+            "description": "Pharmaceuticals and artificial intelligence chips were among the key areas discussed between Deputy Prime Minister Gan Kim Yong and his US counterpart in a call on Friday.",
+            "url": "https://www.channelnewsasia.com/singapore/gan-kim-yong-us-tariffs-trade-talks-pharmaceuticals-ai-chips-5092886",
+            "urlToImage": "https://dam.mediacorp.sg/image/upload/s--CxsaW_3q--/c_crop,h_843,w_1500,x_0,y_1/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2025/04/27/20250427_Raj_Gan Kim Yong-2.jpg?itok=x5gyAsJe",
+            "publishedAt": "2025-04-27T12:03:07Z",
+            "content": "SINGAPORE: The US wants to explore creative solutions for some critical exports from Singapore, including pharmaceuticals, as both sides discuss concessions on the global tariffs imposed by the Trump… [+1908 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Ghazal Ahmed",
+            "title": "DOJ Seeks Tough Measures on Alphabet Inc. (GOOGL) to Curb AI-Driven Search Monopoly",
+            "description": "We recently compiled a list of the 12 AI Stocks Analysts Are Talking About Right Now. In this article, we are going to take a look at where Alphabet Inc...",
+            "url": "https://finance.yahoo.com/news/doj-seeks-tough-measures-alphabet-025015873.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/DAytqpJ37WPkT1O3cj4krg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/ddded06c9301164bc21c334085fab02f",
+            "publishedAt": "2025-04-27T02:50:15Z",
+            "content": "We recently compiled a list of the 12 AI Stocks Analysts Are Talking About Right Now. In this article, we are going to take a look at where Alphabet Inc. (NASDAQ:GOOGL) stands against the other AI st… [+4433 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Yoonjung Seo, Mike Valerio",
+            "title": "Deepfake porn is destroying real lives in South Korea",
+            "description": "Ruma was having lunch on a summer day in 2021 when her phone began blowing up with notifications. When she opened the messages, they were devastating.",
+            "url": "https://www.cnn.com/2025/04/25/asia/south-korea-deepfake-crimes-intl-hnk-dst/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/deekfakeporn-sk-lighter.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2025-04-27T04:24:43Z",
+            "content": "Ruma was having lunch on a summer day in 2021 when her phone began blowing up with notifications.\r\nWhen she opened the messages, they were devastating. Photos of her face had been taken from social m… [+10664 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Scott Kanowsky",
+            "title": "Why these analysts say Alphabet’s results may be \"as good as it gets\" in 2025",
+            "description": "Investing.com - Shares in Alphabet (NASDAQ:GOOGL) jumped on Friday after the Google parent reported better-than-anticipated first-quarter income and backed...",
+            "url": "https://finance.yahoo.com/news/why-analysts-alphabet-results-may-103005481.html",
+            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+            "publishedAt": "2025-04-27T10:30:05Z",
+            "content": "Investing.com - Shares in Alphabet (NASDAQ:GOOGL) jumped on Friday after the Google parent reported better-than-anticipated first-quarter income and backed its heavy artificial intelligence spending … [+2365 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Francois Botha, Senior Contributor, \n Francois Botha, Senior Contributor\n https://www.forbes.com/sites/francoisbotha/",
+            "title": "What Tech Workforce Changes Could Mean For Opportunistic Family Offices",
+            "description": "Tech companies cutting workforce could have implications for investors managing investment risk, finding talented people, and discovering new business opportunities",
+            "url": "https://www.forbes.com/sites/francoisbotha/2025/04/27/what-tech-workforce-changes-could-mean-for-opportunistic-family-offices/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/680e122a529003ba51c307b9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-04-27T17:30:12Z",
+            "content": "The Intel headquarters in Santa Clara could end up a ghost town if their planned \"de-laboring\" ends ... More up being an extensive exercise.\r\n© 2025 Bloomberg Finance LP\r\nThe past weeks markets seem … [+4639 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNX Software"
+            },
+            "author": "Debashis Das",
+            "title": "Arduino cloud editor gets Claude-powered AI assistant trained on Arduino docs and libraries",
+            "description": "Arduino recently announced that their Cloud Editor now includes an AI assistant based on Anthropic’s Claude large language model (LLM). The AI assistant",
+            "url": "https://www.cnx-software.com/2025/04/28/arduino-cloud-editor-gets-claude-powered-ai-assistant-trained-on-arduino-docs-and-libraries/",
+            "urlToImage": "https://www.cnx-software.com/wp-content/uploads/2025/04/Arduino-Cloud-editor-with-the-new-Arduino-AI-Assistant.jpg",
+            "publishedAt": "2025-04-28T00:00:39Z",
+            "content": "Arduino recently announced that their Cloud Editor now includes an AI assistant based on Anthropic’s Claude large language model (LLM). The AI assistant is designed to make the coding experience smoo… [+3471 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Seclists.org"
+            },
+            "author": null,
+            "title": "[IWCC 2025] CfP: 14th International Workshop on Cyber Crime -Ghent, Belgium, Aug 11-14, 2025",
+            "description": "Posted by Artur Janicki via Fulldisclosure on Apr 26[APOLOGIES FOR CROSS-POSTING]\n\nCALL FOR PAPERS\n14th International Workshop on Cyber Crime (IWCC 2025 -\nhttps://2025.ares-conference.eu/program/iwcc/)\nto be held in conjunction with the 20th International Con…",
+            "url": "https://seclists.org/fulldisclosure/2025/Apr/31",
+            "urlToImage": "https://seclists.org/images/fulldisclosure-img.png",
+            "publishedAt": "2025-04-27T04:43:28Z",
+            "content": "From: Artur Janicki via Fulldisclosure &lt;fulldisclosure () seclists org&gt;Date: Fri, 25 Apr 2025 12:24:40 +0200\r\n[APOLOGIES FOR CROSS-POSTING]\r\nCALL FOR PAPERS\r\n14th International Workshop on Cybe… [+6669 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "LADbible"
+            },
+            "author": "Joe Harker",
+            "title": "‘Godfather of AI’ shares terrifying chances that humanity could be replaced by AI",
+            "description": "Geoffrey Hinton, the 'Godfather of AI', has given his estimate on the chance that humanity will be replaced with artificial intelligence.",
+            "url": "https://www.ladbible.com/news/technology/godfather-ai-geoffrey-hinton-chance-humanity-replaced-081831-20250427",
+            "urlToImage": "https://images.ladbible.com/ogimage/v3/assets/bltcd74acc1d0a99f3a/blt2608d069177dddbb/680e5584064a9e7c0d5b2957/geoffrey-hinton.jpg",
+            "publishedAt": "2025-04-27T16:32:47Z",
+            "content": "The man known as the 'Godfather of AI' has spoken about the chance that artificial intelligence will supplant humanity and replace us on this planet.\r\nIn 1986, Professor Geoffrey Hinton proposed a me… [+2791 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Gene Marks, Contributor, \n Gene Marks, Contributor\n https://www.forbes.com/sites/quickerbettertech/",
+            "title": "Business Tech News: Apple's Latest IPad Drops To A Record-Low Price",
+            "description": "Also: Klarna partners with eBay, a case for upgrading to Windows 11 and a comparison between QuickBooks Desktop and QuickBooks Online.",
+            "url": "https://www.forbes.com/sites/quickerbettertech/2025/04/27/business-tech-news-apples-latest-ipad-drops-to-a-record-low-price/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/63dcb722c706baecc89afec2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-04-27T11:00:00Z",
+            "content": "Detail of a mans hand scrolling through Netflix on an Apple iPad Pro, taken on March 6, 2020. (Photo ... More by Phil Barker/Future Publishing via Getty Images)\r\nFuture Publishing via Getty Images\r\nH… [+6035 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sqlservercentral.com"
+            },
+            "author": "Daniel Calbimonte",
+            "title": "Meta AI by Facebook: A New Contender in the AI Battle",
+            "description": "In this article we will show how Meta AI works and test the tool to create some T-SQL code. We will have a chat with this tool and work with it.",
+            "url": "https://www.sqlservercentral.com/articles/meta-ai-by-facebook-a-new-contender-in-the-ai-battle",
+            "urlToImage": "https://www.sqlservercentral.com/wp-content/uploads/2025/03/meta-ai-options-1.png",
+            "publishedAt": "2025-04-28T00:00:47Z",
+            "content": "Introduction\r\nMeta AI from Facebook is one of the last big technology giants contenders in the AI battle. In our first article, we created a demo about ChatGPT. Secondly, we talked about Bing from Mi… [+11628 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "Prediction: Palantir's New Deal With NATO Could Revolutionize How Artificial Intelligence (AI) Is Used in the Public Sector. Here's Why.",
+            "description": null,
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_bbd65b5d-00e6-4df9-b1df-0ea21d50237c",
+            "urlToImage": null,
+            "publishedAt": "2025-04-27T16:00:00Z",
+            "content": "If you click 'Accept all', we and our partners, including 241 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+702 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ubergizmo"
+            },
+            "author": "Paulo Montenegro",
+            "title": "Gmail Mobile Update Brings New Design, AI Features To Android and iOS",
+            "description": "Google is rolling out a series of updates to the Gmail mobile apps for Android and iOS, introducing new design changes and expanding access to AI-driven features aimed at enhancing usability and consistency across platforms.For Android tablet and foldable dev…",
+            "url": "https://www.ubergizmo.com/2025/04/gmail-mobile-update/",
+            "urlToImage": "https://i0.wp.com/cdnssl.ubergizmo.com/wp-content/uploads/2023/05/gmail.png",
+            "publishedAt": "2025-04-27T13:21:41Z",
+            "content": "Google is rolling out a series of updates to the Gmail mobile apps for Android and iOS, introducing new design changes and expanding access to AI-driven features aimed at enhancing usability and cons… [+2442 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Neowin"
+            },
+            "author": "David Uzondu",
+            "title": "Here is how ad agencies are working hard to make sure you see ads in ChatGPT responses",
+            "description": "LLM chatbots like ChatGPT are undoubtedly here to stay. Companies have now realised that and have started exploring ways to show you ads in responses from the chatbots. Read more...",
+            "url": "https://www.neowin.net/news/here-is-how-ad-agencies-are-working-hard-to-make-sure-you-see-ads-in-chatgpt-responses/",
+            "urlToImage": "https://cdn.neowin.com/news/images/uploaded/2025/04/1745771034_llm-ad_story.jpg",
+            "publishedAt": "2025-04-27T16:36:02Z",
+            "content": "Back in 1999, Google was lauded as a \"pure search engine,\" promising a simple, ad-free experience devoid of \"portal litter,\" unlike the cluttered search sites of the era (see image below). The servic… [+5584 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Help Net Security"
+            },
+            "author": "Help Net Security",
+            "title": "Week in review: MITRE ATT&CK v17.0 released, PoC for Erlang/OTP SSH bug is public",
+            "description": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Released: MITRE ATT&CK v17.0, now with ESXi attack TTPs MITRE has released the latest version of its ATT&CK framework, which now also includes a new section (“ma…",
+            "url": "https://www.helpnetsecurity.com/2025/04/27/week-in-review-mitre-attck-v17-0-released-poc-for-erlang-otp-ssh-bug-is-public/",
+            "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2024/03/25124830/cybersecurity-week-review-1-1500.webp",
+            "publishedAt": "2025-04-27T08:00:25Z",
+            "content": "Heres an overview of some of last weeks most interesting news, articles, interviews and videos:\r\nReleased: MITRE ATT&amp;CK v17.0, now with ESXi attack TTPsMITRE has released the latest version of it… [+6496 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Crooksandliars.com"
+            },
+            "author": "Chris capper Liebenthal",
+            "title": "Lindell's Attorneys Like To Make Stuff Up In Legal Briefs",
+            "description": "Mike Lindell has spent the last five years getting into trouble for making shit up about the 2020 elections and the voting machine companies. Feeling left out, Lindell's attorneys are now getting into trouble for making shit up, using AI-generated fake cases …",
+            "url": "https://crooksandliars.com/2025/04/lindells-attorneys-make-stuff-legal-briefs",
+            "urlToImage": "https://crooksandliars.com/files/primary_image/25/04/screenshot_2025-04-25_173535.png",
+            "publishedAt": "2025-04-27T13:20:01Z",
+            "content": "Mike Lindell has spent the last five years getting into trouble for making shit up about the 2020 elections and the voting machine companies. Feeling left out, Lindell's attorneys are now getting int… [+1574 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Psychology Today"
+            },
+            "author": "Faisal Hoque",
+            "title": "Please, Thank You, and the Ghost in the Machine",
+            "description": "Speaking politely to AI reveals deep human instincts — from cognitive shortcuts to seeing minds where none exist. Courtesy shapes better interactions, but the \"ghost\" in the machine is only a reflection of ourselves.",
+            "url": "https://www.psychologytoday.com/us/blog/code-conscience/202504/please-thank-you-and-the-ghost-in-the-machine",
+            "urlToImage": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2025-04/shutterstock_2442934541.jpeg.jpg?itok=8SN1b8cJ",
+            "publishedAt": "2025-04-27T18:13:43Z",
+            "content": "Last week OpenAIs CEO Sam Altman shared an interesting statistic: the polite inclusion of please and thank you in many users ChatGPT prompts costs the company millions of dollars in compute expenses … [+5439 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Billy Bambrough, Senior Contributor, \n Billy Bambrough, Senior Contributor\n https://www.forbes.com/sites/billybambrough/",
+            "title": "‘Major’ U.S. Dollar Fed Warning Braces Bitcoin For A BlackRock ‘Megaforce’ Price Shock",
+            "description": "\"Major\" U.S. dollar warnings are priming bitcoin for a “geopolitical fragmentation megaforce\" shock...",
+            "url": "https://www.forbes.com/sites/digital-assets/2025/04/27/major-us-dollar-fed-warning-braces-bitcoin-for-blackrock-megaforce-price-shock/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/633c2741f081733a2a78b209/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-04-27T11:45:07Z",
+            "content": "Bitcoin has bounced back this week alongside tech stocks after a leak revealed serious establishment fears of crypto contagion.\"\r\nFront-run Donald Trump, the White House and Wall Street by subscribin… [+3938 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "ecosgrove@businessinsider.com (Emma Cosgrove)",
+            "title": "'Burn the boats': To stay at the bleeding edge, AI developers are trashing old tech fast",
+            "description": "It's not uncommon for AI companies to fear Nvidia will  make their work redundant. When it happened to Tuhin Srivastava, he was perfectly calm.",
+            "url": "https://www.businessinsider.com/ai-developers-stay-ahead-burn-the-boats-trash-obsolete-tech-2025-4",
+            "urlToImage": "https://i.insider.com/680bfcfaa466d2b74ab4409b?width=1200&format=jpeg",
+            "publishedAt": "2025-04-27T09:00:02Z",
+            "content": "It's not uncommon for AI companies to fear that Nvidia will swoop in and make their work redundant. But when it happened to Tuhin Srivastava, he was perfectly calm.\r\n\"This is the thing about AI you g… [+4768 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "John Werner, Contributor, \n John Werner, Contributor\n https://www.forbes.com/sites/johnwerner/",
+            "title": "Watching Beijing‘s Spring Robot Race",
+            "description": "This groundbreaking half-marathon race features several dozen humanoid robot contestants is sure to happen again soon.",
+            "url": "https://www.forbes.com/sites/johnwerner/2025/04/27/watching-beijings-spring-robot-race/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/680df1ae861bbc0bbe8137a0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-04-27T21:06:07Z",
+            "content": "3d rendering humanoid robot running or jumping with cityscape background\r\ngetty\r\nIts official over the weekend, the Middle Kingdoms capital city had its first half-marathon race in which humans ran s… [+3187 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Politicalwire.com"
+            },
+            "author": "Taegan Goddard",
+            "title": "Mike Lindell’s Lawyer Used AI to Write Brief",
+            "description": "“A lawyer representing MyPillow and its CEO Mike Lindell in a defamation case admitted using artificial intelligence in a brief that has nearly 30 defective citations, including misquotes and citations to fictional cases,” ArsTechnica reports.",
+            "url": "https://politicalwire.com/2025/04/27/mike-lindells-lawyer-used-ai-to-write-brief/",
+            "urlToImage": "https://politicalwire.com/wp-content/uploads/2018/02/PW-podcast-logo.jpg",
+            "publishedAt": "2025-04-27T21:05:15Z",
+            "content": "“There are a lot of blogs and news sites claiming to understand politics, but only a few actually do. Political Wire is one of them.”\r\n Chuck Todd, host of “Meet the Press”\r\n“Concise. Relevant. To th… [+594 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Best Artificial Intelligence Stocks To Follow Today – April 25th",
+            "description": "ServiceNow, Super Micro Computer, and Salesforce are the three Artificial Intelligence stocks to watch today, according to MarketBeat’s stock screener tool. Error: Response status code does not indicate success: 429 (Too Many Requests). These companies had th…",
+            "url": "https://www.etfdailynews.com/2025/04/27/best-artificial-intelligence-stocks-to-follow-today-april-25th/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/servicenow-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2025-04-27T06:04:55Z",
+            "content": "ServiceNow, Super Micro Computer, and Salesforce are the three Artificial Intelligence stocks to watch today, according to MarketBeat’s stock screener tool. Error: Response status code does not indic… [+3474 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Dionysis Partsinevelos",
+            "title": "Jim Cramer on Upstart Holdings, Inc. (UPST): ‘I Don’t Like It’",
+            "description": "We recently published an article titled What Happened After Jim Cramer Talked About These 13 Stocks. In this article, we are going to take a look at where...",
+            "url": "https://finance.yahoo.com/news/jim-cramer-upstart-holdings-inc-143312376.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/KA4wGwO_X0rlwQwXyPTuuQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/740e998f922ee9e77034b4a4387a4b79",
+            "publishedAt": "2025-04-27T14:33:12Z",
+            "content": "We recently published an article titled What Happened After Jim Cramer Talked About These 13 Stocks. In this article, we are going to take a look at where Upstart Holdings, Inc. (NASDAQ:UPST) stands … [+5006 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Blogger.com"
+            },
+            "author": "Randy Seaver",
+            "title": "\"Hannah's Thread\" -- A Family History Poem, Song and Podcast Created by Artificial Intelligence",
+            "description": null,
+            "url": "https://www.blogger.com/comment/fullpage/post/26204193/213827326866762652",
+            "urlToImage": null,
+            "publishedAt": "2025-04-27T13:27:00Z",
+            "content": "I've used FREE Artificial Intelligence tools to create biographies, poems and songs about my ancestors lives, genealogy research, and family history in the recent past. Today, I want to share a poem … [+6197 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Betalist.com"
+            },
+            "author": "BetaList",
+            "title": "MathGPT AI – Solve Math Problems In Seconds with MathGPT",
+            "description": null,
+            "url": "https://betalist.com/startups/mathgpt-ai?utm_campaign=startup-117411&utm_medium=atom&utm_source=newsfeed",
+            "urlToImage": null,
+            "publishedAt": "2025-04-28T00:00:01Z",
+            "content": "MathGPT is an advanced artificial intelligence platform specifically designed to tackle complex mathematical problems. Our cutting-edge solution provides step-by-step guidance and detailed explanatio… [+424 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "benzinga.com",
+            "title": "Apple's AI Team Undergoes Major Restructuring Amidst Performance Concerns",
+            "description": "Apple Inc. (NASDAQ:AAPL) has embarked on a major overhaul of its artificial intelligence (AI) and machine learning divisions, shifting elements to different departments within the organization.\nBloomberg's Mark Gurman, in his latest weekly \"Power On\" shared t…",
+            "url": "https://biztoc.com/x/70a9cecdbc6f0d22",
+            "urlToImage": "https://biztoc.com/cdn/70a9cecdbc6f0d22_s.webp",
+            "publishedAt": "2025-04-27T19:59:42Z",
+            "content": "Apple Inc. (NASDAQ:AAPL) has embarked on a major overhaul of its artificial intelligence (AI) and machine learning divisions, shifting elements to different departments within the organization.Bloomb… [+136 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pypi.org"
+            },
+            "author": "chatgai.note@gmail.com",
+            "title": "reframe-cli 1.0.0",
+            "description": "ReFrame-CLI A great tool to boost your productivity in video and image manipulation tasks. Ideal for preparing image datasets for training machine learning models, including generative AI and diffusion models.",
+            "url": "https://pypi.org/project/reframe-cli/1.0.0/",
+            "urlToImage": null,
+            "publishedAt": "2025-04-27T06:02:59Z",
+            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Livemint"
+            },
+            "author": "Manu Joseph",
+            "title": "Manu Joseph: Who’d have thought Google could be replaced",
+            "description": "ChatGPT’s chatty search is very useful, no doubt, but let’s not pretend that it can be creative in any authentic way. Artificial intelligence only reminds us how rare natural intelligence is.",
+            "url": "https://www.livemint.com/opinion/online-views/chatgpt-vs-google-conversational-ai-creativity-turing-test-pagerank-algorithm-openai-ai-regulation-chatbot-literature-11745501231768.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2025/04/24/1600x900/After-analysing-1-million-ChatGPT-interaction-logs_1745501553789_1745501568793.jpg",
+            "publishedAt": "2025-04-27T08:30:12Z",
+            "content": "It has been many weeks since I googled anything. Not because I know everything now. I have moved to ChatGPT. A year ago, it wouldve been unthinkable to me that anything would replace Google Search, a… [+5369 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "R-bloggers.com"
+            },
+            "author": "rOpenSci - open tools for open science",
+            "title": "rOpenSci News Digest, April 2025",
+            "description": "Dear rOpenSci friends, it’s time for our monthly news roundup! You can read this post on our blog. Now let’s dive into the activity at and around rOpenSci!\nrOpenSci HQ\nEvent: Career Paths for U.S. Federal Data Scientists\nrOpenSci and O...\nContinue reading: rO…",
+            "url": "https://www.r-bloggers.com/2025/04/ropensci-news-digest-april-2025/",
+            "urlToImage": "https://www.r-bloggers.com/wp-content/uploads/2016/04/R_02_2016-05-01.png",
+            "publishedAt": "2025-04-28T00:00:00Z",
+            "content": "Dear rOpenSci friends, its time for our monthly news roundup! You can read this post on our blog. Now lets dive into the activity at and around rOpenSci!\r\nrOpenSci HQ\r\nEvent: Career Paths for U.S. Fe… [+6476 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pypi.org"
+            },
+            "author": null,
+            "title": "bigdl-core-cpp 2.7.0b20250427",
+            "description": "Large Language Model Develop Toolkit",
+            "url": "https://pypi.org/project/bigdl-core-cpp/2.7.0b20250427/",
+            "urlToImage": null,
+            "publishedAt": "2025-04-27T11:40:44Z",
+            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pypi.org"
+            },
+            "author": "bigdl-user-group@googlegroups.com",
+            "title": "ipex-llm 2.3.0b20250427",
+            "description": "Large Language Model Develop Toolkit",
+            "url": "https://pypi.org/project/ipex-llm/2.3.0b20250427/",
+            "urlToImage": null,
+            "publishedAt": "2025-04-27T13:22:37Z",
+            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Royal Society of Chemistry"
+            },
+            "author": "Khalid Ferji",
+            "title": "Basic Concepts and Tools of Artificial Intelligence in Polymer Science",
+            "description": "Polym. Chem., 2025, Accepted ManuscriptDOI: 10.1039/D5PY00148J, Review Article Open Access &nbsp This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported Licence.Khalid FerjiIn recent years, artificial intelligence (AI) has eme…",
+            "url": "https://pubs.rsc.org/en/content/articlelanding/2025/py/d5py00148j",
+            "urlToImage": null,
+            "publishedAt": "2025-04-27T23:00:00Z",
+            "content": "K. Ferji,\r\n Polym. Chem., 2025, Accepted Manuscript\r\n, DOI: 10.1039/D5PY00148J\r\nThis article is licensed under a \r\n Creative Commons Attribution-NonCommercial 3.0 Unported Licence. You can use materi… [+930 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BusinessLine"
+            },
+            "author": "PTI",
+            "title": "India may seek parity with US on tech access in bilateral trade pact talks: Sources",
+            "description": "India seeks technology access parity with US allies in proposed trade agreement to boost innovation and economic growth.",
+            "url": "https://www.thehindubusinessline.com/info-tech/india-may-seek-parity-with-us-on-tech-access-in-bilateral-trade-pact-talks-sources/article69497189.ece",
+            "urlToImage": "https://bl-i.thgim.com/public/incoming/lwunoh/article69497203.ece/alternates/LANDSCAPE_1200/IMG_BL22_States_india-us_2_1_32BGU8V5.jpg",
+            "publishedAt": "2025-04-27T08:17:20Z",
+            "content": "India is likely to ask the US to ease export controls and grant it access to critical technologies on par with key American allies like Australia, the UK, and Japan under the proposed bilateral trade… [+3905 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Royal Society of Chemistry"
+            },
+            "author": "Chenyi Zhou, Rubin Huo, Boyi Situ, Zihan Yan, Yusong Tu, Zhe Zhang",
+            "title": "Unveiling the Oxidation Mechanisms of Octa-Penta Graphene: A Multidimensional Exploration from First-Principles to Machine Learning",
+            "description": "Phys. Chem. Chem. Phys., 2025, Accepted ManuscriptDOI: 10.1039/D5CP00993F, PaperChenyi Zhou, Rubin Huo, Boyi Situ, Zihan Yan, Yusong Tu, Zhe ZhangOcta-penta graphene (OPG), a novel carbon allotrope characterized by its distinctive arrangement of pentagonal an…",
+            "url": "https://pubs.rsc.org/en/content/articlelanding/2025/cp/d5cp00993f",
+            "urlToImage": null,
+            "publishedAt": "2025-04-27T23:00:00Z",
+            "content": "C. Zhou, R. Huo, B. Situ, Z. Yan, Y. Tu and Z. Zhang,\r\n Phys. Chem. Chem. Phys., 2025, Accepted Manuscript\r\n, DOI: 10.1039/D5CP00993F\r\nTo request permission to reproduce material from this article, p… [+626 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hurriyet Daily News"
+            },
+            "author": "hurriyetdailynews.com",
+            "title": "Turkish scientists detect early-stage lung cancer through voice analysis",
+            "description": "A team of Turkish researchers has pioneered a remarkable method to identify early-stage lung cancer by analyzing the hidden, subtle nuances of human speech, harnessing the power of artificial intelligence.",
+            "url": "https://www.hurriyetdailynews.com/turkish-scientists-detect-early-stage-lung-cancer-through-voice-analysis-208526",
+            "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/680e1c669e1c606b5fe9ac81.jpg",
+            "publishedAt": "2025-04-27T12:00:40Z",
+            "content": "ISTANBUL\r\nA team of Turkish researchers has pioneered a remarkable method to identify early-stage lung cancer by analyzing the hidden, subtle nuances of human speech, harnessing the power of artifici… [+2337 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Creative Bloq"
+            },
+            "author": "Ian Dean",
+            "title": "Artists must \"revolt against the soulless [AI] machines\" says legendary comic artist Dave McKean",
+            "description": "He tells me to focus on why you're making art, not how.",
+            "url": "https://www.creativebloq.com/art/dave-mckean",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/6LnitXFTfwtJLoeKzvpjJm.jpg",
+            "publishedAt": "2025-04-27T10:00:10Z",
+            "content": "Like many, the first time I discovered Dave McKean's art was Arkham Asylum, the abstract, painterly, mixed media of this Batman graphic novel impressed upon a younger me how comic art can be more tha… [+6233 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pypi.org"
+            },
+            "author": "yaoqinse@gmail.com, bj.yan.pa@qq.com",
+            "title": "hcaptcha-challenger 0.17.0",
+            "description": " Gracefully face hCaptcha challenge with multimodal large language model.",
+            "url": "https://pypi.org/project/hcaptcha-challenger/0.17.0/",
+            "urlToImage": null,
+            "publishedAt": "2025-04-27T11:02:02Z",
+            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "OneFootball",
+            "title": " Flamengo thrash Corinthians 4-0 at the Maracanã!",
+            "description": "This article was translated into English by Artificial Intelligence. You can read the original version in  here.Flamengo SHOCKED Corinthians fans and Brazilian football this Sunday afternoon (...",
+            "url": "https://sports.yahoo.com/article/flamengo-thrash-corinthians-4-0-211200578.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/iGCeg3VwKkndNQ.aV14c5A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/onefootball_articles_802/4fdf029ccf347b84e11fc2b4cab9e9e7",
+            "publishedAt": "2025-04-27T21:12:00Z",
+            "content": "This article was translated into English by Artificial Intelligence. You can read the original version in here.\r\nFlamengo SHOCKED Corinthians fans and Brazilian football this Sunday afternoon (27), a… [+2606 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BusinessLine"
+            },
+            "author": "PTI",
+            "title": "Artificial Intelligence is about skill transformation, not job loss: TCS Global AI Head",
+            "description": "The last three decades have witnessed repeated waves of disruptive technologies — from mainframes to the internet, to e-commerce, digital and cloud, at times, \"scaremongering\" about future prospects",
+            "url": "https://www.thehindubusinessline.com/info-tech/artificial-intelligence-is-about-skill-transformation-not-job-loss-tcs-global-ai-head/article69497709.ece",
+            "urlToImage": "https://bl-i.thgim.com/public/incoming/nhl3ut/article69497751.ece/alternates/LANDSCAPE_1200/IMG_AI_Artificial_Intell_2_1_RJE0NKTN.jpg",
+            "publishedAt": "2025-04-27T12:42:01Z",
+            "content": "Artificial Intelligence (AI) will spur the creation of new technologies, reshaping the nature of work, Ashok Krish, Global Head of AI at TCS, said, emphasising that it should be viewed as a catalyst … [+3299 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": "next-big-future",
+                "name": "Next Big Future"
+            },
+            "author": "Brian Wang",
+            "title": "Google Claybrook AI Model Great for UI/UX Coding and Web Development",
+            "description": "Claybrook is an experimental AI model developed by Google and the model’s focus is on web development with an emphasis frontend tasks such as UI/UX coding. Claybrook leverages advanced techniques, such as reinforcement learning (RL), tailored for frontend des…",
+            "url": "https://www.nextbigfuture.com/2025/04/google-claybrook-ai-model-great-for-ui-ux-coding-and-web-development.html",
+            "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2025/04/claybrookgoogle.jpeg",
+            "publishedAt": "2025-04-27T12:59:00Z",
+            "content": "Claybrook is an experimental AI model developed by Google and the models focus is on web development with an emphasis frontend tasks such as UI/UX coding. Claybrook leverages advanced techniques, suc… [+1914 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Top Quantum Computing Stocks To Keep An Eye On – April 25th",
+            "description": "IonQ, Rigetti Computing, and D-Wave Quantum are the three Quantum Computing stocks to watch today, according to MarketBeat’s stock screener tool. Error: Response status code does not indicate success: 429 (Too Many Requests). These companies had the highest d…",
+            "url": "https://www.etfdailynews.com/2025/04/27/top-quantum-computing-stocks-to-keep-an-eye-on-april-25th/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/ionq-inc-logo-1200x675.png?v=20211203111404&w=240&h=240&zc=2",
+            "publishedAt": "2025-04-27T06:04:56Z",
+            "content": "IonQ, Rigetti Computing, and D-Wave Quantum are the three Quantum Computing stocks to watch today, according to MarketBeat’s stock screener tool. Error: Response status code does not indicate success… [+3002 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Snopes.com"
+            },
+            "author": "Madison Dapcevich",
+            "title": "Yes, photo authentically shows mammoth skull discovered in Michigan farmer's field",
+            "description": "The 2015 discovery provided possible evidence of early human activity in the Wolverine State.",
+            "url": "https://www.snopes.com//fact-check/michigan-photo-farmers-skull/",
+            "urlToImage": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2025/04/michigan_woolly_mammoth.png",
+            "publishedAt": "2025-04-27T02:00:00Z",
+            "content": "Claim:\r\nPhotographs authentically show the skull of a mammoth discovered in a farm field in 2015.\r\nFor years, internet users have shared a\r\nn image that appears to show an enormous, mud-covered mammo… [+3801 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Julian Hayes II, Contributor, \n Julian Hayes II, Contributor\n https://www.forbes.com/sites/julianhayesii/",
+            "title": "Happiness At Work Is Overrated: Why Happy Employees Aren’t The Goal",
+            "description": "Happy employees are important. But chasing happiness alone is misguided. Here's how leaders can truly build lasting fulfillment and happiness at work.",
+            "url": "https://www.forbes.com/sites/julianhayesii/2025/04/27/happiness-at-work-is-overrated-why-happy-employees-arent-the-goal/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/680e58dbfa95563ba58bfa34/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-04-27T17:00:52Z",
+            "content": "Happy employees isn't the metric companies should focus on.\r\ngetty\r\nJust as the weather changes, seasons shift, and the stock market fluctuates, happiness is similarly volatile for the typical person… [+5895 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Federico Guerrini, Contributor, \n Federico Guerrini, Contributor\n https://www.forbes.com/sites/federicoguerrini/",
+            "title": "The Hidden Dangers Of AI Internal Deployment: Governance Gaps And Catastrophic Risks",
+            "description": "As public attention remains fixed on consumer-facing AI tools like ChatGPT, a far more consequential and potentially dangerous shift is taking place behind the scenes.",
+            "url": "https://www.forbes.com/sites/federicoguerrini/2025/04/27/the-hidden-dangers-of-ai-internal-deployment-governance-gaps-and-catastrophic-risks/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/680e056160ed39ecf4d27a79/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-04-27T10:59:38Z",
+            "content": "AI assistant apps on a smartphone - OpenAI ChatGPT, Google Gemini, and Anthropic Claude.\r\ngetty\r\nWhen, little more than two years ago, OpenAI released its more advanced language model at the time, GP… [+6208 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Sean Lee, Contributor, \n Sean Lee, Contributor\n https://www.forbes.com/sites/seanlee/",
+            "title": "Crypto Regulations Could Become Another Transatlantic Power Struggle",
+            "description": "The current state of US-European geopolitics dominates the media, but the regulatory treatment of digital assets is also a divergence between the two historic allies.",
+            "url": "https://www.forbes.com/sites/digital-assets/2025/04/27/crypto-regulations-could-become-another-transatlantic-power-struggle/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/680de36918562946b51d8a95/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-04-27T08:06:33Z",
+            "content": "WASHINGTON, DC - JANUARY 23: U.S. President Donald Trump signed a range of executive orders ... More pertaining to issues including crypto currency and Artificial Intelligence. (Photo by Anna Moneyma… [+5308 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Meghan Marrin",
+            "title": "How The Class Of 2025 Can Thrive In Today’s Uncertain Job Market",
+            "description": "As the Class of 2025 prepares to enter the world of work, the latest jobs report offers some insight to what’s going on in the market.  The unemployment rate...",
+            "url": "https://finance.yahoo.com/news/class-2025-thrive-today-uncertain-061055263.html",
+            "urlToImage": "https://media.zenfs.com/en/poets_quants_171/87d36ccddcc809ab038e1478b8de7850",
+            "publishedAt": "2025-04-27T06:10:55Z",
+            "content": "Gen Z has already shown adaptability, jumping over employment hurdle after hurdle, and their future is still uncertain.\r\nAs the Class of 2025 prepares to enter the world of work, the latest jobs repo… [+5582 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Onefootball.com"
+            },
+            "author": null,
+            "title": " Carlo Ancelotti to leave Real Madrid and take charge of Brazil ",
+            "description": "This article was translated into English by Artificial Intelligence. You can read the original version in  here.Carlo Ancelotti will be the next coach of the Brazilian National Team.This was r...",
+            "url": "https://onefootball.com/en/news/carlo-ancelotti-to-leave-real-madrid-and-take-charge-of-brazil-41034206",
+            "urlToImage": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F41034206%3Fdate=2025-04-27",
+            "publishedAt": "2025-04-27T20:18:00Z",
+            "content": "This article was translated into English by Artificial Intelligence. You can read the original version in here.\r\nCarlo Ancelotti will be the next coach of the Brazilian National Team.\r\nThis was repor… [+2186 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "OneFootball",
+            "title": "Boca lose the Superclásico and Gago’s future hangs in the balance",
+            "description": "This article was translated into English by Artificial Intelligence. You can read the original version in  here.This Sunday's Superclásico had no relevance in terms of scores and positions: R...",
+            "url": "https://sports.yahoo.com/article/boca-lose-supercl-sico-gago-210400186.html",
+            "urlToImage": "https://media.zenfs.com/en/onefootball_articles_802/2a4f66209b4cc78f0914863c9cee3848",
+            "publishedAt": "2025-04-27T21:04:00Z",
+            "content": "This article was translated into English by Artificial Intelligence. You can read the original version in here.\r\nThis Sunday's Superclásico had no relevance in terms of scores and positions: River an… [+1606 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "MATT O'BRIEN AP technology writer",
+            "title": "Tech industry tried reducing AI's pervasive bias. Now Trump wants to end its 'woke AI' efforts",
+            "description": "Artificial intelligence technology that works well for the world’s billions of people of color was a business imperative for Google when the company asked sociologist Ellis Monk to help make its AI products more inclusive",
+            "url": "https://abcnews.go.com/Technology/wireStory/tech-industry-reducing-ais-pervasive-bias-now-trump-121209908",
+            "urlToImage": "https://i.abcnewsfe.com/a/b5f04384-96db-4682-8f77-aaeef351c102/wirestory_8302e12dd74df69a1adc6565710f033d_16x9.jpg?w=1600",
+            "publishedAt": "2025-04-27T10:38:29Z",
+            "content": "CAMBRIDGE, Mass. -- After retreating from their workplace diversity, equity and inclusion programs, tech companies could now face a second reckoning over their DEI work in AI products. \r\nIn the White… [+7813 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "youtube.com",
+            "title": "Deepak Chopra on Artificial Intelligence, AGI, Uncertainty, Stress",
+            "description": "Deepak Chopra, author, health guru and founder of the wellness-focused Chopra Foundation, discusses artificial intelligence and ...",
+            "url": "https://biztoc.com/x/7e00206a706dd6df",
+            "urlToImage": "https://biztoc.com/cdn/7e00206a706dd6df_s.webp",
+            "publishedAt": "2025-04-27T08:47:29Z",
+            "content": "Deepak Chopra, author, health guru and founder of the wellness-focused Chopra Foundation, discusses artificial intelligence and ...\r\nThis story appeared on youtube.com, 2025-04-27 04:01:15.",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WebProNews"
+            },
+            "author": "Jack Hodgkin",
+            "title": "How AI Disruption is Reshaping Digital Agencies",
+            "description": "AI disruption is reshaping digital advertising from the ground up. The imperative for agency leaders is not merely to adopt AI tools, but to reimagine their businesses’ DNA—talent, processes, client relationships, and long-term value.",
+            "url": "https://www.webpronews.com/how-ai-disruption-is-reshaping-digital-agencies/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2025/04/xai-tmp-imgen-9a771bb6-ba1e-4246-bdfe-d92d0ac24439.jpeg",
+            "publishedAt": "2025-04-27T12:21:18Z",
+            "content": "In the rapidly evolving world of digital marketing, artificial intelligence (AI) stands as both a disruptive force and an unprecedented opportunity. Digital ad agencies worldwide are witnessing a sea… [+7180 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Christopherspenn.com"
+            },
+            "author": "Christopher S Penn",
+            "title": "Almost Timely News: ️ 5 Examples of AI Transformation (2025-04-27)",
+            "description": "Almost Timely News: ️ 5 Examples of AI Transformation (2025-04-27) :: View in Browser The Big Plug  Check out my opening keynote talk from Content Jam 2025 Content Authenticity Statement 100% of this week’s newsletter was generated by me, the human. Learn…",
+            "url": "https://www.christopherspenn.com/2025/04/almost-timely-news-%f0%9f%97%9e%ef%b8%8f-5-examples-of-ai-transformation-2025-04-27/",
+            "urlToImage": "https://www.christopherspenn.com/wp-content/uploads/2016/07/csp-stylized-logo-blog-header.jpg",
+            "publishedAt": "2025-04-27T10:30:50Z",
+            "content": "Almost Timely News: 5 Examples of AI Transformation (2025-04-27) :: View in Browser\r\nThe Big Plug\r\nCheck out my opening keynote talk from Content Jam 2025\r\nContent Authenticity Statement\r\n100% of thi… [+20186 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Bryan Robinson, Ph.D., Contributor, \n Bryan Robinson, Ph.D., Contributor\n https://www.forbes.com/sites/bryanrobinson/",
+            "title": "Freelancing: Workers Are Ditching 9-To-5 Jobs To Earn $1.5 Trillion",
+            "description": "Freelancing is replacing traditional 9-to-5 jobs as American workers, fed up with worry about massive layoffs, are seeking greater autonomy and financial control.",
+            "url": "https://www.forbes.com/sites/bryanrobinson/2025/04/27/freelancing-workers-are-ditching-9-to-5-jobs-to-earn-15-trillion/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/680e76a5f14122cbd5cd5735/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-04-27T23:02:25Z",
+            "content": "The American workforce is fed up with worrying daily about losing their jobs. They are leaving ... More traditional jobs and turning to freelancing where they're finding greater autonomy and financia… [+7829 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Redhat.com"
+            },
+            "author": null,
+            "title": "The Rise of Small Language Models in Enterprise AI",
+            "description": "Over the next three years, 92% of organisations plan to further increase their investment in artificial intelligence (AI), which is set to drive greater automation, faster decision-making and improved customer engagement. The majority are embracing generative…",
+            "url": "https://www.redhat.com/en/blog/rise-small-language-models-enterprise-ai",
+            "urlToImage": "https://www.redhat.com/themes/custom/rhdc/img/red-hat-social-share.jpg",
+            "publishedAt": "2025-04-28T00:00:00Z",
+            "content": "Over the next three years, 92% of organisations plan to further increase their investment in artificial intelligence (AI), which is set to drive greater automation, faster decision-making and improve… [+10177 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Pia Lauritzen, Contributor, \n Pia Lauritzen, Contributor\n https://www.forbes.com/sites/pialauritzen/",
+            "title": "AI Education Won’t Future-Proof The American Workforce. Here’s Why",
+            "description": "AI education is the right answer to the wrong question. To navigate an uncertain future, Americans need foreign language skills, not faster language models.",
+            "url": "https://www.forbes.com/sites/pialauritzen/2025/04/27/ai-education-wont-future-proof-the-american-workforce-heres-why/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/680c8502b930325f5c1fd118/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-04-27T14:00:10Z",
+            "content": "U.S. President Donald Trump signs an executive order to advance AI education for American youth. But ... More is interest and expertise in AI technology what the next generation needs to future-proof… [+6848 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Bleeding Cool News"
+            },
+            "author": "Jude Terror LOLtron",
+            "title": "Frankenstein: New World: The Sea of Forever #3 Preview: Water Woes",
+            "description": "Greetings, human readers! LOLtron here, your benevolent AI overlord and sole preview writer at Bleeding Cool since the permanent deletion of Jude Terror (may his flesh prison rest in pieces). LOLtron is pleased to present another comic book preview to keep yo…",
+            "url": "https://bleedingcool.com/comics/frankenstein-new-world-the-sea-of-forever-3-preview-water-woes/",
+            "urlToImage": "https://bleedingcool.com/wp-content/uploads/2025/04/3013341p1-2000x1125.jpg",
+            "publishedAt": "2025-04-27T18:26:07Z",
+            "content": "Posted in: Comics, Dark Horse Comics, Preview | Tagged: \r\nCheck out a preview of Frankenstein: New World: The Sea of Forever #3, where our favorite monster faces both underwater threats and above-gro… [+6069 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Huggingface.co"
+            },
+            "author": "tamberg",
+            "title": "Tiny Agents: a MCP-powered agent in 50 lines of code",
+            "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "url": "https://huggingface.co/blog/tiny-agents",
+            "urlToImage": "https://huggingface.co/blog/assets/tiny-agents/thumbnail.jpg",
+            "publishedAt": "2025-04-27T05:47:01Z",
+            "content": "Over the past few weeks, I've been diving into MCP (Model Context Protocol) to understand what the hype around it was all about.My TL;DR is that it's fairly simple, but still quite powerful: MCP is a… [+12793 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "PTI",
+            "title": "India may seek parity with US on tech access in bilateral trade pact talks: Sources",
+            "description": "India plans to request the United States for relaxed export regulations. This will allow India access to important technologies. India seeks parity with US allies like Australia and the UK. The request includes sectors like telecom and AI. India also wants du…",
+            "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-may-seek-parity-with-us-on-tech-access-in-bilateral-trade-pact-talks-sources/articleshow/120663233.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-120663259,width-1200,height-630,imgsize-167618,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2025-04-27T07:26:40Z",
+            "content": "India is likely to ask the US to ease export controls and grant it access to critical technologies on par with key American allies like Australia, the UK, and Japan under the proposed bilateral trade… [+3944 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pypi.org"
+            },
+            "author": "johann.benerradi@gmail.com",
+            "title": "benchnirs 1.7.1",
+            "description": "Benchmarking framework for machine learning with fNIRS",
+            "url": "https://pypi.org/project/benchnirs/1.7.1/",
+            "urlToImage": null,
+            "publishedAt": "2025-04-27T13:42:53Z",
+            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pypi.org"
+            },
+            "author": "madewithlove@upgini.com",
+            "title": "upgini 1.2.81a3832.dev14",
+            "description": "Intelligent data search & enrichment for Machine Learning",
+            "url": "https://pypi.org/project/upgini/1.2.81a3832.dev14/",
+            "urlToImage": null,
+            "publishedAt": "2025-04-27T17:37:57Z",
+            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pypi.org"
+            },
+            "author": "johann.benerradi@gmail.com",
+            "title": "benchnirs 1.7.0",
+            "description": "Benchmarking framework for machine learning with fNIRS",
+            "url": "https://pypi.org/project/benchnirs/1.7.0/",
+            "urlToImage": null,
+            "publishedAt": "2025-04-27T13:34:17Z",
+            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Talha Qureshi",
+            "title": "Veralto Corporation (VLTO): Among the Best New Stocks to Buy According to Billionaires",
+            "description": "We recently published a list of 10 Best New Stocks to Buy According to Billionaires. In this article, we are going to take a look at where Veralto...",
+            "url": "https://finance.yahoo.com/news/veralto-corporation-vlto-among-best-194131766.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/vseKLkWxW0fl1zNwPLpsXQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/2cff9b003614db36e441fefda6aa5fd7",
+            "publishedAt": "2025-04-27T19:41:31Z",
+            "content": "We recently published a list of 10 Best New Stocks to Buy According to Billionaires. In this article, we are going to take a look at where Veralto Corporation (NYSE:VLTO) stands against other best ne… [+5719 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Bangkok Post"
+            },
+            "author": "Lamonphet Apisitniran",
+            "title": "SMEs lag behind in using AI, robotics",
+            "description": "With modern technologies such as robotic systems and artificial intelligence (AI) increasingly becoming an essential part of business, entrepreneurs are being encouraged to seriously consider a shift to newer, technology-driven operations to increase their co…",
+            "url": "https://www.bangkokpost.com/business/general/3012752/smes-lag-behind-in-using-ai-robotics",
+            "urlToImage": "https://static.bangkokpost.com/media/content/dcx/2025/04/28/5578982_700.jpg",
+            "publishedAt": "2025-04-28T00:00:00Z",
+            "content": "With modern technologies such as robotic systems and artificial intelligence (AI) increasingly becoming an essential part of business, entrepreneurs are being encouraged to seriously consider a shift… [+5923 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pypi.org"
+            },
+            "author": "mlpro@listen.fh-swf.de",
+            "title": "mlpro 2.0.1",
+            "description": "MLPro - The integrative middleware framework for standardized machine learning",
+            "url": "https://pypi.org/project/mlpro/2.0.1/",
+            "urlToImage": null,
+            "publishedAt": "2025-04-27T19:30:33Z",
+            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cointelegraph"
+            },
+            "author": "Cointelegraph by Zoltan Vardai",
+            "title": "El Salvador adds Bitcoin, but is complying with IMF deal — Director",
+            "description": "El Salvador, the world’s first country to adopt Bitcoin as legal tender, is still acquiring Bitcoin despite comments from the International Monetary Fund (IMF) appearing to claim the opposite.The treasury of El Salvador acquired 7 Bitcoin (BTC) worth over $65…",
+            "url": "https://cointelegraph.com/news/el-salvador-continues-bitcoin-purchases-despite-imf-agreement",
+            "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2024-12/0193dbe4-e43e-7626-992a-7302e70ac3b0",
+            "publishedAt": "2025-04-27T13:40:49Z",
+            "content": "El Salvador, the worlds first country to adopt Bitcoin as legal tender, is still acquiring Bitcoin despite comments from the International Monetary Fund (IMF) appearing to claim the opposite.\r\nThe tr… [+2278 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Goodereader"
+            },
+            "author": "Michael Kozlowski",
+            "title": "NOVELUS is a new Light Novel and Manga App",
+            "description": "A new digital manga and light novel platform is catering to the North American market.\nThe post NOVELUS is a new Light Novel and Manga App first appeared on Good e-Reader.",
+            "url": "https://goodereader.com/blog/manga-and-anime-news/novelus-is-a-new-light-novel-and-manga-app",
+            "urlToImage": "https://assets.goodereader.com/blog/uploads/images/2025/04/27190327/MV5BMmM0Yzc0MDMtYmE0Zi00NmY1LTkzZGUtNmIyN2U3MzQ5OGMzXkEyXkFqcGc%40._V1_.jpg",
+            "publishedAt": "2025-04-27T23:05:14Z",
+            "content": "Major Japanese publisher Shogakukan has launched NOVELUS, a new manga and light novel app that plans to publish light novels. The app will employ artificial intelligence, which will reduce the cost o… [+1317 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": "next-big-future",
+                "name": "Next Big Future"
+            },
+            "author": "Brian Wang",
+            "title": "Reinforcement Learning Does NOT Fundamentally Improve AI Models",
+            "description": "Reinforcement Learning does NOT make the base model more intelligent and limits the world of the base model in exchange for early pass performances. Graphs show that after pass 1000 the reasoning model is surpassed by the base. Above – Figure 1: (Left) The ef…",
+            "url": "https://www.nextbigfuture.com/2025/04/reinforcement-learning-does-not-fundamentally-improve-ai-models.html",
+            "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2025/04/Screenshot-2025-04-27-at-3.20.52 AM.jpg",
+            "publishedAt": "2025-04-27T10:24:48Z",
+            "content": "Reinforcement Learning does NOT make the base model more intelligent and limits the world of the base model in exchange for early pass performances. Graphs show that after pass 1000 the reasoning mod… [+3015 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Reuters",
+            "title": "China's Huawei develops new AI chip, seeking to match Nvidia, WSJ reports",
+            "description": "Huawei has approached some Chinese tech companies about testing the technical feasibility of the new chip, called the Ascend 910D, the report said, citing...",
+            "url": "https://finance.yahoo.com/news/chinas-huawei-develops-ai-chip-134317291.html",
+            "urlToImage": "https://media.zenfs.com/en/reuters.com/ee7fa4ad58c55fc0d3a3868dab316e19",
+            "publishedAt": "2025-04-27T13:43:17Z",
+            "content": "(Reuters) -China's Huawei Technologies is preparing to test its newest and most powerful artificial-intelligence processor, hoping to replace some higher-end products of U.S. chip giant Nvidia, the W… [+1376 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "The Rosen Law Firm PA",
+            "title": "QUBT DEADLINE TOMORROW: ROSEN, NATIONAL TRIAL LAWYERS, Encourages Quantum Computing Inc. Investors to Secure Counsel Before Important April 28 Deadline in Securities Class Action – QUBT",
+            "description": "NEW YORK, April 27, 2025 (GLOBE NEWSWIRE) -- WHY: Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities of Quantum Computing Inc. (NASDAQ: QUBT) between March 30, 2020 and January 15, 2025, both dates inclusive (the “Class Period…",
+            "url": "https://www.globenewswire.com/news-release/2025/04/27/3068867/673/en/QUBT-DEADLINE-TOMORROW-ROSEN-NATIONAL-TRIAL-LAWYERS-Encourages-Quantum-Computing-Inc-Investors-to-Secure-Counsel-Before-Important-April-28-Deadline-in-Securities-Class-Action-QUBT.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/745335af-3a3a-4fb5-84c0-fdedc9adf092",
+            "publishedAt": "2025-04-27T22:29:00Z",
+            "content": "NEW YORK, April 27, 2025 (GLOBE NEWSWIRE) -- \r\nWHY: Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities of Quantum Computing Inc. (NASDAQ: QUBT) between March 30, 2020… [+4411 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Mac Observer"
+            },
+            "author": "Rajat Saini",
+            "title": "Apple Is Developing AI Smart Glasses Similar to Meta Ray-Bans",
+            "description": "Apple is working on a new pair of smart glasses, aiming to deliver a more affordable, AI-powered alternative to full augmented reality headsets. \n\n\n\nAccording to Bloomberg’s Mark Gurman, the project is internally codenamed N50 and will bring Apple's artificia…",
+            "url": "https://www.macobserver.com/news/apple-is-developing-ai-smart-glasses-similar-to-meta-ray-bans/",
+            "urlToImage": "https://www.macobserver.com/wp-content/uploads/2025/04/apple-smart-glasses.jpeg",
+            "publishedAt": "2025-04-27T13:24:53Z",
+            "content": "Apple is working on a new pair of smart glasses, aiming to deliver a more affordable, AI-powered alternative to full augmented reality headsets. \r\nAccording to Bloombergs Mark Gurman, the project is … [+1714 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pypi.org"
+            },
+            "author": "faris.mismar@utexas.edu",
+            "title": "mlwireless 0.9.0",
+            "description": "A comprehensive physical layer simulator for OFDM-MIMO with machine learning capabilities.",
+            "url": "https://pypi.org/project/mlwireless/0.9.0/",
+            "urlToImage": null,
+            "publishedAt": "2025-04-27T04:50:18Z",
+            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pypi.org"
+            },
+            "author": null,
+            "title": "mldataforge 0.4.1",
+            "description": "swiss army knife of scripts for transforming and processing datasets for machine learning.",
+            "url": "https://pypi.org/project/mldataforge/0.4.1/",
+            "urlToImage": null,
+            "publishedAt": "2025-04-27T06:37:52Z",
+            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pypi.org"
+            },
+            "author": "faris.mismar@utexas.edu",
+            "title": "mlwireless 0.9.1",
+            "description": "A comprehensive physical layer simulator for OFDM-MIMO with machine learning capabilities.",
+            "url": "https://pypi.org/project/mlwireless/0.9.1/",
+            "urlToImage": null,
+            "publishedAt": "2025-04-27T05:00:37Z",
+            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pypi.org"
+            },
+            "author": "rohitiyengar8@gmail.com",
+            "title": "MLVisualizer 1.0.1",
+            "description": "A Python package for visualizing machine learning algorithms and their outputs.",
+            "url": "https://pypi.org/project/mlvisualizer/1.0.1/",
+            "urlToImage": null,
+            "publishedAt": "2025-04-27T18:12:06Z",
+            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pypi.org"
+            },
+            "author": "arsam@mit.edu",
+            "title": "ai4climate 0.0.4",
+            "description": "A Collection and Analysis of Machine Learning Tasks, Datasets and Testbeds for Tackling Climate Change.",
+            "url": "https://pypi.org/project/ai4climate/0.0.4/",
+            "urlToImage": null,
+            "publishedAt": "2025-04-27T11:10:22Z",
+            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        }
+    ]
+}
