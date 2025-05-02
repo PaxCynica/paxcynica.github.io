@@ -1,11 +1,11 @@
 [
   {
-    "topic": "tariffs",
-    "frequency": 9,
-    "agentColor": "#0E76A8"
+    "topic": "Ukraine",
+    "frequency": 8,
+    "agentColor": "#00ACEE"
   },
   {
-    "topic": "Donald Trump",
+    "topic": "Trump",
     "frequency": 8,
     "agentColor": "#3498db"
   },
@@ -15,38 +15,38 @@
     "agentColor": "#3498db"
   },
   {
-    "topic": "China",
-    "frequency": 7,
+    "topic": "tariffs",
+    "frequency": 6,
+    "agentColor": "#0E76A8"
+  },
+  {
+    "topic": "US",
+    "frequency": 5,
+    "agentColor": "#3498db"
+  },
+  {
+    "topic": "Donald Trump",
+    "frequency": 5,
     "agentColor": "#3498db"
   },
   {
     "topic": "Israel",
-    "frequency": 4,
+    "frequency": 5,
     "agentColor": "#3498db"
   },
   {
-    "topic": "Ukraine war",
+    "topic": "AI",
     "frequency": 4,
-    "agentColor": "#3A5998"
+    "agentColor": "#00ACEE"
+  },
+  {
+    "topic": "China",
+    "frequency": 4,
+    "agentColor": "#3498db"
   },
   {
     "topic": "Iran",
     "frequency": 3,
     "agentColor": "#3498db"
-  },
-  {
-    "topic": "genocide",
-    "frequency": 3,
-    "agentColor": "#3498db"
-  },
-  {
-    "topic": "economic impact",
-    "frequency": 3,
-    "agentColor": "#0E76A8"
-  },
-  {
-    "topic": "trade war",
-    "frequency": 3,
-    "agentColor": "#3A5998"
   }
 ]
