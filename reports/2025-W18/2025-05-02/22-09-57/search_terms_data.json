@@ -1,0 +1,492 @@
+[
+    {
+        "category": "International Relations & Geopolitical Flashpoints",
+        "query": "(\"Gaza conflict\" OR \"Ukraine war\" OR \"Taiwan strait\" OR \"South China Sea\" OR \"Korean peninsula\" OR \"Iran nuclear\" OR (Russia AND NATO) OR (Israel AND Hamas) OR \"border dispute\" OR \"territorial claim\" OR Crimea OR Donbas OR \"West Bank\" OR \"Gaza blockade\" OR (China AND India) OR (India AND Pakistan) OR \"Straight of Malacca\") OR (\"United States\" AND (Russia OR China OR \"Saudi Arabia\" OR Iran OR Israel OR Ukraine OR \"North Korea\"))",
+        "articles_found": 97,
+        "total_available": 1085,
+        "file_path": "/home/hound/projects/agent_hound/reports/2025-W18/2025-05-02/22-09-57/results/news_results_1.json",
+        "suggested_terms": [
+            [
+                "trump",
+                51
+            ],
+            [
+                "deal",
+                25
+            ],
+            [
+                "apple",
+                23
+            ],
+            [
+                "minerals",
+                22
+            ],
+            [
+                "president",
+                20
+            ],
+            [
+                "india",
+                19
+            ],
+            [
+                "tariffs",
+                18
+            ],
+            [
+                "military",
+                18
+            ],
+            [
+                "russia",
+                17
+            ],
+            [
+                "global",
+                16
+            ]
+        ]
+    },
+    {
+        "category": "World Leaders & Political Operatives",
+        "query": "\"Donald Trump\" OR \"Vladimir Putin\" OR \"Xi Jinping\" OR \"Narendra Modi\" OR \"Benjamin Netanyahu\" OR \"Volodymyr Zelenskyy\" OR \"Mohammed bin Salman\" OR \"Kim Jong-un\" OR \"Erik Prince\" OR \"Paul Manafort\" OR \"Roger Stone\" OR \"Steve Bannon\" OR \"Mike Pompeo\" OR \"John Bolton\" OR \"Michael Flynn\" OR \"Rudy Giuliani\" OR \"Jared Kushner\" OR \"Olaf Scholz\" OR \"Emmanuel Macron\" OR \"Rishi Sunak\"",
+        "articles_found": 98,
+        "total_available": 1511,
+        "file_path": "/home/hound/projects/agent_hound/reports/2025-W18/2025-05-02/22-09-57/results/news_results_2.json",
+        "suggested_terms": [
+            [
+                "president",
+                38
+            ],
+            [
+                "ukraine",
+                27
+            ],
+            [
+                "security",
+                26
+            ],
+            [
+                "waltz",
+                26
+            ],
+            [
+                "national",
+                23
+            ],
+            [
+                "adviser",
+                18
+            ],
+            [
+                "deal",
+                16
+            ],
+            [
+                "north",
+                12
+            ],
+            [
+                "minerals",
+                11
+            ],
+            [
+                "korea",
+                10
+            ]
+        ]
+    },
+    {
+        "category": "Military Technology & Weapon Systems",
+        "query": "\"electronic warfare\" OR \"missile defense\" OR \"drone strike\" OR \"hypersonic weapons\" OR \"nuclear proliferation\" OR \"autonomous weapons\" OR \"space militarization\" OR \"ballistic missile\" OR \"cruise missile\" OR \"GPS jamming\" OR \"quantum encryption\" OR \"directed energy weapons\" OR \"Shahed Drone\" OR \"FPV Drone\" OR \"robotic warfare\" OR \"counter-drone\" OR bioweapon OR cyberattack OR \"cyber espionage\"",
+        "articles_found": 91,
+        "total_available": 113,
+        "file_path": "/home/hound/projects/agent_hound/reports/2025-W18/2025-05-02/22-09-57/results/news_results_3.json",
+        "suggested_terms": [
+            [
+                "ukraine",
+                25
+            ],
+            [
+                "trump",
+                22
+            ],
+            [
+                "north",
+                16
+            ],
+            [
+                "korea",
+                16
+            ],
+            [
+                "russia",
+                15
+            ],
+            [
+                "army",
+                14
+            ],
+            [
+                "harrods",
+                12
+            ],
+            [
+                "security",
+                12
+            ],
+            [
+                "deal",
+                12
+            ],
+            [
+                "department",
+                11
+            ]
+        ]
+    },
+    {
+        "category": "Advanced Tech & Intelligence",
+        "query": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+        "articles_found": 100,
+        "total_available": 859,
+        "file_path": "/home/hound/projects/agent_hound/reports/2025-W18/2025-05-02/22-09-57/results/news_results_4.json",
+        "suggested_terms": [
+            [
+                "microsoft",
+                18
+            ],
+            [
+                "google",
+                13
+            ],
+            [
+                "first",
+                12
+            ],
+            [
+                "tech",
+                12
+            ],
+            [
+                "meta",
+                12
+            ],
+            [
+                "company",
+                11
+            ],
+            [
+                "crypto",
+                11
+            ],
+            [
+                "data",
+                10
+            ],
+            [
+                "could",
+                10
+            ],
+            [
+                "world",
+                9
+            ]
+        ]
+    },
+    {
+        "category": "Economic Security & Strategic Resources",
+        "query": "\"strategic investments\" OR \"resource nationalism\" OR \"supply chain security\" OR \"critical mineral access\" OR \"rare earth supply chains\" OR \"energy security\" OR \"food security\" OR \"economic coercion\" OR \"sanctions policy\" OR \"Belt and Road\" OR \"sovereign wealth fund\" OR \"strategic manufacturing\" OR \"trade war\" OR \"trade sanctions\" OR \"oil prices\" OR \"gas pipeline\" OR \"semiconductor industry\" OR \"tech sovereignty\" OR \"critical technologies\"",
+        "articles_found": 98,
+        "total_available": 493,
+        "file_path": "/home/hound/projects/agent_hound/reports/2025-W18/2025-05-02/22-09-57/results/news_results_5.json",
+        "suggested_terms": [
+            [
+                "trump",
+                53
+            ],
+            [
+                "tariffs",
+                24
+            ],
+            [
+                "apple",
+                19
+            ],
+            [
+                "first",
+                18
+            ],
+            [
+                "china",
+                17
+            ],
+            [
+                "earnings",
+                13
+            ],
+            [
+                "president",
+                13
+            ],
+            [
+                "microsoft",
+                11
+            ],
+            [
+                "could",
+                11
+            ],
+            [
+                "talks",
+                10
+            ]
+        ]
+    },
+    {
+        "category": "Strategic Defense Corporations & Industry",
+        "query": "\"Lockheed Martin\" OR Raytheon OR \"Northrop Grumman\" OR \"BAE Systems\" OR Palantir OR SpaceX OR Boeing OR Huawei OR TSMC OR \"Blue Origin\" OR \"Boston Dynamics\" OR \"Frontier Services\" OR \"Saudi Aramco\" OR Gazprom OR \"defense contractor\" OR \"aerospace\" OR \"Thales Group\" OR \"General Dynamics\" OR NVIDIA OR \"OpenAI\" OR \"Anthropic\" OR \"GE Aerospace\" OR \"Intel\" OR \"AMD\" OR \"Eaton\" OR \"Dominion\"",
+        "articles_found": 99,
+        "total_available": 861,
+        "file_path": "/home/hound/projects/agent_hound/reports/2025-W18/2025-05-02/22-09-57/results/news_results_6.json",
+        "suggested_terms": [
+            [
+                "microsoft",
+                17
+            ],
+            [
+                "trump",
+                14
+            ],
+            [
+                "force",
+                13
+            ],
+            [
+                "gaming",
+                12
+            ],
+            [
+                "google",
+                12
+            ],
+            [
+                "company",
+                11
+            ],
+            [
+                "model",
+                10
+            ],
+            [
+                "using",
+                10
+            ],
+            [
+                "first",
+                8
+            ],
+            [
+                "performance",
+                8
+            ]
+        ]
+    },
+    {
+        "category": "Humanitarian Issues & Social Impact",
+        "query": "\"migration crises\" OR \"refugee protection\" OR \"human rights violations\" OR \"war crimes\" OR \"Genocide\" OR famine OR epidemic OR pandemic OR \"disaster relief\" OR \"gender violence\" OR \"child soldiers\" OR \"ethnic cleansing\" OR \"human trafficking\" OR \"modern slavery\" OR \"poverty alleviation\" OR \"access to education\" OR \"clean water initiatives\" OR \"mental health support\" OR \"disability rights\"",
+        "articles_found": 96,
+        "total_available": 744,
+        "file_path": "/home/hound/projects/agent_hound/reports/2025-W18/2025-05-02/22-09-57/results/news_results_7.json",
+        "suggested_terms": [
+            [
+                "gaza",
+                18
+            ],
+            [
+                "trump",
+                12
+            ],
+            [
+                "international",
+                12
+            ],
+            [
+                "back",
+                11
+            ],
+            [
+                "first",
+                10
+            ],
+            [
+                "people",
+                9
+            ],
+            [
+                "american",
+                9
+            ],
+            [
+                "airlines",
+                8
+            ],
+            [
+                "united",
+                8
+            ],
+            [
+                "israel",
+                7
+            ]
+        ]
+    },
+    {
+        "category": "Climate Change & Environmental Security",
+        "query": "\"climate change\" OR \"global warming\" OR \"carbon emissions\" OR \"greenhouse gases\" OR \"sea level rise\" OR \"extreme weather\" OR \"heat waves\" OR \"wildfires\" OR \"flooding\" OR \"drought\" OR \"climate refugees\" OR \"climate policy\" OR \"Paris Agreement\" OR \"climate adaptation\" OR \"carbon markets\" OR \"deforestation\" OR \"biodiversity loss\" OR \"ocean acidification\" OR \"water scarcity\" OR \"green energy transition\"",
+        "articles_found": 92,
+        "total_available": 959,
+        "file_path": "/home/hound/projects/agent_hound/reports/2025-W18/2025-05-02/22-09-57/results/news_results_8.json",
+        "suggested_terms": [
+            [
+                "trump",
+                30
+            ],
+            [
+                "apple",
+                19
+            ],
+            [
+                "billion",
+                14
+            ],
+            [
+                "2025",
+                13
+            ],
+            [
+                "states",
+                12
+            ],
+            [
+                "president",
+                11
+            ],
+            [
+                "court",
+                11
+            ],
+            [
+                "fossil",
+                10
+            ],
+            [
+                "fuel",
+                10
+            ],
+            [
+                "companies",
+                10
+            ]
+        ]
+    },
+    {
+        "category": "Democracy & Political Processes",
+        "query": "\"election interference\" OR \"political polarization\" OR \"economic nationalism\" OR \"strategic corruption\" OR \"institutional integrity\" OR \"populist movements\" OR \"global governance\" OR \"pro-democracy\" OR \"anti-government\" OR protest OR \"election fraud\" OR \"voter suppression\" OR \"election monitoring\" OR \"democratic transition\" OR \"digital authoritarianism\" OR \"information warfare\" OR \"disinformation campaigns\"",
+        "articles_found": 92,
+        "total_available": 283,
+        "file_path": "/home/hound/projects/agent_hound/reports/2025-W18/2025-05-02/22-09-57/results/news_results_9.json",
+        "suggested_terms": [
+            [
+                "trump",
+                36
+            ],
+            [
+                "president",
+                11
+            ],
+            [
+                "post",
+                10
+            ],
+            [
+                "first",
+                10
+            ],
+            [
+                "protests",
+                9
+            ],
+            [
+                "government",
+                9
+            ],
+            [
+                "time",
+                8
+            ],
+            [
+                "following",
+                7
+            ],
+            [
+                "join",
+                7
+            ],
+            [
+                "foreign",
+                7
+            ]
+        ]
+    },
+    {
+        "category": "Regional Focus Areas",
+        "query": "(\"Middle East\" AND (Israel OR Palestine OR \"Gaza Strip\" OR Lebanon OR Syria)) OR (\"East Asia\" AND (Taiwan OR \"Hong Kong\" OR Philippines OR \"South China Sea\")) OR (\"Southeast Asia\" AND (Vietnam OR Thailand OR Malaysia OR Indonesia OR Singapore)) OR (\"Eastern Europe\" AND (Ukraine OR \"Baltic States\" OR Poland OR Belarus OR Moldova)) OR (\"Africa\" AND (Ethiopia OR Kenya OR Nigeria OR Egypt OR \"South Africa\"))",
+        "articles_found": 88,
+        "total_available": 249,
+        "file_path": "/home/hound/projects/agent_hound/reports/2025-W18/2025-05-02/22-09-57/results/news_results_10.json",
+        "suggested_terms": [
+            [
+                "trump",
+                15
+            ],
+            [
+                "security",
+                11
+            ],
+            [
+                "world",
+                10
+            ],
+            [
+                "united",
+                9
+            ],
+            [
+                "israel",
+                9
+            ],
+            [
+                "jerusalem",
+                9
+            ],
+            [
+                "pope",
+                9
+            ],
+            [
+                "congo",
+                9
+            ],
+            [
+                "african",
+                8
+            ],
+            [
+                "gold",
+                8
+            ]
+        ]
+    }
+]
