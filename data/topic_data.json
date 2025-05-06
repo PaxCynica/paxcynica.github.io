@@ -1,52 +1,52 @@
 [
   {
     "topic": "Israel",
-    "frequency": 7,
+    "frequency": 6,
     "agentColor": "#3498db"
   },
   {
-    "topic": "Yemen",
+    "topic": "tariffs",
+    "frequency": 5,
+    "agentColor": "#0E76A8"
+  },
+  {
+    "topic": "Trump",
     "frequency": 5,
     "agentColor": "#3498db"
   },
   {
-    "topic": "Donald Trump",
-    "frequency": 5,
-    "agentColor": "#3498db"
-  },
-  {
-    "topic": "Houthi rebels",
+    "topic": "Iran",
     "frequency": 4,
     "agentColor": "#3498db"
   },
   {
-    "topic": "stock market",
-    "frequency": 3,
-    "agentColor": "#0E76A8"
+    "topic": "Yemen",
+    "frequency": 4,
+    "agentColor": "#3498db"
   },
   {
-    "topic": "Ben Gurion Airport",
-    "frequency": 3,
-    "agentColor": "#00ACEE"
+    "topic": "Gaza",
+    "frequency": 4,
+    "agentColor": "#3498db"
   },
   {
-    "topic": "Russia",
+    "topic": "Donald Trump",
+    "frequency": 4,
+    "agentColor": "#3498db"
+  },
+  {
+    "topic": "Houthi rebels",
     "frequency": 3,
     "agentColor": "#3498db"
   },
   {
-    "topic": "sanctions",
+    "topic": "India",
     "frequency": 3,
     "agentColor": "#3498db"
   },
   {
-    "topic": "oil prices",
+    "topic": "trade war",
     "frequency": 3,
-    "agentColor": "#0E76A8"
-  },
-  {
-    "topic": "AI ethics",
-    "frequency": 3,
-    "agentColor": "#00ACEE"
+    "agentColor": "#3A5998"
   }
 ]
