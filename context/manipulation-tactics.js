@@ -14,6 +14,41 @@ const MANIPULATION_TACTICS = [
     "theme": "theme-dark",
     "category": "INTRODUCTION TACTICS"  // Add this line
   },
+  {
+    "title": "Disinformation: An Enduring Playbook",
+    "points": [
+      "Effective disinformation tactics persist, adapting to new eras and platforms.",
+      "This series breaks down their operational logic, drawing on analyses like the 2021 EU Parliament report.",
+      "Understanding the 'how' is crucial for cognitive defense."
+    ],
+    "layout": "layout-centered",
+    "theme": "theme-dark",
+    "category": "INTRODUCTION TACTICS"
+  },
+  {
+    "title": "Beyond Obvious Fakes: Modern Influence",
+    "points": [
+      "Today's influence often bypasses simple 'fake news' checks.",
+      "Relies on emotional saturation, manufactured polarization, and laundered narratives.",
+      "Exploits strategic amplification, sometimes via trusted institutions.",
+      "Recognizing the architecture of these tactics is key to resilience."
+    ],
+    "layout": "layout-boxed",
+    "theme": "theme-dark",
+    "category": "INTRODUCTION TACTICS"
+  },
+  {
+    "title": "Tactical Breakdown: Naming the Systems",
+    "points": [
+      "This isn't just about moral outrage; it's about deconstructing methods.",
+      "Each tactic exploits specific vulnerabilities with operational precision.",
+      "Goal: To recognize, explain, and resist these enduring strategies.",
+      "Empower yourself and others with cognitive security."
+    ],
+    "layout": "layout-split",
+    "theme": "theme-dark",
+    "category": "INTRODUCTION TACTICS"
+  },
 
   // ===================================
   // 1. EMOTIONAL MANIPULATION - CATEGORY HEADER
@@ -303,6 +338,18 @@ const MANIPULATION_TACTICS = [
     "category": "SOCIAL & GROUP MANIPULATION"
   },
   {
+    "title": "Manufactured Polarization",
+    "points": [
+      "Artificially inflaming divisions between social groups.",
+      "Framing complex issues as binary 'us vs. them' conflicts.",
+      "Reduces nuance, making constructive dialogue impossible.",
+      "Aims to paralyze societal problem-solving and consolidate power."
+    ],
+    "layout": "layout-centered",
+    "theme": "theme-red",
+    "category": "SOCIAL & GROUP MANIPULATION"
+  },
+  {
     "title": "Manufactured Loyalty",
     "points": [
       "Creates artificial bonds to control behavior",
@@ -587,6 +634,18 @@ const MANIPULATION_TACTICS = [
     "category": "INFORMATION CONTROL"
   },
   {
+    "title": "Virality Engineering",
+    "points": [
+      "Designing content for maximum spread, regardless of truth.",
+      "Exploits emotional triggers, trending topics, and platform algorithms.",
+      "Uses bots, coordinated networks, and influencers for initial boost.",
+      "Goal: Achieve organic-looking spread of a controlled message."
+    ],
+    "layout": "layout-boxed",
+    "theme": "theme-purple",
+    "category": "INFORMATION CONTROL"
+  },
+  {
     "title": "Narrative Flooding",
     "points": [
       "Pushes multiple conflicting stories simultaneously",
@@ -823,6 +882,18 @@ const MANIPULATION_TACTICS = [
     "category": "AUTHORITY & CREDIBILITY"
   },
   {
+    "title": "Insider Amplification",
+    "points": [
+      "Leveraging witting or unwitting individuals within trusted institutions.",
+      "Using their credibility to amplify or legitimize disinformation.",
+      "May involve co-opting existing figures, placing agents, or exploiting vulnerabilities.",
+      "Blurs lines between authentic discourse and orchestrated campaigns."
+    ],
+    "layout": "layout-centered",
+    "theme": "theme-dark",
+    "category": "AUTHORITY & CREDIBILITY"
+  },
+  {
     "title": "Appeal to Authority",
     "points": [
       "Uses someone's status rather than evidence",
@@ -935,6 +1006,18 @@ const MANIPULATION_TACTICS = [
     "category": "ADVANCED PSYCHOLOGICAL OPERATIONS"
   },
   {
+    "title": "Psychographic Microtargeting",
+    "points": [
+      "Tailoring disinformation to individuals/small groups based on detailed data profiles.",
+      "Uses online behavior, demographics, and psychological traits to craft personalized triggers.",
+      "Delivers hyper-relevant manipulative narratives to exploit specific vulnerabilities.",
+      "Often automated and operates at scale, making it hard to detect."
+    ],
+    "layout": "layout-boxed",
+    "theme": "theme-purple",
+    "category": "ADVANCED PSYCHOLOGICAL OPERATIONS"
+  },
+  {
     "title": "Reflexive Control Theory",
     "points": [
       "Russian military and intelligence doctrine",
@@ -1025,6 +1108,18 @@ const MANIPULATION_TACTICS = [
       "Keeps adversaries confused and hesitant",
       "Prevents effective response through uncertainty",
       "Weaponizes confusion as a strategy"
+    ],
+    "layout": "layout-split",
+    "theme": "theme-dark",
+    "category": "ADVANCED PSYCHOLOGICAL OPERATIONS"
+  },
+  {
+    "title": "Strategic Trust Erosion",
+    "points": [
+      "Systematically undermining faith in institutions, media, science, and elections.",
+      "Flooding information space with contradictions to create cynicism.",
+      "Promoting the idea that 'nothing is true and everything is possible'.",
+      "Goal: Make citizens disengage or susceptible to simpler, authoritarian narratives."
     ],
     "layout": "layout-split",
     "theme": "theme-dark",
