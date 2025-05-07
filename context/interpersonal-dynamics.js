@@ -377,5 +377,88 @@ const INTERPERSONAL_DYNAMICS = [
         "layout": "layout-split",
         "theme": "theme-sunset",
         "category": "NON-VERBAL COMMUNICATION"
+    },
+    // --- SHIELD Method, Tactics, and Steps Combined ---
+    {
+        "title": "Intro: The SHIELD Method",
+        "points": [
+            "A framework to respond thoughtfully, not react impulsively, and avoid taking things personally.",
+            "S.H.I.E.L.D. stands for:",
+            "Separate, Hear, Interpret, Evaluate, Let Go, Decide."
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-blue",
+        "category": "EMOTIONAL REGULATION"
+    },
+    {
+        "title": "SHIELD: S - Separate",
+        "points": [
+            "S - Separate: Detach your personal identity from the comment or action.",
+            "Recognize their words/actions often reflect them, not your inherent worth.",
+            "Calm Tactic: Focus on objective facts, not immediate emotional impact. Maintain a logical perspective.",
+            "Practical Step: Identify personal triggers to anticipate and prepare thoughtful responses."
+        ],
+        "layout": "layout-boxed",
+        "theme": "theme-blue",
+        "category": "EMOTIONAL REGULATION"
+    },
+    {
+        "title": "SHIELD: H - Hear",
+        "points": [
+            "H - Hear: Listen actively without immediate judgment or emotional reaction.",
+            "Focus on truly understanding the message, rather than just formulating a reply.",
+            "Calm Tactic: Challenge initial assumptions: does this behavior reflect you, or their own struggles?",
+            "Practical Step: Seek clarity by asking direct, calm questions instead of making assumptions."
+        ],
+        "layout": "layout-split",
+        "theme": "theme-blue",
+        "category": "EMOTIONAL REGULATION"
+    },
+    {
+        "title": "SHIELD: I - Interpret",
+        "points": [
+            "I - Interpret: Strive to understand the possible intent or context behind words or actions.",
+            "Consider potential underlying motivators for their behavior (e.g., stress, insecurity).",
+            "Calm Tactic: Reframe the situation: explore alternative explanations—it's rarely solely about you.",
+            "Practical Step: Cultivate self-awareness: regularly reflect on your emotional responses to build resilience."
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-blue",
+        "category": "EMOTIONAL REGULATION"
+    },
+    {
+        "title": "SHIELD: E - Evaluate",
+        "points": [
+            "E - Evaluate: Assess whether the situation is genuinely about you, or more reflective of the other person.",
+            "Determine if feedback is constructive and valid, or potentially influenced by their personal biases.",
+            "Calm Tactic: Maintain focus on what you can control: your own thoughts and reactions.",
+            "Practical Step: Develop a personal mantra (e.g., 'This reflects them, not me') to stay centered."
+        ],
+        "layout": "layout-boxed",
+        "theme": "theme-blue",
+        "category": "EMOTIONAL REGULATION"
+    },
+    {
+        "title": "SHIELD: L - Let Go",
+        "points": [
+            "L - Let Go: Release the need for external validation or to control their opinion.",
+            "Accept that universal agreement or approval is not necessary for your well-being.",
+            "Calm Tactic: Practice graceful detachment: consciously release thoughts that undermine your peace.",
+            "Practical Step: Prioritize your emotional well-being: disengage from negativity—it's healthy to step away."
+        ],
+        "layout": "layout-split",
+        "theme": "theme-blue",
+        "category": "EMOTIONAL REGULATION"
+    },
+    {
+        "title": "SHIELD: D - Decide",
+        "points": [
+            "D - Decide: Choose your response with intention, guided by thought rather than raw emotion.",
+            "Determine how to proceed in a manner that aligns with your core values and principles.",
+            "This is your empowered choice, informed by the SHIELD process."
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-blue",
+        "category": "EMOTIONAL REGULATION"
     }
 ];
