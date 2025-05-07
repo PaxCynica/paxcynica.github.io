@@ -1,6 +1,6 @@
 const logoImage = new Image();
 logoImage.src = 'images/hound.png';
-const CARD_DATA = [...CARD_DATA_6, ...CARD_DATA_7];
+const CARD_DATA = [...INTERPERSONAL_DYNAMICS];
 const CARD_IMAGES = {};
 Object.assign(CARD_IMAGES, CARD_IMAGES_6, CARD_IMAGES_7);
 
