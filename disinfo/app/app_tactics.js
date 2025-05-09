@@ -2,7 +2,7 @@ const logoImage = new Image();
 logoImage.src = 'images/hound.png';
 const CARD_DATA = [...MANIPULATION_TACTICS];
 const CARD_IMAGES = {};
-Object.assign(CARD_IMAGES, CARD_IMAGES_1);
+Object.assign(CARD_IMAGES, CARD_IMAGES_ALL);
 
 const categoryImages = {};
 function loadCategoryImagesAsync() {

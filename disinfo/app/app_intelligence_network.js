@@ -1,8 +1,8 @@
 const logoImage = new Image();
 logoImage.src = 'images/hound.png';
-const CARD_DATA = [...CARD_DATA_4];
+const CARD_DATA = [...HUMAN_NETWORKS];
 const CARD_IMAGES = {};
-Object.assign(CARD_IMAGES, CARD_IMAGES_4);
+Object.assign(CARD_IMAGES, CARD_IMAGES_ALL);
 
 const categoryImages = {};
 function loadCategoryImagesAsync() {

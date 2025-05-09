@@ -1,8 +1,8 @@
 const logoImage = new Image();
 logoImage.src = 'images/hound.png';
-const CARD_DATA = [...CARD_DATA_5];
+const CARD_DATA = [...CHALLENGE_CONSPIRACY];
 const CARD_IMAGES = {};
-Object.assign(CARD_IMAGES, CARD_IMAGES_5);
+Object.assign(CARD_IMAGES, CARD_IMAGES_ALL);
 
 const categoryImages = {};
 function loadCategoryImages() {
