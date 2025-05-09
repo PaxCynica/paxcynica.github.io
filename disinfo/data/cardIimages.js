@@ -61,6 +61,7 @@ CARD_IMAGES_ALL = {
     'COUNTER-STRATEGIES & DEFENSE': 'images/counter-strategies-and-defense.jfif',
     'DISINFORMATION TACTICS': 'images/disinformation-tactics.png',
     'INFORMATION WARFARE': 'images/information-warfare.png',
-    'OPSEC & ATTRIBUTION': 'images/opsec-and-attrition.png',
+    'PLAUSIBLE DENIABILITY': 'images/opsec-and-attrition.png',
     'THREAT PERCEPTION': 'images/threat-perception.jfif',
+    'LITERACY IN HOSTILE ENVIRONMENTS': 'images/literacy-hostile-environments.jpg',
 }

@@ -1,6 +1,6 @@
 const MANIPULATION_TACTICS = [
   // ===================================
-  // INTRODUCTION
+  // INTRODUCTION - CATEGORY HEADER
   // ===================================
   {
     "title": "Disinformation Tactics & Defense",
@@ -12,7 +12,7 @@ const MANIPULATION_TACTICS = [
     ],
     "layout": "layout-centered",
     "theme": "theme-dark",
-    "category": "INTRODUCTION TACTICS"  // Add this line
+    "category": "INTRODUCTION TACTICS"
   },
   {
     "title": "Disinformation: An Enduring Playbook",
@@ -51,7 +51,7 @@ const MANIPULATION_TACTICS = [
   },
 
   // ===================================
-  // 1. EMOTIONAL MANIPULATION - CATEGORY HEADER
+  // EMOTIONAL MANIPULATION - CATEGORY HEADER
   // ===================================
   {
     "title": "EMOTIONAL MANIPULATION",
@@ -139,7 +139,7 @@ const MANIPULATION_TACTICS = [
   },
 
   // ===================================
-  // 2. COGNITIVE EXPLOITATION - CATEGORY HEADER
+  // COGNITIVE EXPLOITATION - CATEGORY HEADER
   // ===================================
   {
     "title": "COGNITIVE EXPLOITATION",
@@ -299,7 +299,7 @@ const MANIPULATION_TACTICS = [
   },
 
   // ===================================
-  // 3. SOCIAL & GROUP MANIPULATION - CATEGORY HEADER
+  // SOCIAL & GROUP MANIPULATION - CATEGORY HEADER
   // ===================================
   {
     "title": "SOCIAL & GROUP MANIPULATION",
@@ -471,7 +471,7 @@ const MANIPULATION_TACTICS = [
   },
 
   // ===================================
-  // 4. LANGUAGE & COMMUNICATION - CATEGORY HEADER
+  // LANGUAGE & COMMUNICATION - CATEGORY HEADER
   // ===================================
   {
     "title": "LANGUAGE & COMMUNICATION",
@@ -595,7 +595,7 @@ const MANIPULATION_TACTICS = [
   },
 
   // ===================================
-  // 5. INFORMATION CONTROL - CATEGORY HEADER
+  // INFORMATION CONTROL - CATEGORY HEADER
   // ===================================
   {
     "title": "INFORMATION CONTROL",
@@ -767,7 +767,7 @@ const MANIPULATION_TACTICS = [
   },
 
   // ===================================
-  // 6. CRISIS & FEAR TACTICS - CATEGORY HEADER
+  // CRISIS & FEAR TACTICS - CATEGORY HEADER
   // ===================================
   {
     "title": "CRISIS & FEAR TACTICS",
@@ -867,7 +867,7 @@ const MANIPULATION_TACTICS = [
   },
 
   // ===================================
-  // 7. AUTHORITY & CREDIBILITY - CATEGORY HEADER
+  // AUTHORITY & CREDIBILITY - CATEGORY HEADER
   // ===================================
   {
     "title": "AUTHORITY & CREDIBILITY",
@@ -991,7 +991,7 @@ const MANIPULATION_TACTICS = [
   },
 
   // ===================================
-  // 8. ADVANCED PSYCHOLOGICAL OPERATIONS - CATEGORY HEADER
+  // ADVANCED PSYCHOLOGICAL OPERATIONS - CATEGORY HEADER
   // ===================================
   {
     "title": "ADVANCED PSYCHOLOGICAL OPERATIONS",
@@ -1259,7 +1259,7 @@ const MANIPULATION_TACTICS = [
   },
 
   // ===================================
-  // 9. COUNTER-STRATEGIES & DEFENSE - CATEGORY HEADER
+  // COUNTER-STRATEGIES & DEFENSE - CATEGORY HEADER
   // ===================================
   {
     "title": "COUNTER-STRATEGIES & DEFENSE",
@@ -1405,6 +1405,9 @@ const MANIPULATION_TACTICS = [
     "theme": "theme-green",
     "category": "COUNTER-STRATEGIES & DEFENSE"
   },
+  // ===================================
+  // PLAUSIBLE DENIABILITY - CATEGORY HEADER
+  // ===================================
   {
     "title": "Plausible Deniability",
     "points": [
@@ -1415,7 +1418,7 @@ const MANIPULATION_TACTICS = [
     ],
     "layout": "layout-boxed",
     "theme": "theme-dark",
-    "category": "DISINFORMATION TACTICS"
+    "category": "PLAUSIBLE DENIABILITY"
   },
   {
     "title": "Plausible Deniability: Ambiguity",
@@ -1427,7 +1430,7 @@ const MANIPULATION_TACTICS = [
     ],
     "layout": "layout-split",
     "theme": "theme-purple",
-    "category": "DISINFORMATION TACTICS"
+    "category": "PLAUSIBLE DENIABILITY"
   },
   {
     "title": "Plausible Deniability: Attribution",
@@ -1439,7 +1442,7 @@ const MANIPULATION_TACTICS = [
     ],
     "layout": "layout-boxed",
     "theme": "theme-dark",
-    "category": "INFORMATION WARFARE"
+    "category": "PLAUSIBLE DENIABILITY"
   },
   {
     "title": "Fighting Disinformation: Tracing",
@@ -1451,7 +1454,7 @@ const MANIPULATION_TACTICS = [
     ],
     "layout": "layout-split",
     "theme": "theme-green",
-    "category": "OPSEC & ATTRIBUTION"
+    "category": "PLAUSIBLE DENIABILITY"
   },
   {
     "title": "Fighting Disinformation: Impact",
@@ -1463,7 +1466,7 @@ const MANIPULATION_TACTICS = [
     ],
     "layout": "layout-boxed",
     "theme": "theme-blue",
-    "category": "OPSEC & ATTRIBUTION"
+    "category": "PLAUSIBLE DENIABILITY"
   },
   {
     "title": "Fighting Disinformation: Accountability",
@@ -1475,12 +1478,8 @@ const MANIPULATION_TACTICS = [
     ],
     "layout": "layout-centered",
     "theme": "theme-green",
-    "category": "OPSEC & ATTRIBUTION"
+    "category": "PLAUSIBLE DENIABILITY"
   },
-  // Add this category to CARD_IMAGES_1
-  // 'THREAT PERCEPTION': 'images/threat-perception.jfif',
-
-  // Add these new cards to CARD_DATA_1
   // ===================================
   // THREAT PERCEPTION - CATEGORY HEADER
   // ===================================
@@ -1627,6 +1626,21 @@ const MANIPULATION_TACTICS = [
     "layout": "layout-boxed",
     "theme": "theme-green",
     "category": "THREAT PERCEPTION"
+  },
+  // ===================================
+  // LITERACY IN HOSTILE ENVIRONMENTS - CATEGORY HEADER
+  // ===================================
+  {
+    "title": "LITERACY IN HOSTILE ENVIRONMENTS",
+    "points": [
+      "How to build resilience in a hostile information landscape",
+      "Adversarial literacy as a form of self-defense",
+      "Practical skills for navigating disinformation",
+      "When the medium is the weapon, literacy becomes armor"
+    ],
+    "layout": "layout-centered",
+    "theme": "theme-dark",
+    "category": "LITERACY IN HOSTILE ENVIRONMENTS"
   },
   {
     "title": "LITERACY IN HOSTILE ENVIRONMENTS",

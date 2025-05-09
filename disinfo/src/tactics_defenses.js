@@ -12,7 +12,7 @@ const CARD_IMAGES_1 = {
   'COUNTER-STRATEGIES & DEFENSE': 'images/counter-strategies-and-defense.jfif',
   'DISINFORMATION TACTICS': 'images/disinformation-tactics.png',
   'INFORMATION WARFARE': 'images/information-warfare.png',
-  'OPSEC & ATTRIBUTION': 'images/opsec-and-attrition.png',
+  'PLAUSIBLE DENIABILITY': 'images/opsec-and-attrition.png',
   'THREAT PERCEPTION': 'images/threat-perception.jfif',
 };// Define card data for disinformation tactics
 const CARD_DATA_1 = [
@@ -1373,7 +1373,7 @@ const CARD_DATA_1 = [
     ],
     "layout": "layout-split",
     "theme": "theme-green",
-    "category": "OPSEC & ATTRIBUTION"
+    "category": "PLAUSIBLE DENIABILITY"
   },
   {
     "title": "Fighting Disinformation: Impact",
@@ -1385,7 +1385,7 @@ const CARD_DATA_1 = [
     ],
     "layout": "layout-boxed",
     "theme": "theme-blue",
-    "category": "OPSEC & ATTRIBUTION"
+    "category": "PLAUSIBLE DENIABILITY"
   },
   {
     "title": "Fighting Disinformation: Accountability",
@@ -1397,7 +1397,7 @@ const CARD_DATA_1 = [
     ],
     "layout": "layout-centered",
     "theme": "theme-green",
-    "category": "OPSEC & ATTRIBUTION"
+    "category": "PLAUSIBLE DENIABILITY"
   },
   // Add this category to CARD_IMAGES_1
   // 'THREAT PERCEPTION': 'images/threat-perception.jfif',
