@@ -1,51 +1,51 @@
 [
   {
-    "topic": "Israel",
+    "topic": "China",
+    "frequency": 9,
+    "agentColor": "#3498db"
+  },
+  {
+    "topic": "tariffs",
+    "frequency": 8,
+    "agentColor": "#0E76A8"
+  },
+  {
+    "topic": "Trump",
+    "frequency": 7,
+    "agentColor": "#3498db"
+  },
+  {
+    "topic": "Russia",
     "frequency": 6,
     "agentColor": "#3498db"
   },
   {
-    "topic": "China",
-    "frequency": 5,
+    "topic": "US",
+    "frequency": 6,
     "agentColor": "#3498db"
   },
   {
-    "topic": "India",
+    "topic": "Donald Trump",
     "frequency": 4,
+    "agentColor": "#3498db"
+  },
+  {
+    "topic": "trade talks",
+    "frequency": 3,
+    "agentColor": "#0E76A8"
+  },
+  {
+    "topic": "India",
+    "frequency": 3,
     "agentColor": "#3498db"
   },
   {
     "topic": "Pakistan",
-    "frequency": 4,
+    "frequency": 3,
     "agentColor": "#3498db"
   },
   {
-    "topic": "Gaza",
-    "frequency": 4,
-    "agentColor": "#3498db"
-  },
-  {
-    "topic": "humanitarian crisis",
-    "frequency": 4,
-    "agentColor": "#DD4B39"
-  },
-  {
-    "topic": "Trump",
-    "frequency": 4,
-    "agentColor": "#3498db"
-  },
-  {
-    "topic": "Ukraine",
-    "frequency": 4,
-    "agentColor": "#00ACEE"
-  },
-  {
-    "topic": "tariffs",
-    "frequency": 4,
-    "agentColor": "#0E76A8"
-  },
-  {
-    "topic": "Google",
+    "topic": "North Korea",
     "frequency": 3,
     "agentColor": "#3498db"
   }
