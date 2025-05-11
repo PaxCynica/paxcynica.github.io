@@ -297,6 +297,18 @@ const MANIPULATION_TACTICS = [
     "theme": "theme-blue",
     "category": "COGNITIVE EXPLOITATION"
   },
+  {
+    "title": "Persuasive Framing: Urgency & Higher Purpose",
+    "points": [
+      "Manufacturing urgency with arbitrary deadlines to pressure targets into action.",
+      "Appealing to a 'higher purpose' or grand vision to inspire and bypass rational scrutiny.",
+      "Reframing significant obstacles as mere 'challenges' to foster buy-in and commitment.",
+      "Strategic communication designed to 'bend reality' and control the narrative."
+    ],
+    "layout": "layout-split",
+    "theme": "theme-blue",
+    "category": "COGNITIVE EXPLOITATION"
+  },
 
   // ===================================
   // SOCIAL & GROUP MANIPULATION - CATEGORY HEADER
@@ -989,6 +1001,18 @@ const MANIPULATION_TACTICS = [
     "theme": "theme-sunset",
     "category": "AUTHORITY & CREDIBILITY"
   },
+  {
+    "title": "Reality Distortion Field",
+    "points": [
+      "Projecting intense conviction and charisma to reshape others' perception of reality.",
+      "Modern equivalent: 'Personal branding' used as strategic communication to build influence.",
+      "Aims to create automatic trust, instant credibility, and make the 'impossible' seem achievable.",
+      "Relies on the influencer's unwavering self-belief and persuasive framing."
+    ],
+    "layout": "layout-centered",
+    "theme": "theme-purple",
+    "category": "AUTHORITY & CREDIBILITY"
+  },
 
   // ===================================
   // ADVANCED PSYCHOLOGICAL OPERATIONS - CATEGORY HEADER
@@ -1400,6 +1424,42 @@ const MANIPULATION_TACTICS = [
       "Don't let others set your starting point in discussions",
       "Recognize when initial proposals are intentionally extreme",
       "If others control where you start, they control where you end up"
+    ],
+    "layout": "layout-boxed",
+    "theme": "theme-green",
+    "category": "COUNTER-STRATEGIES & DEFENSE"
+  },
+  {
+    "title": "Reflexive Defense: Core Principle",
+    "points": [
+      "Resist manipulation without mirroring manipulative tactics.",
+      "Aim for 'cognitive sovereignty': strengthening your own perception and judgment.",
+      "Build mental systems that are coherent, reflective, and durable, not just reactive.",
+      "Focus on reducing vulnerability to misperception, not winning every narrative."
+    ],
+    "layout": "layout-centered",
+    "theme": "theme-green",
+    "category": "COUNTER-STRATEGIES & DEFENSE"
+  },
+  {
+    "title": "Reflexive Defense: Key Actions",
+    "points": [
+      "Make framing visible: Actively deconstruct how information is presented.",
+      "Slow down reflexes: Consciously pause before reacting, especially to outrage.",
+      "Reinforce context: Seek broader understanding; don't let events be isolated.",
+      "Practice strategic silence: Know when not to engage, amplify, or react."
+    ],
+    "layout": "layout-split",
+    "theme": "theme-green",
+    "category": "COUNTER-STRATEGIES & DEFENSE"
+  },
+  {
+    "title": "Mental Terrain Hardening",
+    "points": [
+      "Proactively strengthen your cognitive environment against manipulation.",
+      "Develop emotional literacy: Understand how manipulation *feels* to better detect it.",
+      "Practice narrative hygiene: Expose and reject coercive framing patterns.",
+      "Train media diagnostics: Learn to identify signs of engineered outrage or campaigns."
     ],
     "layout": "layout-boxed",
     "theme": "theme-green",

@@ -1,4 +1,7 @@
 const INTERPERSONAL_DYNAMICS = [
+    // ===================================
+    // SUPERIORITY COMPLEX - CATEGORY HEADER
+    // ===================================
     {
         "title": "The Superiority Dynamic",
         "points": [
@@ -131,6 +134,9 @@ const INTERPERSONAL_DYNAMICS = [
         "theme": "theme-blue",
         "category": "SUPERIORITY COMPLEX"
     },
+    // ===================================
+    // MANAGING THE CONVERSATION - CATEGORY HEADER
+    // ===================================
     {
         "title": "Handling Unsolicited Advice",
         "points": [
@@ -210,6 +216,9 @@ const INTERPERSONAL_DYNAMICS = [
         "theme": "theme-green",
         "category": "INTERNAL MANAGEMENT"
     },
+    // ===================================
+    // EFFECTIVE LISTENING - CATEGORY HEADER
+    // ===================================
     {
         "title": "Active Listening Fundamentals",
         "points": [
@@ -306,6 +315,9 @@ const INTERPERSONAL_DYNAMICS = [
         "theme": "theme-purple",
         "category": "MANAGING THE CONVERSATION"
     },
+    // ===================================
+    // NON-VERBAL COMMUNICATION - CATEGORY HEADER
+    // ===================================
     {
         "title": "Mastering Facial Expressions",
         "points": [
@@ -378,7 +390,9 @@ const INTERPERSONAL_DYNAMICS = [
         "theme": "theme-sunset",
         "category": "NON-VERBAL COMMUNICATION"
     },
-    // --- SHIELD Method, Tactics, and Steps Combined ---
+    // ===================================
+    // EMOTIONAL REGULATION - CATEGORY HEADER
+    // ===================================
     {
         "title": "Intro: The SHIELD Method",
         "points": [
