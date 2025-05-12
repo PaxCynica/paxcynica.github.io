@@ -1,23 +1,23 @@
 [
   {
-    "topic": "Trump",
+    "topic": "ceasefire",
     "frequency": 9,
     "agentColor": "#3498db"
   },
   {
-    "topic": "ceasefire",
-    "frequency": 8,
-    "agentColor": "#3498db"
-  },
-  {
-    "topic": "China",
+    "topic": "Russia",
     "frequency": 7,
     "agentColor": "#3498db"
   },
   {
-    "topic": "Israel",
+    "topic": "sanctions",
     "frequency": 7,
     "agentColor": "#3498db"
+  },
+  {
+    "topic": "Ukraine",
+    "frequency": 6,
+    "agentColor": "#00ACEE"
   },
   {
     "topic": "Donald Trump",
@@ -25,9 +25,9 @@
     "agentColor": "#3498db"
   },
   {
-    "topic": "tariffs",
-    "frequency": 5,
-    "agentColor": "#0E76A8"
+    "topic": "Trump",
+    "frequency": 6,
+    "agentColor": "#3498db"
   },
   {
     "topic": "India",
@@ -40,12 +40,12 @@
     "agentColor": "#3498db"
   },
   {
-    "topic": "Gaza",
+    "topic": "Israel",
     "frequency": 5,
     "agentColor": "#3498db"
   },
   {
-    "topic": "Nvidia",
+    "topic": "China",
     "frequency": 4,
     "agentColor": "#3498db"
   }
