@@ -137,7 +137,18 @@ const MANIPULATION_TACTICS = [
     "theme": "theme-blue",
     "category": "EMOTIONAL MANIPULATION"
   },
-
+  {
+    "title": "Memetic Dehumanization: Animalistic Caricatures",
+    "points": [
+      "Using animal imagery in memes/cartoons to dehumanize target groups (e.g., pigs for specific nationalities).",
+      "Associates targets with negative traits culturally linked to certain animals, evoking disgust or contempt.",
+      "Aims to strip targets of human dignity, lower empathy, and justify aggression.",
+      "Historical tactic (e.g., WWI/WWII propaganda) revived and amplified in modern digital memes."
+    ],
+    "layout": "layout-split",
+    "theme": "theme-red",
+    "category": "EMOTIONAL MANIPULATION"
+  },
   // ===================================
   // COGNITIVE EXPLOITATION - CATEGORY HEADER
   // ===================================
@@ -309,7 +320,18 @@ const MANIPULATION_TACTICS = [
     "theme": "theme-blue",
     "category": "COGNITIVE EXPLOITATION"
   },
-
+  {
+    "title": "Memes & 'Clip Thinking': Eroding Critical Analysis",
+    "points": [
+      "Rapid, emotional, and simplistic nature of memes contributes to 'clip thinking.'",
+      "Reduces audience desire for in-depth information or complex analysis.",
+      "Weakens the foundation for critical thinking by prioritizing entertainment/drama over substance.",
+      "Makes individuals more vulnerable to fake news and simplistic narratives embedded in memes."
+    ],
+    "layout": "layout-split",
+    "theme": "theme-purple",
+    "category": "COGNITIVE EXPLOITATION"
+  },
   // ===================================
   // SOCIAL & GROUP MANIPULATION - CATEGORY HEADER
   // ===================================
@@ -605,7 +627,30 @@ const MANIPULATION_TACTICS = [
     "theme": "theme-blue",
     "category": "LANGUAGE & COMMUNICATION"
   },
-
+  {
+    "title": "Humor as Disinformation Camouflage",
+    "points": [
+      "Using humor, satire, or parody to deliver propaganda messages, making them more palatable.",
+      "Changes the *form* of the message (entertaining) without altering the core manipulative *content*.",
+      "Lowers audience defenses, as humor is often not perceived as a serious threat.",
+      "Can provide plausible deniability for the disseminator ('it's just a joke')."
+    ],
+    "layout": "layout-boxed",
+    "theme": "theme-green",
+    "category": "LANGUAGE & COMMUNICATION"
+  },
+  {
+    "title": "Official Trolling: State-Sponsored Memetic Warfare",
+    "points": [
+      "Use of memes, trolling, and provocative humor by official state entities (e.g., embassies, government accounts).",
+      "Aims to mock adversaries, provoke reactions, or inject specific narratives into international discourse.",
+      "Blurs lines between informal online culture and formal state communication strategies.",
+      "Leverages the disarming nature of humor to deliver sharp political messages or disinformation."
+    ],
+    "layout": "layout-centered",
+    "theme": "theme-blue",
+    "category": "LANGUAGE & COMMUNICATION" // Could also fit ADVANCED PSYCHOLOGICAL OPERATIONS
+  }
   // ===================================
   // INFORMATION CONTROL - CATEGORY HEADER
   // ===================================
@@ -777,7 +822,18 @@ const MANIPULATION_TACTICS = [
     "theme": "theme-blue",
     "category": "INFORMATION CONTROL"
   },
-
+  {
+    "title": "Historical Echoes in Memetic Propaganda",
+    "points": [
+      "Repurposing historical propaganda themes, imagery, and slogans (e.g., Soviet agitprop, WWII caricatures) in modern memes.",
+      "Leveraging established 'laughing patterns' and familiar cultural symbols to lend false legitimacy.",
+      "Aims to create resonance and bypass critical scrutiny by tapping into existing cultural memory.",
+      "Example: Using Nazi-era visual tropes or Soviet anti-Western narratives for contemporary targets."
+    ],
+    "layout": "layout-boxed",
+    "theme": "theme-sunset",
+    "category": "INFORMATION CONTROL"
+  },
   // ===================================
   // CRISIS & FEAR TACTICS - CATEGORY HEADER
   // ===================================
@@ -1687,89 +1743,4 @@ const MANIPULATION_TACTICS = [
     "theme": "theme-green",
     "category": "THREAT PERCEPTION"
   },
-  // ===================================
-  // LITERACY IN HOSTILE ENVIRONMENTS - CATEGORY HEADER
-  // ===================================
-  {
-    "title": "LITERACY IN HOSTILE ENVIRONMENTS",
-    "points": [
-      "How to build resilience in a hostile information landscape",
-      "Adversarial literacy as a form of self-defense",
-      "Practical skills for navigating disinformation",
-      "When the medium is the weapon, literacy becomes armor"
-    ],
-    "layout": "layout-centered",
-    "theme": "theme-dark",
-    "category": "LITERACY IN HOSTILE ENVIRONMENTS"
-  },
-  {
-    "title": "LITERACY IN HOSTILE ENVIRONMENTS",
-    "points": [
-      "You can’t teach people to swim in a flood.",
-      "You can’t build media literacy in an ecosystem engineered to drown it.",
-      "Learning when the medium is the weapon requires a new approach."
-    ],
-    "layout": "layout-centered",
-    "theme": "theme-dark",
-    "category": "LITERACY IN HOSTILE ENVIRONMENTS"
-  },
-  {
-    "title": "The Rigged Information Field",
-    "points": [
-      "Most media literacy efforts assumed a neutral field, but it isn't.",
-      "The field is rigged, reactive, and hostile.",
-      "Algorithms favor speed; polarization is profitable; virality selects for outrage.",
-      "Manipulation is often a feature, not a flaw."
-    ],
-    "layout": "layout-boxed",
-    "theme": "theme-dark",
-    "category": "LITERACY IN HOSTILE ENVIRONMENTS"
-  },
-  {
-    "title": "Media Literacy as Warfighting",
-    "points": [
-      "Teaching literacy in this system is like teaching calm in a burning building.",
-      "It's not impossible, but it is warfighting.",
-      "Literacy must be tactically aware, emotionally grounded, and built for resistance.",
-      "It must be able to operate under narrative pressure."
-    ],
-    "layout": "layout-split",
-    "theme": "theme-dark",
-    "category": "LITERACY IN HOSTILE ENVIRONMENTS"
-  },
-  {
-    "title": "Literacy-as-Armor: Practical Skills",
-    "points": [
-      "Train for ambiguity and practice emotional self-regulation.",
-      "Identify coercive patterns and build community around truth-seeking.",
-      "Treat attention as a resource to defend.",
-      "This is literacy-as-armor, a frontline skillset."
-    ],
-    "layout": "layout-boxed",
-    "theme": "theme-dark",
-    "category": "LITERACY IN HOSTILE ENVIRONMENTS"
-  },
-  {
-    "title": "Core Tenets of Adversarial Literacy",
-    "points": [
-      "Resilience, narrative mobility, cognitive stamina, strategic doubt.",
-      "It's not just knowing — but staying whole while knowing.",
-      "Most media ecosystems are now adversarial; literacy is self-defense.",
-      "Emotional/relational tools are non-negotiable; resilience is a collective act."
-    ],
-    "layout": "layout-split",
-    "theme": "theme-dark",
-    "category": "LITERACY IN HOSTILE ENVIRONMENTS"
-  },
-  {
-    "title": "Beyond Literacy: Reforming the Terrain",
-    "points": [
-      "You can’t build mental defense in an economy that rewards manipulation.",
-      "We don’t just need better literacy; we need better terrain.",
-      "Fighting for structural reform is also essential."
-    ],
-    "layout": "layout-boxed",
-    "theme": "theme-dark",
-    "category": "LITERACY IN HOSTILE ENVIRONMENTS"
-  }
 ];

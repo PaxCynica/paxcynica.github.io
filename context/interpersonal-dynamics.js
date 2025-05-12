@@ -474,5 +474,73 @@ const INTERPERSONAL_DYNAMICS = [
         "layout": "layout-centered",
         "theme": "theme-blue",
         "category": "EMOTIONAL REGULATION"
+    },
+    // ===================================
+    // EMPATHIC SHIELDING TECHNIQUES - CATEGORY HEADER
+    // ===================================
+    {
+        "title": "Self-Awareness & Differentiation",
+        "points": [
+            "Name It to Tame It: When strong emotions arise, ask: 'Where did this come from? Was I feeling this before this interaction?' Questioning origin creates crucial mental space.",
+            "The Body Scan Technique: Notice physical sensations (chest tightness, stomach knot). Ask 'Is this mine?' to identify absorbed emotions.",
+            "The Baseline Check: Periodically check your baseline emotional state when alone and neutral to recognize deviations caused by external influences."
+        ],
+        "layout": "layout-boxed",
+        "theme": "theme-green",
+        "category": "EMPATHIC SHIELDING"
+    },
+    {
+        "title": "The \"Invisible Wall\"",
+        "points": [
+            "Visualize Your Shield: Before potentially draining interactions, visualize a strong, impermeable barrier (e.g., glass, energy field). Intend for emotions to be seen but not absorbed.",
+            "The \"Mirror\" Technique: Imagine being a mirror. Reflect others' emotions with understanding, but don't retain them; let them flow away.",
+            "The \"Bubble of Light\" (Advanced): Envelop yourself in visualized bright, white light that transmutes incoming negative energy into neutral or positive energy."
+        ],
+        "layout": "layout-split",
+        "theme": "theme-purple",
+        "category": "EMPATHIC SHIELDING"
+    },
+    {
+        "title": "\"Emotional Unplugging\" (Detachment Techniques)",
+        "points": [
+            "The Cord-Cutting Visualization: If you've absorbed emotions, visualize an energy cord connecting you. Mentally cut it, seeing energy return to its source.",
+            "The \"Release Breath\": With each exhale, consciously release emotions that aren't yours, imagining them as a dark cloud dissipating. Inhale clean energy.",
+            "The \"Mental Drop-Off\": Picture a designated 'drop-off zone' in your mind. Mentally place absorbed feelings there and consciously walk away."
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-sunset",
+        "category": "EMPATHIC SHIELDING"
+    },
+    {
+        "title": "The \"Sapolsky Sanction\" Jutsu (Reframing Empathy)",
+        "points": [
+            "Cognitive Reframing: Recognize that over-empathy can be unhelpful, depleting you without truly alleviating others' suffering. True support comes from grounded strength.",
+            "Focus on Compassion, Not Absorption: Shift from feeling their emotions to understanding and offering support from a distance. Be a steady anchor, not another boat tossed by their waves."
+        ],
+        "layout": "layout-boxed",
+        "theme": "theme-blue",
+        "category": "EMPATHIC SHIELDING"
+    },
+    {
+        "title": "The \"Boundary Setting\" Jutsu (Assertive Communication)",
+        "points": [
+            "The \"Time Limit\": With draining individuals, mentally set a time limit for conversations and politely excuse yourself when it's up.",
+            "The \"Topic Change\": If a conversation becomes too emotionally heavy and you feel yourself absorbing, gently steer it towards a lighter topic.",
+            "The \"Statement of Need\": Express your needs clearly, e.g., 'I'm feeling a bit overwhelmed, so I need to step away,' or 'I can listen, but I'm not able to take on what you're feeling.'"
+        ],
+        "layout": "layout-split",
+        "theme": "theme-dark",
+        "category": "SETTING BOUNDARIES"
+    },
+    {
+        "title": "Training Your Empathic Shielding Jutsu",
+        "points": [
+            "Consistent Practice: These techniques require regular practice to become effective. Start small and be patient with yourself.",
+            "Experiment: Not every technique will work perfectly in every situation. Try different approaches to find what resonates most with you.",
+            "Self-Compassion: You're working on rewiring ingrained tendencies. Be kind to yourself during setbacks and keep practicing."
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-green",
+        "category": "EMPATHIC SHIELDING"
     }
 ];
