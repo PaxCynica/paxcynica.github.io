@@ -5,29 +5,39 @@
     "agentColor": "#3498db"
   },
   {
-    "topic": "Gaza",
+    "topic": "Saudi Arabia",
     "frequency": 7,
     "agentColor": "#3498db"
   },
   {
-    "topic": "Israel",
-    "frequency": 7,
-    "agentColor": "#3498db"
+    "topic": "tariffs",
+    "frequency": 6,
+    "agentColor": "#0E76A8"
   },
   {
-    "topic": "Trump",
+    "topic": "Middle East",
     "frequency": 5,
     "agentColor": "#3498db"
   },
   {
-    "topic": "Qatar",
-    "frequency": 4,
+    "topic": "Gaza",
+    "frequency": 5,
     "agentColor": "#3498db"
   },
   {
-    "topic": "US",
-    "frequency": 4,
+    "topic": "Hamas",
+    "frequency": 5,
     "agentColor": "#3498db"
+  },
+  {
+    "topic": "Israel",
+    "frequency": 5,
+    "agentColor": "#3498db"
+  },
+  {
+    "topic": "AI",
+    "frequency": 4,
+    "agentColor": "#00ACEE"
   },
   {
     "topic": "China",
@@ -35,18 +45,8 @@
     "agentColor": "#3498db"
   },
   {
-    "topic": "tariffs",
+    "topic": "Trump",
     "frequency": 4,
-    "agentColor": "#0E76A8"
-  },
-  {
-    "topic": "OpenAI",
-    "frequency": 4,
-    "agentColor": "#00ACEE"
-  },
-  {
-    "topic": "humanitarian aid",
-    "frequency": 4,
-    "agentColor": "#DD4B39"
+    "agentColor": "#3498db"
   }
 ]
