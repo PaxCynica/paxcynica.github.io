@@ -1,0 +1,65 @@
+<!-- Save this as a temporary HTML file to generate a default image -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Generate Spellbook Image</title>
+    <style>
+        body { margin: 0; background: #f3f3f3; display: flex; justify-content: center; align-items: center; height: 100vh; }
+        .book {
+            width: 400px;
+            height: 500px;
+            background: linear-gradient(135deg, #2a5885, #4a8db7);
+            border-radius: 5px 15px 15px 5px;
+            box-shadow: 5px 5px 20px rgba(0,0,0,0.3), -2px 0 5px rgba(0,0,0,0.1);
+            position: relative;
+            overflow: hidden;
+        }
+        .book-cover {
+            position: absolute;
+            top: 20px; left: 20px; right: 20px; bottom: 20px;
+            background: rgba(255,255,255,0.1);
+            border: 2px solid rgba(255,255,255,0.2);
+            border-radius: 3px 10px 10px 3px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            color: white;
+            font-family: 'Segoe UI', sans-serif;
+        }
+        .book-title { font-size: 24px; margin-bottom: 20px; text-align: center; }
+        .book-symbol {
+            font-size: 80px;
+            margin-bottom: 30px;
+        }
+        .book-spine {
+            position: absolute;
+            left: 0; top: 0; bottom: 0;
+            width: 20px;
+            background: linear-gradient(to right, #1a3855, #2a5885);
+            border-radius: 3px 0 0 3px;
+        }
+        .book-pages {
+            position: absolute;
+            top: 10px; bottom: 10px; right: 10px;
+            width: 20px;
+            background: white;
+            border-radius: 0 2px 2px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="book">
+        <div class="book-spine"></div>
+        <div class="book-pages"></div>
+        <div class="book-cover">
+            <div class="book-symbol">🛡️</div>
+            <div class="book-title">INFORMATION DEFENSE SPELLBOOK</div>
+        </div>
+    </div>
+    <script>
+        // You can take a screenshot of this page to create your default spellbook image
+        // Or use browser tools to save it as an image
+    </script>
+</body>
+</html>

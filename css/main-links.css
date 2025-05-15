@@ -6,9 +6,9 @@
     margin-bottom: 3rem;
     padding-left: 1rem;
     padding-right: 1rem;
-    align-items: center;
     display: flex;
     flex-direction: column;
+    align-items: center;
 }
 
 .disinfo-links p {
@@ -66,7 +66,6 @@
     background-color: #fdfdfd;
     border: 1px solid #eee;
     margin: 0 auto 3rem;
-    /* Consistent margin-bottom */
     border-radius: 12px;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
     text-align: center;
@@ -115,6 +114,95 @@
 }
 
 
+/* Information Defense Spellbook Section */
+.disinfo-spellbook {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: 0 auto 3rem;
+    padding: 2rem;
+    background-color: var(--section-bg, #f8f9fa);
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+.disinfo-spellbook .details__wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.disinfo-spellbook h2 {
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
+    color: var(--heading-color, #2a5885);
+}
+
+.disinfo-spellbook p {
+    margin-bottom: 1.5rem;
+    line-height: 1.6;
+}
+
+.disinfo-spellbook .feature-button {
+    display: inline-block;
+    padding: 0.8rem 1.5rem;
+    background-color: var(--primary-color, #2a5885);
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    font-weight: 500;
+    transition: background-color 0.2s, transform 0.2s;
+}
+
+.disinfo-spellbook .feature-button:hover {
+    background-color: var(--secondary-color, #4a8db7);
+    transform: translateY(-2px);
+}
+
+.disinfo-spellbook .visuals_wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.spellbook-visual {
+    max-width: 100%;
+    height: auto;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.15);
+    border-radius: 5px;
+    transform: perspective(800px) rotateY(10deg);
+    transition: transform 0.3s;
+}
+
+.spellbook-visual:hover {
+    transform: perspective(800px) rotateY(0);
+}
+
+
+/* Add these styles for the clickable spellbook image */
+
+.spellbook-container a {
+    display: block;
+    cursor: pointer;
+    transition: transform 0.3s;
+}
+
+.spellbook-container a:hover {
+    transform: scale(1.03);
+}
+
+.spellbook-container a:focus {
+    outline: 3px solid rgba(52, 152, 219, 0.5);
+    border-radius: 5px;
+}
+
+/* Ensure the existing spellbook-visual hover effect works with the link */
+.spellbook-container a:hover .spellbook-visual {
+    transform: perspective(800px) rotateY(5deg);
+    box-shadow: 0 8px 25px rgba(0,0,0,0.25);
+}
+
+
 /* Responsive design */
 @media (max-width: 600px) {
     .disinfo-links ul {
@@ -138,6 +226,16 @@
     .resources-links h2,
     .resources-links p {
         text-align: left;
+    }
+}
+
+@media (max-width: 768px) {
+    .disinfo-spellbook {
+        grid-template-columns: 1fr;
+    }
+    
+    .disinfo-spellbook .visuals_wrapper {
+        margin-top: 1.5rem;
     }
 }
 
@@ -218,5 +316,56 @@
     .disinfo-links ul {
         display: grid;
         grid-template-columns: 1fr 1fr;
+    }
+
+    /* Large screen styling for the spellbook section */
+    .disinfo-spellbook {
+        height: 85vh;
+        align-items: flex-start;
+        margin-bottom: 15vh;
+        margin-left: 3rem;
+        margin-right: 3rem;
+        padding: 2rem;
+        grid-template-columns: 1fr 2fr;
+    }
+
+    .disinfo-spellbook h2 {
+        font-size: 3rem;
+        margin-bottom: 6rem;
+        padding-bottom: 0.5em;
+        border-bottom: 2px solid #3498db;
+        width: fit-content;
+    }
+
+    .disinfo-spellbook p {
+        font-size: 1.5rem;
+        margin-bottom: 6rem;
+        text-align: left;
+        border-left: 3px solid #16213e;
+        border-right: 3px solid #16213e;
+        border-radius: 8px;
+        padding: 1.5rem;
+    }
+
+    .disinfo-spellbook .feature-button {
+        font-size: 1.5rem;
+        padding: 1rem 2rem;
+    }
+
+    .disinfo-spellbook .visuals_wrapper {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .disinfo-spellbook h3 {
+        font-size: 2rem;
+        margin-bottom: 2rem;
+    }
+
+    .spellbook-visual {
+        max-width: 80%;
+        transform: perspective(1200px) rotateY(15deg);
     }
 }

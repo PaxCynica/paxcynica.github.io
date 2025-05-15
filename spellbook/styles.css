@@ -1,0 +1,187 @@
+:root {
+    --primary-color: #2a5885;
+    --secondary-color: #4a8db7;
+    --accent-color: #e63946;
+    --light-bg: #f9f9f9;
+    --card-bg: #ffffff;
+    --text-color: #333333;
+    --text-light: #666666;
+    --border-color: #dddddd;
+    --shadow: 0 2px 8px rgba(0,0,0,0.1);
+    --hover-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    color: var(--text-color);
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: var(--light-bg);
+}
+
+header {
+    text-align: center;
+    margin-bottom: 40px;
+    border-bottom: 1px solid var(--border-color);
+    padding-bottom: 20px;
+}
+
+header h1 {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+    color: var(--primary-color);
+}
+
+.intro {
+    background-color: var(--card-bg);
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 30px;
+    box-shadow: var(--shadow);
+    border-left: 4px solid var(--primary-color);
+}
+
+.category {
+    margin-bottom: 30px;
+}
+
+.category h2 {
+    border-bottom: 2px solid var(--secondary-color);
+    padding-bottom: 5px;
+    color: var(--primary-color);
+}
+
+.spell-list {
+    list-style-type: none;
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 15px;
+}
+
+.spell-list li {
+    background-color: var(--card-bg);
+    border-radius: 5px;
+    padding: 15px;
+    box-shadow: var(--shadow);
+    transition: transform 0.2s, box-shadow 0.2s;
+    border-left: 3px solid var(--secondary-color);
+}
+
+.spell-list li:hover {
+    transform: translateY(-3px);
+    box-shadow: var(--hover-shadow);
+}
+
+.spell-list a {
+    font-size: 1.2em;
+    font-weight: bold;
+    color: var(--primary-color);
+    text-decoration: none;
+    display: block;
+    margin-bottom: 5px;
+}
+
+.spell-description {
+    font-size: 0.9em;
+    color: var(--text-light);
+    display: block;
+}
+
+#spell-content {
+    background-color: var(--card-bg);
+    padding: 25px;
+    border-radius: 5px;
+    box-shadow: var(--shadow);
+    margin-top: 30px;
+}
+
+/* Spell content formatting */
+#spell-content h1 {
+    color: var(--primary-color);
+    border-bottom: 2px solid var(--border-color);
+    padding-bottom: 10px;
+}
+
+#spell-content h2 {
+    color: var(--secondary-color);
+    margin-top: 25px;
+    font-size: 1.4em;
+}
+
+#spell-content ul {
+    padding-left: 25px;
+}
+
+#spell-content li {
+    margin-bottom: 10px;
+}
+
+#spell-content hr {
+    border: none;
+    border-top: 1px solid var(--border-color);
+    margin: 25px 0;
+}
+
+.hidden {
+    display: none;
+}
+
+.error-message {
+    color: var(--accent-color);
+    padding: 20px;
+    border: 1px solid var(--accent-color);
+    border-radius: 5px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 40px;
+    padding-top: 20px;
+    border-top: 1px solid var(--border-color);
+    color: var(--text-light);
+}
+
+.print-button, .back-button {
+    background-color: var(--primary-color);
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    margin: 10px 5px;
+    transition: background-color 0.2s;
+}
+
+.print-button:hover, .back-button:hover {
+    background-color: var(--secondary-color);
+}
+
+/* Print styles */
+@media print {
+    .spell-categories, header p, .intro, footer, .back-button, .print-button {
+        display: none !important;
+    }
+    
+    body {
+        background-color: white;
+        padding: 0;
+        margin: 0;
+    }
+    
+    #spell-content {
+        box-shadow: none;
+        padding: 0;
+    }
+    
+    header {
+        margin-bottom: 20px;
+        border: none;
+    }
+    
+    header h1 {
+        font-size: 1.8em;
+    }
+}
