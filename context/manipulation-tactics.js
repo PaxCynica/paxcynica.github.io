@@ -1,13 +1,13 @@
 const MANIPULATION_TACTICS = [
   // ===================================
-  // INTRODUCTION - CATEGORY HEADER
+  // INTRODUCTION - CATEGORY HEADER 0
   // ===================================
   {
     "title": "Disinformation Tactics & Defense",
     "points": [
       "Modern propaganda uses psychological vulnerabilities against you",
       "Understanding these tactics is your first line of defense",
-      "This deck maps manipulation methods and counter-strategies",
+      "This framework maps manipulation methods and counter-strategies",
       "Knowledge is immunity in the age of weaponized information"
     ],
     "layout": "layout-centered",
@@ -18,7 +18,7 @@ const MANIPULATION_TACTICS = [
     "title": "Disinformation: An Enduring Playbook",
     "points": [
       "Effective disinformation tactics persist, adapting to new eras and platforms.",
-      "This series breaks down their operational logic, drawing on analyses like the 2021 EU Parliament report.",
+      "This framework breaks down their operational logic.",
       "Understanding the 'how' is crucial for cognitive defense."
     ],
     "layout": "layout-centered",
@@ -49,9 +49,155 @@ const MANIPULATION_TACTICS = [
     "theme": "theme-dark",
     "category": "INTRODUCTION TACTICS"
   },
-
   // ===================================
-  // EMOTIONAL MANIPULATION - CATEGORY HEADER
+  // LANGUAGE & COMMUNICATION - CATEGORY HEADER 1
+  // ===================================
+  {
+    "title": "LANGUAGE & COMMUNICATION",
+    "points": [
+      "How disinformation corrupts the tools of meaning",
+      "Manipulates words, phrases, and communication patterns",
+      "Reshapes reality by controlling how we describe it",
+      "When language is weaponized, clarity becomes resistance"
+    ],
+    "layout": "layout-centered",
+    "theme": "theme-blue",
+    "category": "LANGUAGE & COMMUNICATION"
+  },
+  {
+    "title": "Semantic Manipulation",
+    "points": [
+      "Deliberately distorts or redefines language",
+      "Controls words to control how reality is perceived",
+      "Changes meaning of terms to confuse public discourse",
+      "Makes communication itself a battlefield"
+    ],
+    "layout": "layout-split",
+    "theme": "theme-blue",
+    "category": "LANGUAGE & COMMUNICATION"
+  },
+  {
+    "title": "Doublespeak",
+    "points": [
+      "Uses deliberately ambiguous or contradictory language",
+      "Obscures reality and misleads audiences",
+      "Disguises harmful actions with pleasant terms",
+      "The art of lying without technically lying"
+    ],
+    "layout": "layout-boxed",
+    "theme": "theme-blue",
+    "category": "LANGUAGE & COMMUNICATION"
+  },
+  {
+    "title": "Euphemism",
+    "points": [
+      "Uses mild, vague, or pleasant-sounding words",
+      "Covers up harsh realities and atrocities",
+      "Makes violence and oppression sound normal",
+      "Eases moral discomfort with unethical actions"
+    ],
+    "layout": "layout-split",
+    "theme": "theme-blue",
+    "category": "LANGUAGE & COMMUNICATION"
+  },
+  {
+    "title": "Dysphemism",
+    "points": [
+      "Uses harsh or ugly words instead of neutral ones",
+      "Opposite of euphemism - designed to trigger disgust",
+      "Makes people or ideas seem dangerous or repulsive",
+      "Manipulates perception through negative language"
+    ],
+    "layout": "layout-boxed",
+    "theme": "theme-blue",
+    "category": "LANGUAGE & COMMUNICATION"
+  },
+  {
+    "title": "Technical Jargon",
+    "points": [
+      "Overuses specialized, complex language",
+      "Confuses, intimidates, or misleads audiences",
+      "Hides weak arguments behind complexity",
+      "Makes the audience feel intellectually inferior"
+    ],
+    "layout": "layout-centered",
+    "theme": "theme-blue",
+    "category": "LANGUAGE & COMMUNICATION"
+  },
+  {
+    "title": "Buzzword",
+    "points": [
+      "Trendy, vague, or impressive-sounding terms",
+      "Creates illusion of expertise without substance",
+      "Distracts and confuses with empty language",
+      "Signals affiliation without meaningful content"
+    ],
+    "layout": "layout-split",
+    "theme": "theme-blue",
+    "category": "LANGUAGE & COMMUNICATION"
+  },
+  {
+    "title": "Glittering Generalities",
+    "points": [
+      "Uses vague, emotionally charged words",
+      "\"Freedom,\" \"Greatness,\" \"Security\" without specifics",
+      "Sounds inspiring while saying nothing concrete",
+      "Exploits positive emotional associations"
+    ],
+    "layout": "layout-centered",
+    "theme": "theme-blue",
+    "category": "LANGUAGE & COMMUNICATION"
+  },
+  {
+    "title": "Name-Calling",
+    "points": [
+      "Uses insults to replace substantive arguments",
+      "Labels opponents as \"traitors\" or \"foreign agents\"",
+      "Discredits dissent without requiring evidence",
+      "Silences opposition through character assassination"
+    ],
+    "layout": "layout-boxed",
+    "theme": "theme-sunset",
+    "category": "LANGUAGE & COMMUNICATION"
+  },
+  {
+    "title": "Weaponized Irony",
+    "points": [
+      "Uses sarcasm or humor to introduce extremist ideas",
+      "Maintains plausible deniability with \"just joking\"",
+      "Shields harmful content behind comedy",
+      "Undermines serious critique with mockery"
+    ],
+    "layout": "layout-split",
+    "theme": "theme-blue",
+    "category": "LANGUAGE & COMMUNICATION"
+  },
+  {
+    "title": "Humor as Disinformation Camouflage",
+    "points": [
+      "Using humor, satire, or parody to deliver propaganda messages, making them more palatable.",
+      "Changes the *form* of the message (entertaining) without altering the core manipulative *content*.",
+      "Lowers audience defenses, as humor is often not perceived as a serious threat.",
+      "Can provide plausible deniability for the disseminator ('it's just a joke')."
+    ],
+    "layout": "layout-boxed",
+    "theme": "theme-green",
+    "category": "LANGUAGE & COMMUNICATION"
+  },
+  {
+    "title": "Official Trolling: State-Sponsored Memetic Warfare",
+    "points": [
+      "Use of memes, trolling, and provocative humor by official or state sponsored entities.",
+      "Aims to mock adversaries, provoke reactions, or inject specific narratives into international discourse.",
+      "Blurs lines between informal online culture and formal state communication strategies.",
+      "Leverages the disarming nature of humor to deliver sharp political messages or disinformation."
+    ],
+    "layout": "layout-centered",
+    "theme": "theme-blue",
+    "category": "LANGUAGE & COMMUNICATION"
+  },
+  // ===================================
+  // EMOTIONAL MANIPULATION - CATEGORY HEADER 2
   // ===================================
   {
     "title": "EMOTIONAL MANIPULATION",
@@ -63,7 +209,7 @@ const MANIPULATION_TACTICS = [
     ],
     "layout": "layout-centered",
     "theme": "theme-red",
-    "category": "EMOTIONAL MANIPULATION"  // Add this line
+    "category": "EMOTIONAL MANIPULATION"
   },
   {
     "title": "Amygdala Hacking",
@@ -143,14 +289,14 @@ const MANIPULATION_TACTICS = [
       "Using animal imagery in memes/cartoons to dehumanize target groups (e.g., pigs for specific nationalities).",
       "Associates targets with negative traits culturally linked to certain animals, evoking disgust or contempt.",
       "Aims to strip targets of human dignity, lower empathy, and justify aggression.",
-      "Historical tactic (e.g., WWI/WWII propaganda) revived and amplified in modern digital memes."
+      "Historical tactic revived and amplified in modern digital memes."
     ],
     "layout": "layout-split",
     "theme": "theme-red",
     "category": "EMOTIONAL MANIPULATION"
   },
   // ===================================
-  // COGNITIVE EXPLOITATION - CATEGORY HEADER
+  // COGNITIVE EXPLOITATION - CATEGORY HEADER 3
   // ===================================
   {
     "title": "COGNITIVE EXPLOITATION",
@@ -332,327 +478,179 @@ const MANIPULATION_TACTICS = [
     "theme": "theme-purple",
     "category": "COGNITIVE EXPLOITATION"
   },
+  {
+    "title": "Third-Person Effect",
+    "points": [
+      "People believe others are more influenced by media than themselves",
+      "This blind spot makes us underestimate our own vulnerability",
+      "Leads to dismissing warnings about manipulation tactics",
+      "Creates societal vulnerability through collective overconfidence"
+    ],
+    "layout": "layout-split",
+    "theme": "theme-purple",
+    "category": "COGNITIVE EXPLOITATION"
+  },
+  {
+    "title": "Third-Person Effect: Policy Impact",
+    "points": [
+      "Believing others are more influenced shapes what solutions we support",
+      "Can lead to polarized approaches to media literacy and fact-checking",
+      "Political identity influences who we think needs 'protection' vs 'education'",
+      "Effective interventions require acknowledging our shared vulnerability"
+    ],
+    "layout": "layout-boxed",
+    "theme": "theme-purple",
+    "category": "COGNITIVE EXPLOITATION"
+  },
+  {
+    "title": "Fighting Disinformation: Self-Vulnerability",
+    "points": [
+      "Assume you're as susceptible to manipulation as anyone",
+      "Recognize that awareness doesn't equal immunity",
+      "Watch for overconfidence in your own critical thinking",
+      "Practice humility when evaluating your defenses"
+    ],
+    "layout": "layout-boxed",
+    "theme": "theme-blue",
+    "category": "COGNITIVE EXPLOITATION"
+  },
   // ===================================
-  // SOCIAL & GROUP MANIPULATION - CATEGORY HEADER
-  // ===================================
-  {
-    "title": "SOCIAL & GROUP MANIPULATION",
-    "points": [
-      "How disinformation weaponizes our need to belong",
-      "Exploits tribal psychology and social pressure",
-      "Manufactures consensus to steer individual judgment",
-      "When the group decides truth, manipulation flourishes"
-    ],
-    "layout": "layout-centered",
-    "theme": "theme-green",
-    "category": "SOCIAL & GROUP MANIPULATION"
-  },
-  {
-    "title": "Social Proof Manipulation",
-    "points": [
-      "Creates fake consensus through bots and coordinated accounts",
-      "Exploits human instinct to follow the crowd",
-      "Makes fringe views appear mainstream through volume",
-      "Uses herding behavior to override individual judgment"
-    ],
-    "layout": "layout-boxed",
-    "theme": "theme-green",
-    "category": "SOCIAL & GROUP MANIPULATION"
-  },
-  {
-    "title": "Herd Manipulation",
-    "points": [
-      "Exploits crowd behavior to override individual judgment",
-      "Uses artificial consensus to create peer pressure",
-      "Makes dissent feel socially risky and isolating",
-      "Turns group psychology into a weapon"
-    ],
-    "layout": "layout-split",
-    "theme": "theme-green",
-    "category": "SOCIAL & GROUP MANIPULATION"
-  },
-  {
-    "title": "Manufactured Polarization",
-    "points": [
-      "Artificially inflaming divisions between social groups.",
-      "Framing complex issues as binary 'us vs. them' conflicts.",
-      "Reduces nuance, making constructive dialogue impossible.",
-      "Aims to paralyze societal problem-solving and consolidate power."
-    ],
-    "layout": "layout-centered",
-    "theme": "theme-red",
-    "category": "SOCIAL & GROUP MANIPULATION"
-  },
-  {
-    "title": "Manufactured Loyalty",
-    "points": [
-      "Creates artificial bonds to control behavior",
-      "Uses praise and shame to enforce compliance",
-      "Makes belonging conditional on blind agreement",
-      "Weaponizes human need for community"
-    ],
-    "layout": "layout-boxed",
-    "theme": "theme-green",
-    "category": "SOCIAL & GROUP MANIPULATION"
-  },
-  {
-    "title": "Cult of Personality",
-    "points": [
-      "Elevates a leader as flawless and heroic",
-      "Uses propaganda, media control, and symbolism",
-      "Suppresses dissent by creating quasi-religious loyalty",
-      "Replaces critical thinking with worship"
-    ],
-    "layout": "layout-centered",
-    "theme": "theme-red",
-    "category": "SOCIAL & GROUP MANIPULATION"
-  },
-  {
-    "title": "Loyalty Rhetoric",
-    "points": [
-      "Uses 'us vs them' language to enforce compliance",
-      "Makes questioning feel like betrayal of the group",
-      "Turns disagreement into disloyalty",
-      "Weaponizes belonging to silence critical thinking"
-    ],
-    "layout": "layout-split",
-    "theme": "theme-green",
-    "category": "SOCIAL & GROUP MANIPULATION"
-  },
-  {
-    "title": "False Consensus Manufacturing",
-    "points": [
-      "Creates illusion that \"everyone agrees\"",
-      "Uses bots, trolls, and coordinated influencers",
-      "Simulates mass approval or outrage artificially",
-      "Makes fringe opinions appear mainstream"
-    ],
-    "layout": "layout-centered",
-    "theme": "theme-green",
-    "category": "SOCIAL & GROUP MANIPULATION"
-  },
-  {
-    "title": "Divide and Rule",
-    "points": [
-      "Sows division between groups to weaken unity",
-      "Makes a divided population easier to control",
-      "Distracts from real issues with manufactured conflicts",
-      "As old as empire but still thriving today"
-    ],
-    "layout": "layout-boxed",
-    "theme": "theme-red",
-    "category": "SOCIAL & GROUP MANIPULATION"
-  },
-  {
-    "title": "Astroturfing",
-    "points": [
-      "Creates fake \"grassroots\" movements",
-      "Manufactured to appear as popular public support",
-      "Actually deception with money and marketing",
-      "Makes corporate/government interests seem like popular opinion"
-    ],
-    "layout": "layout-split",
-    "theme": "theme-green",
-    "category": "SOCIAL & GROUP MANIPULATION"
-  },
-  {
-    "title": "Fighting Disinformation: Group Pressure",
-    "points": [
-      "Trust your judgment even when standing alone",
-      "Remember crowds can be manufactured or manipulated",
-      "Evaluate evidence independently of popularity",
-      "Popularity measures marketing, not truth"
-    ],
-    "layout": "layout-centered",
-    "theme": "theme-blue",
-    "category": "SOCIAL & GROUP MANIPULATION"
-  },
-  {
-    "title": "Fighting Disinformation: Social Proof",
-    "points": [
-      "Follow evidence instead of crowds",
-      "Check sources before counting shares",
-      "Remember: popularity isn't proof",
-      "Truth often starts as a minority view"
-    ],
-    "layout": "layout-boxed",
-    "theme": "theme-blue",
-    "category": "SOCIAL & GROUP MANIPULATION"
-  },
-  {
-    "title": "Fighting Disinformation: True Loyalty",
-    "points": [
-      "Separate loyalty from blind obedience",
-      "Remember: real loyalty allows questions",
-      "Stay curious even when labeled disloyal",
-      "Truth-seeking is more loyal than silence"
-    ],
-    "layout": "layout-split",
-    "theme": "theme-blue",
-    "category": "SOCIAL & GROUP MANIPULATION"
-  },
-  {
-    "title": "Fighting Disinformation: True Community",
-    "points": [
-      "Build connections based on mutual respect",
-      "Value groups that welcome questions",
-      "Stay loyal to truth over tribe",
-      "Remember: real belonging allows dissent"
-    ],
-    "layout": "layout-centered",
-    "theme": "theme-blue",
-    "category": "SOCIAL & GROUP MANIPULATION"
-  },
-
-  // ===================================
-  // LANGUAGE & COMMUNICATION - CATEGORY HEADER
+  // AUTHORITY & CREDIBILITY - CATEGORY HEADER 4
   // ===================================
   {
-    "title": "LANGUAGE & COMMUNICATION",
+    "title": "AUTHORITY & CREDIBILITY",
     "points": [
-      "How disinformation corrupts the tools of meaning",
-      "Manipulates words, phrases, and communication patterns",
-      "Reshapes reality by controlling how we describe it",
-      "When language is weaponized, clarity becomes resistance"
+      "How disinformation borrows and undermines trust",
+      "Exploits our deference to expertise and status",
+      "Uses false authority to bypass critical evaluation",
+      "When credibility is weaponized, skepticism protects"
     ],
     "layout": "layout-centered",
     "theme": "theme-blue",
-    "category": "LANGUAGE & COMMUNICATION"
+    "category": "AUTHORITY & CREDIBILITY"
   },
   {
-    "title": "Semantic Manipulation",
+    "title": "Insider Amplification",
     "points": [
-      "Deliberately distorts or redefines language",
-      "Controls words to control how reality is perceived",
-      "Changes meaning of terms to confuse public discourse",
-      "Makes communication itself a battlefield"
+      "Leveraging witting or unwitting individuals within trusted institutions.",
+      "Using their credibility to amplify or legitimize disinformation.",
+      "May involve co-opting existing figures, placing agents, or exploiting vulnerabilities.",
+      "Blurs lines between authentic discourse and orchestrated campaigns."
     ],
-    "layout": "layout-split",
-    "theme": "theme-blue",
-    "category": "LANGUAGE & COMMUNICATION"
+    "layout": "layout-centered",
+    "theme": "theme-dark",
+    "category": "AUTHORITY & CREDIBILITY"
   },
   {
-    "title": "Doublespeak",
+    "title": "Appeal to Authority",
     "points": [
-      "Uses deliberately ambiguous or contradictory language",
-      "Obscures reality and misleads audiences",
-      "Disguises harmful actions with pleasant terms",
-      "The art of lying without technically lying"
+      "Uses someone's status rather than evidence",
+      "Leverages celebrities to spread misinformation",
+      "Confuses expertise in one area with authority in another",
+      "Bypasses critical thinking through false credibility"
     ],
     "layout": "layout-boxed",
     "theme": "theme-blue",
-    "category": "LANGUAGE & COMMUNICATION"
+    "category": "AUTHORITY & CREDIBILITY"
   },
   {
-    "title": "Euphemism",
+    "title": "Appeal to Prestige",
     "points": [
-      "Uses mild, vague, or pleasant-sounding words",
-      "Covers up harsh realities and atrocities",
-      "Makes violence and oppression sound normal",
-      "Eases moral discomfort with unethical actions"
+      "Invokes respected names or institutions",
+      "Lends false credibility to weak arguments",
+      "Uses borrowed trust for deception",
+      "Makes falsehoods seem authoritative"
     ],
     "layout": "layout-split",
     "theme": "theme-blue",
-    "category": "LANGUAGE & COMMUNICATION"
+    "category": "AUTHORITY & CREDIBILITY"
   },
   {
-    "title": "Dysphemism",
+    "title": "Beautiful People",
     "points": [
-      "Uses harsh or ugly words instead of neutral ones",
-      "Opposite of euphemism - designed to trigger disgust",
-      "Makes people or ideas seem dangerous or repulsive",
-      "Manipulates perception through negative language"
+      "Uses attractive or influential figures to promote ideas",
+      "Exploits admiration to bypass critical thinking",
+      "Persuades through association rather than evidence",
+      "Transfers positive feelings about person to the message"
+    ],
+    "layout": "layout-centered",
+    "theme": "theme-blue",
+    "category": "AUTHORITY & CREDIBILITY"
+  },
+  {
+    "title": "Folksy Appeal",
+    "points": [
+      "Adopts casual, down-to-earth language",
+      "Appears relatable while pushing deception",
+      "Uses false familiarity to lower skepticism",
+      "Makes manipulators seem trustworthy"
+    ],
+    "layout": "layout-split",
+    "theme": "theme-blue",
+    "category": "AUTHORITY & CREDIBILITY"
+  },
+  {
+    "title": "Appeal to Tradition",
+    "points": [
+      "Defends ideas because \"it's always been this way\"",
+      "Claims history alone makes something right",
+      "Used to resist social progress and equal rights",
+      "Substitutes longevity for moral or logical validity"
     ],
     "layout": "layout-boxed",
     "theme": "theme-blue",
-    "category": "LANGUAGE & COMMUNICATION"
+    "category": "AUTHORITY & CREDIBILITY"
   },
   {
-    "title": "Technical Jargon",
+    "title": "Whataboutism",
     "points": [
-      "Overuses specialized, complex language",
-      "Confuses, intimidates, or misleads audiences",
-      "Hides weak arguments behind complexity",
-      "Makes the audience feel intellectually inferior"
+      "Deflects criticism by pointing to others' flaws",
+      "Changes the subject rather than addressing the issue",
+      "Used by governments to avoid accountability",
+      "False equivalence that derails meaningful discussion"
     ],
     "layout": "layout-centered",
-    "theme": "theme-blue",
-    "category": "LANGUAGE & COMMUNICATION"
+    "theme": "theme-sunset",
+    "category": "AUTHORITY & CREDIBILITY"
   },
   {
-    "title": "Buzzword",
+    "title": "Poisoning the Well",
     "points": [
-      "Trendy, vague, or impressive-sounding terms",
-      "Creates illusion of expertise without substance",
-      "Distracts and confuses with empty language",
-      "Signals affiliation without meaningful content"
+      "Discredits a person or source before they speak",
+      "Ensures their statements will be dismissed regardless of content",
+      "Creates preemptive mistrust of legitimate information",
+      "Prevents fair evaluation of evidence or arguments"
     ],
     "layout": "layout-split",
-    "theme": "theme-blue",
-    "category": "LANGUAGE & COMMUNICATION"
+    "theme": "theme-sunset",
+    "category": "AUTHORITY & CREDIBILITY"
   },
   {
-    "title": "Glittering Generalities",
+    "title": "Sealioning",
     "points": [
-      "Uses vague, emotionally charged words",
-      "\"Freedom,\" \"Greatness,\" \"Security\" without specifics",
-      "Sounds inspiring while saying nothing concrete",
-      "Exploits positive emotional associations"
-    ],
-    "layout": "layout-centered",
-    "theme": "theme-blue",
-    "category": "LANGUAGE & COMMUNICATION"
-  },
-  {
-    "title": "Name-Calling",
-    "points": [
-      "Uses insults to replace substantive arguments",
-      "Labels opponents as \"traitors\" or \"foreign agents\"",
-      "Discredits dissent without requiring evidence",
-      "Silences opposition through character assassination"
+      "Bad-faith actors bombard with 'polite' demands for explanation",
+      "Not seeking to learn but to exhaust and discredit",
+      "Weaponizes civility to drain resources and attention",
+      "Makes defending truth more costly than spreading lies"
     ],
     "layout": "layout-boxed",
     "theme": "theme-sunset",
-    "category": "LANGUAGE & COMMUNICATION"
+    "category": "AUTHORITY & CREDIBILITY"
   },
   {
-    "title": "Weaponized Irony",
+    "title": "Reality Distortion Field",
     "points": [
-      "Uses sarcasm or humor to introduce extremist ideas",
-      "Maintains plausible deniability with \"just joking\"",
-      "Shields harmful content behind comedy",
-      "Undermines serious critique with mockery"
-    ],
-    "layout": "layout-split",
-    "theme": "theme-blue",
-    "category": "LANGUAGE & COMMUNICATION"
-  },
-  {
-    "title": "Humor as Disinformation Camouflage",
-    "points": [
-      "Using humor, satire, or parody to deliver propaganda messages, making them more palatable.",
-      "Changes the *form* of the message (entertaining) without altering the core manipulative *content*.",
-      "Lowers audience defenses, as humor is often not perceived as a serious threat.",
-      "Can provide plausible deniability for the disseminator ('it's just a joke')."
-    ],
-    "layout": "layout-boxed",
-    "theme": "theme-green",
-    "category": "LANGUAGE & COMMUNICATION"
-  },
-  {
-    "title": "Official Trolling: State-Sponsored Memetic Warfare",
-    "points": [
-      "Use of memes, trolling, and provocative humor by official state entities (e.g., embassies, government accounts).",
-      "Aims to mock adversaries, provoke reactions, or inject specific narratives into international discourse.",
-      "Blurs lines between informal online culture and formal state communication strategies.",
-      "Leverages the disarming nature of humor to deliver sharp political messages or disinformation."
+      "Projecting intense conviction and charisma to reshape others' perception of reality.",
+      "Modern equivalent: 'Personal branding' used as strategic communication to build influence.",
+      "Aims to create automatic trust, instant credibility, and make the 'impossible' seem achievable.",
+      "Relies on the influencer's unwavering self-belief and persuasive framing."
     ],
     "layout": "layout-centered",
-    "theme": "theme-blue",
-    "category": "LANGUAGE & COMMUNICATION" // Could also fit ADVANCED PSYCHOLOGICAL OPERATIONS
-  }
+    "theme": "theme-purple",
+    "category": "AUTHORITY & CREDIBILITY"
+  },
   // ===================================
-  // INFORMATION CONTROL - CATEGORY HEADER
+  // INFORMATION CONTROL - CATEGORY HEADER 5
   // ===================================
   {
     "title": "INFORMATION CONTROL",
@@ -825,7 +823,7 @@ const MANIPULATION_TACTICS = [
   {
     "title": "Historical Echoes in Memetic Propaganda",
     "points": [
-      "Repurposing historical propaganda themes, imagery, and slogans (e.g., Soviet agitprop, WWII caricatures) in modern memes.",
+      "Repurposing historical propaganda themes, imagery, and slogans in modern memes.",
       "Leveraging established 'laughing patterns' and familiar cultural symbols to lend false legitimacy.",
       "Aims to create resonance and bypass critical scrutiny by tapping into existing cultural memory.",
       "Example: Using Nazi-era visual tropes or Soviet anti-Western narratives for contemporary targets."
@@ -834,8 +832,251 @@ const MANIPULATION_TACTICS = [
     "theme": "theme-sunset",
     "category": "INFORMATION CONTROL"
   },
+  {
+    "title": "Attention as Currency",
+    "points": [
+      "Human attention has become the most valuable and scarce resource in the information economy",
+      "Organizations trade perceived value (discounts, entertainment) for attention that can be monetized",
+      "Attention harvesting creates behavioral predictability and direct access channels",
+      "Those who control attention flows gain disproportionate influence over perception and decision-making"
+    ],
+    "layout": "layout-split",
+    "theme": "theme-purple",
+    "category": "INFORMATION CONTROL"
+  },
+    // ===================================
+  // PLATFORM & MEDIA CONTROLLERS - CATEGORY HEADER 6
   // ===================================
-  // CRISIS & FEAR TACTICS - CATEGORY HEADER
+  {
+    "title": "PLATFORM & MEDIA CONTROLLERS",
+    "points": [
+      "How information gatekeepers shape what you see and believe",
+      "Understanding the architecture behind content delivery systems",
+      "Recognizing business models that incentivize manipulation",
+      "When you understand the mirrors, you see beyond reflections"
+    ],
+    "layout": "layout-centered",
+    "theme": "theme-purple",
+    "category": "PLATFORM & MEDIA CONTROLLERS"
+  },
+  {
+    "title": "Platform Architecture Awareness",
+    "points": [
+      "Understand how platform design influences information consumption",
+      "Recognize that interfaces are designed to maximize engagement, not truth",
+      "See how recommendation algorithms create filter bubbles and echo chambers",
+      "Platform design is never neutral - it shapes perception by default"
+    ],
+    "layout": "layout-boxed",
+    "theme": "theme-purple",
+    "category": "PLATFORM & MEDIA CONTROLLERS"
+  }, {
+    "title": "Algorithmic Bias Recognition",
+    "points": [
+      "Algorithms amplify existing social biases through data and design choices",
+      "Recommendation systems optimize for engagement, not accuracy or balance",
+      "Content ranking mechanisms prioritize emotional triggers over factual value",
+      "Invisible curation shapes worldview while appearing objective or natural"
+    ],
+    "layout": "layout-split",
+    "theme": "theme-purple",
+    "category": "PLATFORM & MEDIA CONTROLLERS"
+  }, {
+    "title": "Media Ownership Concentration",
+    "points": [
+      "Understand how consolidation limits information diversity",
+      "Recognize when seemingly different sources share common ownership",
+      "Map financial interests that influence editorial decisions",
+      "Track how concentrated power shapes permissible narratives"
+    ],
+    "layout": "layout-centered",
+    "theme": "theme-dark",
+    "category": "PLATFORM & MEDIA CONTROLLERS"
+  }, {
+    "title": "Platform-Specific Literacy",
+    "points": [
+      "Develop tailored awareness for each platform's manipulation mechanisms",
+      "Learn how different platforms uniquely shape content and discourse",
+      "Understand platform-specific signals of authenticity versus manipulation",
+      "Adapt verification techniques to each platform's architecture"
+    ],
+    "layout": "layout-boxed",
+    "theme": "theme-purple",
+    "category": "PLATFORM & MEDIA CONTROLLERS"
+  },
+  // ===================================
+  // SOCIAL & GROUP MANIPULATION - CATEGORY HEADER 7
+  // ===================================
+  {
+    "title": "SOCIAL & GROUP MANIPULATION",
+    "points": [
+      "How disinformation weaponizes our need to belong",
+      "Exploits tribal psychology and social pressure",
+      "Manufactures consensus to steer individual judgment",
+      "When the group decides truth, manipulation flourishes"
+    ],
+    "layout": "layout-centered",
+    "theme": "theme-green",
+    "category": "SOCIAL & GROUP MANIPULATION"
+  },
+  {
+    "title": "Social Proof Manipulation",
+    "points": [
+      "Creates fake consensus through bots and coordinated accounts",
+      "Exploits human instinct to follow the crowd",
+      "Makes fringe views appear mainstream through volume",
+      "Uses herding behavior to override individual judgment"
+    ],
+    "layout": "layout-boxed",
+    "theme": "theme-green",
+    "category": "SOCIAL & GROUP MANIPULATION"
+  },
+  {
+    "title": "Herd Manipulation",
+    "points": [
+      "Exploits crowd behavior to override individual judgment",
+      "Uses artificial consensus to create peer pressure",
+      "Makes dissent feel socially risky and isolating",
+      "Turns group psychology into a weapon"
+    ],
+    "layout": "layout-split",
+    "theme": "theme-green",
+    "category": "SOCIAL & GROUP MANIPULATION"
+  },
+  {
+    "title": "Manufactured Polarization",
+    "points": [
+      "Artificially inflaming divisions between social groups.",
+      "Framing complex issues as binary 'us vs. them' conflicts.",
+      "Reduces nuance, making constructive dialogue impossible.",
+      "Aims to paralyze societal problem-solving and consolidate power."
+    ],
+    "layout": "layout-centered",
+    "theme": "theme-red",
+    "category": "SOCIAL & GROUP MANIPULATION"
+  },
+  {
+    "title": "Manufactured Loyalty",
+    "points": [
+      "Creates artificial bonds to control behavior",
+      "Uses praise and shame to enforce compliance",
+      "Makes belonging conditional on blind agreement",
+      "Weaponizes human need for community"
+    ],
+    "layout": "layout-boxed",
+    "theme": "theme-green",
+    "category": "SOCIAL & GROUP MANIPULATION"
+  },
+  {
+    "title": "Cult of Personality",
+    "points": [
+      "Elevates a leader as flawless and heroic",
+      "Uses propaganda, media control, and symbolism",
+      "Suppresses dissent by creating quasi-religious loyalty",
+      "Replaces critical thinking with worship"
+    ],
+    "layout": "layout-centered",
+    "theme": "theme-red",
+    "category": "SOCIAL & GROUP MANIPULATION"
+  },
+  {
+    "title": "Loyalty Rhetoric",
+    "points": [
+      "Uses 'us vs them' language to enforce compliance",
+      "Makes questioning feel like betrayal of the group",
+      "Turns disagreement into disloyalty",
+      "Weaponizes belonging to silence critical thinking"
+    ],
+    "layout": "layout-split",
+    "theme": "theme-green",
+    "category": "SOCIAL & GROUP MANIPULATION"
+  },
+  {
+    "title": "False Consensus Manufacturing",
+    "points": [
+      "Creates illusion that \"everyone agrees\"",
+      "Uses bots, trolls, and coordinated influencers",
+      "Simulates mass approval or outrage artificially",
+      "Makes fringe opinions appear mainstream"
+    ],
+    "layout": "layout-centered",
+    "theme": "theme-green",
+    "category": "SOCIAL & GROUP MANIPULATION"
+  },
+  {
+    "title": "Divide and Rule",
+    "points": [
+      "Sows division between groups to weaken unity",
+      "Makes a divided population easier to control",
+      "Distracts from real issues with manufactured conflicts",
+      "As old as empire but still thriving today"
+    ],
+    "layout": "layout-boxed",
+    "theme": "theme-red",
+    "category": "SOCIAL & GROUP MANIPULATION"
+  },
+  {
+    "title": "Astroturfing",
+    "points": [
+      "Creates fake \"grassroots\" movements",
+      "Manufactured to appear as popular public support",
+      "Actually deception with money and marketing",
+      "Makes corporate/government interests seem like popular opinion"
+    ],
+    "layout": "layout-split",
+    "theme": "theme-green",
+    "category": "SOCIAL & GROUP MANIPULATION"
+  },
+  {
+    "title": "Fighting Disinformation: Group Pressure",
+    "points": [
+      "Trust your judgment even when standing alone",
+      "Remember crowds can be manufactured or manipulated",
+      "Evaluate evidence independently of popularity",
+      "Popularity measures marketing, not truth"
+    ],
+    "layout": "layout-centered",
+    "theme": "theme-blue",
+    "category": "SOCIAL & GROUP MANIPULATION"
+  },
+  {
+    "title": "Fighting Disinformation: Social Proof",
+    "points": [
+      "Follow evidence instead of crowds",
+      "Check sources before counting shares",
+      "Remember: popularity isn't proof",
+      "Truth often starts as a minority view"
+    ],
+    "layout": "layout-boxed",
+    "theme": "theme-blue",
+    "category": "SOCIAL & GROUP MANIPULATION"
+  },
+  {
+    "title": "Fighting Disinformation: True Loyalty",
+    "points": [
+      "Separate loyalty from blind obedience",
+      "Remember: real loyalty allows questions",
+      "Stay curious even when labeled disloyal",
+      "Truth-seeking is more loyal than silence"
+    ],
+    "layout": "layout-split",
+    "theme": "theme-blue",
+    "category": "SOCIAL & GROUP MANIPULATION"
+  },
+  {
+    "title": "Fighting Disinformation: True Community",
+    "points": [
+      "Build connections based on mutual respect",
+      "Value groups that welcome questions",
+      "Stay loyal to truth over tribe",
+      "Remember: real belonging allows dissent"
+    ],
+    "layout": "layout-centered",
+    "theme": "theme-blue",
+    "category": "SOCIAL & GROUP MANIPULATION"
+  },
+  // ===================================
+  // CRISIS & FEAR TACTICS - CATEGORY HEADER 8
   // ===================================
   {
     "title": "CRISIS & FEAR TACTICS",
@@ -933,145 +1174,230 @@ const MANIPULATION_TACTICS = [
     "theme": "theme-blue",
     "category": "CRISIS & FEAR TACTICS"
   },
-
   // ===================================
-  // AUTHORITY & CREDIBILITY - CATEGORY HEADER
+  // THREAT PERCEPTION - CATEGORY HEADER 9
   // ===================================
   {
-    "title": "AUTHORITY & CREDIBILITY",
+    "title": "THREAT PERCEPTION",
     "points": [
-      "How disinformation borrows and undermines trust",
-      "Exploits our deference to expertise and status",
-      "Uses false authority to bypass critical evaluation",
-      "When credibility is weaponized, skepticism protects"
-    ],
-    "layout": "layout-centered",
-    "theme": "theme-blue",
-    "category": "AUTHORITY & CREDIBILITY"
-  },
-  {
-    "title": "Insider Amplification",
-    "points": [
-      "Leveraging witting or unwitting individuals within trusted institutions.",
-      "Using their credibility to amplify or legitimize disinformation.",
-      "May involve co-opting existing figures, placing agents, or exploiting vulnerabilities.",
-      "Blurs lines between authentic discourse and orchestrated campaigns."
-    ],
-    "layout": "layout-centered",
-    "theme": "theme-dark",
-    "category": "AUTHORITY & CREDIBILITY"
-  },
-  {
-    "title": "Appeal to Authority",
-    "points": [
-      "Uses someone's status rather than evidence",
-      "Leverages celebrities to spread misinformation",
-      "Confuses expertise in one area with authority in another",
-      "Bypasses critical thinking through false credibility"
-    ],
-    "layout": "layout-boxed",
-    "theme": "theme-blue",
-    "category": "AUTHORITY & CREDIBILITY"
-  },
-  {
-    "title": "Appeal to Prestige",
-    "points": [
-      "Invokes respected names or institutions",
-      "Lends false credibility to weak arguments",
-      "Uses borrowed trust for deception",
-      "Makes falsehoods seem authoritative"
-    ],
-    "layout": "layout-split",
-    "theme": "theme-blue",
-    "category": "AUTHORITY & CREDIBILITY"
-  },
-  {
-    "title": "Beautiful People",
-    "points": [
-      "Uses attractive or influential figures to promote ideas",
-      "Exploits admiration to bypass critical thinking",
-      "Persuades through association rather than evidence",
-      "Transfers positive feelings about person to the message"
-    ],
-    "layout": "layout-centered",
-    "theme": "theme-blue",
-    "category": "AUTHORITY & CREDIBILITY"
-  },
-  {
-    "title": "Folksy Appeal",
-    "points": [
-      "Adopts casual, down-to-earth language",
-      "Appears relatable while pushing deception",
-      "Uses false familiarity to lower skepticism",
-      "Makes manipulators seem trustworthy"
-    ],
-    "layout": "layout-split",
-    "theme": "theme-blue",
-    "category": "AUTHORITY & CREDIBILITY"
-  },
-  {
-    "title": "Appeal to Tradition",
-    "points": [
-      "Defends ideas because \"it's always been this way\"",
-      "Claims history alone makes something right",
-      "Used to resist social progress and equal rights",
-      "Substitutes longevity for moral or logical validity"
-    ],
-    "layout": "layout-boxed",
-    "theme": "theme-blue",
-    "category": "AUTHORITY & CREDIBILITY"
-  },
-  {
-    "title": "Whataboutism",
-    "points": [
-      "Deflects criticism by pointing to others' flaws",
-      "Changes the subject rather than addressing the issue",
-      "Used by governments to avoid accountability",
-      "False equivalence that derails meaningful discussion"
-    ],
-    "layout": "layout-centered",
-    "theme": "theme-sunset",
-    "category": "AUTHORITY & CREDIBILITY"
-  },
-  {
-    "title": "Poisoning the Well",
-    "points": [
-      "Discredits a person or source before they speak",
-      "Ensures their statements will be dismissed regardless of content",
-      "Creates preemptive mistrust of legitimate information",
-      "Prevents fair evaluation of evidence or arguments"
-    ],
-    "layout": "layout-split",
-    "theme": "theme-sunset",
-    "category": "AUTHORITY & CREDIBILITY"
-  },
-  {
-    "title": "Sealioning",
-    "points": [
-      "Bad-faith actors bombard with 'polite' demands for explanation",
-      "Not seeking to learn but to exhaust and discredit",
-      "Weaponizes civility to drain resources and attention",
-      "Makes defending truth more costly than spreading lies"
-    ],
-    "layout": "layout-boxed",
-    "theme": "theme-sunset",
-    "category": "AUTHORITY & CREDIBILITY"
-  },
-  {
-    "title": "Reality Distortion Field",
-    "points": [
-      "Projecting intense conviction and charisma to reshape others' perception of reality.",
-      "Modern equivalent: 'Personal branding' used as strategic communication to build influence.",
-      "Aims to create automatic trust, instant credibility, and make the 'impossible' seem achievable.",
-      "Relies on the influencer's unwavering self-belief and persuasive framing."
+      "How we focus on immediate dangers while missing larger ones",
+      "Evolutionary biases that limit our threat assessment",
+      "Cognitive blind spots that manipulators can exploit",
+      "When attention locks on one threat, others strike unnoticed"
     ],
     "layout": "layout-centered",
     "theme": "theme-purple",
-    "category": "AUTHORITY & CREDIBILITY"
+    "category": "THREAT PERCEPTION"
   },
-
+  {
+    "title": "Evolutionary Tunnel Vision",
+    "points": [
+      "Evolved to prioritize immediate, obvious threats",
+      "Survival advantage that becomes modern vulnerability",
+      "Diverts attention from slow-building dangers",
+      "Creates exploitable gaps in awareness"
+    ],
+    "layout": "layout-split",
+    "theme": "theme-dark",
+    "category": "THREAT PERCEPTION"
+  },
+  {
+    "title": "Cognitive Resource Limitations",
+    "points": [
+      "Brain cannot process multiple complex threats simultaneously",
+      "Focusing on one danger simplifies cognitive load",
+      "Enables faster response but creates blind spots",
+      "Limited attention becomes vulnerability to manipulation"
+    ],
+    "layout": "layout-boxed",
+    "theme": "theme-purple",
+    "category": "THREAT PERCEPTION"
+  },
+  {
+    "title": "Salience Trap",
+    "points": [
+      "Attention captured by what's loudest or most visible",
+      "Noticeable threats overshadow more significant ones",
+      "Emotional intensity trumps rational assessment",
+      "Manipulators exploit by creating distracting crises"
+    ],
+    "layout": "layout-centered",
+    "theme": "theme-sunset",
+    "category": "THREAT PERCEPTION"
+  },
+  {
+    "title": "Fight-or-Flight Narrowing",
+    "points": [
+      "Acute stress triggers immediate action focus",
+      "Narrows perception to handle perceived danger",
+      "Neglects broader contextual factors and patterns",
+      "Creates vulnerability to manufactured emergencies"
+    ],
+    "layout": "layout-split",
+    "theme": "theme-red",
+    "category": "THREAT PERCEPTION"
+  },
+  {
+    "title": "Narrative Misdirection",
+    "points": [
+      "Dominant story about one threat eclipses others",
+      "Framing controls which dangers receive attention",
+      "Media focus creates artificial hierarchy of threats",
+      "Controlled narratives dictate what feels dangerous"
+    ],
+    "layout": "layout-boxed",
+    "theme": "theme-sunset",
+    "category": "THREAT PERCEPTION"
+  },
+  {
+    "title": "The Dominant Crisis Effect",
+    "points": [
+      "Visible crises consume all attention and resources",
+      "Slow-burning threats neglected despite greater danger",
+      "Organizations fixate on public relations disasters",
+      "Long-term existential risks remain unaddressed"
+    ],
+    "layout": "layout-split",
+    "theme": "theme-dark",
+    "category": "THREAT PERCEPTION"
+  },
+  {
+    "title": "Ideological Conflict Distraction",
+    "points": [
+      "Political battles dominate attention while basics deteriorate",
+      "Focus on 'enemies' overshadows systemic failures",
+      "Cultural wars mask resource depletion and infrastructure decay",
+      "Arguing while the foundation crumbles beneath"
+    ],
+    "layout": "layout-centered",
+    "theme": "theme-red",
+    "category": "THREAT PERCEPTION"
+  },
+  {
+    "title": "The Urgency Trap",
+    "points": [
+      "Immediate issues prevent focus on critical long-term challenges",
+      "Constant firefighting precludes prevention",
+      "Tomorrow's catastrophes germinate while today's crises consume",
+      "Pattern becomes self-reinforcing cycle of neglect"
+    ],
+    "layout": "layout-boxed",
+    "theme": "theme-purple",
+    "category": "THREAT PERCEPTION"
+  },
+  {
+    "title": "Fighting Disinformation: Holistic Thinking",
+    "points": [
+      "Develop broader systems perspective on threats",
+      "Recognize interconnectedness of different dangers",
+      "Question what issues might be obscured by current focus",
+      "Actively seek the threats not making headlines"
+    ],
+    "layout": "layout-centered",
+    "theme": "theme-green",
+    "category": "THREAT PERCEPTION"
+  },
+  {
+    "title": "Fighting Disinformation: Attention Management",
+    "points": [
+      "Consciously allocate attention across threat spectrum",
+      "Balance immediate concerns with long-term dangers",
+      "Question whose interests are served by current focus",
+      "Recognize when emotion is being used to narrow vision"
+    ],
+    "layout": "layout-split",
+    "theme": "theme-blue",
+    "category": "THREAT PERCEPTION"
+  },
+  {
+    "title": "Fighting Disinformation: Long-Term Vision",
+    "points": [
+      "Prioritize sustainability alongside immediate concerns",
+      "Develop resistance to manufactured urgency",
+      "Create systems that track slow-moving threats",
+      "Build awareness of what's being neglected in the noise"
+    ],
+    "layout": "layout-boxed",
+    "theme": "theme-green",
+    "category": "THREAT PERCEPTION"
+  },
   // ===================================
-  // ADVANCED PSYCHOLOGICAL OPERATIONS - CATEGORY HEADER
+  // PLAUSIBLE DENIABILITY - CATEGORY HEADER 10
+  // ===================================
+  {
+    "title": "Plausible Deniability",
+    "points": [
+      "Disinfo actors create distance from false info.",
+      "Uses proxies, shell accounts, or indirect channels.",
+      "Denies direct involvement or knowledge.",
+      "Hides the hand spreading the lie."
+    ],
+    "layout": "layout-boxed",
+    "theme": "theme-dark",
+    "category": "PLAUSIBLE DENIABILITY"
+  },
+  {
+    "title": "Plausible Deniability: Ambiguity",
+    "points": [
+      "Narratives with built-in ambiguity.",
+      "Alternative interpretations are always available.",
+      "Allows claims of misunderstanding or jokes.",
+      "Undermines direct accountability."
+    ],
+    "layout": "layout-split",
+    "theme": "theme-purple",
+    "category": "PLAUSIBLE DENIABILITY"
+  },
+  {
+    "title": "Plausible Deniability: Attribution",
+    "points": [
+      "Attributing actions to 'hackers' or 'activists'.",
+      "Leaking info through seemingly independent sources.",
+      "Denies state or group responsibility.",
+      "Obscures the true origin of the campaign."
+    ],
+    "layout": "layout-boxed",
+    "theme": "theme-dark",
+    "category": "PLAUSIBLE DENIABILITY"
+  },
+  {
+    "title": "Fighting Disinformation: Tracing",
+    "points": [
+      "Trace origins despite deniability attempts.",
+      "Identify patterns suggesting coordination.",
+      "Look for indirect links to known actors.",
+      "Analyze technical aspects for clues."
+    ],
+    "layout": "layout-split",
+    "theme": "theme-green",
+    "category": "PLAUSIBLE DENIABILITY"
+  },
+  {
+    "title": "Fighting Disinformation: Impact",
+    "points": [
+      "Focus on impact, regardless of claimed source.",
+      "Recognize common tactics for plausible deniability.",
+      "Understand the motivations behind the tactic.",
+      "Don't get distracted by the 'who,' focus on the 'what.'"
+    ],
+    "layout": "layout-boxed",
+    "theme": "theme-blue",
+    "category": "PLAUSIBLE DENIABILITY"
+  },
+  {
+    "title": "Fighting Disinformation: Accountability",
+    "points": [
+      "Demand accountability regardless of deniability.",
+      "Highlight inconsistencies in narratives.",
+      "Expose the tactic to undermine its effectiveness.",
+      "Shine a light on the shadows of disinformation."
+    ],
+    "layout": "layout-centered",
+    "theme": "theme-green",
+    "category": "PLAUSIBLE DENIABILITY"
+  },
+  // ===================================
+  // ADVANCED PSYCHOLOGICAL OPERATIONS - CATEGORY HEADER 11
   // ===================================
   {
     "title": "ADVANCED PSYCHOLOGICAL OPERATIONS",
@@ -1337,9 +1663,32 @@ const MANIPULATION_TACTICS = [
     "theme": "theme-dark",
     "category": "ADVANCED PSYCHOLOGICAL OPERATIONS"
   },
-
+  {
+    "title": "Meta-Manipulation",
+    "points": [
+      "Weaponizes awareness of manipulation tactics as a manipulation tactic itself",
+      "Uses accusations of 'propaganda' or 'fake news' to dismiss legitimate information",
+      "Exploits skepticism by positioning manipulators as 'truth-tellers exposing manipulation'",
+      "Creates paralysis through hyper-skepticism where nothing can be trusted"
+    ],
+    "layout": "layout-split",
+    "theme": "theme-purple",
+    "category": "ADVANCED PSYCHOLOGICAL OPERATIONS"
+  },
+  {
+    "title": "Epistemic Vertigo",
+    "points": [
+      "Disorientation that occurs when reliable methods of determining truth repeatedly fail",
+      "State of perpetual uncertainty created by exposure to contradictory information ecosystems",
+      "Makes individuals abandon truth-seeking in favor of tribal knowledge or cynical disengagement",
+      "A deliberate goal of advanced information operations, not just a side effect"
+    ],
+    "layout": "layout-boxed",
+    "theme": "theme-purple",
+    "category": "ADVANCED PSYCHOLOGICAL OPERATIONS"
+  },
   // ===================================
-  // COUNTER-STRATEGIES & DEFENSE - CATEGORY HEADER
+  // COUNTER-STRATEGIES & DEFENSE - CATEGORY HEADER 12
   // ===================================
   {
     "title": "COUNTER-STRATEGIES & DEFENSE",
@@ -1521,226 +1870,62 @@ const MANIPULATION_TACTICS = [
     "theme": "theme-green",
     "category": "COUNTER-STRATEGIES & DEFENSE"
   },
-  // ===================================
-  // PLAUSIBLE DENIABILITY - CATEGORY HEADER
-  // ===================================
   {
-    "title": "Plausible Deniability",
+    "title": "Fighting Disinformation: Epistemic Resilience",
     "points": [
-      "Disinfo actors create distance from false info.",
-      "Uses proxies, shell accounts, or indirect channels.",
-      "Denies direct involvement or knowledge.",
-      "Hides the hand spreading the lie."
-    ],
-    "layout": "layout-boxed",
-    "theme": "theme-dark",
-    "category": "PLAUSIBLE DENIABILITY"
-  },
-  {
-    "title": "Plausible Deniability: Ambiguity",
-    "points": [
-      "Narratives with built-in ambiguity.",
-      "Alternative interpretations are always available.",
-      "Allows claims of misunderstanding or jokes.",
-      "Undermines direct accountability."
-    ],
-    "layout": "layout-split",
-    "theme": "theme-purple",
-    "category": "PLAUSIBLE DENIABILITY"
-  },
-  {
-    "title": "Plausible Deniability: Attribution",
-    "points": [
-      "Attributing actions to 'hackers' or 'activists'.",
-      "Leaking info through seemingly independent sources.",
-      "Denies state or group responsibility.",
-      "Obscures the true origin of the campaign."
-    ],
-    "layout": "layout-boxed",
-    "theme": "theme-dark",
-    "category": "PLAUSIBLE DENIABILITY"
-  },
-  {
-    "title": "Fighting Disinformation: Tracing",
-    "points": [
-      "Trace origins despite deniability attempts.",
-      "Identify patterns suggesting coordination.",
-      "Look for indirect links to known actors.",
-      "Analyze technical aspects for clues."
-    ],
-    "layout": "layout-split",
-    "theme": "theme-green",
-    "category": "PLAUSIBLE DENIABILITY"
-  },
-  {
-    "title": "Fighting Disinformation: Impact",
-    "points": [
-      "Focus on impact, regardless of claimed source.",
-      "Recognize common tactics for plausible deniability.",
-      "Understand the motivations behind the tactic.",
-      "Don't get distracted by the 'who,' focus on the 'what.'"
-    ],
-    "layout": "layout-boxed",
-    "theme": "theme-blue",
-    "category": "PLAUSIBLE DENIABILITY"
-  },
-  {
-    "title": "Fighting Disinformation: Accountability",
-    "points": [
-      "Demand accountability regardless of deniability.",
-      "Highlight inconsistencies in narratives.",
-      "Expose the tactic to undermine its effectiveness.",
-      "Shine a light on the shadows of disinformation."
-    ],
-    "layout": "layout-centered",
-    "theme": "theme-green",
-    "category": "PLAUSIBLE DENIABILITY"
-  },
-  // ===================================
-  // THREAT PERCEPTION - CATEGORY HEADER
-  // ===================================
-  {
-    "title": "THREAT PERCEPTION",
-    "points": [
-      "How we focus on immediate dangers while missing larger ones",
-      "Evolutionary biases that limit our threat assessment",
-      "Cognitive blind spots that manipulators can exploit",
-      "When attention locks on one threat, others strike unnoticed"
-    ],
-    "layout": "layout-centered",
-    "theme": "theme-purple",
-    "category": "THREAT PERCEPTION"
-  },
-  {
-    "title": "Evolutionary Tunnel Vision",
-    "points": [
-      "Evolved to prioritize immediate, obvious threats",
-      "Survival advantage that becomes modern vulnerability",
-      "Diverts attention from slow-building dangers",
-      "Creates exploitable gaps in awareness"
-    ],
-    "layout": "layout-split",
-    "theme": "theme-dark",
-    "category": "THREAT PERCEPTION"
-  },
-  {
-    "title": "Cognitive Resource Limitations",
-    "points": [
-      "Brain cannot process multiple complex threats simultaneously",
-      "Focusing on one danger simplifies cognitive load",
-      "Enables faster response but creates blind spots",
-      "Limited attention becomes vulnerability to manipulation"
-    ],
-    "layout": "layout-boxed",
-    "theme": "theme-purple",
-    "category": "THREAT PERCEPTION"
-  },
-  {
-    "title": "Salience Trap",
-    "points": [
-      "Attention captured by what's loudest or most visible",
-      "Noticeable threats overshadow more significant ones",
-      "Emotional intensity trumps rational assessment",
-      "Manipulators exploit by creating distracting crises"
-    ],
-    "layout": "layout-centered",
-    "theme": "theme-sunset",
-    "category": "THREAT PERCEPTION"
-  },
-  {
-    "title": "Fight-or-Flight Narrowing",
-    "points": [
-      "Acute stress triggers immediate action focus",
-      "Narrows perception to handle perceived danger",
-      "Neglects broader contextual factors and patterns",
-      "Creates vulnerability to manufactured emergencies"
-    ],
-    "layout": "layout-split",
-    "theme": "theme-red",
-    "category": "THREAT PERCEPTION"
-  },
-  {
-    "title": "Narrative Misdirection",
-    "points": [
-      "Dominant story about one threat eclipses others",
-      "Framing controls which dangers receive attention",
-      "Media focus creates artificial hierarchy of threats",
-      "Controlled narratives dictate what feels dangerous"
-    ],
-    "layout": "layout-boxed",
-    "theme": "theme-sunset",
-    "category": "THREAT PERCEPTION"
-  },
-  {
-    "title": "The Dominant Crisis Effect",
-    "points": [
-      "Visible crises consume all attention and resources",
-      "Slow-burning threats neglected despite greater danger",
-      "Organizations fixate on public relations disasters",
-      "Long-term existential risks remain unaddressed"
-    ],
-    "layout": "layout-split",
-    "theme": "theme-dark",
-    "category": "THREAT PERCEPTION"
-  },
-  {
-    "title": "Ideological Conflict Distraction",
-    "points": [
-      "Political battles dominate attention while basics deteriorate",
-      "Focus on 'enemies' overshadows systemic failures",
-      "Cultural wars mask resource depletion and infrastructure decay",
-      "Arguing while the foundation crumbles beneath"
-    ],
-    "layout": "layout-centered",
-    "theme": "theme-red",
-    "category": "THREAT PERCEPTION"
-  },
-  {
-    "title": "The Urgency Trap",
-    "points": [
-      "Immediate issues prevent focus on critical long-term challenges",
-      "Constant firefighting precludes prevention",
-      "Tomorrow's catastrophes germinate while today's crises consume",
-      "Pattern becomes self-reinforcing cycle of neglect"
-    ],
-    "layout": "layout-boxed",
-    "theme": "theme-purple",
-    "category": "THREAT PERCEPTION"
-  },
-  {
-    "title": "Fighting Disinformation: Holistic Thinking",
-    "points": [
-      "Develop broader systems perspective on threats",
-      "Recognize interconnectedness of different dangers",
-      "Question what issues might be obscured by current focus",
-      "Actively seek the threats not making headlines"
-    ],
-    "layout": "layout-centered",
-    "theme": "theme-green",
-    "category": "THREAT PERCEPTION"
-  },
-  {
-    "title": "Fighting Disinformation: Attention Management",
-    "points": [
-      "Consciously allocate attention across threat spectrum",
-      "Balance immediate concerns with long-term dangers",
-      "Question whose interests are served by current focus",
-      "Recognize when emotion is being used to narrow vision"
-    ],
-    "layout": "layout-split",
-    "theme": "theme-blue",
-    "category": "THREAT PERCEPTION"
-  },
-  {
-    "title": "Fighting Disinformation: Long-Term Vision",
-    "points": [
-      "Prioritize sustainability alongside immediate concerns",
-      "Develop resistance to manufactured urgency",
-      "Create systems that track slow-moving threats",
-      "Build awareness of what's being neglected in the noise"
+      "Develop consistent principles for evaluating information, not just reactive skepticism",
+      "Distinguish between healthy doubt and manufactured cynicism",
+      "Build trusted information networks based on track record, not ideological alignment",
+      "Maintain calibrated trust - neither naive acceptance nor reflexive disbelief"
     ],
     "layout": "layout-boxed",
     "theme": "theme-green",
-    "category": "THREAT PERCEPTION"
+    "category": "COUNTER-STRATEGIES & DEFENSE"
   },
+  {
+    "title": "Frame Shifting Technique",
+    "points": [
+      "Deliberately changing interpretive contexts to gain new perspectives",
+      "Moving between multiple explanatory frameworks to see blind spots",
+      "Testing how different framing changes your emotional response",
+      "Practicing frame flexibility as defense against frame manipulation"
+    ],
+    "layout": "layout-split",
+    "theme": "theme-green",
+    "category": "COUNTER-STRATEGIES & DEFENSE"
+  }, {
+    "title": "Reframing Questions",
+    "points": [
+      "Ask 'Who benefits from this particular frame?'",
+      "Examine what's excluded by the current frame boundaries",
+      "Consider what time scale the frame operates within",
+      "Question whether the frame treats symptoms or root causes"
+    ],
+    "layout": "layout-boxed",
+    "theme": "theme-green",
+    "category": "COUNTER-STRATEGIES & DEFENSE"
+  }, {
+    "title": "Contextual Bias Mapping",
+    "points": [
+      "Identify which of your identities and experiences shape your perceptions",
+      "Recognize how your personal history creates specific vulnerability patterns",
+      "Map your emotional triggers to understand your manipulation profile",
+      "Practice identifying your perceptual blind spots through diverse feedback"
+    ],
+    "layout": "layout-centered",
+    "theme": "theme-green",
+    "category": "COUNTER-STRATEGIES & DEFENSE"
+  }, {
+    "title": "Bias Calibration Practice",
+    "points": [
+      "Regularly expose yourself to viewpoints you disagree with",
+      "Seek corrections and admit errors to strengthen intellectual humility",
+      "Compare your reactions to similar information from different sources",
+      "Audit your information diet for diversity of perspective and origin"
+    ],
+    "layout": "layout-split",
+    "theme": "theme-green",
+    "category": "COUNTER-STRATEGIES & DEFENSE"
+  },
+
 ];

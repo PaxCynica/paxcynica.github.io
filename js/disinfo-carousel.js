@@ -2,347 +2,86 @@ document.addEventListener('DOMContentLoaded', function () {
     // Sample disinfo cards from your existing data
     const disinfoCards = [
         {
-            "title": "Disinformation: An Enduring Playbook",
+            "title": "LITERACY IN HOSTILE ENVIRONMENTS",
             "points": [
-                "Effective disinformation tactics persist, adapting to new eras and platforms.",
-                "This series breaks down their operational logic, drawing on analyses like the 2021 EU Parliament report.",
-                "Understanding the 'how' is crucial for cognitive defense."
+                "How to build resilience in a hostile information landscape",
+                "Adversarial literacy as a form of self-defense",
+                "Practical skills for navigating disinformation",
+                "When the medium is the weapon, literacy becomes armor"
             ],
             "layout": "layout-centered",
             "theme": "theme-dark",
-            "category": "INTRODUCTION TACTICS"
+            "category": "LITERACY IN HOSTILE ENVIRONMENTS"
         },
         {
-            "title": "Beyond Obvious Fakes: Modern Influence",
+            "title": "LITERACY IN HOSTILE ENVIRONMENTS",
             "points": [
-                "Today's influence often bypasses simple 'fake news' checks.",
-                "Relies on emotional saturation, manufactured polarization, and laundered narratives.",
-                "Exploits strategic amplification, sometimes via trusted institutions.",
-                "Recognizing the architecture of these tactics is key to resilience."
-            ],
-            "layout": "layout-boxed",
-            "theme": "theme-dark",
-            "category": "INTRODUCTION TACTICS"
-        },
-        {
-            "title": "Tactical Breakdown: Naming the Systems",
-            "points": [
-                "This isn't just about moral outrage; it's about deconstructing methods.",
-                "Each tactic exploits specific vulnerabilities with operational precision.",
-                "Goal: To recognize, explain, and resist these enduring strategies.",
-                "Empower yourself and others with cognitive security."
-            ],
-            "layout": "layout-split",
-            "theme": "theme-dark",
-            "category": "INTRODUCTION TACTICS"
-        },
-
-        // --- TACTICS FROM THE THREAD ---
-
-        // Laundered Narratives
-        {
-            "title": "Information Laundering",
-            "points": [
-                "Introduces false information in fringe spaces",
-                "Gradually amplifies through increasingly credible sources",
-                "Makes falsehoods appear legitimate over time",
-                "Exploits the 'source amnesia' cognitive bias"
-            ],
-            "layout": "layout-split",
-            "theme": "theme-dark",
-            "category": "INFORMATION CONTROL"
-        },
-
-        // Manufactured Polarization
-        {
-            "title": "Manufactured Polarization",
-            "points": [
-                "Artificially inflaming divisions between social groups.",
-                "Framing complex issues as binary 'us vs. them' conflicts.",
-                "Reduces nuance, making constructive dialogue impossible.",
-                "Aims to paralyze societal problem-solving and consolidate power."
-            ],
-            "layout": "layout-centered",
-            "theme": "theme-red",
-            "category": "SOCIAL & GROUP MANIPULATION"
-        },
-        {
-            "title": "Divide and Rule",
-            "points": [
-                "Sows division between groups to weaken unity",
-                "Makes a divided population easier to control",
-                "Distracts from real issues with manufactured conflicts",
-                "As old as empire but still thriving today"
-            ],
-            "layout": "layout-boxed",
-            "theme": "theme-red",
-            "category": "SOCIAL & GROUP MANIPULATION"
-        },
-        {
-            "title": "Loyalty Rhetoric",
-            "points": [
-                "Uses 'us vs them' language to enforce compliance",
-                "Makes questioning feel like betrayal of the group",
-                "Turns disagreement into disloyalty",
-                "Weaponizes belonging to silence critical thinking"
-            ],
-            "layout": "layout-split",
-            "theme": "theme-green",
-            "category": "SOCIAL & GROUP MANIPULATION"
-        },
-
-        // Virality Engineering
-        {
-            "title": "Virality Engineering",
-            "points": [
-                "Designing content for maximum spread, regardless of truth.",
-                "Exploits emotional triggers, trending topics, and platform algorithms.",
-                "Uses bots, coordinated networks, and influencers for initial boost.",
-                "Goal: Achieve organic-looking spread of a controlled message."
-            ],
-            "layout": "layout-boxed",
-            "theme": "theme-purple",
-            "category": "INFORMATION CONTROL"
-        },
-        {
-            "title": "Memetic Programming",
-            "points": [
-                "Creates and spreads contagious ideas or 'memes'",
-                "Designed to shape beliefs without conscious awareness",
-                "Bypasses critical thinking through humor or emotion",
-                "Programs behavior through seemingly harmless content"
+                "You can’t teach people to swim in a flood.",
+                "You can’t build media literacy in an ecosystem engineered to drown it.",
+                "Learning when the medium is the weapon requires a new approach."
             ],
             "layout": "layout-centered",
             "theme": "theme-dark",
-            "category": "INFORMATION CONTROL"
+            "category": "LITERACY IN HOSTILE ENVIRONMENTS"
         },
         {
-            "title": "Social Proof Manipulation",
+            "title": "The Rigged Information Field",
             "points": [
-                "Creates fake consensus through bots and coordinated accounts",
-                "Exploits human instinct to follow the crowd",
-                "Makes fringe views appear mainstream through volume",
-                "Uses herding behavior to override individual judgment"
-            ],
-            "layout": "layout-boxed",
-            "theme": "theme-green",
-            "category": "SOCIAL & GROUP MANIPULATION"
-        },
-
-        // Authority Hijack / Strategic Amplification from Inside Trusted Institutions
-        {
-            "title": "Insider Amplification",
-            "points": [
-                "Leveraging witting or unwitting individuals within trusted institutions.",
-                "Using their credibility to amplify or legitimize disinformation.",
-                "May involve co-opting existing figures, placing agents, or exploiting vulnerabilities.",
-                "Blurs lines between authentic discourse and orchestrated campaigns."
-            ],
-            "layout": "layout-centered",
-            "theme": "theme-dark",
-            "category": "AUTHORITY & CREDIBILITY"
-        },
-        {
-            "title": "Appeal to Authority",
-            "points": [
-                "Uses someone's status rather than evidence",
-                "Leverages celebrities to spread misinformation",
-                "Confuses expertise in one area with authority in another",
-                "Bypasses critical thinking through false credibility"
-            ],
-            "layout": "layout-boxed",
-            "theme": "theme-blue",
-            "category": "AUTHORITY & CREDIBILITY"
-        },
-        {
-            "title": "Fifth Column",
-            "points": [
-                "Covert groups working within a country to undermine it",
-                "Aids external enemies without open confrontation",
-                "Operates through influence operations and subversion",
-                "Creates internal division that weakens resistance"
+                "Most media literacy efforts assumed a neutral field, but it isn't.",
+                "The field is rigged, reactive, and hostile.",
+                "Algorithms favor speed; polarization is profitable; virality selects for outrage.",
+                "Manipulation is often a feature, not a flaw."
             ],
             "layout": "layout-boxed",
             "theme": "theme-dark",
-            "category": "ADVANCED PSYCHOLOGICAL OPERATIONS"
+            "category": "LITERACY IN HOSTILE ENVIRONMENTS"
         },
-
-        // Microtargeting
         {
-            "title": "Psychographic Microtargeting",
+            "title": "Media Literacy as Warfighting",
             "points": [
-                "Tailoring disinformation to individuals/small groups based on detailed data profiles.",
-                "Uses online behavior, demographics, and psychological traits to craft personalized triggers.",
-                "Delivers hyper-relevant manipulative narratives to exploit specific vulnerabilities.",
-                "Often automated and operates at scale, making it hard to detect."
-            ],
-            "layout": "layout-boxed",
-            "theme": "theme-purple",
-            "category": "ADVANCED PSYCHOLOGICAL OPERATIONS"
-        },
-
-        // Trust Erosion
-        {
-            "title": "Strategic Trust Erosion",
-            "points": [
-                "Systematically undermining faith in institutions, media, science, and elections.",
-                "Flooding information space with contradictions to create cynicism.",
-                "Promoting the idea that 'nothing is true and everything is possible'.",
-                "Goal: Make citizens disengage or susceptible to simpler, authoritarian narratives."
+                "Teaching literacy in this system is like teaching calm in a burning building.",
+                "It's not impossible, but it is warfighting.",
+                "Literacy must be tactically aware, emotionally grounded, and built for resistance.",
+                "It must be able to operate under narrative pressure."
             ],
             "layout": "layout-split",
             "theme": "theme-dark",
-            "category": "ADVANCED PSYCHOLOGICAL OPERATIONS"
+            "category": "LITERACY IN HOSTILE ENVIRONMENTS"
         },
         {
-            "title": "Poisoning the Well",
+            "title": "Literacy-as-Armor: Practical Skills",
             "points": [
-                "Discredits a person or source before they speak",
-                "Ensures their statements will be dismissed regardless of content",
-                "Creates preemptive mistrust of legitimate information",
-                "Prevents fair evaluation of evidence or arguments"
-            ],
-            "layout": "layout-split",
-            "theme": "theme-sunset",
-            "category": "AUTHORITY & CREDIBILITY"
-        },
-        {
-            "title": "Censorship By Noise",
-            "points": [
-                "Floods information space with garbage content",
-                "Drowns out truth without using force",
-                "Overwhelms through distraction and volume",
-                "Makes finding accurate information exhausting"
-            ],
-            "layout": "layout-boxed",
-            "theme": "theme-sunset",
-            "category": "INFORMATION CONTROL"
-        },
-        {
-            "title": "Narrative Flooding",
-            "points": [
-                "Pushes multiple conflicting stories simultaneously",
-                "Overwhelms public discourse with contradictions",
-                "Creates confusion about what is actually happening",
-                "Prevents clear conclusions and understanding"
-            ],
-            "layout": "layout-centered",
-            "theme": "theme-sunset",
-            "category": "INFORMATION CONTROL"
-        },
-
-        // Legal Evasion
-        {
-            "title": "Plausible Deniability",
-            "points": [
-                "Disinfo actors create distance from false info.",
-                "Uses proxies, shell accounts, or indirect channels.",
-                "Denies direct involvement or knowledge.",
-                "Hides the hand spreading the lie."
+                "Train for ambiguity and practice emotional self-regulation.",
+                "Identify coercive patterns and build community around truth-seeking.",
+                "Treat attention as a resource to defend.",
+                "This is literacy-as-armor, a frontline skillset."
             ],
             "layout": "layout-boxed",
             "theme": "theme-dark",
-            "category": "DISINFORMATION TACTICS" // Note: This category was in your file for this card.
+            "category": "LITERACY IN HOSTILE ENVIRONMENTS"
         },
         {
-            "title": "Dog Whistles",
+            "title": "Core Tenets of Adversarial Literacy",
             "points": [
-                "Coded phrases, numbers, and symbols",
-                "Allows extremists to signal allegiance covertly",
-                "Stays under the radar of general public",
-                "Enables deniability while communicating to insiders"
+                "Resilience, narrative mobility, cognitive stamina, strategic doubt.",
+                "It's not just knowing — but staying whole while knowing.",
+                "Most media ecosystems are now adversarial; literacy is self-defense.",
+                "Emotional/relational tools are non-negotiable; resilience is a collective act."
+            ],
+            "layout": "layout-split",
+            "theme": "theme-dark",
+            "category": "LITERACY IN HOSTILE ENVIRONMENTS"
+        },
+        {
+            "title": "Beyond Literacy: Reforming the Terrain",
+            "points": [
+                "You can’t build mental defense in an economy that rewards manipulation.",
+                "We don’t just need better literacy; we need better terrain.",
+                "Fighting for structural reform is also essential."
             ],
             "layout": "layout-boxed",
             "theme": "theme-dark",
-            "category": "ADVANCED PSYCHOLOGICAL OPERATIONS"
-        },
-        {
-            "title": "Weaponized Irony",
-            "points": [
-                "Uses sarcasm or humor to introduce extremist ideas",
-                "Maintains plausible deniability with \"just joking\"",
-                "Shields harmful content behind comedy",
-                "Undermines serious critique with mockery"
-            ],
-            "layout": "layout-split",
-            "theme": "theme-blue",
-            "category": "LANGUAGE & COMMUNICATION"
-        },
-
-        // Crisis-Time Operations
-        {
-            "title": "Crisis-Based Manipulation",
-            "points": [
-                "Exploits emergencies to bypass critical thinking",
-                "Creates artificial urgency to force quick decisions",
-                "Uses fear and chaos to demand instant compliance",
-                "Makes questioning feel like dangerous delay"
-            ],
-            "layout": "layout-boxed",
-            "theme": "theme-red",
-            "category": "CRISIS & FEAR TACTICS"
-        },
-        {
-            "title": "Fear, Uncertainty, Doubt",
-            "points": [
-                "Spreads vague threats and scary scenarios",
-                "Creates conflicting information to paralyze decision-making",
-                "Used by corporations and authoritarian regimes",
-                "Prevents action through emotional manipulation"
-            ],
-            "layout": "layout-centered",
-            "theme": "theme-red",
-            "category": "CRISIS & FEAR TACTICS"
-        },
-        {
-            "title": "Rotten Herring",
-            "points": [
-                "Creates fake scandals or distractions",
-                "Diverts attention from real problems or crises",
-                "Used when damaging news emerges about the powerful",
-                "Makes people look elsewhere instead of at real issues"
-            ],
-            "layout": "layout-boxed",
-            "theme": "theme-red",
-            "category": "CRISIS & FEAR TACTICS"
-        },
-
-        // Emotional Saturation
-        {
-            "title": "Amygdala Hacking",
-            "points": [
-                "Triggers fear, rage, and panic responses",
-                "Targets the brain's emotional center",
-                "Bypasses logic and critical thinking",
-                "Makes you react, not reason"
-            ],
-            "layout": "layout-split",
-            "theme": "theme-red",
-            "category": "EMOTIONAL MANIPULATION"
-        },
-        {
-            "title": "Emotional Layering",
-            "points": [
-                "Stacks multiple emotions to disable critical thinking",
-                "Uses fear, pride, and rage in calculated sequence",
-                "Makes manipulation feel like personal insight",
-                "Creates psychological lock-in through layered triggers"
-            ],
-            "layout": "layout-boxed",
-            "theme": "theme-sunset",
-            "category": "EMOTIONAL MANIPULATION"
-        },
-        {
-            "title": "Psychological Flooding",
-            "points": [
-                "Overwhelms with constant crises and conflicting narratives",
-                "Bombards with fear-inducing content to exhaust mental resilience",
-                "Disables critical thinking through cognitive overload",
-                "Creates fatigue that leads to disengagement or surrender"
-            ],
-            "layout": "layout-boxed",
-            "theme": "theme-sunset",
-            "category": "INFORMATION CONTROL"
+            "category": "LITERACY IN HOSTILE ENVIRONMENTS"
         }
     ];
 
