@@ -38,6 +38,53 @@ const spellCategories = {
     ]
 };
 
+// Standard kit - recommended starting spells
+const standardKitNames = ["SAFE", "SHIELD", "FOCUS", "ARMOR", "SWORD", "LANTERN"];
+
+// Create a function to populate the standard kit section
+function createStandardKit() {
+    const container = document.getElementById('standard-kit-spells');
+    const kitSpells = [];
+    
+    // Find the full spell details for each standard kit spell
+    standardKitNames.forEach(spellName => {
+        for (const category of Object.values(spellCategories)) {
+            const spell = category.find(s => s.name === spellName);
+            if (spell) {
+                kitSpells.push(spell);
+                break;
+            }
+        }
+    });
+    
+    // Create the spell grid for the standard kit
+    const spellGrid = document.createElement('ul');
+    spellGrid.className = 'spell-list standard-kit-list';
+    
+    kitSpells.forEach(spell => {
+        const spellItem = document.createElement('li');
+        spellItem.className = 'standard-kit-item';
+        
+        const spellLink = document.createElement('a');
+        spellLink.href = `#${spell.name.toLowerCase()}`;
+        spellLink.textContent = spell.name;
+        spellLink.addEventListener('click', (e) => {
+            e.preventDefault();
+            loadSpell(spell);
+        });
+        
+        const spellDescription = document.createElement('span');
+        spellDescription.className = 'spell-description';
+        spellDescription.textContent = spell.description;
+        
+        spellItem.appendChild(spellLink);
+        spellItem.appendChild(spellDescription);
+        spellGrid.appendChild(spellItem);
+    });
+    
+    container.appendChild(spellGrid);
+}
+
 // Load spell content from markdown file
 async function loadSpell(spell) {
     try {
@@ -148,6 +195,7 @@ function checkForDeepLink() {
 
 // Initialize everything when DOM is ready
 document.addEventListener('DOMContentLoaded', () => {
+    createStandardKit();
     createSpellbook();
     setupBackButton();
     setupPrintButton();
