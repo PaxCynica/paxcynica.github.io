@@ -34,7 +34,8 @@ const spellCategories = {
     ],
     "Recovery & Growth": [
         { name: "HEAL", description: "Honest Assessment, Examine Effects, Adjust Understanding, Learn", file: "heal-method.md" },
-        { name: "SHIFT", description: "Systematic Help In Following Truth", file: "shift-method.md" }
+        { name: "SHIFT", description: "Systematic Help In Following Truth", file: "shift-method.md" },
+        { name: "HAVEN", description: "Hope And Vitality Even Now", file: "haven-method.md" }
     ]
 };
 
