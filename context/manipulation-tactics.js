@@ -844,7 +844,7 @@ const MANIPULATION_TACTICS = [
     "theme": "theme-purple",
     "category": "INFORMATION CONTROL"
   },
-    // ===================================
+  // ===================================
   // PLATFORM & MEDIA CONTROLLERS - CATEGORY HEADER 6
   // ===================================
   {
@@ -1424,24 +1424,26 @@ const MANIPULATION_TACTICS = [
     "category": "ADVANCED PSYCHOLOGICAL OPERATIONS"
   },
   {
-    "title": "Reflexive Control Theory",
+    "title": "Reflexive Control: The Theory",
     "points": [
-      "Russian military and intelligence doctrine",
-      "Manipulates adversary's perceptions",
-      "Influences decision-making to serve manipulator's goals",
-      "Makes targets believe they're acting freely"
+      "A foundational Russian military and intelligence doctrine.",
+      "Focuses on shaping an adversary's perception of reality and their model of decision-making.",
+      "Aims to predispose the adversary to voluntarily make decisions desired by the manipulator.",
+      "Considers how to leverage or induce predictable psychological states, including stress or trauma-like responses (e.g., fight, flight, fawn, freeze), to guide these 'voluntary' decisions.",
+      "The target believes they are acting autonomously, based on their own conclusions."
     ],
     "layout": "layout-boxed",
     "theme": "theme-purple",
     "category": "ADVANCED PSYCHOLOGICAL OPERATIONS"
   },
   {
-    "title": "Reflexive Control",
+    "title": "Reflexive Control: In Practice",
     "points": [
-      "Psychological warfare tactic with Russian origins",
-      "Crafts information to guide your decision-making",
-      "Makes you believe the manipulator's choice was your idea",
-      "Controls behavior while maintaining illusion of free will"
+      "Tactical application of the theory, originating from Russian psychological warfare.",
+      "Involves carefully crafting and delivering specific information or stimuli.",
+      "May design scenarios to trigger instinctual trauma responses that align with the manipulator's goals.",
+      "Guides the target's decision-making process towards a predetermined outcome, while the target rationalizes these reactions as their own reasoned choices.",
+      "Achieves behavioral control while the target maintains the illusion of free will and independent choice."
     ],
     "layout": "layout-centered",
     "theme": "theme-purple",
@@ -1687,6 +1689,61 @@ const MANIPULATION_TACTICS = [
     "theme": "theme-purple",
     "category": "ADVANCED PSYCHOLOGICAL OPERATIONS"
   },
+  {
+    "title": "Homophily: Adversarial Precision Targeting",
+    "points": [
+      "Adversaries exploit shared traits in homophilous groups for highly tailored manipulation.",
+      "Messages resonate deeply, bypassing scrutiny as they 'feel right' or seem to originate from within the group.",
+      "This increases attack efficiency and makes adversarial content harder to detect."
+    ],
+    "layout": "layout-boxed",
+    "theme": "theme-purple",
+    "category": "ADVANCED PSYCHOLOGICAL OPERATIONS"
+  },
+  {
+    "title": "Homophily: The 'Trusted Insider' Attack Vector",
+    "points": [
+      "High internal trust within homophilous groups is a significant vulnerability.",
+      "Adversaries aim to compromise or convincingly impersonate in-group members.",
+      "Manipulative content, once introduced by a perceived 'insider,' spreads rapidly with minimal resistance."
+    ],
+    "layout": "layout-split",
+    "theme": "theme-dark",
+    "category": "ADVANCED PSYCHOLOGICAL OPERATIONS"
+  },
+  {
+    "title": "Homophily: Adversarial Shaping of Group Identity",
+    "points": [
+      "Adversarial learning can be a long-term strategy to subtly steer a group's collective identity and evolution.",
+      "By consistently feeding a group information that confirms and slightly skews existing biases, worldviews can be gradually shifted.",
+      "The group may unwittingly participate in its own manipulation, believing these changes are organic."
+    ],
+    "layout": "layout-centered",
+    "theme": "theme-blue",
+    "category": "ADVANCED PSYCHOLOGICAL OPERATIONS"
+  },
+  {
+    "title": "Homophily: The Brittle Defense Paradox",
+    "points": [
+      "Group insularity can resist external narratives perceived as 'other,' but this creates internal fragility.",
+      "If an adversarial attack is tailored to resonate with the group's core identity, strong internal cohesion can accelerate the adoption of manipulative narratives.",
+      "The group's strength (cohesion) becomes an exploitable weakness as internal dissent is often already minimized."
+    ],
+    "layout": "layout-boxed",
+    "theme": "theme-sunset",
+    "category": "ADVANCED PSYCHOLOGICAL OPERATIONS"
+  },
+  {
+    "title": "Adversarial Meta-Learning on Group Structures",
+    "points": [
+      "Sophisticated adversaries don't just attack; they learn about the homophilous structures themselves.",
+      "They analyze defining group similarities, identify key influencers, map communication patterns, and understand shared vulnerabilities.",
+      "This meta-learning allows them to pinpoint the most effective entry points for introducing adversarial content for maximum impact."
+    ],
+    "layout": "layout-split",
+    "theme": "theme-green",
+    "category": "ADVANCED PSYCHOLOGICAL OPERATIONS"
+  },
   // ===================================
   // COUNTER-STRATEGIES & DEFENSE - CATEGORY HEADER 12
   // ===================================
@@ -1927,5 +1984,4 @@ const MANIPULATION_TACTICS = [
     "theme": "theme-green",
     "category": "COUNTER-STRATEGIES & DEFENSE"
   },
-
 ];

@@ -542,5 +542,175 @@ const INTERPERSONAL_DYNAMICS = [
         "layout": "layout-centered",
         "theme": "theme-green",
         "category": "EMPATHIC SHIELDING"
+    },
+    {
+        "title": "SHIELD: D - Decide",
+        "points": [
+            "D - Decide: Choose your response with intention, guided by thought rather than raw emotion.",
+            "Determine how to proceed in a manner that aligns with your core values and principles.",
+            "This is your empowered choice, informed by the SHIELD process."
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-blue",
+        "category": "EMOTIONAL REGULATION"
+    },
+    // ===================================
+    // TRAUMA RESPONSES - CATEGORY HEADER
+    // ===================================
+    {
+        "title": "Understanding Trauma Responses",
+        "points": [
+            "Instinctual reactions to perceived threats, rooted in survival mechanisms.",
+            "Can manifest in interpersonal dynamics, often unconsciously.",
+            "Recognizing these responses in oneself and others can improve understanding and communication.",
+            "These are not character flaws but adaptive strategies under stress."
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-red",
+        "category": "TRAUMA RESPONSES"
+    },
+    {
+        "title": "Trauma Response: FIGHT",
+        "points": [
+            "Characterized by aggression, confrontation, or a need to control.",
+            "Manifestations: Bullying, narcissistic tendencies, rage outbursts, blaming others.",
+            "Underlying driver: A perceived need to overpower the threat to feel safe.",
+            "Interpersonal impact: Can create conflict, intimidation, and push others away."
+        ],
+        "layout": "layout-boxed",
+        "theme": "theme-red",
+        "category": "TRAUMA RESPONSES"
+    },
+    {
+        "title": "Trauma Response: FLIGHT",
+        "points": [
+            "Characterized by avoidance, escape, or constant busyness.",
+            "Manifestations: Distraction, perfectionism, addictive behaviors (work, substances, overeating), difficulty staying present.",
+            "Underlying driver: An urge to physically or mentally escape the perceived threat.",
+            "Interpersonal impact: Can lead to unreliability, emotional unavailability, or difficulty with commitment."
+        ],
+        "layout": "layout-split",
+        "theme": "theme-sunset",
+        "category": "TRAUMA RESPONSES"
+    },
+    {
+        "title": "Trauma Response: FAWN",
+        "points": [
+            "Characterized by appeasement, people-pleasing, and prioritizing others' needs over one's own.",
+            "Manifestations: Codependency, difficulty saying no, suppressing personal opinions, seeking approval.",
+            "Underlying driver: An attempt to pacify the threat by becoming agreeable or helpful.",
+            "Interpersonal impact: Can lead to resentment, loss of self, and attracting exploitative relationships."
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-green",
+        "category": "TRAUMA RESPONSES"
+    },
+    {
+        "title": "Trauma Response: FREEZE",
+        "points": [
+            "Characterized by shutdown, dissociation, or an inability to act.",
+            "Manifestations: Feeling numb, detached, difficulty making decisions, procrastination, feeling stuck.",
+            "Underlying driver: An instinct to become immobile or 'play dead' when escape or fight isn't possible.",
+            "Interpersonal impact: Can appear as disinterest, passivity, or being overwhelmed."
+        ],
+        "layout": "layout-boxed",
+        "theme": "theme-purple",
+        "category": "TRAUMA RESPONSES"
+    },
+    {
+        "title": "Trauma Response: FLOP",
+        "points": [
+            "Characterized by a sudden loss of energy, going limp, or even fainting in extreme cases.",
+            "Manifestations: Physical collapse, sudden inability to move or speak, feeling like a 'rag doll'.",
+            "Underlying driver: An extreme physiological response when other defenses are overwhelmed; a state of complete surrender.",
+            "Interpersonal impact: Can be alarming and misunderstood; often requires immediate support."
+        ],
+        "layout": "layout-split",
+        "theme": "theme-dark",
+        "category": "TRAUMA RESPONSES"
+    },
+    // =================================================================
+    // DEFENDING AGAINST TRAUMA RESPONSE EXPLOITATION - CATEGORY HEADER
+    // =================================================================
+    {
+        "title": "Protecting Your Trauma Responses",
+        "points": [
+            "Awareness is key: Knowing your typical trauma responses and triggers is the first defense.",
+            "Exploitation often involves manipulators subtly (or overtly) triggering these responses for their gain.",
+            "These strategies aim to help you regain control and reduce vulnerability."
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-green",
+        "category": "DEFENDING AGAINST TRAUMA RESPONSE EXPLOITATION"
+    },
+    {
+        "title": "Defense: Cultivate Self-Awareness",
+        "points": [
+            "Identify Your Triggers: What situations, words, tones, or people tend to activate your trauma responses?",
+            "Recognize Early Warning Signs: Learn the subtle physical and emotional cues that indicate a response is starting (e.g., heart racing, urge to flee, shutting down).",
+            "Journaling or reflection can help uncover patterns."
+        ],
+        "layout": "layout-boxed",
+        "theme": "theme-blue",
+        "category": "DEFENDING AGAINST TRAUMA RESPONSE EXPLOITATION"
+    },
+    {
+        "title": "Defense: Create Space - The Pause",
+        "points": [
+            "When you feel a trauma response activating, consciously pause before reacting.",
+            "This interrupts the instinctual, automatic nature of the response.",
+            "Take a few deep breaths. This signals safety to your nervous system.",
+            "Even a few seconds of pause can allow your thinking brain to come back online."
+        ],
+        "layout": "layout-split",
+        "theme": "theme-green",
+        "category": "DEFENDING AGAINST TRAUMA RESPONSE EXPLOITATION"
+    },
+    {
+        "title": "Defense: Grounding Techniques",
+        "points": [
+            "Bring yourself back to the present moment to counter dissociation (Freeze/Flop) or overwhelming emotion (Fight/Flight/Fawn).",
+            "5-4-3-2-1 Method: Name 5 things you see, 4 you can touch, 3 you hear, 2 you smell, 1 you taste.",
+            "Focus on your feet on the floor, the feeling of your chair.",
+            "These techniques help regulate your nervous system."
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-purple",
+        "category": "DEFENDING AGAINST TRAUMA RESPONSE EXPLOITATION"
+    },
+    {
+        "title": "Defense: Strategic Disengagement & Boundaries",
+        "points": [
+            "It's okay to remove yourself from a situation or conversation that feels exploitative or overwhelmingly triggering.",
+            "Set clear boundaries: 'I am not going to discuss this when I feel [activated/attacked].'",
+            "Limit contact with individuals who consistently exploit your vulnerabilities.",
+            "This is self-protection, not avoidance, when done consciously."
+        ],
+        "layout": "layout-boxed",
+        "theme": "theme-sunset",
+        "category": "DEFENDING AGAINST TRAUMA RESPONSE EXPLOITATION"
+    },
+    {
+        "title": "Defense: Reality Testing & Seeking Perspective",
+        "points": [
+            "If a situation feels off or you suspect manipulation, try to get an outside perspective from a trusted friend or therapist.",
+            "Ask yourself: 'Is this person's reaction proportionate? Is there a pattern here?'",
+            "Challenge Fawn responses: 'Am I agreeing to this because I genuinely want to, or because I feel pressured/scared?'"
+        ],
+        "layout": "layout-split",
+        "theme": "theme-blue",
+        "category": "DEFENDING AGAINST TRAUMA RESPONSE EXPLOITATION"
+    },
+    {
+        "title": "Defense: Self-Compassion & Professional Support",
+        "points": [
+            "Understand that trauma responses are not your fault; they are survival mechanisms.",
+            "Be kind to yourself as you learn to navigate these challenges.",
+            "Consider therapy (especially trauma-informed therapy) to heal underlying wounds and develop more adaptive coping strategies.",
+            "Healing reduces the intensity and frequency of trauma responses."
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-green",
+        "category": "DEFENDING AGAINST TRAUMA RESPONSE EXPLOITATION"
     }
 ];
