@@ -82,6 +82,28 @@ const WHAT_IS_INFORMATION = [
         "theme": "theme-purple",
         "category": "INFORMATION THEORY"
     },
+    {
+        "title": "Shannon's Theory: Meaning & Surprise",
+        "points": [
+            "Meaning is Irrelevant to Measurement: Shannon's theory quantifies information based on uncertainty reduction (surprise), not semantic content.",
+            "Information as Surprise: Highly probable events convey little information; unexpected events (low probability) carry more.",
+            "The mathematical theory focuses on statistical properties, not human interpretation or impact."
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-purple",
+        "category": "INFORMATION THEORY"
+    },
+    {
+        "title": "Shannon's Channel Capacity: A Link to Life?",
+        "points": [
+            "Channel Capacity Theorem defines the maximum reliable information transmission rate over a noisy channel.",
+            "A curious finding suggests this theorem applies uniquely to living organisms and their products (e.g., communication, molecular processes involving choices).",
+            "This potentially distinguishes information processing in life from purely inanimate thermodynamic systems."
+        ],
+        "layout": "layout-boxed",
+        "theme": "theme-purple",
+        "category": "INFORMATION THEORY"
+    },
 
     // ===================================
     // SECTION 4: INFORMATION IN SOCIETY
@@ -107,6 +129,52 @@ const WHAT_IS_INFORMATION = [
             "Healthy information ecosystems require transparency, accountability, and critical literacy."
         ],
         "layout": "layout-boxed",
+        "theme": "theme-red",
+        "category": "SOCIAL INFORMATION"
+    },
+    {
+        "title": "Historical Disinformation: Enduring Tactics",
+        "points": [
+            "Ancient Rome: Octavian's propaganda war against Mark Antony used smear campaigns, poetry, and slogans on coins.",
+            "Medieval England: Rumors of Richard II's survival were spread to destabilize Henry IV, even exploited by foreign powers.",
+            "1835 Great Moon Hoax: New York Sun fabricated stories of moon creatures to boost sales, widely believed initially."
+        ],
+        "layout": "layout-split",
+        "theme": "theme-red",
+        "category": "SOCIAL INFORMATION"
+    },
+    {
+        "title": "Homophily: Echoes & Barriers in Networks",
+        "points": [
+            "Homophily ('birds of a feather') facilitates rapid information spread within similar groups.",
+            "Simultaneously, it acts as a barrier to diffusion between different groups, slowing overall network spread.",
+            "This can hinder the formation of broad consensus across diverse populations."
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-red",
+        "category": "SOCIAL INFORMATION"
+    },
+    {
+        "title": "Homophily: Nuances in Misinformation & Ties",
+        "points": [
+            "Misinformation Influence: High homophily can boost viral spread in a cluster, but very high levels might limit overall network reach by isolating the cluster.",
+            "Confounding with Social Contagion: Difficult to distinguish if similarity is due to pre-existing likeness (homophily) or influence (contagion).",
+            "Strength in Ties (Mixed Research): Some studies suggest homophily (e.g., by age, ethnicity) is more pronounced in strong ties (close relationships)."
+        ],
+        "layout": "layout-boxed",
+        "theme": "theme-red",
+        "category": "SOCIAL INFORMATION"
+    },
+    {
+        "title": "Emotion's Influence on Information & Belief",
+        "points": [
+            "Emotions act as powerful filters, significantly shaping what information captures our attention and what we remember.",
+            "Affective responses (i.e., 'gut feelings' or emotional reactions) often precede and heavily influence more deliberate cognitive evaluations of information.",
+            "Information that evokes strong emotions (such as fear, anger, hope, or joy) can bypass careful rational scrutiny and is often more readily accepted and shared.",
+            "Manipulative campaigns frequently target and exploit these emotional responses to spread narratives, sow discord, or drive specific behaviors.",
+            "Recognizing and understanding the interplay between emotional reactions and cognitive processing is crucial for critical thinking and navigating complex information environments."
+        ],
+        "layout": "layout-centered",
         "theme": "theme-red",
         "category": "SOCIAL INFORMATION"
     },
@@ -174,6 +242,54 @@ const WHAT_IS_INFORMATION = [
         ],
         "layout": "layout-boxed",
         "theme": "theme-blue",
+        "category": "PHILOSOPHY"
+    },
+    {
+        "title": "Ontological View: Being as Subjective Narrative",
+        "points": [
+            "A perspective on 'being' emphasizes its experience as a subjective, self-conscious narrative.",
+            "This internal narrative is continuously constructed and updated, filtered through the senses and interpreted by the mind.",
+            "Raw sensory data (information) is woven into a coherent story that forms an individual's perceived reality.",
+            "This view bridges information processing with concepts of meaning, consciousness, and the personal construction of understanding."
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-dark",
+        "category": "PHILOSOPHY"
+    },
+    {
+        "title": "Narrative Identity Theory: The Storied Self",
+        "points": [
+            "Narrative Identity Theory posits that individuals form and maintain their identity by constructing an internalized, evolving story of the self.",
+            "This 'storied self' integrates past experiences, present actions, and future aspirations into a coherent life narrative.",
+            "It directly aligns with the 'subjective self-conscious narrative' view of being, emphasizing how we make sense of ourselves and our lives through storytelling.",
+            "This framework is explored in both psychology and philosophy of self."
+        ],
+        "layout": "layout-split",
+        "theme": "theme-dark",
+        "category": "PHILOSOPHY"
+    },
+    {
+        "title": "Narrative Primacy & Cognitive Dissonance",
+        "points": [
+            "Humans often prioritize a coherent personal narrative over strict factual accuracy, especially when new information creates inconsistencies.",
+            "Cognitive dissonance occurs when facts conflict with core beliefs or self-concept, often leading to the rejection or reinterpretation of facts to preserve the narrative.",
+            "Understanding this 'story-over-facts' tendency is crucial for analyzing information's impact and for effective communication.",
+            "Effective engagement often requires acknowledging and navigating these narrative frameworks, rather than solely relying on factual correction."
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-dark",
+        "category": "PHILOSOPHY"
+    },
+    {
+        "title": "The Myth of Arrival",
+        "points": [
+            "The often unconscious belief that complex personal, social, or systemic problems have a definitive endpoint or a single 'fix' after which effort is no longer needed.",
+            "This contrasts with the reality that many significant challenges require continuous engagement, adaptation, and ongoing processes rather than a final 'arrival' at a solution.",
+            "The myth can lead to disillusionment when 'solutions' don't permanently resolve issues, or to premature disengagement from necessary ongoing work.",
+            "Recognizing this tendency helps foster realistic expectations, sustained effort, and appreciation for incremental progress in complex domains (e.g., societal change, personal growth, systemic reform)."
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-dark",
         "category": "PHILOSOPHY"
     }
 ];

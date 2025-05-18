@@ -712,5 +712,254 @@ const INTERPERSONAL_DYNAMICS = [
         "layout": "layout-centered",
         "theme": "theme-green",
         "category": "DEFENDING AGAINST TRAUMA RESPONSE EXPLOITATION"
+    },
+    // ===================================
+    // DE-ESCALATION SKILLS - CATEGORY HEADER
+    // ===================================
+    {
+        "title": "DE-ESCALATION SKILLS",
+        "points": [
+            "Techniques to reduce tension and prevent conflict escalation",
+            "Approach situations with calm, clarity, and compassion",
+            "Build safety through strategic communication",
+            "Effective in both digital and in-person environments"
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-blue",
+        "category": "DE-ESCALATION SKILLS"
+    },
+    {
+        "title": "De-escalation: The CALM Approach",
+        "points": [
+            "C - Create physical and emotional safety (speak softly, maintain distance)",
+            "A - Active listening without interruption or judgment",
+            "L - Lower the emotional temperature with your tone and body language",
+            "M - Manage your own reactions first (regulate before engaging)"
+        ],
+        "layout": "layout-boxed",
+        "theme": "theme-blue",
+        "category": "DE-ESCALATION SKILLS"
+    },
+    {
+        "title": "De-escalation: Strategic Language",
+        "points": [
+            "Use 'we' language to foster collaboration: 'How can we resolve this?'",
+            "Avoid accusatory language and 'you' statements that trigger defensiveness",
+            "Offer choices to restore a sense of control: 'Would you prefer to discuss this here or somewhere quieter?'",
+            "Use validation without necessarily agreeing: 'I understand this is important to you'"
+        ],
+        "layout": "layout-split",
+        "theme": "theme-blue",
+        "category": "DE-ESCALATION SKILLS"
+    },
+    {
+        "title": "De-escalation: Redirection Techniques",
+        "points": [
+            "Introduce relevant but less charged aspects of the topic to shift focus",
+            "Ask clarifying questions to move from emotional reactions to specific issues",
+            "Acknowledge emotions while guiding toward constructive expression",
+            "Create 'time buffers' to allow for cooling down when needed"
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-green",
+        "category": "DE-ESCALATION SKILLS"
+    },
+    {
+        "title": "De-escalation: Online Environments",
+        "points": [
+            "Avoid public confrontations; move heated exchanges to private channels",
+            "Use the 'pause and reflect' method before responding to provocative content",
+            "Set clear interaction boundaries and enforce them consistently",
+            "Document concerning patterns while maintaining focus on de-escalation"
+        ],
+        "layout": "layout-boxed",
+        "theme": "theme-purple",
+        "category": "DE-ESCALATION SKILLS"
+    },
+    {
+        "title": "De-escalation: When to Step Back",
+        "points": [
+            "Recognize warning signs that a situation may become unsafe or unproductive",
+            "Have exit strategies prepared for both digital and physical environments",
+            "Know when professional intervention (moderators, security, mental health services) is needed",
+            "Prioritize safety over resolution when tensions are too high"
+        ],
+        "layout": "layout-split",
+        "theme": "theme-sunset",
+        "category": "DE-ESCALATION SKILLS"
+    },
+    // ===================================
+    // INFORMATION FIRST RESPONDER COMMUNICATION - CATEGORY HEADER
+    // ===================================
+    {
+        "title": "INFORMATION FIRST RESPONDER COMMUNICATION",
+        "points": [
+            "Strategic public communication during information crises",
+            "Balancing clarity, accuracy, and community well-being",
+            "Countering misinformation while building resilience",
+            "Serving as a trusted node in community information networks"
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-green",
+        "category": "INFORMATION FIRST RESPONDER COMMUNICATION"
+    },
+    {
+        "title": "Public Statements: Core Principles",
+        "points": [
+            "Lead with verified facts, clearly separated from analysis or opinion",
+            "Address the emotional impact of events alongside factual information",
+            "Maintain appropriate transparency about what is known, unknown, and uncertain",
+            "Frame information to promote understanding without inadvertently amplifying harmful narratives"
+        ],
+        "layout": "layout-boxed",
+        "theme": "theme-green",
+        "category": "INFORMATION FIRST RESPONDER COMMUNICATION"
+    },
+    {
+        "title": "Public Statements: Structure",
+        "points": [
+            "Begin with the most important, verified information (inverted pyramid structure)",
+            "Include necessary context that might otherwise be missing",
+            "Clearly attribute sources and explain why they're reliable",
+            "Close with practical guidance, resources, or actionable steps when appropriate"
+        ],
+        "layout": "layout-split",
+        "theme": "theme-blue",
+        "category": "INFORMATION FIRST RESPONDER COMMUNICATION"
+    },
+    {
+        "title": "Public Statements: Language Choices",
+        "points": [
+            "Use clear, accessible language that avoids unnecessary jargon",
+            "Prioritize precision over sensationalism or emotional appeal",
+            "Consider how statements might be misinterpreted or taken out of context",
+            "Balance neutrality with appropriate expression of community values"
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-purple",
+        "category": "INFORMATION FIRST RESPONDER COMMUNICATION"
+    },
+    {
+        "title": "Crisis Communication: Addressing Misinformation",
+        "points": [
+            "Lead with the truth rather than repeating the falsehood (avoid the 'illusory truth effect')",
+            "Explain how misinformation spreads without amplifying specific false narratives",
+            "Focus on empowering audiences with media literacy skills relevant to the situation",
+            "Acknowledge legitimate concerns that may underlie the spread of misinformation"
+        ],
+        "layout": "layout-boxed",
+        "theme": "theme-sunset",
+        "category": "INFORMATION FIRST RESPONDER COMMUNICATION"
+    },
+    {
+        "title": "Building Digital Community Resilience",
+        "points": [
+            "Foster regular communication channels that function before crises emerge",
+            "Develop 'early warning systems' for detecting misinformation in your community",
+            "Create templates and protocols for rapid, accurate response to information incidents",
+            "Build relationships with other trusted information nodes and subject matter experts"
+        ],
+        "layout": "layout-split",
+        "theme": "theme-green",
+        "category": "INFORMATION FIRST RESPONDER COMMUNICATION"
+    },
+    {
+        "title": "Ethical Considerations for Information Responders",
+        "points": [
+            "Balance obligation to inform with potential harms of specific information",
+            "Consider impacts on vulnerable populations in your communication choices",
+            "Recognize the limits of your expertise and when to defer to specialists",
+            "Maintain independence from political, commercial, or personal interests"
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-dark",
+        "category": "INFORMATION FIRST RESPONDER COMMUNICATION"
+    },
+    // ===================================
+    // PEER MEDIATION - CATEGORY HEADER
+    // ===================================
+    {
+        "title": "PEER MEDIATION",
+        "points": [
+            "Facilitating constructive dialogue between conflicting parties",
+            "Creating space for understanding and resolution",
+            "Maintaining neutrality while guiding toward clarity",
+            "Building community capacity for healthy conflict engagement"
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-purple",
+        "category": "PEER MEDIATION"
+    },
+    {
+        "title": "Peer Mediation: Setting the Stage",
+        "points": [
+            "Establish ground rules that all parties agree to follow",
+            "Create a physically and emotionally safe environment for discussion",
+            "Clarify your role as facilitator, not judge or problem-solver",
+            "Set realistic expectations about the process and possible outcomes"
+        ],
+        "layout": "layout-boxed",
+        "theme": "theme-purple",
+        "category": "PEER MEDIATION"
+    },
+    {
+        "title": "Peer Mediation: The HEAR Process",
+        "points": [
+            "H - Help each party express their perspective fully",
+            "E - Ensure mutual understanding through reflective listening",
+            "A - Acknowledge emotions while focusing on interests behind positions",
+            "R - Reach for solutions that address core needs of all parties"
+        ],
+        "layout": "layout-split",
+        "theme": "theme-purple",
+        "category": "PEER MEDIATION"
+    },
+    {
+        "title": "Peer Mediation: Facilitation Techniques",
+        "points": [
+            "Reframe inflammatory statements into neutral language",
+            "Identify common ground and shared interests when they emerge",
+            "Use 'I noticed' statements to address problematic communication patterns",
+            "Balance speaking time and ensure all voices are heard"
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-blue",
+        "category": "PEER MEDIATION"
+    },
+    {
+        "title": "Peer Mediation: Navigating Impasse",
+        "points": [
+            "Acknowledge when parties have reached a sticking point",
+            "Explore underlying needs and interests that might offer new paths forward",
+            "Consider taking a break to allow for reflection and cooling off",
+            "Sometimes, agreeing on a process to continue dialogue is itself a success"
+        ],
+        "layout": "layout-boxed",
+        "theme": "theme-sunset",
+        "category": "PEER MEDIATION"
+    },
+    {
+        "title": "Peer Mediation: Building Agreement",
+        "points": [
+            "Focus on specific, actionable solutions that address core issues",
+            "Test potential agreements: 'How would this work in practice?'",
+            "Document agreements in clear, concrete language",
+            "Include follow-up mechanisms to review progress and adjust if needed"
+        ],
+        "layout": "layout-split",
+        "theme": "theme-green",
+        "category": "PEER MEDIATION"
+    },
+    {
+        "title": "Peer Mediation: Information Disputes",
+        "points": [
+            "Establish shared criteria for evaluating information (e.g., source credibility, evidence standards)",
+            "Separate factual disagreements from differences in values or interpretation",
+            "Guide participants toward reliable information sources they both trust",
+            "Focus on building information literacy rather than 'winning' factual arguments"
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-blue",
+        "category": "PEER MEDIATION"
     }
 ];
