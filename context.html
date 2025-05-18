@@ -7,6 +7,9 @@
     <style>
         /* Base styles */
         :root {
+            --header-height: 60px;
+            --sidebar-width: 240px;
+            
             /* Light theme (default) */
             --theme-blue: #1a73e8;
             --theme-green: #0f9d58;
@@ -62,6 +65,7 @@
             grid-template-areas:
                 "header header"
                 "sidebar main";
+            overflow-x: hidden; /* Prevent horizontal scrolling */
         }
         
         /* Header styles */
@@ -74,6 +78,9 @@
             align-items: center;
             justify-content: space-between;
             z-index: 10;
+            height: var(--header-height);
+            width: 100%;
+            box-sizing: border-box;
         }
         
         .logo {
@@ -115,6 +122,9 @@
             grid-area: main;
             padding: 2rem;
             overflow-y: auto;
+            height: calc(100vh - var(--header-height));
+            width: 100%;
+            box-sizing: border-box;
         }
         
         .category-title {
@@ -127,6 +137,8 @@
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
             gap: 1.5rem;
+            width: 100%;
+            box-sizing: border-box;
         }
         
         /* Card styles */
@@ -138,6 +150,9 @@
             display: flex;
             flex-direction: column;
             transition: transform 0.2s ease, box-shadow 0.2s ease;
+            width: 100%;
+            box-sizing: border-box;
+            margin-bottom: 1rem;
         }
         
         .card:hover {
@@ -164,6 +179,7 @@
             margin-bottom: 0.75rem;
             position: relative;
             padding-left: 1.5rem;
+            word-break: break-word;
         }
         
         .card-points li:before {
@@ -272,6 +288,48 @@
             padding: 3rem 1rem;
             color: #666;
         }
+
+        /* Add these styles for source grouping in the sidebar */
+        .source-header {
+            padding: 0.75rem 1rem;
+            font-weight: 600;
+            cursor: pointer;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background-color: rgba(0,0,0,0.04);
+            margin-top: 0.5rem;
+            border-bottom: 1px solid var(--border-color);
+            user-select: none;
+        }
+
+        [data-theme="dark"] .source-header {
+            background-color: rgba(255,255,255,0.04);
+        }
+
+        .source-header:hover {
+            background-color: rgba(0,0,0,0.07);
+        }
+
+        [data-theme="dark"] .source-header:hover {
+            background-color: rgba(255,255,255,0.07);
+        }
+
+        .source-title {
+            font-size: 0.9rem;
+            color: var(--text-color);
+        }
+
+        .source-toggle {
+            font-size: 0.8rem;
+            color: var(--text-color);
+            opacity: 0.7;
+        }
+
+        /* Indent categories under a source */
+        .category-item[data-source] {
+            padding-left: 2.5rem;
+        }
         
         /* Mobile-friendly adjustments */
         @media (max-width: 768px) {
@@ -300,7 +358,10 @@
             }
             
             header {
-                padding: 0 1rem;
+                padding: 0 0.75rem;
+                height: var(--header-height);
+                width: 100%;
+                box-sizing: border-box;
             }
             
             .logo {
@@ -325,8 +386,18 @@
                 color: var(--text-color);
             }
             
+            .main {
+                padding: 1rem;
+                height: calc(100vh - var(--header-height));
+                overflow-y: auto;
+                width: 100%;
+                box-sizing: border-box;
+            }
+            
             .cards-container {
                 grid-template-columns: 1fr; /* Single column on mobile */
+                width: 100%;
+                box-sizing: border-box;
             }
             
             .category-title {
@@ -336,14 +407,22 @@
             
             .card {
                 margin-bottom: 1rem;
+                width: 100%;
+                box-sizing: border-box;
             }
             
             .card-header h3 {
                 font-size: 1.1rem;
             }
             
-            .main {
-                padding: 1rem;
+            .search-container {
+                flex-direction: column;
+                width: 100%;
+            }
+            
+            .search-input {
+                width: 100%;
+                margin-bottom: 0.5rem;
             }
         }
 
@@ -434,15 +513,54 @@
                 'personal-skills.js'
             ];
             
-            // Function to load a script dynamically
+            // Update your loadScript function to track which file each dataset comes from
             function loadScript(url) {
                 return new Promise((resolve, reject) => {
-                    const script = document.createElement('script');
-                    script.src = `context/${url}`;
-                    script.onload = resolve;
-                    script.onerror = reject;
-                    document.head.appendChild(script);
+                    fetch(`context/${url}`)
+                        .then(response => {
+                            if (!response.ok) {
+                                throw new Error(`Failed to load ${url}: ${response.status}`);
+                            }
+                            return response.text();
+                        })
+                        .then(scriptContent => {
+                            // Execute the script content
+                            try {
+                                eval(scriptContent);
+                                
+                                // After loading, find the global variable that was just defined
+                                // and tag its data with the source file info
+                                const sourceFile = url.replace('.js', '');
+                                const possibleVarName = sourceFile.toUpperCase().replace(/-/g, '_');
+                                
+                                if (window[possibleVarName] && Array.isArray(window[possibleVarName])) {
+                                    // Tag each card with its source
+                                    window[possibleVarName].forEach(card => {
+                                        card.sourceFile = sourceFile;
+                                        card.sourceTitle = formatSourceTitle(sourceFile);
+                                    });
+                                    console.log(`Tagged ${window[possibleVarName].length} cards from ${sourceFile}`);
+                                }
+                                
+                                resolve();
+                            } catch (e) {
+                                console.error(`Error evaluating ${url}:`, e);
+                                reject(e);
+                            }
+                        })
+                        .catch(error => {
+                            console.error(`Error fetching ${url}:`, error);
+                            reject(error);
+                        });
                 });
+            }
+            
+            // Helper to format source file name into a display title
+            function formatSourceTitle(filename) {
+                return filename
+                    .split('-')
+                    .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+                    .join(' ');
             }
             
             // Load all context files
@@ -523,14 +641,67 @@
                     return;
                 }
                 
-                categoryList.innerHTML = categories.map(category => 
-                    `<li class="category-item" data-category="${category}">${category}</li>`
-                ).join('');
+                // Group categories by source file
+                const sourceFiles = [...new Set(allData.map(item => item.sourceFile))].sort();
+                let menuHTML = '';
                 
-                // Add click handlers
+                sourceFiles.forEach(source => {
+                    // Get categories from this source
+                    const sourceCategories = [...new Set(
+                        allData
+                            .filter(item => item.sourceFile === source)
+                            .map(item => item.category)
+                    )].sort();
+                    
+                    // Skip if no categories
+                    if (sourceCategories.length === 0) return;
+                    
+                    // Get a title for the source
+                    const sourceTitle = allData.find(item => item.sourceFile === source)?.sourceTitle || source;
+                    
+                    // Add source header
+                    menuHTML += `
+                        <li class="source-header">
+                            <div class="source-title">${sourceTitle}</div>
+                            <div class="source-toggle">▼</div>
+                        </li>
+                    `;
+                    
+                    // Add categories under this source
+                    sourceCategories.forEach(category => {
+                        menuHTML += `<li class="category-item" data-category="${category}" data-source="${source}">${category}</li>`;
+                    });
+                });
+                
+                categoryList.innerHTML = menuHTML;
+                
+                // Add click handlers for categories
                 document.querySelectorAll('.category-item').forEach(item => {
                     item.addEventListener('click', () => {
                         selectCategory(item.dataset.category);
+                    });
+                });
+                
+                // Add click handlers for source toggling
+                document.querySelectorAll('.source-header').forEach(header => {
+                    header.addEventListener('click', () => {
+                        // Toggle categories under this source
+                        header.classList.toggle('collapsed');
+                        
+                        // Get next elements until the next source header
+                        let next = header.nextElementSibling;
+                        while (next && !next.classList.contains('source-header')) {
+                            if (next.classList.contains('category-item')) {
+                                next.style.display = header.classList.contains('collapsed') ? 'none' : 'block';
+                            }
+                            next = next.nextElementSibling;
+                        }
+                        
+                        // Update the toggle icon
+                        const toggle = header.querySelector('.source-toggle');
+                        if (toggle) {
+                            toggle.textContent = header.classList.contains('collapsed') ? '▶' : '▼';
+                        }
                     });
                 });
             }
