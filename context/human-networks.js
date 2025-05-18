@@ -1,4 +1,4 @@
-const HUMAN_NETWORKS = [
+window.HUMAN_NETWORKS = [
     // =================================
     // SECTION 1: CORE PRINCIPLES
     // =================================

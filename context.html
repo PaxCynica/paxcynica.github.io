@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Information First Responder Knowledge Base</title>
+    <style>
+        /* Base styles */
+        :root {
+            --theme-blue: #1a73e8;
+            --theme-green: #0f9d58;
+            --theme-purple: #673ab7;
+            --theme-sunset: #ff6d00;
+            --theme-dark: #37474f;
+            --theme-red: #d32f2f;
+            --bg-color: #f4f7fa;
+            --text-color: #333;
+            --card-bg: #fff;
+            --header-height: 60px;
+            --sidebar-width: 240px;
+        }
+        
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+            color: var(--text-color);
+            background-color: var(--bg-color);
+            height: 100vh;
+            display: grid;
+            grid-template-rows: var(--header-height) 1fr;
+            grid-template-columns: var(--sidebar-width) 1fr;
+            grid-template-areas:
+                "header header"
+                "sidebar main";
+        }
+        
+        /* Header styles */
+        header {
+            grid-area: header;
+            background-color: #fff;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            padding: 0 1.5rem;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            z-index: 10;
+        }
+        
+        .logo {
+            font-weight: 600;
+            font-size: 1.2rem;
+        }
+        
+        /* Sidebar styles */
+        .sidebar {
+            grid-area: sidebar;
+            background-color: #fff;
+            box-shadow: 2px 0 4px rgba(0,0,0,0.05);
+            overflow-y: auto;
+            padding: 1rem 0;
+        }
+        
+        .category-list {
+            list-style-type: none;
+        }
+        
+        .category-item {
+            padding: 0.75rem 1.5rem;
+            cursor: pointer;
+            border-left: 4px solid transparent;
+        }
+        
+        .category-item:hover {
+            background-color: rgba(0,0,0,0.05);
+        }
+        
+        .category-item.active {
+            background-color: rgba(0,0,0,0.03);
+            border-left-color: var(--theme-blue);
+            font-weight: 500;
+        }
+        
+        /* Main content area */
+        .main {
+            grid-area: main;
+            padding: 2rem;
+            overflow-y: auto;
+        }
+        
+        .category-title {
+            margin-bottom: 1.5rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 1px solid #e0e0e0;
+        }
+        
+        .cards-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 1.5rem;
+        }
+        
+        /* Card styles */
+        .card {
+            background-color: var(--card-bg);
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+        }
+        
+        .card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 10px 20px rgba(0,0,0,0.12);
+        }
+        
+        .card-header {
+            padding: 1rem;
+            color: white;
+            font-weight: 500;
+        }
+        
+        .card-body {
+            padding: 1.25rem;
+            flex-grow: 1;
+        }
+        
+        .card-points {
+            list-style-type: none;
+        }
+        
+        .card-points li {
+            margin-bottom: 0.75rem;
+            position: relative;
+            padding-left: 1.5rem;
+        }
+        
+        .card-points li:before {
+            content: "•";
+            position: absolute;
+            left: 0;
+            color: var(--theme-blue);
+        }
+        
+        /* Card themes */
+        .theme-blue .card-header { background-color: var(--theme-blue); }
+        .theme-green .card-header { background-color: var(--theme-green); }
+        .theme-purple .card-header { background-color: var(--theme-purple); }
+        .theme-sunset .card-header { background-color: var(--theme-sunset); }
+        .theme-dark .card-header { background-color: var(--theme-dark); }
+        .theme-red .card-header { background-color: var(--theme-red); }
+        
+        /* Card layouts */
+        .layout-centered .card-points {
+            text-align: center;
+            padding-left: 0;
+        }
+        
+        .layout-centered .card-points li {
+            padding-left: 0;
+        }
+        
+        .layout-centered .card-points li:before {
+            display: none;
+        }
+        
+        .layout-boxed {
+            border-left: 4px solid;
+        }
+        
+        .layout-boxed.theme-blue { border-left-color: var(--theme-blue); }
+        .layout-boxed.theme-green { border-left-color: var(--theme-green); }
+        .layout-boxed.theme-purple { border-left-color: var(--theme-purple); }
+        .layout-boxed.theme-sunset { border-left-color: var(--theme-sunset); }
+        .layout-boxed.theme-dark { border-left-color: var(--theme-dark); }
+        .layout-boxed.theme-red { border-left-color: var(--theme-red); }
+        
+        .layout-split .card-points li {
+            border-bottom: 1px solid rgba(0,0,0,0.05);
+            padding-bottom: 0.75rem;
+        }
+        
+        .layout-split .card-points li:last-child {
+            border-bottom: none;
+        }
+        
+        /* Search bar */
+        .search-container {
+            display: flex;
+            align-items: center;
+        }
+        
+        .search-input {
+            padding: 0.5rem 0.75rem;
+            border: 1px solid #e0e0e0;
+            border-radius: 4px;
+            width: 200px;
+            font-size: 0.9rem;
+        }
+        
+        /* Loading state */
+        .loading {
+            text-align: center;
+            padding: 2rem;
+            font-style: italic;
+            color: #666;
+        }
+        
+        /* Empty state */
+        .empty-state {
+            text-align: center;
+            padding: 3rem 1rem;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="logo">Information First Responder Knowledge Base</div>
+        <div class="search-container">
+            <input type="text" class="search-input" placeholder="Search cards..." id="searchInput">
+        </div>
+    </header>
+    
+    <aside class="sidebar">
+        <ul class="category-list" id="categoryList">
+            <li class="loading">Loading categories...</li>
+        </ul>
+    </aside>
+    
+    <main class="main" id="mainContent">
+        <div class="loading">Loading content...</div>
+    </main>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', async function() {
+            // Globals
+            let allData = [];
+            let categories = [];
+            let currentCategory = null;
+            
+            // Get the context files
+            const contextFiles = [
+                'what-is-information.js',
+                'interpersonal-dynamics.js',
+                'building-resilience.js',
+                'challenge-conspiracies.js',
+                'historical-patterns.js',
+                'human-networks.js',
+                'irregular-warfare.js',
+                'literacy-in-hostile.js',
+                'machine-targeting.js',
+                'manipulation-tactics.js',
+                'personal-skills.js'
+            ];
+            
+            // Function to load a script dynamically
+            function loadScript(url) {
+                return new Promise((resolve, reject) => {
+                    const script = document.createElement('script');
+                    script.src = `context/${url}`;
+                    script.onload = resolve;
+                    script.onerror = reject;
+                    document.head.appendChild(script);
+                });
+            }
+            
+            // Load all context files
+            try {
+                for (const file of contextFiles) {
+                    await loadScript(file);
+                }
+                processData();
+            } catch (error) {
+                console.error('Error loading scripts:', error);
+                document.getElementById('mainContent').innerHTML = `
+                    <div class="empty-state">
+                        <h2>Error Loading Content</h2>
+                        <p>There was a problem loading the knowledge base files.</p>
+                        <p>Error: ${error.message}</p>
+                    </div>
+                `;
+            }
+            
+            // Process the loaded data
+            function processData() {
+                console.log("Processing data...");
+                
+                // Get all the global variables that were defined in the scripts
+                const globals = Object.keys(window).filter(key => {
+                    console.log(`Checking global: ${key}`, window[key]);
+                    return key.includes('_') && 
+                        Array.isArray(window[key]) && 
+                        window[key].length > 0 &&
+                        typeof window[key][0] === 'object' &&
+                        'title' in window[key][0];
+                });
+                
+                console.log("Found matching global variables:", globals);
+                
+                if (globals.length === 0) {
+                    console.warn("No data found in global scope. Check your JS files format.");
+                    // Check specifically for your interpersonal dynamics variable
+                    if (window.INTERPERSONAL_DYNAMICS) {
+                        console.log("Found INTERPERSONAL_DYNAMICS but it didn't match filter criteria:", window.INTERPERSONAL_DYNAMICS);
+                    }
+                    
+                    document.getElementById('mainContent').innerHTML = `
+                        <div class="empty-state">
+                            <h2>No Card Data Found</h2>
+                            <p>Could not find any card data in the loaded files.</p>
+                            <p>Check console for more details.</p>
+                        </div>
+                    `;
+                    return;
+                }
+                
+                // Combine all data
+                globals.forEach(global => {
+                    allData = [...allData, ...window[global]];
+                });
+                
+                // Extract unique categories
+                categories = [...new Set(allData.map(item => item.category))].sort();
+                
+                // Initialize the UI
+                renderCategories();
+                
+                if (categories.length > 0) {
+                    selectCategory(categories[0]);
+                }
+                
+                // Set up search functionality
+                document.getElementById('searchInput').addEventListener('input', handleSearch);
+            }
+            
+            // Render the category list
+            function renderCategories() {
+                const categoryList = document.getElementById('categoryList');
+                
+                if (categories.length === 0) {
+                    categoryList.innerHTML = '<li class="category-item">No categories found</li>';
+                    return;
+                }
+                
+                categoryList.innerHTML = categories.map(category => 
+                    `<li class="category-item" data-category="${category}">${category}</li>`
+                ).join('');
+                
+                // Add click handlers
+                document.querySelectorAll('.category-item').forEach(item => {
+                    item.addEventListener('click', () => {
+                        selectCategory(item.dataset.category);
+                    });
+                });
+            }
+            
+            // Select and display a category
+            function selectCategory(category) {
+                currentCategory = category;
+                
+                // Update active state in sidebar
+                document.querySelectorAll('.category-item').forEach(item => {
+                    if (item.dataset.category === category) {
+                        item.classList.add('active');
+                    } else {
+                        item.classList.remove('active');
+                    }
+                });
+                
+                // Filter cards by category
+                const filteredCards = allData.filter(item => item.category === category);
+                renderCards(filteredCards, category);
+            }
+            
+            // Render the cards for a category
+            function renderCards(cards, categoryName) {
+                const mainContent = document.getElementById('mainContent');
+                
+                if (cards.length === 0) {
+                    mainContent.innerHTML = `
+                        <div class="empty-state">
+                            <h2>No cards found</h2>
+                            <p>There are no cards in this category.</p>
+                        </div>
+                    `;
+                    return;
+                }
+                
+                mainContent.innerHTML = `
+                    <h2 class="category-title">${categoryName}</h2>
+                    <div class="cards-container" id="cardsContainer">
+                        ${cards.map(card => renderCard(card)).join('')}
+                    </div>
+                `;
+            }
+            
+            // Render a single card
+            function renderCard(card) {
+                return `
+                    <div class="card ${card.layout} ${card.theme}">
+                        <div class="card-header">
+                            <h3>${card.title}</h3>
+                        </div>
+                        <div class="card-body">
+                            <ul class="card-points">
+                                ${card.points.map(point => `<li>${point}</li>`).join('')}
+                            </ul>
+                        </div>
+                    </div>
+                `;
+            }
+            
+            // Handle search functionality
+            function handleSearch(e) {
+                const searchTerm = e.target.value.toLowerCase();
+                
+                if (searchTerm === '') {
+                    // If search is cleared, return to category view
+                    if (currentCategory) {
+                        selectCategory(currentCategory);
+                    }
+                    return;
+                }
+                
+                // Search across all cards
+                const searchResults = allData.filter(item => 
+                    item.title.toLowerCase().includes(searchTerm) || 
+                    item.points.some(point => point.toLowerCase().includes(searchTerm))
+                );
+                
+                renderCards(searchResults, `Search Results: "${e.target.value}"`);
+            }
+        });
+    </script>
+</body>
+</html>

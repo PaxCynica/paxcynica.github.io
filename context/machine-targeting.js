@@ -1,4 +1,4 @@
-const MACHINE_TARGETING = [
+window.MACHINE_TARGETING = [
     // SECTION 1: INTRODUCTION AND FRAMING
     // ===================================
     {

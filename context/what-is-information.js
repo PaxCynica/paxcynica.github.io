@@ -1,4 +1,4 @@
-const WHAT_IS_INFORMATION = [
+window.WHAT_IS_INFORMATION = [
     // ===================================
     // SECTION 1: DEFINING INFORMATION
     // ===================================

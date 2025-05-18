@@ -1,4 +1,4 @@
-const LITERACY_IN_HOSTILE_ENVIRONMENTS = [
+window.LITERACY_IN_HOSTILE_ENVIRONMENTS = [
     // ===================================
     // LITERACY IN HOSTILE ENVIRONMENTS - CATEGORY HEADER
     // ===================================

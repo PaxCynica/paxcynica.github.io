@@ -1,4 +1,4 @@
-const MANIPULATION_TACTICS = [
+window.MANIPULATION_TACTICS = [
   // ===================================
   // INTRODUCTION - CATEGORY HEADER 0
   // ===================================

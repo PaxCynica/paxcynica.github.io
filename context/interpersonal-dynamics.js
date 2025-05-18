@@ -1,4 +1,4 @@
-const INTERPERSONAL_DYNAMICS = [
+window.INTERPERSONAL_DYNAMICS = [
     // ===================================
     // SUPERIORITY COMPLEX - CATEGORY HEADER
     // ===================================
@@ -961,5 +961,404 @@ const INTERPERSONAL_DYNAMICS = [
         "layout": "layout-centered",
         "theme": "theme-blue",
         "category": "PEER MEDIATION"
+    },
+    // ===================================
+    // NEURODIVERGENT COMMUNICATION - CATEGORY HEADER
+    // ===================================
+    {
+        "title": "NEURODIVERGENT COMMUNICATION",
+        "points": [
+            "Strategies for effective communication across neurological differences",
+            "Building understanding with those who process social cues differently",
+            "Creating connection while honoring diverse communication needs",
+            "Balancing accommodation with effective information exchange"
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-blue",
+        "category": "NEURODIVERGENT COMMUNICATION"
+    },
+    {
+        "title": "Understanding Autistic Communication",
+        "points": [
+            "Some may process social turn-taking differently, requiring explicit rather than implicit cues",
+            "May experience 'monotropic attention': deep focus on one topic with difficulty shifting",
+            "Information processing may continue after you speak, creating delayed response patterns",
+            "May not recognize when their speech has fulfilled the listener's informational needs"
+        ],
+        "layout": "layout-boxed",
+        "theme": "theme-green",
+        "category": "NEURODIVERGENT COMMUNICATION"
+    },
+    {
+        "title": "Visual & Concrete Communication Techniques",
+        "points": [
+            "Use visual cues alongside verbal ones (raised hand, written notes)",
+            "Employ direct statements rather than subtle hints: 'I need to wrap up in 2 minutes'",
+            "Give concrete time references instead of vague ones: '5 minutes' vs 'soon'",
+            "Create physical environment cues that signal conversation stages"
+        ],
+        "layout": "layout-split",
+        "theme": "theme-blue",
+        "category": "NEURODIVERGENT COMMUNICATION"
+    },
+    {
+        "title": "Parallel Communication Adaptation",
+        "points": [
+            "Accept parallel monologues as a valid communication style for some",
+            "When interruptions fail, try the 'bridge technique': connect their topic to yours",
+            "Use written or digital communication for complex topics when verbal exchange is challenging",
+            "Schedule important discussions during optimal processing times"
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-purple",
+        "category": "NEURODIVERGENT COMMUNICATION"
+    },
+    {
+        "title": "Compassionate Redirection",
+        "points": [
+            "Signal topic changes more explicitly: 'I'd like to shift our focus to...'",
+            "Acknowledge their contribution before redirecting: 'That's interesting about X. Now about Y...'",
+            "Offer processing time: 'Let's take a moment to think about that'",
+            "Create predictable conversation structures they can rely on"
+        ],
+        "layout": "layout-boxed",
+        "theme": "theme-sunset",
+        "category": "NEURODIVERGENT COMMUNICATION"
+    },
+    // ===================================
+    // CONVERSATION MANAGEMENT - CATEGORY HEADER 
+    // ===================================
+    {
+        "title": "Managing Excessive Talking",
+        "points": [
+            "Pre-frame time expectations: 'I have 15 minutes to discuss this'",
+            "Use physical positioning (standing, coat on) to signal brief interactions",
+            "Set visible timers for meetings to create neutral time boundaries",
+            "Recognize when someone lacks internal conversation regulation"
+        ],
+        "layout": "layout-split",
+        "theme": "theme-green",
+        "category": "MANAGING THE CONVERSATION"
+    },
+    {
+        "title": "Graceful Conversation Exit Strategies",
+        "points": [
+            "The 'summarize and shift': Recap key points then indicate next steps",
+            "The 'scheduled continuation': Propose specific time to continue the discussion later",
+            "The 'genuine deadline': Reference real commitments that require ending now",
+            "The 'direct acknowledgment': 'This is valuable, and I need to step away now'"
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-blue",
+        "category": "MANAGING THE CONVERSATION"
+    },
+    {
+        "title": "When Your Input Is Ignored",
+        "points": [
+            "Assess if they're genuinely not registering your input or simply disagreeing",
+            "Try physical redirection: change position, gently touch arm (if appropriate)",
+            "Increase sensory distinction: change voice volume or tone significantly",
+            "Ask direct questions requiring response: 'What do you think about what I just said?'"
+        ],
+        "layout": "layout-boxed",
+        "theme": "theme-purple",
+        "category": "MANAGING THE CONVERSATION"
+    },
+    {
+        "title": "The 'Brick Wall' Communication Pattern",
+        "points": [
+            "Recognize signs of perseveration: inability to shift topics despite clear cues",
+            "When patterns are unpredictable, have multiple strategies ready to deploy",
+            "Accept some conversations may not achieve typical exchange patterns",
+            "Prioritize which communications need full engagement versus which can be asymmetrical"
+        ],
+        "layout": "layout-split",
+        "theme": "theme-sunset",
+        "category": "MANAGING THE CONVERSATION"
+    },
+    {
+        "title": "Training New Conversation Patterns",
+        "points": [
+            "Gradually introduce time boundaries consistently over multiple interactions",
+            "Provide positive feedback when communication exchanges work well",
+            "Create scripts or templates for recurring conversation scenarios",
+            "Develop 'shorthand signals' that both parties understand for common situations"
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-dark",
+        "category": "MANAGING THE CONVERSATION"
+    },
+    {
+        "title": "Self-Care in Challenging Conversations",
+        "points": [
+            "Recognize when frustration signals need for a break, not just annoyance",
+            "Develop personal mantras for difficult moments: 'This is their processing style, not rudeness'",
+            "Set internal time limits before engagement: 'I can fully engage for 20 minutes'",
+            "Practice focused breathing during extended listening to maintain presence"
+        ],
+        "layout": "layout-boxed",
+        "theme": "theme-green",
+        "category": "INTERNAL MANAGEMENT"
+    },
+    // ===================================
+    // COMMUNICATION WITH LIMITED BANDWIDTH - CATEGORY HEADER
+    // ===================================
+    {
+        "title": "The Hidden Cost of Deep Listening",
+        "points": [
+            "Skilled listening requires significant cognitive and emotional resources",
+            "Physical conditions and chronic illness can dramatically reduce available bandwidth",
+            "The paradox: those most skilled at listening often attract the heaviest conversational demands",
+            "Recognizing listening as a resource that requires conscious management"
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-blue",
+        "category": "LIMITED BANDWIDTH COMMUNICATION"
+    },
+    {
+        "title": "Bandwidth-Conscious Boundaries",
+        "points": [
+            "Assess your current capacity before each interaction (energy level, pain level, cognitive clarity)",
+            "Set internal time/energy limits proportional to your current capacity, not past abilities",
+            "Use direct framing: 'I can give you my full attention for 10 minutes' rather than open-ended listening",
+            "Remember: setting appropriate boundaries allows you to be fully present for the time you can offer"
+        ],
+        "layout": "layout-boxed",
+        "theme": "theme-green",
+        "category": "LIMITED BANDWIDTH COMMUNICATION"
+    },
+    {
+        "title": "Preserving Energy While Remaining Compassionate",
+        "points": [
+            "Redirect conversations to the most essential points earlier than you previously would",
+            "Offer alternative forms of support that require less real-time energy (written exchanges, resources)",
+            "Create pre-planned 'compassionate exits' you can use when your energy is depleting",
+            "Practice brief supportive responses that acknowledge feelings without inviting further disclosure"
+        ],
+        "layout": "layout-split",
+        "theme": "theme-purple",
+        "category": "LIMITED BANDWIDTH COMMUNICATION"
+    },
+    {
+        "title": "Training Others About Your Limitations",
+        "points": [
+            "Help educate frequent conversation partners about your invisible limitations",
+            "Use concrete analogies: 'My attention is like a phone battery that depletes faster now'",
+            "Provide positive feedback when others respect your communication boundaries",
+            "Set expectations: 'I still care deeply, but my capacity to listen has changed'"
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-sunset",
+        "category": "LIMITED BANDWIDTH COMMUNICATION"
+    },
+    // ===================================
+    // POWER DYNAMICS IN COMMUNICATION - CATEGORY HEADER
+    // ===================================
+    {
+        "title": "POWER DYNAMICS IN COMMUNICATION",
+        "points": [
+            "How status differences impact information exchange and interpretation",
+            "Recognizing when power imbalances are affecting communication patterns",
+            "Strategies for more equitable information sharing across hierarchies",
+            "Understanding the impact of systemic and situational power on discourse"
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-blue",
+        "category": "POWER DYNAMICS"
+    },
+    {
+        "title": "Status-Based Communication Distortions",
+        "points": [
+            "Higher-status speakers often receive disproportionate speaking time and attention",
+            "Lower-status speakers commonly experience minimization of their contributions",
+            "Information from higher-status sources typically receives less scrutiny (authority bias)",
+            "Power asymmetries can create artificial agreement through fear of consequences"
+        ],
+        "layout": "layout-boxed",
+        "theme": "theme-purple",
+        "category": "POWER DYNAMICS"
+    },
+    {
+        "title": "Hidden Power Structures in Conversation",
+        "points": [
+            "Credentialism: when formal qualifications overshadow experiential knowledge",
+            "Social capital: when network connections determine whose information is valued",
+            "Linguistic privilege: when academic or specialized language creates unnecessary barriers",
+            "Structural access: when decision-making forums systematically exclude certain voices"
+        ],
+        "layout": "layout-split",
+        "theme": "theme-sunset",
+        "category": "POWER DYNAMICS"
+    },
+    {
+        "title": "Power-Conscious Communication Strategies",
+        "points": [
+            "Share institutional power explicitly: 'I'll make sure your perspective reaches leadership'",
+            "Create structural equity: implement speaking rotation or equalized contribution formats",
+            "Acknowledge power differentials openly: 'I recognize my position might influence this conversation'",
+            "Practice 'stepping back' when holding dominant identities or positions of authority"
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-green",
+        "category": "POWER DYNAMICS"
+    },
+    {
+        "title": "Navigating Upward Communication",
+        "points": [
+            "Frame information to connect with the higher-status person's priorities and concerns",
+            "Use concise, concrete examples rather than theoretical or emotional appeals",
+            "Anticipate defensive responses when conveying challenging information upward",
+            "Develop 'organizational translators' who can bridge communication across hierarchies"
+        ],
+        "layout": "layout-boxed",
+        "theme": "theme-blue",
+        "category": "POWER DYNAMICS"
+    },
+    {
+        "title": "Responsible Communication in Authority Positions",
+        "points": [
+            "Create psychological safety: explicitly welcome dissent and alternative perspectives",
+            "Practice 'active vulnerability': model openness to correction and learning",
+            "Implement feedback mechanisms that don't require personal courage to use",
+            "Recognize how your responses shape what information reaches you in the future"
+        ],
+        "layout": "layout-split",
+        "theme": "theme-dark",
+        "category": "POWER DYNAMICS"
+    },
+    {
+        "title": "Mediating Information Across Power Lines",
+        "points": [
+            "Serve as a 'communication bridge' between hierarchical levels",
+            "Translate concerns from direct reports into language leadership will respond to",
+            "Contextualize leadership decisions for team members with limited organizational view",
+            "Create safe channels for upward information flow about problems and opportunities"
+        ],
+        "layout": "layout-centered", 
+        "theme": "theme-green",
+        "category": "POWER DYNAMICS"
+    },
+    // ===================================
+    // GROUP COMMUNICATION DYNAMICS - CATEGORY HEADER
+    // ===================================
+    {
+        "title": "GROUP COMMUNICATION DYNAMICS",
+        "points": [
+            "Understanding how information flows within groups of different sizes and contexts",
+            "Facilitating equitable participation and preventing dominant-voice capture",
+            "Creating conditions for effective collective decision-making",
+            "Recognizing and addressing problematic group interaction patterns"
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-blue",
+        "category": "GROUP COMMUNICATION DYNAMICS"
+    },
+    {
+        "title": "Creating Inclusive Discussion Environments",
+        "points": [
+            "Set clear ground rules that explicitly value diverse perspectives",
+            "Structure sharing opportunities that don't favor the most assertive participants",
+            "Consider physical or digital arrangements that minimize status cues",
+            "Establish psychological safety through modeling response to initial contributions"
+        ],
+        "layout": "layout-boxed",
+        "theme": "theme-green",
+        "category": "GROUP COMMUNICATION DYNAMICS"
+    },
+    {
+        "title": "Managing Dominant Voices",
+        "points": [
+            "Implement gentle interruption: 'Thanks for that point. Let's hear from others before continuing'",
+            "Use nonverbal cues (raised hand, timer) to regulate speaking time without confrontation",
+            "Redirect attention: 'That's one perspective. I'm curious what others think...'",
+            "Create time-limited speaking formats to prevent monologues"
+        ],
+        "layout": "layout-split",
+        "theme": "theme-purple",
+        "category": "GROUP COMMUNICATION DYNAMICS"
+    },
+    {
+        "title": "Drawing Out Quieter Participants",
+        "points": [
+            "Create multiple participation channels (verbal, written, asynchronous)",
+            "Use round-robin techniques for crucial topics to ensure all voices are heard",
+            "Invite specific input: 'Sam, you have experience with this. What's your take?'",
+            "Provide questions in advance to allow processing time"
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-sunset",
+        "category": "GROUP COMMUNICATION DYNAMICS"
+    },
+    {
+        "title": "Recognizing Groupthink Warning Signs",
+        "points": [
+            "Unanimous or rapid agreement without substantive discussion",
+            "Self-censorship where members withhold contradictory viewpoints",
+            "Pressure to conform signaled through body language or subtle cues",
+            "Illusion of invulnerability in the group's decisions or conclusions"
+        ],
+        "layout": "layout-boxed",
+        "theme": "theme-dark",
+        "category": "GROUP COMMUNICATION DYNAMICS"
+    },
+    {
+        "title": "Countering Groupthink Tactically",
+        "points": [
+            "Assign devil's advocate roles to legitimize dissent",
+            "Implement structured methods like pre-mortems: 'Imagine this decision failed completely. Why?'",
+            "Create anonymous feedback channels to surface unspoken concerns",
+            "Invite outside perspective from someone not invested in group consensus"
+        ],
+        "layout": "layout-split",
+        "theme": "theme-blue",
+        "category": "GROUP COMMUNICATION DYNAMICS"
+    },
+    {
+        "title": "Group Decision-Making Structures",
+        "points": [
+            "Clearly distinguish information-sharing, deliberation, and decision phases",
+            "Establish transparent decision rights: who has input vs. who makes the final call",
+            "Match decision method to context: consensus for high-buy-in needs, voting for efficiency",
+            "Document decisions and rationale to prevent revisiting and provide accountability"
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-green",
+        "category": "GROUP COMMUNICATION DYNAMICS"
+    },
+    {
+        "title": "Digital Group Communication Challenges",
+        "points": [
+            "Compensate for missing nonverbal cues with explicit process and turn-taking",
+            "Address participation inequality that technology might amplify",
+            "Manage attention and engagement challenges in virtual environments",
+            "Create clear documentation and action items to mitigate miscommunication"
+        ],
+        "layout": "layout-boxed",
+        "theme": "theme-purple",
+        "category": "GROUP COMMUNICATION DYNAMICS"
+    },
+    {
+        "title": "Facilitating Through Conflict",
+        "points": [
+            "Distinguish productive disagreement from personal conflict",
+            "Focus on interests rather than positions when perspectives diverge",
+            "Establish and enforce respectful communication norms even in heated moments",
+            "Use structured debate formats to contain emotional intensity"
+        ],
+        "layout": "layout-split",
+        "theme": "theme-sunset",
+        "category": "GROUP COMMUNICATION DYNAMICS"
+    },
+    {
+        "title": "Group Size Dynamics",
+        "points": [
+            "Small groups (3-8): Allow depth but watch for dominant-voice capture",
+            "Medium groups (9-15): Require facilitation techniques to ensure participation",
+            "Large groups (16+): Benefit from subgroup discussions with reporting back",
+            "Adjust facilitation approach based on how size affects psychological safety"
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-dark",
+        "category": "GROUP COMMUNICATION DYNAMICS"
     }
 ];

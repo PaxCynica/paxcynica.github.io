@@ -1,4 +1,4 @@
-const BUILDING_INFORMATION_RESILIENCE = [
+window.BUILDING_INFORMATION_RESILIENCE = [
     // ===================================
     // BUILDING INFORMATION RESILIENCE - CATEGORY HEADER
     // ===================================

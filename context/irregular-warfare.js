@@ -1,4 +1,4 @@
-const IRREGULAR_WARFARE = [
+window.IRREGULAR_WARFARE = [
     // =================================
     // SECTION 1: INTRODUCTIONAPD
     // =================================

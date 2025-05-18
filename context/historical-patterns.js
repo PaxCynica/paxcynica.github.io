@@ -1,4 +1,4 @@
-const HISTORICAL_PATTERNS = [{
+window.HISTORICAL_PATTERNS = [{
     "title": "Deep History: Ritual Knowledge Control",
     "points": [
         "How esoteric practices throughout history created information asymmetries",

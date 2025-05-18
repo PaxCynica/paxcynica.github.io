@@ -1,4 +1,4 @@
-const PERSONAL_SKILLS = [
+window.PERSONAL_SKILLS = [
     // ===================================
     // PERSONAL SKILLS FOR INFORMATION FIRST RESPONDERS - CATEGORY HEADER
     // ===================================
