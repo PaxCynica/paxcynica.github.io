@@ -219,10 +219,92 @@
             padding: 3rem 1rem;
             color: #666;
         }
+        
+        /* Mobile-friendly adjustments */
+        @media (max-width: 768px) {
+            body {
+                grid-template-areas:
+                    "header"
+                    "main";
+                grid-template-columns: 1fr;
+                grid-template-rows: var(--header-height) 1fr;
+                height: 100vh;
+            }
+
+            .sidebar {
+                display: none; /* Hidden by default on mobile */
+                position: fixed;
+                top: var(--header-height);
+                left: 0;
+                width: 100%;
+                height: calc(100vh - var(--header-height));
+                z-index: 100;
+                box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+            }
+            
+            .sidebar.visible {
+                display: block;
+            }
+            
+            header {
+                padding: 0 1rem;
+            }
+            
+            .logo {
+                font-size: 0.9rem;
+                white-space: nowrap;
+                overflow: hidden;
+                text-overflow: ellipsis;
+                max-width: calc(100% - 120px); /* Leave space for menu button + search */
+            }
+            
+            .search-input {
+                width: 120px;
+            }
+            
+            .menu-button {
+                display: block;
+                background: none;
+                border: none;
+                font-size: 1.5rem;
+                cursor: pointer;
+                padding: 0.5rem;
+                color: var(--text-color);
+            }
+            
+            .cards-container {
+                grid-template-columns: 1fr; /* Single column on mobile */
+            }
+            
+            .category-title {
+                font-size: 1.2rem;
+                margin-bottom: 1rem;
+            }
+            
+            .card {
+                margin-bottom: 1rem;
+            }
+            
+            .card-header h3 {
+                font-size: 1.1rem;
+            }
+            
+            .main {
+                padding: 1rem;
+            }
+        }
+
+        /* For slightly larger mobile screens / small tablets */
+        @media (min-width: 480px) and (max-width: 768px) {
+            .cards-container {
+                grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+            }
+        }
     </style>
 </head>
 <body>
     <header>
+        <button class="menu-button" id="menuToggle">☰</button>
         <div class="logo">Information First Responder Knowledge Base</div>
         <div class="search-container">
             <input type="text" class="search-input" placeholder="Search cards..." id="searchInput">
@@ -437,6 +519,40 @@
                 );
                 
                 renderCards(searchResults, `Search Results: "${e.target.value}"`);
+            }
+        });
+        
+        // Mobile menu toggle
+        const menuToggle = document.getElementById('menuToggle');
+        const sidebar = document.querySelector('.sidebar');
+
+        menuToggle.addEventListener('click', () => {
+            sidebar.classList.toggle('visible');
+        });
+
+        // Close sidebar when a category is selected (on mobile)
+        document.addEventListener('click', (e) => {
+            const isMobile = window.innerWidth <= 768;
+            if (isMobile && e.target.classList.contains('category-item')) {
+                sidebar.classList.remove('visible');
+            }
+        });
+
+        // Close sidebar when clicking outside (on mobile)
+        document.addEventListener('click', (e) => {
+            const isMobile = window.innerWidth <= 768;
+            if (isMobile && 
+                sidebar.classList.contains('visible') && 
+                !sidebar.contains(e.target) && 
+                e.target !== menuToggle) {
+                sidebar.classList.remove('visible');
+            }
+        });
+
+        // Adjust layout on window resize
+        window.addEventListener('resize', () => {
+            if (window.innerWidth > 768) {
+                sidebar.classList.remove('visible'); // Reset mobile menu state
             }
         });
     </script>
