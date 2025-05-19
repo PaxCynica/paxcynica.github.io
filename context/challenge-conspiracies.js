@@ -1,4 +1,4 @@
-window.CHALLENGE_CONSPIRACY = [
+window.CHALLENGE_CONSPIRACIES = [
     {
         "title": "Emotional Investment & Righteous Indignation",
         "points": [

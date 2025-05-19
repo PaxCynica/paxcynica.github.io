@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -9,7 +10,7 @@
         :root {
             --header-height: 60px;
             --sidebar-width: 240px;
-            
+
             /* Light theme (default) */
             --theme-blue: #1a73e8;
             --theme-green: #0f9d58;
@@ -23,10 +24,10 @@
             --header-bg: #fff;
             --sidebar-bg: #fff;
             --border-color: #e0e0e0;
-            --shadow-color: rgba(0,0,0,0.1);
+            --shadow-color: rgba(0, 0, 0, 0.1);
             --bullet-color: var(--theme-blue);
         }
-        
+
         /* Dark theme variables */
         [data-theme="dark"] {
             --bg-color: #121212;
@@ -35,24 +36,31 @@
             --header-bg: #1e1e1e;
             --sidebar-bg: #1e1e1e;
             --border-color: #333;
-            --shadow-color: rgba(0,0,0,0.3);
-            --bullet-color: #64b5f6; /* Lighter blue for dark mode */
-            
+            --shadow-color: rgba(0, 0, 0, 0.3);
+            --bullet-color: #64b5f6;
+            /* Lighter blue for dark mode */
+
             /* Adjust theme colors for better contrast in dark mode */
-            --theme-blue: #64b5f6; /* Lighter blue */
-            --theme-green: #4caf50; /* Brighter green */
-            --theme-purple: #9575cd; /* Lighter purple */
-            --theme-sunset: #ff9e40; /* Lighter orange */
-            --theme-dark: #607d8b; /* Lighter blue-grey */
-            --theme-red: #ef5350; /* Lighter red */
+            --theme-blue: #64b5f6;
+            /* Lighter blue */
+            --theme-green: #4caf50;
+            /* Brighter green */
+            --theme-purple: #9575cd;
+            /* Lighter purple */
+            --theme-sunset: #ff9e40;
+            /* Lighter orange */
+            --theme-dark: #607d8b;
+            /* Lighter blue-grey */
+            --theme-red: #ef5350;
+            /* Lighter red */
         }
-        
+
         * {
             box-sizing: border-box;
             margin: 0;
             padding: 0;
         }
-        
+
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
             line-height: 1.6;
@@ -65,14 +73,15 @@
             grid-template-areas:
                 "header header"
                 "sidebar main";
-            overflow-x: hidden; /* Prevent horizontal scrolling */
+            overflow-x: hidden;
+            /* Prevent horizontal scrolling */
         }
-        
+
         /* Header styles */
         header {
             grid-area: header;
             background-color: var(--header-bg);
-            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
             padding: 0 1.5rem;
             display: flex;
             align-items: center;
@@ -82,41 +91,41 @@
             width: 100%;
             box-sizing: border-box;
         }
-        
+
         .logo {
             font-weight: 600;
             font-size: 1.2rem;
         }
-        
+
         /* Sidebar styles */
         .sidebar {
             grid-area: sidebar;
             background-color: var(--sidebar-bg);
-            box-shadow: 2px 0 4px rgba(0,0,0,0.05);
+            box-shadow: 2px 0 4px rgba(0, 0, 0, 0.05);
             overflow-y: auto;
             padding: 1rem 0;
         }
-        
+
         .category-list {
             list-style-type: none;
         }
-        
+
         .category-item {
             padding: 0.75rem 1.5rem;
             cursor: pointer;
             border-left: 4px solid transparent;
         }
-        
+
         .category-item:hover {
-            background-color: rgba(127,127,127,0.1);
+            background-color: rgba(127, 127, 127, 0.1);
         }
-        
+
         .category-item.active {
-            background-color: rgba(127,127,127,0.08);
+            background-color: rgba(127, 127, 127, 0.08);
             border-left-color: var(--theme-blue);
             font-weight: 500;
         }
-        
+
         /* Main content area */
         .main {
             grid-area: main;
@@ -126,13 +135,13 @@
             width: 100%;
             box-sizing: border-box;
         }
-        
+
         .category-title {
             margin-bottom: 1.5rem;
             padding-bottom: 0.5rem;
             border-bottom: 1px solid var(--border-color);
         }
-        
+
         .cards-container {
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
@@ -140,12 +149,12 @@
             width: 100%;
             box-sizing: border-box;
         }
-        
+
         /* Card styles */
         .card {
             background-color: var(--card-bg);
             border-radius: 8px;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
             overflow: hidden;
             display: flex;
             flex-direction: column;
@@ -154,89 +163,123 @@
             box-sizing: border-box;
             margin-bottom: 1rem;
         }
-        
+
         .card:hover {
             transform: translateY(-4px);
-            box-shadow: 0 10px 20px rgba(0,0,0,0.12);
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.12);
         }
-        
+
         .card-header {
             padding: 1rem;
             color: white;
             font-weight: 500;
         }
-        
+
         .card-body {
             padding: 1.25rem;
             flex-grow: 1;
         }
-        
+
         .card-points {
             list-style-type: none;
         }
-        
+
         .card-points li {
             margin-bottom: 0.75rem;
             position: relative;
             padding-left: 1.5rem;
             word-break: break-word;
         }
-        
+
         .card-points li:before {
             content: "•";
             position: absolute;
             left: 0;
             color: var(--bullet-color);
         }
-        
+
         /* Card themes */
-        .theme-blue .card-header { background-color: var(--theme-blue); }
-        .theme-green .card-header { background-color: var(--theme-green); }
-        .theme-purple .card-header { background-color: var(--theme-purple); }
-        .theme-sunset .card-header { background-color: var(--theme-sunset); }
-        .theme-dark .card-header { background-color: var(--theme-dark); }
-        .theme-red .card-header { background-color: var(--theme-red); }
-        
+        .theme-blue .card-header {
+            background-color: var(--theme-blue);
+        }
+
+        .theme-green .card-header {
+            background-color: var(--theme-green);
+        }
+
+        .theme-purple .card-header {
+            background-color: var(--theme-purple);
+        }
+
+        .theme-sunset .card-header {
+            background-color: var(--theme-sunset);
+        }
+
+        .theme-dark .card-header {
+            background-color: var(--theme-dark);
+        }
+
+        .theme-red .card-header {
+            background-color: var(--theme-red);
+        }
+
         /* Card layouts */
         .layout-centered .card-points {
             text-align: center;
             padding-left: 0;
         }
-        
+
         .layout-centered .card-points li {
             padding-left: 0;
         }
-        
+
         .layout-centered .card-points li:before {
             display: none;
         }
-        
+
         .layout-boxed {
             border-left: 4px solid;
         }
-        
-        .layout-boxed.theme-blue { border-left-color: var(--theme-blue); }
-        .layout-boxed.theme-green { border-left-color: var(--theme-green); }
-        .layout-boxed.theme-purple { border-left-color: var(--theme-purple); }
-        .layout-boxed.theme-sunset { border-left-color: var(--theme-sunset); }
-        .layout-boxed.theme-dark { border-left-color: var(--theme-dark); }
-        .layout-boxed.theme-red { border-left-color: var(--theme-red); }
-        
+
+        .layout-boxed.theme-blue {
+            border-left-color: var(--theme-blue);
+        }
+
+        .layout-boxed.theme-green {
+            border-left-color: var(--theme-green);
+        }
+
+        .layout-boxed.theme-purple {
+            border-left-color: var(--theme-purple);
+        }
+
+        .layout-boxed.theme-sunset {
+            border-left-color: var(--theme-sunset);
+        }
+
+        .layout-boxed.theme-dark {
+            border-left-color: var(--theme-dark);
+        }
+
+        .layout-boxed.theme-red {
+            border-left-color: var(--theme-red);
+        }
+
         .layout-split .card-points li {
-            border-bottom: 1px solid rgba(0,0,0,0.05);
+            border-bottom: 1px solid rgba(0, 0, 0, 0.05);
             padding-bottom: 0.75rem;
         }
-        
+
         .layout-split .card-points li:last-child {
             border-bottom: none;
         }
-        
+
         /* Search bar */
         .search-container {
             display: flex;
             align-items: center;
         }
-        
+
         .search-input {
             padding: 0.5rem 0.75rem;
             border: 1px solid var(--border-color);
@@ -246,7 +289,7 @@
             background-color: var(--card-bg);
             color: var(--text-color);
         }
-        
+
         /* Theme toggle */
         .theme-toggle {
             display: flex;
@@ -254,7 +297,7 @@
             cursor: pointer;
             margin-left: 10px;
         }
-        
+
         #themeToggle {
             background: none;
             border: none;
@@ -269,11 +312,11 @@
             justify-content: center;
             transition: background-color 0.2s;
         }
-        
+
         #themeToggle:hover {
-            background-color: rgba(127,127,127,0.1);
+            background-color: rgba(127, 127, 127, 0.1);
         }
-        
+
         /* Loading state */
         .loading {
             text-align: center;
@@ -281,7 +324,7 @@
             font-style: italic;
             color: #666;
         }
-        
+
         /* Empty state */
         .empty-state {
             text-align: center;
@@ -297,22 +340,22 @@
             display: flex;
             justify-content: space-between;
             align-items: center;
-            background-color: rgba(0,0,0,0.04);
+            background-color: rgba(0, 0, 0, 0.04);
             margin-top: 0.5rem;
             border-bottom: 1px solid var(--border-color);
             user-select: none;
         }
 
         [data-theme="dark"] .source-header {
-            background-color: rgba(255,255,255,0.04);
+            background-color: rgba(255, 255, 255, 0.04);
         }
 
         .source-header:hover {
-            background-color: rgba(0,0,0,0.07);
+            background-color: rgba(0, 0, 0, 0.07);
         }
 
         [data-theme="dark"] .source-header:hover {
-            background-color: rgba(255,255,255,0.07);
+            background-color: rgba(255, 255, 255, 0.07);
         }
 
         .source-title {
@@ -330,7 +373,7 @@
         .category-item[data-source] {
             padding-left: 2.5rem;
         }
-        
+
         /* Mobile-friendly adjustments */
         @media (max-width: 768px) {
             body {
@@ -343,39 +386,41 @@
             }
 
             .sidebar {
-                display: none; /* Hidden by default on mobile */
+                display: none;
+                /* Hidden by default on mobile */
                 position: fixed;
                 top: var(--header-height);
                 left: 0;
                 width: 100%;
                 height: calc(100vh - var(--header-height));
                 z-index: 100;
-                box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+                box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
             }
-            
+
             .sidebar.visible {
                 display: block;
             }
-            
+
             header {
                 padding: 0 0.75rem;
                 height: var(--header-height);
                 width: 100%;
                 box-sizing: border-box;
             }
-            
+
             .logo {
                 font-size: 0.9rem;
                 white-space: nowrap;
                 overflow: hidden;
                 text-overflow: ellipsis;
-                max-width: calc(100% - 120px); /* Leave space for menu button + search */
+                max-width: calc(100% - 120px);
+                /* Leave space for menu button + search */
             }
-            
+
             .search-input {
                 width: 120px;
             }
-            
+
             .menu-button {
                 display: block;
                 background: none;
@@ -385,7 +430,7 @@
                 padding: 0.5rem;
                 color: var(--text-color);
             }
-            
+
             .main {
                 padding: 1rem;
                 height: calc(100vh - var(--header-height));
@@ -393,33 +438,34 @@
                 width: 100%;
                 box-sizing: border-box;
             }
-            
+
             .cards-container {
-                grid-template-columns: 1fr; /* Single column on mobile */
+                grid-template-columns: 1fr;
+                /* Single column on mobile */
                 width: 100%;
                 box-sizing: border-box;
             }
-            
+
             .category-title {
                 font-size: 1.2rem;
                 margin-bottom: 1rem;
             }
-            
+
             .card {
                 margin-bottom: 1rem;
                 width: 100%;
                 box-sizing: border-box;
             }
-            
+
             .card-header h3 {
                 font-size: 1.1rem;
             }
-            
+
             .search-container {
                 flex-direction: column;
                 width: 100%;
             }
-            
+
             .search-input {
                 width: 100%;
                 margin-bottom: 0.5rem;
@@ -452,11 +498,11 @@
 
         /* Card shadow adjustments for dark mode */
         [data-theme="dark"] .card {
-            box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
         }
 
         [data-theme="dark"] .card:hover {
-            box-shadow: 0 10px 20px rgba(0,0,0,0.3);
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
         }
 
         /* Adjust empty states for dark mode */
@@ -466,6 +512,7 @@
         }
     </style>
 </head>
+
 <body>
     <header>
         <button class="menu-button" id="menuToggle">☰</button>
@@ -480,39 +527,39 @@
             </button>
         </div>
     </header>
-    
+
     <aside class="sidebar">
         <ul class="category-list" id="categoryList">
             <li class="loading">Loading categories...</li>
         </ul>
     </aside>
-    
+
     <main class="main" id="mainContent">
         <div class="loading">Loading content...</div>
     </main>
 
     <script>
-        document.addEventListener('DOMContentLoaded', async function() {
+        document.addEventListener('DOMContentLoaded', async function () {
             // Globals
             let allData = [];
             let categories = [];
             let currentCategory = null;
-            
+
             // Get the context files
             const contextFiles = [
                 'what-is-information.js',
                 'interpersonal-dynamics.js',
-                'building-resilience.js',
+                'building-information-resilience.js',
                 'challenge-conspiracies.js',
                 'historical-patterns.js',
                 'human-networks.js',
                 'irregular-warfare.js',
-                'literacy-in-hostile.js',
+                'literacy-in-hostile-environments.js',
                 'machine-targeting.js',
                 'manipulation-tactics.js',
                 'personal-skills.js'
             ];
-            
+
             // Update your loadScript function to track which file each dataset comes from
             function loadScript(url) {
                 return new Promise((resolve, reject) => {
@@ -527,12 +574,12 @@
                             // Execute the script content
                             try {
                                 eval(scriptContent);
-                                
+
                                 // After loading, find the global variable that was just defined
                                 // and tag its data with the source file info
                                 const sourceFile = url.replace('.js', '');
                                 const possibleVarName = sourceFile.toUpperCase().replace(/-/g, '_');
-                                
+
                                 if (window[possibleVarName] && Array.isArray(window[possibleVarName])) {
                                     // Tag each card with its source
                                     window[possibleVarName].forEach(card => {
@@ -541,7 +588,7 @@
                                     });
                                     console.log(`Tagged ${window[possibleVarName].length} cards from ${sourceFile}`);
                                 }
-                                
+
                                 resolve();
                             } catch (e) {
                                 console.error(`Error evaluating ${url}:`, e);
@@ -554,7 +601,7 @@
                         });
                 });
             }
-            
+
             // Helper to format source file name into a display title
             function formatSourceTitle(filename) {
                 return filename
@@ -562,7 +609,7 @@
                     .map(word => word.charAt(0).toUpperCase() + word.slice(1))
                     .join(' ');
             }
-            
+
             // Load all context files
             try {
                 for (const file of contextFiles) {
@@ -579,30 +626,30 @@
                     </div>
                 `;
             }
-            
+
             // Process the loaded data
             function processData() {
                 console.log("Processing data...");
-                
+
                 // Get all the global variables that were defined in the scripts
                 const globals = Object.keys(window).filter(key => {
                     console.log(`Checking global: ${key}`, window[key]);
-                    return key.includes('_') && 
-                        Array.isArray(window[key]) && 
+                    return key.includes('_') &&
+                        Array.isArray(window[key]) &&
                         window[key].length > 0 &&
                         typeof window[key][0] === 'object' &&
                         'title' in window[key][0];
                 });
-                
+
                 console.log("Found matching global variables:", globals);
-                
+
                 if (globals.length === 0) {
                     console.warn("No data found in global scope. Check your JS files format.");
                     // Check specifically for your interpersonal dynamics variable
                     if (window.INTERPERSONAL_DYNAMICS) {
                         console.log("Found INTERPERSONAL_DYNAMICS but it didn't match filter criteria:", window.INTERPERSONAL_DYNAMICS);
                     }
-                    
+
                     document.getElementById('mainContent').innerHTML = `
                         <div class="empty-state">
                             <h2>No Card Data Found</h2>
@@ -612,53 +659,57 @@
                     `;
                     return;
                 }
-                
+
                 // Combine all data
                 globals.forEach(global => {
                     allData = [...allData, ...window[global]];
                 });
-                
+
                 // Extract unique categories
-                categories = [...new Set(allData.map(item => item.category))].sort();
+                categories = [...new Set(allData.map(item => item.category))];
                 
                 // Initialize the UI
                 renderCategories();
-                
+
                 if (categories.length > 0) {
                     selectCategory(categories[0]);
                 }
-                
+
                 // Set up search functionality
                 document.getElementById('searchInput').addEventListener('input', handleSearch);
             }
-            
+
             // Render the category list
             function renderCategories() {
                 const categoryList = document.getElementById('categoryList');
-                
+
                 if (categories.length === 0) {
                     categoryList.innerHTML = '<li class="category-item">No categories found</li>';
                     return;
                 }
-                
-                // Group categories by source file
-                const sourceFiles = [...new Set(allData.map(item => item.sourceFile))].sort();
+
+                // Group categories by source file, keeping original source file order
+                const sourceFiles = [...new Set(allData.map(item => item.sourceFile))];
                 let menuHTML = '';
-                
+
                 sourceFiles.forEach(source => {
-                    // Get categories from this source
-                    const sourceCategories = [...new Set(
-                        allData
-                            .filter(item => item.sourceFile === source)
-                            .map(item => item.category)
-                    )].sort();
+                    // Get categories from this source, preserving original order
+                    const sourceData = allData.filter(item => item.sourceFile === source);
+                    const uniqueCategories = [];
                     
+                    // Keep only the first occurrence of each category to maintain order
+                    sourceData.forEach(item => {
+                        if (!uniqueCategories.includes(item.category)) {
+                            uniqueCategories.push(item.category);
+                        }
+                    });
+
                     // Skip if no categories
-                    if (sourceCategories.length === 0) return;
-                    
+                    if (uniqueCategories.length === 0) return;
+
                     // Get a title for the source
                     const sourceTitle = allData.find(item => item.sourceFile === source)?.sourceTitle || source;
-                    
+
                     // Add source header
                     menuHTML += `
                         <li class="source-header">
@@ -666,28 +717,28 @@
                             <div class="source-toggle">▼</div>
                         </li>
                     `;
-                    
+
                     // Add categories under this source
-                    sourceCategories.forEach(category => {
+                    uniqueCategories.forEach(category => {
                         menuHTML += `<li class="category-item" data-category="${category}" data-source="${source}">${category}</li>`;
                     });
                 });
-                
+
                 categoryList.innerHTML = menuHTML;
-                
+
                 // Add click handlers for categories
                 document.querySelectorAll('.category-item').forEach(item => {
                     item.addEventListener('click', () => {
                         selectCategory(item.dataset.category);
                     });
                 });
-                
+
                 // Add click handlers for source toggling
                 document.querySelectorAll('.source-header').forEach(header => {
                     header.addEventListener('click', () => {
                         // Toggle categories under this source
                         header.classList.toggle('collapsed');
-                        
+
                         // Get next elements until the next source header
                         let next = header.nextElementSibling;
                         while (next && !next.classList.contains('source-header')) {
@@ -696,7 +747,7 @@
                             }
                             next = next.nextElementSibling;
                         }
-                        
+
                         // Update the toggle icon
                         const toggle = header.querySelector('.source-toggle');
                         if (toggle) {
@@ -705,11 +756,11 @@
                     });
                 });
             }
-            
+
             // Select and display a category
             function selectCategory(category) {
                 currentCategory = category;
-                
+
                 // Update active state in sidebar
                 document.querySelectorAll('.category-item').forEach(item => {
                     if (item.dataset.category === category) {
@@ -718,16 +769,16 @@
                         item.classList.remove('active');
                     }
                 });
-                
+
                 // Filter cards by category
                 const filteredCards = allData.filter(item => item.category === category);
                 renderCards(filteredCards, category);
             }
-            
+
             // Render the cards for a category
             function renderCards(cards, categoryName) {
                 const mainContent = document.getElementById('mainContent');
-                
+
                 if (cards.length === 0) {
                     mainContent.innerHTML = `
                         <div class="empty-state">
@@ -737,7 +788,7 @@
                     `;
                     return;
                 }
-                
+
                 mainContent.innerHTML = `
                     <h2 class="category-title">${categoryName}</h2>
                     <div class="cards-container" id="cardsContainer">
@@ -745,7 +796,7 @@
                     </div>
                 `;
             }
-            
+
             // Render a single card
             function renderCard(card) {
                 return `
@@ -761,11 +812,11 @@
                     </div>
                 `;
             }
-            
+
             // Handle search functionality
             function handleSearch(e) {
                 const searchTerm = e.target.value.toLowerCase();
-                
+
                 if (searchTerm === '') {
                     // If search is cleared, return to category view
                     if (currentCategory) {
@@ -773,17 +824,17 @@
                     }
                     return;
                 }
-                
+
                 // Search across all cards
-                const searchResults = allData.filter(item => 
-                    item.title.toLowerCase().includes(searchTerm) || 
+                const searchResults = allData.filter(item =>
+                    item.title.toLowerCase().includes(searchTerm) ||
                     item.points.some(point => point.toLowerCase().includes(searchTerm))
                 );
-                
+
                 renderCards(searchResults, `Search Results: "${e.target.value}"`);
             }
         });
-        
+
         // Mobile menu toggle
         const menuToggle = document.getElementById('menuToggle');
         const sidebar = document.querySelector('.sidebar');
@@ -803,9 +854,9 @@
         // Close sidebar when clicking outside (on mobile)
         document.addEventListener('click', (e) => {
             const isMobile = window.innerWidth <= 768;
-            if (isMobile && 
-                sidebar.classList.contains('visible') && 
-                !sidebar.contains(e.target) && 
+            if (isMobile &&
+                sidebar.classList.contains('visible') &&
+                !sidebar.contains(e.target) &&
                 e.target !== menuToggle) {
                 sidebar.classList.remove('visible');
             }
@@ -819,27 +870,28 @@
         });
 
         // Theme toggle functionality
-        document.addEventListener('DOMContentLoaded', function() {
+        document.addEventListener('DOMContentLoaded', function () {
             const themeToggle = document.getElementById('themeToggle');
-            
+
             // Check for saved theme preference or prefer-color-scheme
             const savedTheme = localStorage.getItem('theme');
             const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
-            
+
             // Set initial theme
             if (savedTheme === 'dark' || (!savedTheme && prefersDark)) {
                 document.documentElement.setAttribute('data-theme', 'dark');
             }
-            
+
             // Add toggle functionality
-            themeToggle.addEventListener('click', function() {
+            themeToggle.addEventListener('click', function () {
                 const currentTheme = document.documentElement.getAttribute('data-theme');
                 const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
-                
+
                 document.documentElement.setAttribute('data-theme', newTheme);
                 localStorage.setItem('theme', newTheme);
             });
         });
     </script>
 </body>
+
 </html>
