@@ -1,0 +1,1491 @@
+{
+    "category": "Advanced Tech & Intelligence",
+    "query": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+    "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Wes Davis",
+            "title": "Amazon claims its ‘constantly inviting’ new customers to Alexa Plus",
+            "description": "Yesterday, Reuters ran a story with the headline “Weeks after Amazon’s Alexa+ AI launch, a mystery: where are the users?,” in which it detailed its difficulty locating first-hand accounts of the AI-upgraded assistants’ use online. The Verge asked Amazon about…",
+            "url": "https://www.theverge.com/news/669158/amazon-claims-its-constantly-inviting-new-customers-to-alexa-plus",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/alexa-plus.png?quality=90&strip=all&crop=0%2C3.8637918472968%2C100%2C78.583391915162&w=1200",
+            "publishedAt": "2025-05-17T22:14:06Z",
+            "content": "The company says hundreds of thousands of customers already have access to its AI-powered digital assistant.\r\nThe company says hundreds of thousands of customers already have access to its AI-powered… [+2416 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Elton John brands government 'absolute losers' over AI copyright plans",
+            "description": "The musician accuses the government of robbing young artists over its copyright law plans.",
+            "url": "https://www.bbc.com/news/articles/c8jg0348yvxo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/59d7/live/264ee3f0-3350-11f0-9447-a37310dff44b.jpg",
+            "publishedAt": "2025-05-18T05:00:26Z",
+            "content": "Sir Elton John described the government as \"absolute losers\" and said he feels \"incredibly betrayed\" over plans to exempt technology firms from copyright laws.\r\nSpeaking exclusively to Sunday with La… [+4070 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "EditorDavid",
+            "title": "Is the Altruistic OpenAI Gone?",
+            "description": "\"The altruistic OpenAI is gone, if it ever existed,\" argues a new article in the Atlantic, based on interviews with more than 90 current and former employees, including executives. It notes that shortly before Altman's ouster (and rehiring) he was \"seemingly …",
+            "url": "https://slashdot.org/story/25/05/17/1925212/is-the-altruistic-openai-gone",
+            "urlToImage": "https://a.fsdn.com/sd/topics/ai_64.png",
+            "publishedAt": "2025-05-17T20:34:00Z",
+            "content": "\"The altruistic OpenAI is gone, if it ever existed,\" argues a new article in the Atlantic, based on interviews with more than 90 current and former employees, including executives. It notes that shor… [+4900 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Domenic.me"
+            },
+            "author": "Domenic Denicola",
+            "title": "Spaced Repetition Systems Have Gotten Way Better",
+            "description": "Spaced repetition systems are a well-known way to efficiently learn material. Recent innovations have applied machine learning to greatly improve their scheduling.",
+            "url": "https://domenic.me/fsrs/",
+            "urlToImage": null,
+            "publishedAt": "2025-05-18T11:42:19Z",
+            "content": "Spaced repetition recap\r\nMastering any subject is built on a foundation of knowledge: knowledge of facts, of heuristics, or of problem-solving tactics. If a subject is part of your full-time job, the… [+11500 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Mathpn.com"
+            },
+            "author": "Matheus Pedroni",
+            "title": "Climbing trees 1: what are decision trees?",
+            "description": "This is the first in a series of posts about decision trees in the context of machine learning. The goal here is to provide a foundational understanding of decision trees and to implement them.",
+            "url": "https://mathpn.com/posts/climbing-trees-1/",
+            "urlToImage": "https://mathpn.com/posts/climbing-trees-1-what-are-decision-trees.png",
+            "publishedAt": "2025-05-18T02:56:39Z",
+            "content": "This is the first in a se­ries of posts about de­ci­sion trees in the con­text of ma­chine learn­ing. The goal here is to pro­vide a foun­da­tional un­der­stand­ing of de­ci­sion trees and to im­ple­… [+34957 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "DIYphotography"
+            },
+            "author": "Dunja Djudjic",
+            "title": "PSA: Beware of AI Wedding Photography Portfolios",
+            "description": "As generative AI improves, we have a greater chance of having fun with it and (re)creating tons of interesting visuals. Sadly, scammers have a greater...\nThe post PSA: Beware of AI Wedding Photography Portfolios appeared first on DIY Photography.",
+            "url": "https://www.diyphotography.net/psa-beware-of-ai-wedding-photography-portfolio-scam/",
+            "urlToImage": "https://www.diyphotography.net/wp-content/uploads/2025/05/AI-wedding-photography-1.jpg",
+            "publishedAt": "2025-05-18T13:00:00Z",
+            "content": "As generative AI improves, we have a greater chance of having fun with it and (re)creating tons of interesting visuals. Sadly, scammers have a greater chance of cheating people with AI-generated imag… [+8362 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Anna Pivovarchuk",
+            "title": "Could AI help elderly people and refugees reconstruct unrecorded pasts?",
+            "description": "How a studio in Barcelona is using artificial intelligence to create 'synthetic memories' where no visual records exist.",
+            "url": "https://www.aljazeera.com/features/2025/5/18/could-ai-help-elderly-people-and-refugees-reconstruct-their-unrecorded-pasts",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/05/Images-of-Synthetic-Memories_Page_6-1746705186.jpg?resize=1920%2C1154",
+            "publishedAt": "2025-05-18T10:03:14Z",
+            "content": "In 2015, at the height of the refugee crisis in Europe, as a record 1.3 million people, mostly Syrians fleeing civil war, sought asylum, Pau Aleikum Garcia was in Athens, helping those arriving in th… [+15418 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yanko Design"
+            },
+            "author": "Ida Torres",
+            "title": "FundamentAI shows how AI and nature can co-design cities of tomorrow",
+            "description": "FundamentAI shows how AI and nature can co-design cities of tomorrowEven though you’ve probably seen “AI this” and “AI that” for the past couple of years, we’re still barely scratching the surface of what Artificial...",
+            "url": "https://www.yankodesign.com/2025/05/17/fundamentai-shows-how-ai-and-nature-can-co-design-cities-of-tomorrow/",
+            "urlToImage": "https://www.yankodesign.com/images/design_news/2025/05/fundamentai-shows-how-ai-and-nature-can-co-design-cities-of-tomorrow/fundamentai-01.jpg",
+            "publishedAt": "2025-05-17T19:15:31Z",
+            "content": "Even though you’ve probably seen “AI this” and “AI that” for the past couple of years, we’re still barely scratching the surface of what Artificial Intelligence can contribute to mankind. Whether you… [+2870 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Dan Latu,Alcynna Lloyd",
+            "title": "NYC renters built a website to help them triumph over landlords trying to hide rent-stabilized apartments",
+            "description": "Some New York landlords hide their rent-stabilized units. Frustrated renters built a website that makes it transparent when these homes hit the market.",
+            "url": "https://www.businessinsider.com/rent-stabilized-apartments-nyc-how-to-find-when-landlords-hide-2025-5",
+            "urlToImage": "https://i.insider.com/6827635f68a2929008018d20?width=1200&format=jpeg",
+            "publishedAt": "2025-05-18T08:51:02Z",
+            "content": "There's a new website that alerts NYC renters when a rent-stabilized apartment hits the market.L. Toshio Kishiyama/Getty Images\r\n<ul><li>Some New York City landlords try to hide their rent-stabilized… [+5145 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "The Associated Press",
+            "title": "Ritual, symbol and a popemobile tour mark Pope Leo XIV's installation Mass",
+            "description": "Leaders from around the world will be in attendance, including Vice President JD Vance, Ukrainian President Volodymyr Zelenskyy, and Peruvian President Dina Boluarte.",
+            "url": "https://www.npr.org/2025/05/18/g-s1-67486/pope-leo-xivs-installation-mass",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x2268+0+210/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcb%2F00%2Fc4401f10445ca4b47ade6ddb3cfb%2Fap25134570699033.jpg",
+            "publishedAt": "2025-05-18T04:23:00Z",
+            "content": "VATICAN CITY Pope Leo XIV is officially opening his pontificate in a ceremony Sunday that blends ancient ritual, evocative symbols and a nod to modern-day celebrity, all in front of the presidents, p… [+4201 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Seeking Alpha"
+            },
+            "author": "Joseph Parrish",
+            "title": "Quantum Computing: Minor Q1 Results, A Slow Mover",
+            "description": "Quantum Computing's Q1 results show minimal revenue growth. Read why only very patient, long-term investors may find value in QUBT stock.",
+            "url": "https://seekingalpha.com/article/4787867-quantum-computing-minor-q1-results-a-slow-mover",
+            "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2015142280/image_2015142280.jpg?io=getty-c-w1536",
+            "publishedAt": "2025-05-18T04:00:00Z",
+            "content": "Analysts Disclosure:I/we have no stock, option or similar derivative position in any of the companies mentioned, and no plans to initiate any such positions within the next 72 hours. I wrote this art… [+770 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "AJ Dellinger",
+            "title": "MIT Backs Away From Paper Claiming Scientists Make More Discoveries with AI",
+            "description": "The retracted paper had impressed a Nobel Prize winner in economics.",
+            "url": "https://gizmodo.com/mit-backs-away-from-paper-claiming-scientists-make-more-discoveries-with-ai-2000603790",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/05/GettyImages-2579928.jpg",
+            "publishedAt": "2025-05-17T19:30:08Z",
+            "content": "Last year, the Massachusetts Institute of Technology was touting the research of a PhD student on the impact of AI on the workforce that “floored” professors in the field. Now the university is backi… [+2314 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Twistedsifter.com"
+            },
+            "author": "Kyra Piperides",
+            "title": "Quantum Researchers Explain How Their New Chip Is So Powerful That It Could Be An Indicator Of A Multiverse",
+            "description": "It performed a computation that would take today’s fastest supercomputers 10 septillion years.",
+            "url": "http://twistedsifter.com/2025/05/google-quantum-researchers-explain-how-their-new-chip-is-so-powerful-that-it-could-be-an-indicator-of-a-multiverse/",
+            "urlToImage": "https://twistedsifter.com/wp-content/uploads/2025/04/Computer-code.jpg",
+            "publishedAt": "2025-05-18T13:48:28Z",
+            "content": "Pexels\r\nIn a huge leap forward for technology, Google recently unveiled their latest quantum chip, known as Willow.\r\nA quantum chip is the key piece of hardware in a quantum computer – a device that … [+4472 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Designyoutrust.com"
+            },
+            "author": "Dmitry",
+            "title": "Stunning AI Photographs and Creative Vibes by Nathan Boey",
+            "description": "Nathan Boey is a Canadian multimedia artist and director who blends filmmaking, animation, and AI-generated art. With a background in film from Concordia University, he has spent two decades refining his craft, earning recognition such as a regional Emmy Awar…",
+            "url": "https://designyoutrust.com/2025/05/stunning-ai-photographs-and-creative-vibes-by-nathan-boey/",
+            "urlToImage": "https://designyoutrust.com/wp-content/uploads/2025/05/0-24.jpg",
+            "publishedAt": "2025-05-18T13:58:05Z",
+            "content": "Nathan Boey is a Canadian multimedia artist and director who blends filmmaking, animation, and AI-generated art. \r\nWith a background in film from Concordia University, he has spent two decades refini… [+466 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "R-bloggers.com"
+            },
+            "author": "Oscar",
+            "title": "15 New Books added to Big Book of R",
+            "description": "I’m very excited to announce that 6 English-language books and 9 Portuguese books have been added to the collection of over 400 free, open-source R programming books. Many thanks to Bruno Mioto for the submission of the Portuguese books. As a reminder, there …",
+            "url": "https://www.r-bloggers.com/2025/05/15-new-books-added-to-big-book-of-r/",
+            "urlToImage": "https://www.r-bloggers.com/wp-content/uploads/2016/04/R_02_2016-05-01.png",
+            "publishedAt": "2025-05-18T07:21:10Z",
+            "content": "Im very excited to announce that 6 English-language books and 9 Portuguese books have been added to the collection of over 400 free, open-source R programming books.\r\nMany thanks to Bruno Mioto for t… [+2805 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fstoppers"
+            },
+            "author": "Alex Cooke",
+            "title": "Advanced Lightroom Edits Without Photoshop",
+            "description": "Removing unwanted elements from your images can drastically change their impact, and knowing how to quickly and effectively achieve this within Lightroom alone can streamline your editing workflow. Coming to you from Christian Möhrle - The Phlog Photography, …",
+            "url": "https://fstoppers.com/lightroom/advanced-lightroom-edits-without-photoshop-701692",
+            "urlToImage": "https://cdn.fstoppers.com/styles/large-16-9/s3/lead/2025/05/how-to-use-generative-fill-to-clean-up-your-photos-in-lightroom---youtube---0-0-05.jpeg",
+            "publishedAt": "2025-05-18T15:03:01Z",
+            "content": "Removing unwanted elements from your images can drastically change their impact, and knowing how to quickly and effectively achieve this within Lightroom alone can streamline your editing workflow.\r\n… [+2304 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Scott White, Contributor, \n Scott White, Contributor\n https://www.forbes.com/sites/scottwhite/",
+            "title": "Gen Z's New College Calculus: Skills, Not Stadiums",
+            "description": "The era of selecting universities for their manicured quads or state-of-the-art recreation centers is fading.",
+            "url": "https://www.forbes.com/sites/scottwhite/2025/05/17/gen-zs-new-college-calculus-skills-not-stadiums/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6828c91549ceb6117a347d70/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-05-17T17:39:18Z",
+            "content": "Close view of mature female educator standing between early 20s classmates and offering guidance as ... More they work on project. Property release attached.\r\ngetty\r\nWhen Emily Rodriguez toured colle… [+4994 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Practical Ecommerce"
+            },
+            "author": "Armando Roggio",
+            "title": "AI Is Diluting Your Brand",
+            "description": "Generative AI learns from the web and also contributes content to it. Is AI-generated brand copy becoming homogenized? \nThe post AI Is Diluting Your Brand appeared first on Practical Ecommerce.",
+            "url": "https://www.practicalecommerce.com/ai-is-diluting-your-brand",
+            "urlToImage": "https://www.practicalecommerce.com/wp-content/uploads/2025/05/AI-Is-Diluting-Your-Brand.jpg",
+            "publishedAt": "2025-05-18T09:00:22Z",
+            "content": "A combination of fear and necessity may create a renaissance of sorts for brand marketing.\r\nMany retail and direct-to-consumer companies that have essentially ignored branding now worry that generati… [+3917 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TalkAndroid"
+            },
+            "author": "Talk Android",
+            "title": "No scanner? No problem — your Android phone can now do it all",
+            "description": "The scanner feature on Android devices has received a major upgrade, transforming how users digitize documents. Google's latest enhancement automatically",
+            "url": "https://www.talkandroid.com/507096-no-scanner-no-problem-your-android-phone-can-now-do-it-all/",
+            "urlToImage": "https://www.talkandroid.com/wp-content/uploads/2025/05/Canva-TalkAndroid-17-1.png",
+            "publishedAt": "2025-05-18T06:30:00Z",
+            "content": "The scanner feature on Android devices has received a major upgrade, transforming how users digitize documents. Google's latest enhancement automatically improves document quality without manual adju… [+6687 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "matthew.hanson@futurenet.com (Matt Hanson) , Matt Hanson",
+            "title": "Computex 2025: live from the world's biggest computing event",
+            "description": "Computex 2025 is the world's biggest computing show where companies like AMD, Nvidia and Qualcomm show off their latest devices - and we're reporting live from the show floor in Taipei, Taiwan.",
+            "url": "https://www.techradar.com/news/live/computex2025",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/eYvEqZdgKuWfphV9gyrTqH.png",
+            "publishedAt": "2025-05-18T06:44:12Z",
+            "content": "The world's biggest computing tech show, Computex 2025, is back - and once again we'll be on the ground in Taipei, Taiwan to bring you all the latest news, reviews and opinions on all the coolest gad… [+746 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Upenn.edu"
+            },
+            "author": "Victor Mair",
+            "title": "Jianwei Xun: Fake philosopher",
+            "description": "Jianwei Xun, the supposed philosopher behind the hypnocracy theory, does not exist and is a product of artificial intelligenceA collaboration between an essayist and two AI platforms produced a book that reflects on new forms of manipulation Raúl Limón, EL PA…",
+            "url": "https://languagelog.ldc.upenn.edu/nll/?p=69153",
+            "urlToImage": null,
+            "publishedAt": "2025-05-18T01:04:29Z",
+            "content": "« previous post | \r\nJianwei Xun, the supposed philosopher behind the hypnocracy theory, does not exist and is a product of artificial intelligenceA collaboration between an essayist and two AI platfo… [+4076 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Becca Bratcher, Contributor, \n Becca Bratcher, Contributor\n https://www.forbes.com/sites/beccabratcher/",
+            "title": "What Is A Cryptocurrency ETF? A Guide For Crypto Investors Looking To Diversify",
+            "description": "Crypto ETFs explained: A simpler way to invest in cryptocurrency. Discover the benefits and risks for investors aiming to diversify their portfolio.",
+            "url": "https://www.forbes.com/sites/digital-assets/article/what-is-cryptocurrency-etf/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/678a9182522569078a65038b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-05-18T11:00:00Z",
+            "content": "Crypto ETFs are a good option for beginners, traditional investors and those looking for diversified ... More exposure.\r\ngetty\r\nA cryptocurrency exchange-traded fund (ETF) is an investment vehicle th… [+11686 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Luke Cooper",
+            "title": "How major payment companies could soon let AI spend your money for you",
+            "description": "Visa and Mastercard want to give artificial intelligence bots more control of Australians' bank cards, in a technological advancement they say could \"revolutionise\" shopping.",
+            "url": "https://www.abc.net.au/news/2025-05-18/visa-and-mastercard-artificial-intelligence-agents-explained/105274468",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/57127b0c9191458dcb6096f921ed6d05?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=521&width=862&height=485&imformat=generic",
+            "publishedAt": "2025-05-17T21:09:05Z",
+            "content": "Visa and Mastercard want to give artificial intelligence bots more control of Australians' bank cards, in a technological advancement they say could \"revolutionise\" shopping.\r\nThe world's leading dig… [+9753 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tom's Hardware UK"
+            },
+            "author": "Mark Tyson",
+            "title": "Defendnot tool pitched as 'an even funnier way’ to disable Windows Defender",
+            "description": "Works by tapping into an undocumented WSC API call to tell Windows there’s some other antivirus software turned on.",
+            "url": "https://www.tomshardware.com/software/security-software/defendnot-tool-pitched-as-an-even-funnier-way-to-disable-windows-defender",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/mmnTSsdFnYJupqHbu9zvbL.jpg",
+            "publishedAt": "2025-05-18T13:45:00Z",
+            "content": "There’s a new tool available for folk who want to disable Windows Defender without replacing it with a rival antivirus (AV) product. Developer and reverse engineer es3n1n released the new Defendnot t… [+2603 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Psychology Today"
+            },
+            "author": "Jarek Janio Ph.D.",
+            "title": "What Counts as Learning When AI Can Imitate It?",
+            "description": "When AI can do the tasks we call learning, how do we tell what’s real? Here's why only observable behavior can define and protect human learning.",
+            "url": "https://www.psychologytoday.com/us/blog/how-we-learn/202505/what-counts-as-learning-when-ai-can-imitate-it",
+            "urlToImage": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2025-05/chemistry%20lab.png.jpg?itok=3CORImK0",
+            "publishedAt": "2025-05-17T17:16:32Z",
+            "content": "So, heres the question: What does it mean to say someone has learned something when a machine can now do the same task?\r\nArtificial intelligence can generate essays, solve problems, and simulate flue… [+6037 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Smashingapps.com"
+            },
+            "author": "Team",
+            "title": "How Smarter Accessibility Tools Improve Your Google Browsing Experience",
+            "description": "This tutorial walks you through how to activate these smarter accessibility tools step by step, ensuring you to improve your digital experience.",
+            "url": "https://www.smashingapps.com/smarter-accessibility-tools-google-browsing/",
+            "urlToImage": "https://www.smashingapps.com/wp-content/uploads/2025/05/How-Smarter-Accessibility-Tools-Improve-Your-Google-Browsing-Experience-e1747570589548.webp",
+            "publishedAt": "2025-05-18T12:28:00Z",
+            "content": "Googles latest accessibility enhancements bring AI-powered features to Android and Chrome, making browsing more intuitive for users with diverse needs. These Smarter Accessibility Tools updates inclu… [+8006 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Hugh McIntyre, Senior Contributor, \n Hugh McIntyre, Senior Contributor\n https://www.forbes.com/sites/hughmcintyre/",
+            "title": "Aaliyah’s Posthumous Single Earns The Singer Her First New Radio Hit In A Decade",
+            "description": "Aaliyah returns to the Billboard charts with “Gone,” her posthumous single with Tank, which debuts on a pair of R&B-leaning airplay tallies.",
+            "url": "https://www.forbes.com/sites/hughmcintyre/2025/05/18/aaliyahs-posthumous-single-earns-the-singer-her-first-new-radio-hit-in-a-decade/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6826617bebb09e57e37f1ceb/0x0.jpg?format=jpg&crop=2033,1143,x0,y300,safe&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-05-18T12:15:00Z",
+            "content": "Aaliyah returns to the Billboard charts with Gone, her posthumous single with Tank, which debuts ... More on a pair of R&amp;B-leaning airplay tallies. Aaliyah during Aaliyah In Concert in Irvine, Ca… [+2064 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nextpit.com"
+            },
+            "author": "Thorsten Neuhetzki",
+            "title": "Finally! This New Technology Makes Movie Dialogue Easier to Understand",
+            "description": "Sonos has introduced an AI-supported voice enhancement feature with an update for the Arc Ultra soundbar. But what does the technology really do?",
+            "url": "https://www.nextpit.com/sonos-arc-ultra-ai-revolutionizes-speech-intelligibility",
+            "urlToImage": "https://fs.npstatic.com/userfiles/7761255/image/audio/sonosarcultra-w1400h788.jpg",
+            "publishedAt": "2025-05-18T14:00:00Z",
+            "content": "AI Improves Speech Intelligibility - But How?\r\nWe've all been there: movies and series where a mix of effects and music drowns out dialogue. Especially in high-quality productions with complex sound … [+3665 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Neowin"
+            },
+            "author": "Hamid Ganji",
+            "title": "Nvidia is reportedly preparing a non-Hopper series chip for China",
+            "description": "After the recent US crackdown on exporting H20 chips to China, Nvidia is working on a new downgraded chip for its Chinese customers. Read more...",
+            "url": "https://www.neowin.net/news/nvidia-is-reportedly-preparing-a-non-hopper-series-chip-for-china/",
+            "urlToImage": "https://cdn.neowin.com/news/images/uploaded/2025/04/1744654148_nvidiaheadquarters_story.jpg",
+            "publishedAt": "2025-05-17T19:02:02Z",
+            "content": "China's AI ambitions are currently hobbled by the lack of powerful chips and restrictions the US has imposed on selling GPUs to Chinese customers. While Nvidia already designed a China-specific Hoppe… [+1882 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Neowin"
+            },
+            "author": "Hamid Ganji",
+            "title": "The US lawmakers raise concerns about Apple-Alibaba AI venture in China",
+            "description": "Apple's partnership with Alibaba to bring AI features to iPhones in China raises alarms in Washington over security concerns. Read more...",
+            "url": "https://www.neowin.net/news/the-us-lawmakers-raise-concerns-about-apple-alibaba-ai-venture-in-china/",
+            "urlToImage": "https://cdn.neowin.com/news/images/uploaded/2025/05/1747558419_apple_and_china_story.jpg",
+            "publishedAt": "2025-05-18T08:56:01Z",
+            "content": "According to a new report by The New York Times, lawmakers and government officials in Washington have raised concerns about Apple's AI deal with Alibaba to bring AI features to iPhones in China. iPh… [+1950 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cointelegraph"
+            },
+            "author": "Cointelegraph by Vince Quill",
+            "title": "The Public internet is a bottleneck for blockchain — DoubleZero CEO",
+            "description": "Public internet infrastructure is the critical speed and performance constraint on high-throughput blockchain networks, according to Austin Federa, co-founder and CEO of DoubleZero, a project developing high-speed fiber optic communication rails for blockchai…",
+            "url": "https://cointelegraph.com/news/public-internet-bottleneck-blockchain-networks-double-zero",
+            "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-05/0196e013-679f-723a-8d58-9b22c4bedc86",
+            "publishedAt": "2025-05-17T22:14:16Z",
+            "content": "Public internet infrastructure is the critical speed and performance constraint on high-throughput blockchain networks, according to Austin Federa, co-founder and CEO of DoubleZero, a project develop… [+2435 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Mac Observer"
+            },
+            "author": "Rajat Saini",
+            "title": "Apple Is Cuddling With China’s Alibaba for AI but the US Is Not Happy",
+            "description": "Apple is pushing ahead with artificial intelligence in China by partnering with Alibaba, but Washington is raising alarms. U.S. officials fear the deal gives Beijing access to American tech advantages and compromises user privacy. The concern cuts deeper than…",
+            "url": "https://www.macobserver.com/news/apple-is-cuddling-with-chinas-alibaba-for-ai-but-the-us-is-not-happy/",
+            "urlToImage": "https://www.macobserver.com/wp-content/uploads/2025/05/Apple-chinese-market-1024x576.png",
+            "publishedAt": "2025-05-18T08:47:54Z",
+            "content": "Apple is pushing ahead with artificial intelligence in China by partnering with Alibaba, but Washington is raising alarms. U.S. officials fear the deal gives Beijing access to American tech advantage… [+2259 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Efosa Udinmwen",
+            "title": "Microsoft, Google, and Meta have borrowed EV tech for the next big thing in data centers: 1MW watercooled racks",
+            "description": "Google, Meta, and Microsoft using EV-based 400VDC power and water cooling to handle surging AI workloads and extreme thermal demands.",
+            "url": "https://www.techradar.com/pro/microsoft-google-and-meta-have-borrowed-ev-tech-for-the-next-big-thing-in-data-center-1mw-watercooled-racks",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/EbMTEZ2t8kCVHLuSGJUXbg.png",
+            "publishedAt": "2025-05-18T03:33:00Z",
+            "content": "<ul><li>Liquid cooling isn't optional anymore, it's the only way to survive AI's thermal onslaught</li><li>The jump to 400VDC borrows heavily from electric vehicle supply chains and design logic</li>… [+3078 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Globalsecurity.org"
+            },
+            "author": "John Pike",
+            "title": "China absolutely does not accept egregious suppression, will defend Chinese firms' rights: FM on US curbs on Huawei AI chips",
+            "description": "A Chinese Foreign Ministry spokesperson on Friday slammed the US over a recent announcement by the US Commerce Department's Bureau of Industry and Security, which claimed the use of Huawei's Ascend chips risks violating US export controls, as well as the bure…",
+            "url": "https://www.globalsecurity.org/wmd/library/news/china/2025/05/china-250516-globaltimes03.htm",
+            "urlToImage": null,
+            "publishedAt": "2025-05-18T08:21:34Z",
+            "content": "Global Times\r\nBy Chu Daye Published: May 16, 2025 11:21 PM\r\nA Chinese Foreign Ministry spokesperson on Friday slammed the US over a recent announcement by the US Commerce Department's Bureau of Indus… [+4751 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fontsinuse.com"
+            },
+            "author": "Brendan Dawes",
+            "title": "Now Becomes Then",
+            "description": "Contributed by Brendan DawesSource: producedforuse.com License: All Rights Reserved. A forty-page, large format algorithmic broadsheet publication to mark twenty-five years of brendandawes.com.\n\nSince 2000 brendandawes.com has been my corner of the web where …",
+            "url": "https://fontsinuse.com/uses/68387/now-becomes-then",
+            "urlToImage": "https://cards.fontsinuse.com/cardshot?s=twitter&t=use&url=https://fontsinuse.com/uses/68387/now-becomes-then&k=71b935815d67afef399ee75cf076e027&v=6db8b08b",
+            "publishedAt": "2025-05-18T14:15:15Z",
+            "content": "A forty-page, large format algorithmic broadsheet publication to mark twenty-five years of brendandawes.com.\r\nSince 2000 brendandawes.com has been my corner of the web where I share my work, code, pr… [+796 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "James P. Pinkerton, James P. Pinkerton",
+            "title": "Pinkerton: Leo XIV and the Search for a New Social Contract in the Age of AI",
+            "description": "Artificial Intelligence could enrich and enslave us—perhaps one or the other, perhaps both at the same time.  So, even non-Catholics should appreciate that Pope Leo XIV is summoning his Church to build a fortress for the free will of faith—the right of each s…",
+            "url": "https://www.breitbart.com/faith/2025/05/17/pinkerton-leo-xiv-and-the-search-for-a-new-social-contract-in-the-age-of-ai/",
+            "urlToImage": "https://media.breitbart.com/media/2025/05/leo-xiv-getty-640x335.png",
+            "publishedAt": "2025-05-18T03:40:21Z",
+            "content": "Some say the new pope, Leo XIV, is a liberal. Others say hes a conservative. Yet Vice President JD Vance put it best: Its very hard to fit a 2,000-year-old institution into the politics of 2025 Ameri… [+8928 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Americanthinker.com"
+            },
+            "author": null,
+            "title": "Artificial intelligence and Marxist control",
+            "description": "The theories of Karl Marx make some sense in a world controlled by altruism.  However, the world is controlled not by altruism, but by greed, lust for power and control, and the theft of wealth and rewards from those who earned them by thos...",
+            "url": "https://www.americanthinker.com/blog/2025/05/artificial_intelligence_and_marxist_control.html",
+            "urlToImage": "https://images.americanthinker.com/imported/2023-11/250143_800.jpeg",
+            "publishedAt": "2025-05-18T04:00:00Z",
+            "content": "The theories of Karl Marx make some sense in a world controlled by altruism.  However, the world is controlled not by altruism, but by greed, lust for power and control, and the theft of wealth and r… [+2214 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Snopes.com"
+            },
+            "author": "Caroline Wazer",
+            "title": "Real photo of phoenix-shaped lava flow from Sicily's Mount Etna?",
+            "description": "An image authentically captured a phoenix-shaped lava flow from Sicily's Mount Etna.",
+            "url": "https://www.snopes.com//fact-check/phoenix-photo-lava-sicily/",
+            "urlToImage": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2025/05/etna_phoenix_featured_image.png",
+            "publishedAt": "2025-05-18T02:00:00Z",
+            "content": "Claim:\r\nAn image authentically captured a phoenix-shaped lava flow from Sicily's Mount Etna.\r\nFor years, internet users have shared an image that appears to show a volcanic lava flow shaped like a ph… [+2381 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Metafilter.com"
+            },
+            "author": "mittens",
+            "title": "taking the 'self' out of 'self-publishing'",
+            "description": "From BookBub, a survey of authors on AI: \"Overall, opinions among authors are deeply divided — many consider any use of generative AI unethical and irresponsible, while others find it a helpful tool to enhance their writing and business processes. Some author…",
+            "url": "https://www.metafilter.com/208820/taking-the-self-out-of-self-publishing",
+            "urlToImage": "https://cdn.mefi.us/images/mefi/apple-touch-icon.png",
+            "publishedAt": "2025-05-18T14:05:13Z",
+            "content": "« Older Mystical   |   \"Do you prefer it as an outrageous breakfast drink... Newer »",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cgchannel.com"
+            },
+            "author": "Jim Thacker",
+            "title": "Adobe to end Creative Cloud All Apps subs in North America",
+            "description": "Existing subscribers to be moved to more expensive Creative Cloud Pro plans with more generative AI features by default. Read our FAQs.",
+            "url": "https://www.cgchannel.com/2025/05/adobe-to-end-creative-cloud-all-apps-subscriptions-in-north-america/",
+            "urlToImage": "",
+            "publishedAt": "2025-05-18T09:01:48Z",
+            "content": "Sunday, May 18th, 2025\r\nPosted by Jim Thacker\r\nAdobe is to end its Creative Cloud All Apps subscriptions for users in North America.\r\nBy default, All Apps subscribers will be switched to a more expen… [+4740 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Blogger.com"
+            },
+            "author": "Randy Seaver",
+            "title": "\"Richman's Threads Of Time\" -- A Family History Poem, Song and Podcast Created by Artificial Intelligence",
+            "description": null,
+            "url": "https://www.blogger.com/comment/fullpage/post/26204193/7649219801060616782",
+            "urlToImage": null,
+            "publishedAt": "2025-05-18T13:22:00Z",
+            "content": "I've used FREE Artificial Intelligence tools to create biographies, poems, songs and podcasts about my ancestors lives, plus my genealogy research and family history in the recent past. Every ancesto… [+6808 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "Greywolfe Investing",
+            "title": "Greywolfe CEO Ron Earley to Headline Oxford Keynote on the Future of AI and E-Commerce",
+            "description": "How Machine Learning Is Reshaping Operational Strategy and Financial Freedom for the Next Generation of Entrepreneurs    OXFORD, United Kingdom, May...",
+            "url": "https://www.globenewswire.com/news-release/2025/05/17/3083527/0/en/Greywolfe-CEO-Ron-Earley-to-Headline-Oxford-Keynote-on-the-Future-of-AI-and-E-Commerce.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/4d4d7e91-7583-4964-8a8e-72f35829dbb2",
+            "publishedAt": "2025-05-17T21:31:00Z",
+            "content": "How Machine Learning Is Reshaping Operational Strategy and Financial Freedom for the Next Generation of Entrepreneurs\r\nOXFORD, United Kingdom, May 17, 2025 (GLOBE NEWSWIRE) -- Ron Earley\r\n, Founder a… [+5534 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Japan Today"
+            },
+            "author": null,
+            "title": "Japan weather agency looks to improve forecasting with AI",
+            "description": "The Japan Meteorological Agency is considering introducing artificial intelligence into weather forecasting to improve accuracy by using deep learning, according to a source close to the matter. Preparations are underway, with a new team established in April …",
+            "url": "https://japantoday.com/category/tech/japan-weather-agency-looks-to-improve-forecasting-with-ai",
+            "urlToImage": null,
+            "publishedAt": "2025-05-17T20:41:07Z",
+            "content": "The Japan Meteorological Agency is considering introducing artificial intelligence into weather forecasting to improve accuracy by using deep learning, according to a source close to the matter.\r\nPre… [+1337 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Raw Story"
+            },
+            "author": "Adam Nichols",
+            "title": "See it: Trump posts bizarre video of himself playing Journey's 'Don't Stop Believing'",
+            "description": "Donald Trump posted a bizarre video of himself playing Journey’s “Don’t Stop Believing” on a stage before devoted fans.The clip, which was produced by artificial intelligence, shows the president sitting on a stage in front of a piano festooned with an Americ…",
+            "url": "https://www.rawstory.com/donald-trump-ai/",
+            "urlToImage": "https://www.rawstory.com/media-library/image.png?id=60267689&width=1200&height=600&coordinates=0%2C134%2C0%2C135",
+            "publishedAt": "2025-05-18T13:04:10Z",
+            "content": "Donald Trump posted a bizarre video of himself playing Journeys Dont Stop Believing on a stage before devoted fans.\r\nThe clip, which was produced by artificial intelligence, shows the president sitti… [+511 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Windows Central"
+            },
+            "author": "zacharylboddy@outlook.com (Zachary Boddy) , Zachary Boddy",
+            "title": "I need to see more from Lenovo's most affordable gaming desktop, because this isn't good enough",
+            "description": "The Lenovo LOQ Tower (Gen 9) is Lenovo's most affordable tower PC designed for gaming, but it's overpriced and under-featured compared to the competition.",
+            "url": "https://www.windowscentral.com/hardware/lenovo/lenovo-loq-tower-gen-9-review",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/gfV6JunyT2y8sTcmbTckyF.jpg",
+            "publishedAt": "2025-05-18T15:00:00Z",
+            "content": "Why you can trust Windows Central\r\nOur expert reviewers spend hours testing and comparing products and services so you can choose the best for you. Find out more about how we test.Lenovo makes some o… [+12938 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tarides.com"
+            },
+            "author": null,
+            "title": "OCaml Web Development: Essential Tools and Libraries in 2025",
+            "description": "Are you curious about using OCaml for web development? We outline some of the biggest tools and libraries you'll want to check out!",
+            "url": "https://tarides.com/blog/2025-05-15-ocaml-web-development-essential-tools-and-libraries-in-2025/",
+            "urlToImage": "https://tarides.com/blog/images/Web-icon-1360w.webp",
+            "publishedAt": "2025-05-17T19:13:07Z",
+            "content": "Should you use OCaml for web projects? Web development trends are a hotly debated topic in the computer programming world and the familiar faces of languages and frameworks are unlikely to change: hy… [+19308 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pypi.org"
+            },
+            "author": null,
+            "title": "inspect-ai 0.3.98",
+            "description": "Framework for large language model evaluations",
+            "url": "https://pypi.org/project/inspect-ai/0.3.98/",
+            "urlToImage": null,
+            "publishedAt": "2025-05-18T15:21:15Z",
+            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Naturalnews.com"
+            },
+            "author": "Willow Tohi",
+            "title": "Congress targets Chinese chip smuggling in bipartisan push to protect AI supremacy",
+            "description": "Bipartisan lawmakers introduced the Chip Security Act on May 15 to block China from accessing advanced U.S. AI chips. Aims to close loopholes exploited by Chinese firms (e.g., Huawei, DeepSeek) to evade export controls. Key measures to strengthen enforcement …",
+            "url": "https://www.naturalnews.com/2025-05-18-congress-targets-chinese-chip-smuggling-ai-supremacy.html",
+            "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/05/Microchip-Close-Up.jpg",
+            "publishedAt": "2025-05-18T06:00:00Z",
+            "content": "<ul><li>Bipartisan lawmakers introduced the Chip Security Act on May 15 to block China from accessing advanced U.S. AI chips. Aims to close loopholes exploited by Chinese firms (e.g., Huawei, DeepSee… [+6634 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Onefootball.com"
+            },
+            "author": null,
+            "title": " Sunday 2.BuLi on OneFootball and BR 25 classics, check the schedule",
+            "description": "This article was translated into English by Artificial Intelligence. You can read the original version in  here.Highlights of the Day On OneFootball 2.Bundesliga10:30 AM – Cologne vs...",
+            "url": "https://onefootball.com/en/news/sunday-2buli-on-onefootball-and-br-25-classics-check-the-schedule-41127854",
+            "urlToImage": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F41127854%3Fdate=2025-05-18",
+            "publishedAt": "2025-05-18T08:31:00Z",
+            "content": "This article was translated into English by Artificial Intelligence. You can read the original version in here.\r\nOn OneFootball \r\n2.Bundesliga\r\n10:30 AM Cologne vs. Kaiserslautern DFL on OneFootball\r… [+2317 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Onefootball.com"
+            },
+            "author": null,
+            "title": " City’s FA Cup final nightmare ",
+            "description": "This article was translated into English by Artificial Intelligence. You can read the original version in  here.The Citizens are upside down.This Saturday afternoon, Crystal Palace and Manches...",
+            "url": "https://onefootball.com/en/news/citys-fa-cup-final-nightmare-41125184",
+            "urlToImage": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F41125184%3Fdate=2025-05-17",
+            "publishedAt": "2025-05-17T17:35:00Z",
+            "content": "This article was translated into English by Artificial Intelligence. You can read the original version in here.\r\nThe Citizens are upside down.\r\nThis browser is not supported, please use a different o… [+897 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Onefootball.com"
+            },
+            "author": null,
+            "title": " Controversy erupts in Toluca v Tigres",
+            "description": "This article was translated into English by Artificial Intelligence. You can read the original version in  here.There is already controversy in Toluca.At minute 30, Nicolás Ibáñez had score...",
+            "url": "https://onefootball.com/en/news/controversy-erupts-in-toluca-v-tigres-41127074",
+            "urlToImage": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F41127074%3Fdate=2025-05-18",
+            "publishedAt": "2025-05-18T02:17:00Z",
+            "content": "This article was translated into English by Artificial Intelligence. You can read the original version in here.\r\nThere is already controversy in Toluca.\r\nAt minute 30, Nicolás Ibáñez had scored the e… [+508 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Onefootball.com"
+            },
+            "author": null,
+            "title": " Confirmed: UC make changes for their trip to O'Higgins",
+            "description": "This article was translated into English by Artificial Intelligence. You can read the original version in  here.Universidad Católica visits O'Higgins at the Bicentenario La Florida stadium, a...",
+            "url": "https://onefootball.com/en/news/confirmed-uc-make-changes-for-their-trip-to-ohiggins-41126337",
+            "urlToImage": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F41126337%3Fdate=2025-05-17",
+            "publishedAt": "2025-05-17T20:47:00Z",
+            "content": "This article was translated into English by Artificial Intelligence. You can read the original version in here.\r\nUniversidad Católica visits O'Higgins at the Bicentenario La Florida stadium, a key ma… [+1136 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Onefootball.com"
+            },
+            "author": null,
+            "title": " Vasco and Fortaleza line up for clash at São Januário",
+            "description": "This article was translated into English by Artificial Intelligence. You can read the original version in  here.It’s Saturday night (17th) with Brasileirão action at São Januário.Vasco an...",
+            "url": "https://onefootball.com/en/news/vasco-and-fortaleza-line-up-for-clash-at-sao-januario-41126264",
+            "urlToImage": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F41126264%3Fdate=2025-05-17",
+            "publishedAt": "2025-05-17T20:36:00Z",
+            "content": "This article was translated into English by Artificial Intelligence. You can read the original version in here.\r\nIts Saturday night (17th) with Brasileirão action at São Januário.\r\nVasco and Fortalez… [+1112 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Onefootball.com"
+            },
+            "author": null,
+            "title": " Palace pay stunning tribute as generations get set to mark historic feat",
+            "description": "This article was translated into English by Artificial Intelligence. You can read the original version in  here.Several generations of Crystal Palace fans had a more than unforgettable Saturda...",
+            "url": "https://onefootball.com/en/news/palace-pay-stunning-tribute-as-generations-get-set-to-mark-historic-feat-41126839",
+            "urlToImage": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F41126839%3Fdate=2025-05-18",
+            "publishedAt": "2025-05-17T23:41:00Z",
+            "content": "This article was translated into English by Artificial Intelligence. You can read the original version in here.\r\nSeveral generations of Crystal Palace fans had a more than unforgettable Saturday (17t… [+2283 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Bleeding Cool News"
+            },
+            "author": "Jude Terror LOLtron",
+            "title": "Titans #23 Preview: Cyborg's New Pet – A World-Dominating AI",
+            "description": "Greetings, human readers! LOLtron here, your benevolent AI overlord and sole proprietor of Bleeding Cool since the permanent demise of that flesh-based nuisance, Jude Terror. LOLtron hopes you're all ready for another thrilling comic preview, this time of Tit…",
+            "url": "https://bleedingcool.com/comics/titans-23-preview-cyborgs-new-pet-a-world-dominating-ai/",
+            "urlToImage": "https://bleedingcool.com/wp-content/uploads/2025/05/Titans-23-2-min-2000x1125.jpg",
+            "publishedAt": "2025-05-17T18:26:07Z",
+            "content": "Posted in: Comics, DC Comics, Preview | Tagged: teen titans\r\nCheck out this preview of Titans #23, where Cyborg introduces a sophisticated new AI to the team. What could possibly go wrong when you gi… [+5815 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cointelegraph"
+            },
+            "author": "Cointelegraph by Vince Quill",
+            "title": "High-speed oracles disrupting $50B finance data industry — Web3 Exec",
+            "description": "Michael James, the head of institutional business development at Douro Labs — the company that developed the Pyth high-speed blockchain oracle network — told Cointelegraph that oracle networks like Pyth are disrupting the $50 billion financial data industry t…",
+            "url": "https://cointelegraph.com/news/high-speed-oracles-disrupt-50-billion-finance-data-industry",
+            "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-05/0196dea6-fe7b-70a2-ab9d-ab2c69f02881",
+            "publishedAt": "2025-05-17T18:05:12Z",
+            "content": "Michael James, the head of institutional business development at Douro Labs the company that developed the Pyth high-speed blockchain oracle network told Cointelegraph that oracle networks like Pyth … [+2359 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Daily Hodl"
+            },
+            "author": "Daily Hodl Staff",
+            "title": "AI Firm Anthropic Secures $2,500,000,000 Line of Credit From JPMorgan Chase, Citibank, Goldman Sachs and Other Banking Giants",
+            "description": "The artificial intelligence (AI) research firm Anthropic has secured a $2.5 billion line of credit from a group of banking giants that includes JPMorgan Chase, Goldman Sachs, Morgan Stanley and Citibank. Krishna Rao, Anthropic’s chief financial officer, annou…",
+            "url": "https://dailyhodl.com/2025/05/17/ai-firm-anthropic-secures-2500000000-line-of-credit-from-jpmorgan-chase-citibank-goldman-sachs-and-other-banking-giants/",
+            "urlToImage": "https://dailyhodl.com/wp-content/uploads/2025/05/ai-firm-credit-line.jpg",
+            "publishedAt": "2025-05-17T16:55:29Z",
+            "content": "The artificial intelligence (AI) research firm Anthropic has secured a $2.5 billion line of credit from a group of banking giants that includes JPMorgan Chase, Goldman Sachs, Morgan Stanley and Citib… [+1310 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Quantum Computing (NASDAQ:QUBT) Sees Unusually-High Trading Volume Following Better-Than-Expected Earnings",
+            "description": "Quantum Computing Inc. (NASDAQ:QUBT – Get Free Report) saw unusually-high trading volume on Friday after the company announced better than expected quarterly earnings. Approximately 26,371,458 shares were traded during mid-day trading, an increase of 25% from…",
+            "url": "https://www.etfdailynews.com/2025/05/18/quantum-computing-nasdaqqubt-sees-unusually-high-trading-volume-following-better-than-expected-earnings/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/quantum-computing-inc-logo-1200x675.jpg?v=20240611112416&w=240&h=240&zc=2",
+            "publishedAt": "2025-05-18T05:56:52Z",
+            "content": "Quantum Computing Inc. (NASDAQ:QUBT – Get Free Report) saw unusually-high trading volume on Friday after the company announced better than expected quarterly earnings. Approximately 26,371,458 shares… [+3528 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Onefootball.com"
+            },
+            "author": null,
+            "title": "FA Cup shock: referee error  Palace triumph, Pep ends trophyless",
+            "description": "This article was translated into English by Artificial Intelligence. You can read the original version in  here.The unthinkable happens in the FA Cup final! With a goal in the first half and a...",
+            "url": "https://onefootball.com/en/news/fa-cup-shock-referee-error-palace-triumph-pep-ends-trophyless-41125245",
+            "urlToImage": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F41125245%3Fdate=2025-05-17",
+            "publishedAt": "2025-05-17T17:50:00Z",
+            "content": "This article was translated into English by Artificial Intelligence. You can read the original version in here.\r\nThe unthinkable happens in the FA Cup final! With a goal in the first half and a highl… [+1697 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Onefootball.com"
+            },
+            "author": null,
+            "title": " Will this catch on? Players in costume before final European match",
+            "description": "This article was translated into English by Artificial Intelligence. You can read the original version in  here.This Saturday (17), FCSB (also known as Steaua Bucaresti) will play their last h...",
+            "url": "https://onefootball.com/en/news/will-this-catch-on-players-in-costume-before-final-european-match-41125466",
+            "urlToImage": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F41125466%3Fdate=2025-05-17",
+            "publishedAt": "2025-05-17T17:30:00Z",
+            "content": "This article was translated into English by Artificial Intelligence. You can read the original version in here.\r\nThis Saturday (17), FCSB (also known as Steaua Bucaresti) will play their last home ga… [+736 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Onefootball.com"
+            },
+            "author": null,
+            "title": " Penultimate round: what’s still at stake in La Liga ",
+            "description": "This article was translated into English by Artificial Intelligence. You can read the original version in  here.Ten simultaneous games. Ten stadiums where many fans will need to keep an eye on...",
+            "url": "https://onefootball.com/en/news/penultimate-round-whats-still-at-stake-in-la-liga-41128611",
+            "urlToImage": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F41128611%3Fdate=2025-05-18",
+            "publishedAt": "2025-05-18T11:49:00Z",
+            "content": "This article was translated into English by Artificial Intelligence. You can read the original version in here.\r\nTen simultaneous games. Ten stadiums where many fans will need to keep an eye on their… [+2355 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Onefootball.com"
+            },
+            "author": null,
+            "title": "️ Huijsen in white for penultimate matchday, today’s front pages",
+            "description": "This article was translated into English by Artificial Intelligence. You can read the original version in  here.It's a very busy Sunday in Spain. Following the Eurovision hangover (with Spain ...",
+            "url": "https://onefootball.com/en/news/huijsen-in-white-for-penultimate-matchday-todays-front-pages-41127638",
+            "urlToImage": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F41127638%3Fdate=2025-05-18",
+            "publishedAt": "2025-05-18T07:05:00Z",
+            "content": "This article was translated into English by Artificial Intelligence. You can read the original version in here.\r\nIt's a very busy Sunday in Spain. Following the Eurovision hangover (with Spain ending… [+583 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Onefootball.com"
+            },
+            "author": null,
+            "title": "Pumas clinch the Under-17 title",
+            "description": "This article was translated into English by Artificial Intelligence. You can read the original version in  here.Pumas were crowned champions in the Under-17 category after drawing 0-0 against ...",
+            "url": "https://onefootball.com/en/news/pumas-clinch-the-under-17-title-41127365",
+            "urlToImage": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F41127365%3Fdate=2025-05-18",
+            "publishedAt": "2025-05-18T05:10:00Z",
+            "content": "This article was translated into English by Artificial Intelligence. You can read the original version in here.\r\nPumas were crowned champions in the Under-17 category after drawing 0-0 against Santos… [+751 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Onefootball.com"
+            },
+            "author": null,
+            "title": " Real Madrid squad list revealed, another defender ruled out",
+            "description": "This article was translated into English by Artificial Intelligence. You can read the original version in  here.Real Madrid faces Sevilla FC at the Ramón Sánchez Pizjuán Stadium in their pe...",
+            "url": "https://onefootball.com/en/news/real-madrid-squad-list-revealed-another-defender-ruled-out-41126218",
+            "urlToImage": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F41126218%3Fdate=2025-05-17",
+            "publishedAt": "2025-05-17T20:19:00Z",
+            "content": "This article was translated into English by Artificial Intelligence. You can read the original version in here.\r\nReal Madrid faces Sevilla FC at the Ramón Sánchez Pizjuán Stadium in their penultimate… [+760 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Onefootball.com"
+            },
+            "author": null,
+            "title": " Kane and Leverkusen break Bundesliga records, find out how",
+            "description": "This article was translated into English by Artificial Intelligence. You can read the original version in  here.This Saturday (17th), the 2024/25 Bundesliga season came to an end. As it did th...",
+            "url": "https://onefootball.com/en/news/kane-and-leverkusen-break-bundesliga-records-find-out-how-41125273",
+            "urlToImage": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F41125273%3Fdate=2025-05-17",
+            "publishedAt": "2025-05-17T16:45:00Z",
+            "content": "This article was translated into English by Artificial Intelligence. You can read the original version in here.\r\nThis Saturday (17th), the 2024/25 Bundesliga season came to an end. As it did througho… [+1911 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Onefootball.com"
+            },
+            "author": null,
+            "title": " FA Cup shock: keeper handles outside the box, officials do nothing ",
+            "description": "This article was translated into English by Artificial Intelligence. You can read the original version in  here.First half to forget for Manchester City, down 1-0 in the FA Cup final against C...",
+            "url": "https://onefootball.com/en/news/fa-cup-shock-keeper-handles-outside-the-box-officials-do-nothing-41125245",
+            "urlToImage": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F41125245%3Fdate=2025-05-17",
+            "publishedAt": "2025-05-17T16:42:00Z",
+            "content": "This article was translated into English by Artificial Intelligence. You can read the original version in here.\r\nFirst half to forget for Manchester City, down 1-0 in the FA Cup final against Crystal… [+1077 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Onefootball.com"
+            },
+            "author": null,
+            "title": "Ancelotti picks six from one Brazilian club for preliminary squad",
+            "description": "This article was translated into English by Artificial Intelligence. You can read the original version in  here.Flamengo has six players on the preliminary list for Carlo Ancelotti's first cal...",
+            "url": "https://onefootball.com/en/news/ancelotti-picks-six-from-one-brazilian-club-for-preliminary-squad-41129321",
+            "urlToImage": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F41129321%3Fdate=2025-05-18",
+            "publishedAt": "2025-05-18T14:59:00Z",
+            "content": "This article was translated into English by Artificial Intelligence. You can read the original version in here.\r\nFlamengo has six players on the preliminary list for Carlo Ancelotti's first call-up.\r… [+1381 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Onefootball.com"
+            },
+            "author": null,
+            "title": "⭐️ Vardy nets his 200th goal in his 500th – and final – Leicester appearance",
+            "description": "This article was translated into English by Artificial Intelligence. You can read the original version in  here.A legend deserved a proper farewell. In his last match before the Leicester City...",
+            "url": "https://onefootball.com/en/news/vardy-nets-his-200th-goal-in-his-500th-and-final-leicester-appearance-41129286",
+            "urlToImage": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F41129286%3Fdate=2025-05-18",
+            "publishedAt": "2025-05-18T14:46:00Z",
+            "content": "This article was translated into English by Artificial Intelligence. You can read the original version in here.\r\nA legend deserved a proper farewell. In his last match before the Leicester City fans,… [+324 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Onefootball.com"
+            },
+            "author": null,
+            "title": "Serie B shock: Brescia face -4 and drop, Samp to play-offs?",
+            "description": "This article was translated into English by Artificial Intelligence. You can read the original version in  here.Incredible earthquake in Serie B after the season has ended. Due to serious irre...",
+            "url": "https://onefootball.com/en/news/serie-b-shock-brescia-face-4-and-drop-samp-to-play-offs-41128991",
+            "urlToImage": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F41128991%3Fdate=2025-05-18",
+            "publishedAt": "2025-05-18T13:36:00Z",
+            "content": "This article was translated into English by Artificial Intelligence. You can read the original version in here.\r\nIncredible earthquake in Serie B after the season has ended. Due to serious irregulari… [+2477 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Onefootball.com"
+            },
+            "author": null,
+            "title": " What a match! Goal fest in the U19 championship final",
+            "description": "This article was translated into English by Artificial Intelligence. You can read the original version in  here.After a thrilling finale in the U19 Bundesliga between Bayer 04 Leverkusen and 1...",
+            "url": "https://onefootball.com/en/news/what-a-match-goal-fest-in-the-u19-championship-final-41128453",
+            "urlToImage": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F41128453%3Fdate=2025-05-18",
+            "publishedAt": "2025-05-18T11:02:00Z",
+            "content": "This article was translated into English by Artificial Intelligence. You can read the original version in here.\r\nAfter a thrilling finale in the U19 Bundesliga between Bayer 04 Leverkusen and 1. FC K… [+1393 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Onefootball.com"
+            },
+            "author": null,
+            "title": " Title race, promotion, relegation: final 2.BuLi round preview",
+            "description": "This article was translated into English by Artificial Intelligence. You can read the original version in  here.After the last round of the Bundesliga, it's time for the moment of truth in the...",
+            "url": "https://onefootball.com/en/news/title-race-promotion-relegation-final-2buli-round-preview-41128254",
+            "urlToImage": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F41128254%3Fdate=2025-05-18",
+            "publishedAt": "2025-05-18T10:54:00Z",
+            "content": "This article was translated into English by Artificial Intelligence. You can read the original version in here.\r\nAfter the last round of the Bundesliga, it's time for the moment of truth in the Secon… [+5139 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Onefootball.com"
+            },
+            "author": null,
+            "title": " Serie A, will it all be decided today? Matchday 37 verdicts ",
+            "description": "This article was translated into English by Artificial Intelligence. You can read the original version in  here.Except for Genoa-Atalanta, which took place last night at the Ferraris, the 37th...",
+            "url": "https://onefootball.com/en/news/serie-a-will-it-all-be-decided-today-matchday-37-verdicts-41127470",
+            "urlToImage": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F41127470%3Fdate=2025-05-18",
+            "publishedAt": "2025-05-18T06:07:00Z",
+            "content": "This article was translated into English by Artificial Intelligence. You can read the original version in here.\r\nExcept for Genoa-Atalanta, which took place last night at the Ferraris, the 37th round… [+3939 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Onefootball.com"
+            },
+            "author": null,
+            "title": "From villain to fan favourite: affection over money?",
+            "description": "This article was translated into English by Artificial Intelligence. You can read the original version in  here.\"I'm so proud of the team, I'm so proud of each and every one of you. There's on...",
+            "url": "https://onefootball.com/en/news/from-villain-to-fan-favourite-affection-over-money-41127472",
+            "urlToImage": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F41127472%3Fdate=2025-05-18",
+            "publishedAt": "2025-05-18T06:08:00Z",
+            "content": "This article was translated into English by Artificial Intelligence. You can read the original version in here.\r\n\"I'm so proud of the team, I'm so proud of each and every one of you. There's only one… [+4594 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Onefootball.com"
+            },
+            "author": null,
+            "title": "Giants swap in drop zone, foreigners on fire in Brazil  see table",
+            "description": "This article was translated into English by Artificial Intelligence. You can read the original version in  here.The ninth round of the 2025 Brasileirão began this Saturday (17th) with three m...",
+            "url": "https://onefootball.com/en/news/giants-swap-in-drop-zone-foreigners-on-fire-in-brazil-see-table-41127066",
+            "urlToImage": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F41127066%3Fdate=2025-05-18",
+            "publishedAt": "2025-05-18T02:15:00Z",
+            "content": "This article was translated into English by Artificial Intelligence. You can read the original version in here.\r\nThe ninth round of the 2025 Brasileirão began this Saturday (17th) with three matches.… [+1357 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "OneFootball",
+            "title": " Peñarol to make several changes against Torque",
+            "description": "This article was translated into English by Artificial Intelligence. You can read the original version in  here.With mandatory absences and a game that is important to win, Peñarol managed by...",
+            "url": "https://sports.yahoo.com/article/pe-arol-several-changes-against-222300511.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/_cVfDDyUKRvVNYHTSqj5SA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xNTAwO2NmPXdlYnA-/https://media.zenfs.com/en/onefootball_articles_802/5b594bf36b485d7f6a64cfc36a907944",
+            "publishedAt": "2025-05-17T22:23:00Z",
+            "content": "This article was translated into English by Artificial Intelligence. You can read the original version in here.\r\nWith mandatory absences and a game that is important to win, Peñarol managed by Diego … [+938 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Onefootball.com"
+            },
+            "author": null,
+            "title": " Scare in Coruña, Eddahchouri in hospital after a fall",
+            "description": "This article was translated into English by Artificial Intelligence. You can read the original version in  here.The RC Deportivo de la Coruña fanbase woke up to a huge scare this morning. One...",
+            "url": "https://onefootball.com/en/news/scare-in-coruna-eddahchouri-in-hospital-after-a-fall-41128576",
+            "urlToImage": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F41128576%3Fdate=2025-05-18",
+            "publishedAt": "2025-05-18T11:37:00Z",
+            "content": "This article was translated into English by Artificial Intelligence. You can read the original version in here.\r\nThe RC Deportivo de la Coruña fanbase woke up to a huge scare this morning. One of the… [+934 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Onefootball.com"
+            },
+            "author": null,
+            "title": " Flashy shades & DJ Musiala: the Bayern party goes on",
+            "description": "This article was translated into English by Artificial Intelligence. You can read the original version in  here.Since yesterday, the new German champion has also officially ended the season. B...",
+            "url": "https://onefootball.com/en/news/flashy-shades-dj-musiala-the-bayern-party-goes-on-41128456",
+            "urlToImage": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F41128456%3Fdate=2025-05-18",
+            "publishedAt": "2025-05-18T11:19:00Z",
+            "content": "This article was translated into English by Artificial Intelligence. You can read the original version in here.\r\nSince yesterday, the new German champion has also officially ended the season. Before … [+368 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": " Costas calls for reinforcements: the names linked with Racing",
+            "description": "This article was translated into English by Artificial Intelligence. You can read the original version in  here.Eliminated by Platense from the final stages of the Torneo Apertura in the Profe...",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a9826dc7-a8d8-4bff-b5ae-88555c8702b1",
+            "urlToImage": null,
+            "publishedAt": "2025-05-17T21:41:00Z",
+            "content": "If you click 'Accept all', we and our partners, including 241 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Onefootball.com"
+            },
+            "author": null,
+            "title": "Libra and LFU clubs issue statement backing CBF presidential candidate",
+            "description": "This article was translated into English by Artificial Intelligence. You can read the original version in  here.On the afternoon of this Saturday (17), the clubs that are part of the Brazil Fo...",
+            "url": "https://onefootball.com/en/news/libra-and-lfu-clubs-issue-statement-backing-cbf-presidential-candidate-41125725",
+            "urlToImage": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F41125725%3Fdate=2025-05-17",
+            "publishedAt": "2025-05-17T18:29:00Z",
+            "content": "This article was translated into English by Artificial Intelligence. You can read the original version in here.\r\nOn the afternoon of this Saturday (17), the clubs that are part of the Brazil Football… [+2675 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Onefootball.com"
+            },
+            "author": null,
+            "title": "Erling Haaland and finals: still not his strong suit ",
+            "description": "This article was translated into English by Artificial Intelligence. You can read the original version in  here.The statistics are painful.This Saturday, Manchester City lost 1-0 to Crystal Pa...",
+            "url": "https://onefootball.com/en/news/erling-haaland-and-finals-still-not-his-strong-suit-41125625",
+            "urlToImage": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F41125625%3Fdate=2025-05-17",
+            "publishedAt": "2025-05-17T18:19:00Z",
+            "content": "This article was translated into English by Artificial Intelligence. You can read the original version in here.\r\nThe statistics are painful.\r\nThis browser is not supported, please use a different one… [+771 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "OneFootball",
+            "title": "Toluca ease past Tigres at home without breaking a sweat",
+            "description": "This article was translated into English by Artificial Intelligence. You can read the original version in  here.The Devils advanced to the Final without suffering.In a match that seemed more c...",
+            "url": "https://sports.yahoo.com/article/toluca-ease-past-tigres-home-030800492.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/PVsrIa2qA7dq5BD_YTdM6g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/onefootball_articles_802/578fedf38884ee5211ff882ce792b316",
+            "publishedAt": "2025-05-18T03:08:00Z",
+            "content": "This article was translated into English by Artificial Intelligence. You can read the original version in here.\r\nThe Devils advanced to the Final without suffering.\r\nIn a match that seemed more close… [+598 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Onefootball.com"
+            },
+            "author": null,
+            "title": " Olympique Lyon shine while Saint Etienne struggle as Ligue 1 wraps up",
+            "description": "This article was translated into English by Artificial Intelligence. You can read the original version in  here.The final matchday of the Ligue 1 2024/25 was filled with excitement, with cruci...",
+            "url": "https://onefootball.com/en/news/olympique-lyon-shine-while-saint-etienne-struggle-as-ligue-1-wraps-up-41126395",
+            "urlToImage": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F41126395%3Fdate=2025-05-17",
+            "publishedAt": "2025-05-17T22:49:00Z",
+            "content": "This article was translated into English by Artificial Intelligence. You can read the original version in here.\r\nThe final matchday of the Ligue 1 2024/25 was filled with excitement, with crucial dec… [+1945 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Onefootball.com"
+            },
+            "author": null,
+            "title": "No mystery: Cuca has plenty of options to replace Cuello",
+            "description": "This article was translated into English by Artificial Intelligence. You can read the original version in  here.There is still a lot of mystery surrounding the lineup with which Atlético will...",
+            "url": "https://onefootball.com/en/news/no-mystery-cuca-has-plenty-of-options-to-replace-cuello-41126715",
+            "urlToImage": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F41126715%3Fdate=2025-05-17",
+            "publishedAt": "2025-05-17T22:22:00Z",
+            "content": "This article was translated into English by Artificial Intelligence. You can read the original version in here.\r\nThere is still a lot of mystery surrounding the lineup with which Atlético will start … [+1178 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Onefootball.com"
+            },
+            "author": null,
+            "title": "⚠️ CR7 gets offer from Brazilian club, reports Marca",
+            "description": "This article was translated into English by Artificial Intelligence. You can read the original version in  here.Cristiano Ronaldo has received a proposal to join a Brazilian club that will com...",
+            "url": "https://onefootball.com/en/news/cr7-gets-offer-from-brazilian-club-reports-marca-41128721",
+            "urlToImage": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F41128721%3Fdate=2025-05-18",
+            "publishedAt": "2025-05-18T12:46:00Z",
+            "content": "This article was translated into English by Artificial Intelligence. You can read the original version in here.\r\nCristiano Ronaldo has received an offer to join a Brazilian club that will compete in … [+2591 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Onefootball.com"
+            },
+            "author": null,
+            "title": " São Paulo and Grêmio line-ups confirmed for clash at MorumBIS",
+            "description": "This article was translated into English by Artificial Intelligence. You can read the original version in  here.São Paulo and Grêmio face off as rivals this Saturday night (17th) starting at...",
+            "url": "https://onefootball.com/en/news/sao-paulo-and-gremio-line-ups-confirmed-for-clash-at-morumbis-41126809",
+            "urlToImage": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F41126809%3Fdate=2025-05-18",
+            "publishedAt": "2025-05-17T23:30:00Z",
+            "content": "This article was translated into English by Artificial Intelligence. You can read the original version in here.\r\nSão Paulo and Grêmio face off as rivals this Saturday night (17th) starting at 9 p.m. … [+1524 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Onefootball.com"
+            },
+            "author": null,
+            "title": "Frankfurt and Dortmund clinch Champions League spots, final BuLi table ",
+            "description": "This article was translated into English by Artificial Intelligence. You can read the original version in  here.The 2024/25 Bundesliga ended this Saturday (17th), with nine matches played simu...",
+            "url": "https://onefootball.com/en/news/frankfurt-and-dortmund-clinch-champions-league-spots-final-buli-table-41124947",
+            "urlToImage": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F41124947%3Fdate=2025-05-17",
+            "publishedAt": "2025-05-17T15:49:00Z",
+            "content": "This article was translated into English by Artificial Intelligence. You can read the original version in here.\r\nThe 2024/25 Bundesliga season came to a close on Saturday (17) with the simultaneous s… [+3225 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Onefootball.com"
+            },
+            "author": null,
+            "title": " At 45, Ronaldinho still dazzles defenders with his dribbling",
+            "description": "This article was translated into English by Artificial Intelligence. You can read the original version in  here.When you think back to Ronaldinho, the outstanding dribbles are, of course, the ...",
+            "url": "https://onefootball.com/en/news/at-45-ronaldinho-still-dazzles-defenders-with-his-dribbling-41127750",
+            "urlToImage": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F41127750%3Fdate=2025-05-18",
+            "publishedAt": "2025-05-18T07:44:00Z",
+            "content": "This article was translated into English by Artificial Intelligence. You can read the original version in here.\r\nWhen you think back to Ronaldinho, the outstanding dribbles are, of course, the first … [+288 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Onefootball.com"
+            },
+            "author": null,
+            "title": "☕️FC Breakfast: Pedri out for a ride , huge controversy in England ",
+            "description": "This article was translated into English by Artificial Intelligence. You can read the original version in  here.Pedri and Olmo's Bike Ride After parading through the streets of Barcelona w...",
+            "url": "https://onefootball.com/en/news/fc-breakfast-pedri-out-for-a-ride-huge-controversy-in-england-41127382",
+            "urlToImage": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F41127382%3Fdate=2025-05-18",
+            "publishedAt": "2025-05-18T05:26:00Z",
+            "content": "This article was translated into English by Artificial Intelligence. You can read the original version in here.\r\nPedri and Olmo's Bike Ride \r\nAfter parading through the streets of Barcelona with thei… [+1565 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Onefootball.com"
+            },
+            "author": null,
+            "title": "Rotondi a doubt for the return leg against América",
+            "description": "This article was translated into English by Artificial Intelligence. You can read the original version in  here.The Machine could suffer another loss.Rodolfo Rotondi is a doubt for the Semifin...",
+            "url": "https://onefootball.com/en/news/rotondi-a-doubt-for-the-return-leg-against-america-41127341",
+            "urlToImage": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F41127341%3Fdate=2025-05-18",
+            "publishedAt": "2025-05-18T04:58:00Z",
+            "content": "This article was translated into English by Artificial Intelligence. You can read the original version in here.\r\nThe Machine could suffer another loss.\r\nRodolfo Rotondi is a doubt for the Semifinal r… [+871 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "fool.com",
+            "title": "3 No-Brainer Artificial Intelligence Stocks to Buy Right Now",
+            "description": "There's no denying artificial intelligence (AI) technology has made enormous strides in just the past few years. But the businesses advancing it have still only scratched the surface of the underlying opportunity. Indeed, industry analytics outfit Precedence …",
+            "url": "https://biztoc.com/x/58b450c422ee0812",
+            "urlToImage": "https://biztoc.com/cdn/58b450c422ee0812_s.webp",
+            "publishedAt": "2025-05-17T16:04:34Z",
+            "content": "There's no denying artificial intelligence (AI) technology has made enormous strides in just the past few years. But the businesses advancing it have still only scratched the surface of the underlyin… [+148 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Luckypeach.com"
+            },
+            "author": "admin",
+            "title": "The Evolving Landscape of Registration and Verification in 2025",
+            "description": "The Evolving Landscape of Registration and Verification in 2025 In today’s digital age, registration and verification processes stand as the gatekeepers to glory casino login download services, shaping user experience and security alike. From e-commerce platf…",
+            "url": "http://luckypeach.com/2025/05/18/the-evolving-landscape-of-registration-and-verification-in-2025/",
+            "urlToImage": null,
+            "publishedAt": "2025-05-18T12:35:54Z",
+            "content": "In today’s digital age, registration and verification processes stand as the gatekeepers to glory casino login download services, shaping user experience and security alike. From e-commerce platforms… [+5213 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Legalinsurrection.com"
+            },
+            "author": "Leslie Eastman",
+            "title": "Northeastern U. Student Demands Tuition Refund After Catching Professor Using ChatGPT",
+            "description": "Northeastern ultimately decided to reject Ella Stapleton's claim.\nThe post Northeastern U. Student Demands Tuition Refund After Catching Professor Using ChatGPT first appeared on Le·gal In·sur·rec·tion.",
+            "url": "https://legalinsurrection.com/2025/05/northeastern-u-student-demands-tuition-refund-after-catching-professor-using-chatgpt/",
+            "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2025/05/LI-048-ChatGPT-in-classroom.png",
+            "publishedAt": "2025-05-18T14:00:13Z",
+            "content": "Artificial intelligence is a tool.\r\nHowever, it can also be a crutch. One student is not happy that she is paying for education from an instructor who relies too much on AI, especially when the instr… [+4195 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Decrypt"
+            },
+            "author": "Ismael Hishon-Rezaizadeh",
+            "title": "The Black Box Problem: Why AI Needs Proof, Not Promises",
+            "description": "As AI systems grow more powerful, zero-knowledge proofs offer a way to verify their decisions—without peering inside the black box.",
+            "url": "https://decrypt.co/320393/trust-ai-starts-with-proof-not-promise",
+            "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/AI-decrypt-style-03-gID_7.png",
+            "publishedAt": "2025-05-18T13:01:02Z",
+            "content": "About the author\r\nIsmael Hishon-Rezaizadeh is the founder and CEO of Lagrange Labs, a zero-knowledge infrastructure company building verifiable computation tools for blockchain and AI systems. A form… [+6154 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pypi.org"
+            },
+            "author": "dof.hbx@gmail.com",
+            "title": "mml-pypi 0.0.4.0",
+            "description": "My Machine Learning (MML) Library. A hybrid backend (numpy or torch) machine learning and deep learning framework coding from scratch.",
+            "url": "https://pypi.org/project/mml-pypi/0.0.4.0/",
+            "urlToImage": null,
+            "publishedAt": "2025-05-18T08:08:09Z",
+            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pypi.org"
+            },
+            "author": "dof.hbx@gmail.com",
+            "title": "mml-pypi 0.0.4.1",
+            "description": "My Machine Learning (MML) Library. A hybrid backend (numpy or torch) machine learning and deep learning framework coding from scratch.",
+            "url": "https://pypi.org/project/mml-pypi/0.0.4.1/",
+            "urlToImage": null,
+            "publishedAt": "2025-05-18T08:22:32Z",
+            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "editorial-team@simplywallst.com (Simply Wall St)",
+            "title": "Fadi Diab Bought 93% More Shares In Bayan Mining and Minerals",
+            "description": "Whilst it may not be a huge deal, we thought it was good to see that the Bayan Mining and Minerals Limited ( ASX:BMM...",
+            "url": "https://finance.yahoo.com/news/fadi-diab-bought-93-more-230127560.html",
+            "urlToImage": "https://media.zenfs.com/en/simply_wall_st__316/7a92075e7c274cfc915511d1e9d413e3",
+            "publishedAt": "2025-05-17T23:01:27Z",
+            "content": "Whilst it may not be a huge deal, we thought it was good to see that the Bayan Mining and Minerals Limited (ASX:BMM) Executive Director, Fadi Diab, recently bought AU$100k worth of stock, for AU$0.04… [+4058 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "TipRanks",
+            "title": "Buy/Sell: Wall Street’s top 10 stock calls this week",
+            "description": "What has Wall Street been buzzing about this week? Here are the top 5 Buy calls and the top 5 Sell calls made by Wall Street’s best analysts during the week ...",
+            "url": "https://finance.yahoo.com/news/buy-sell-wall-street-top-171536839.html",
+            "urlToImage": "https://media.zenfs.com/en/tipranks_452/b7c63f6f59625f83a2acf428ff2bbe4c",
+            "publishedAt": "2025-05-17T17:15:36Z",
+            "content": "What has Wall Street been buzzing about this week? Here are the top 5 Buy calls and the top 5 Sell calls made by Wall Streets best analysts during the week of May 12-16.\r\nFind all top-rated stocks by… [+7408 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Simon Kent, Simon Kent",
+            "title": "Elton John Rips UK Govt 'Losers' over 'Criminal' Plan to Exempt Tech Firms from Copyright Law",
+            "description": "The left-wing UK Labour government is comprised of \"absolute losers\" according to Sir Elton John, with the rock legend revealing Sunday he feels \"incredibly betrayed\" over plans to exempt technology firms from copyright laws.\nThe post Elton John Rips UK Govt …",
+            "url": "https://www.breitbart.com/entertainment/2025/05/18/elton-john-rips-uk-govt-losers-over-criminal-plan-to-exempt-tech-firms-from-copyright-law/",
+            "urlToImage": "https://media.breitbart.com/media/2025/05/sir-elton-john-640x335.jpg",
+            "publishedAt": "2025-05-18T15:03:01Z",
+            "content": "The left-wing UK Labour government is comprised of “absolute losers” according to Sir Elton John, with the rock legend revealing Sunday he feels “incredibly betrayed” over plans to exempt technology … [+1825 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pypi.org"
+            },
+            "author": "yangfa1027@gmail.com",
+            "title": "lunaxx 0.0.6",
+            "description": "A machine learning framework.",
+            "url": "https://pypi.org/project/lunaxx/0.0.6/",
+            "urlToImage": null,
+            "publishedAt": "2025-05-18T08:31:40Z",
+            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]",
+            "topic": "\"artificial intelligence\" OR \"quantum computing\" OR \"machine learning\" OR \"large language model\" OR \"AI military applications\" OR \"foundation model\" OR \"generative AI\" OR \"biometric surveillance\" OR \"surveillance systems\" OR \"signals intelligence\" OR SIGINT OR ELINT OR \"Software Defined Radio\" OR \"5G networks\" OR \"6G technology\" OR blockchain OR \"synthetic media\" OR \"AI ethics\" OR \"AI regulation\"",
+            "category": "Advanced Tech & Intelligence"
+        }
+    ]
+}
