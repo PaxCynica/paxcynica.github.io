@@ -949,7 +949,7 @@ window.MANIPULATION_TACTICS = [
     "layout": "layout-boxed",
     "theme": "theme-purple",
     "category": "PLATFORM & MEDIA CONTROLLERS"
-  }
+  },
   // ===================================
   // SOCIAL & GROUP MANIPULATION - CATEGORY HEADER 7
   // ===================================
