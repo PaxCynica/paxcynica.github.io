@@ -682,7 +682,7 @@ window.MANIPULATION_TACTICS = [
     "layout": "layout-centered",
     "theme": "theme-blue",
     "category": "AUTHORITY & CREDIBILITY"
-  }
+  },
   // ===================================
   // INFORMATION CONTROL - CATEGORY HEADER 5
   // ===================================
