@@ -649,6 +649,40 @@ window.MANIPULATION_TACTICS = [
     "theme": "theme-purple",
     "category": "AUTHORITY & CREDIBILITY"
   },
+  {
+    "title": "Fighting Disinformation: Borrowed Authority Tactic",
+    "points": [
+      "Manipulators may adopt the symbols, language, or mannerisms of legitimate authorities to gain trust.",
+      "Examples: fake uniforms, invented titles, or mimicking expert speech.",
+      "Always verify credentials and context before accepting claims."
+    ],
+    "layout": "layout-centered",
+    "theme": "theme-purple",
+    "category": "AUTHORITY & CREDIBILITY"
+  },
+  {
+    "title": "Fighting Disinformation: Authority Bias",
+    "points": [
+      "People tend to accept information from perceived authorities without sufficient scrutiny.",
+      "This bias can be exploited by both legitimate and false authorities.",
+      "Counteract by evaluating evidence, not just the messenger."
+    ],
+    "layout": "layout-boxed",
+    "theme": "theme-blue",
+    "category": "AUTHORITY & CREDIBILITY"
+  },
+  {
+    "title": "Authority Signaling: From Biology to Digital",
+    "points": [
+      "Humans and animals evolved to recognize authority through physical signals (size, posture), social cues (confidence, deference), and cultural markers (titles, uniforms).",
+      "Digital environments add new authority signals: verification badges, follower counts, professional design, and algorithmic amplification.",
+      "Manipulators exploit these signals—faking credentials, buying followers, or mimicking expert language—to gain trust and bypass scrutiny.",
+      "Resilience requires questioning both traditional and digital authority signals, and verifying legitimacy beyond surface cues."
+    ],
+    "layout": "layout-centered",
+    "theme": "theme-blue",
+    "category": "AUTHORITY & CREDIBILITY"
+  }
   // ===================================
   // INFORMATION CONTROL - CATEGORY HEADER 5
   // ===================================
@@ -904,6 +938,18 @@ window.MANIPULATION_TACTICS = [
     "theme": "theme-purple",
     "category": "PLATFORM & MEDIA CONTROLLERS"
   },
+  {
+    "title": "Platform-Sold Authority Signals",
+    "points": [
+      "Social platforms (e.g., X, Meta) sell or amplify signals of authority—such as verification badges, follower counts, and paid promotion—that users often interpret as credibility.",
+      "These signals can be purchased or manipulated, allowing false authorities to appear legitimate.",
+      "Platform business models incentivize the sale and amplification of these signals, even when they are misleading.",
+      "Resilience requires recognizing that digital authority signals are not proof of expertise or trustworthiness—always verify substance, not just status."
+    ],
+    "layout": "layout-boxed",
+    "theme": "theme-purple",
+    "category": "PLATFORM & MEDIA CONTROLLERS"
+  }
   // ===================================
   // SOCIAL & GROUP MANIPULATION - CATEGORY HEADER 7
   // ===================================

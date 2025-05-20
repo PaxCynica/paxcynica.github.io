@@ -81,5 +81,27 @@ window.HISTORICAL_PATTERNS = [{
     "layout": "layout-split",
     "theme": "theme-purple",
     "category": "HISTORICAL PATTERNS"
+},
+{
+    "title": "The Evolution of Authority Symbols",
+    "points": [
+        "Throughout history, authority has been marked by visible symbols: crowns, robes, seals, and later, uniforms and badges.",
+        "These symbols helped populations quickly identify leaders or experts, but also enabled imposters to exploit trust.",
+        "Modern parallels include digital verification badges and institutional branding."
+    ],
+    "layout": "layout-centered",
+    "theme": "theme-blue",
+    "category": "HISTORICAL PATTERNS"
+},
+{
+    "title": "Credentialism and Information Gatekeeping",
+    "points": [
+        "Control over credentials (degrees, titles, certifications) has long been used to restrict access to knowledge and power.",
+        "Credentialism can protect quality, but also exclude dissenting or marginalized voices.",
+        "Critical evaluation of both credentials and lived experience is essential."
+    ],
+    "layout": "layout-boxed",
+    "theme": "theme-sunset",
+    "category": "HISTORICAL PATTERNS"
 }
 ]

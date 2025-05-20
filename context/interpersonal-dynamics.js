@@ -1238,6 +1238,39 @@ window.INTERPERSONAL_DYNAMICS = [
         "theme": "theme-green",
         "category": "POWER DYNAMICS"
     },
+    {
+        "title": "Authority Signals in Conversation",
+        "points": [
+            "People often defer to those who display confidence, use formal language, or reference credentials.",
+            "Authority can be signaled through tone, posture, and control of conversational flow.",
+            "Be aware of how these signals influence whose ideas are accepted or challenged."
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-blue",
+        "category": "POWER DYNAMICS"
+    },
+    {
+        "title": "Spotting False Authority in Dialogue",
+        "points": [
+            "Fake authorities may use jargon, name-drop, or reference unverifiable credentials.",
+            "Watch for overreliance on status rather than substance.",
+            "Ask for clarification, evidence, or sources to test legitimacy."
+        ],
+        "layout": "layout-boxed",
+        "theme": "theme-purple",
+        "category": "POWER DYNAMICS"
+    },
+    {
+        "title": "Healthy Dissent and Authority",
+        "points": [
+            "True authority welcomes respectful challenge and questions.",
+            "Communities that value dissent are more resilient to manipulation.",
+            "Encourage a culture where disagreement is safe and valued."
+        ],
+        "layout": "layout-split",
+        "theme": "theme-green",
+        "category": "POWER DYNAMICS"
+    },
     // ===================================
     // GROUP COMMUNICATION DYNAMICS - CATEGORY HEADER
     // ===================================
