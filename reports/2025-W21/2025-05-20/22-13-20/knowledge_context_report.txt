@@ -1,0 +1,18 @@
+KNOWLEDGE CONTEXT SUMMARY:
+Total characters loaded: 245676/250000 (98.3%)
+
+LOADED FILES (11):
+- building-information-resilience.js (2595 chars)
+- challenge-conspiracies.js (19363 chars)
+- eu-report-inspired-tactics.js (11906 chars)
+- historical-patterns.js (4431 chars)
+- human-networks.js (20952 chars)
+- interpersonal-dynamics.js (65206 chars)
+- irregular-warfare.js (4965 chars)
+- literacy-in-hostile-environments.js (3657 chars)
+- machine-targeting.js (32885 chars)
+- manipulation-tactics.js (74565 chars)
+- personal-skills.js (5151 chars)
+
+SKIPPED FILES (1):
+- what-is-information.js (16596 chars)
