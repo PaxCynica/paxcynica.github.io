@@ -1,52 +1,52 @@
 [
   {
-    "topic": "Donald Trump",
-    "frequency": 9,
-    "agentColor": "#3498db"
-  },
-  {
-    "topic": "Russia",
-    "frequency": 7,
-    "agentColor": "#3498db"
-  },
-  {
     "topic": "Israel",
-    "frequency": 7,
-    "agentColor": "#3498db"
-  },
-  {
-    "topic": "United States",
-    "frequency": 5,
-    "agentColor": "#3498db"
-  },
-  {
-    "topic": "ceasefire",
-    "frequency": 4,
+    "frequency": 11,
     "agentColor": "#3498db"
   },
   {
     "topic": "Gaza",
+    "frequency": 9,
+    "agentColor": "#3498db"
+  },
+  {
+    "topic": "sanctions",
+    "frequency": 9,
+    "agentColor": "#3498db"
+  },
+  {
+    "topic": "Donald Trump",
+    "frequency": 6,
+    "agentColor": "#3498db"
+  },
+  {
+    "topic": "China",
+    "frequency": 6,
+    "agentColor": "#3498db"
+  },
+  {
+    "topic": "AI",
+    "frequency": 5,
+    "agentColor": "#00ACEE"
+  },
+  {
+    "topic": "blockade",
+    "frequency": 5,
+    "agentColor": "#3498db"
+  },
+  {
+    "topic": "Russia",
+    "frequency": 5,
+    "agentColor": "#3498db"
+  },
+  {
+    "topic": "Nvidia",
     "frequency": 4,
     "agentColor": "#3498db"
   },
   {
-    "topic": "tariffs",
-    "frequency": 3,
-    "agentColor": "#0E76A8"
-  },
-  {
-    "topic": "UK",
-    "frequency": 3,
+    "topic": "UN",
+    "frequency": 4,
     "agentColor": "#3498db"
-  },
-  {
-    "topic": "Palestine",
-    "frequency": 3,
-    "agentColor": "#3498db"
-  },
-  {
-    "topic": "international pressure",
-    "frequency": 3,
-    "agentColor": "#3A5998"
   }
 ]
