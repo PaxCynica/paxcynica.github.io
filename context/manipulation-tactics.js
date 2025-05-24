@@ -514,6 +514,18 @@ window.MANIPULATION_TACTICS = [
     "theme": "theme-blue",
     "category": "COGNITIVE EXPLOITATION"
   },
+  {
+    "title": "Attention Loops: The Mind's Vulnerable Repetition",
+    "points": [
+      "Most of our daily thoughts are repetitive, forming mental loops.",
+      "Manipulators exploit these loops to reinforce narratives and biases.",
+      "Hijacked attention loops can drive polarization, anxiety, or compulsive behaviors.",
+      "Learning how your mind works is foundational for personal and community resilience."
+    ],
+    "layout": "layout-centered",
+    "theme": "theme-purple",
+    "category": "COGNITIVE EXPLOITATION"
+  },
   // ===================================
   // AUTHORITY & CREDIBILITY - CATEGORY HEADER 4
   // ===================================
@@ -1116,6 +1128,18 @@ window.MANIPULATION_TACTICS = [
       "Value groups that welcome questions",
       "Stay loyal to truth over tribe",
       "Remember: real belonging allows dissent"
+    ],
+    "layout": "layout-centered",
+    "theme": "theme-blue",
+    "category": "SOCIAL & GROUP MANIPULATION"
+  },
+  {
+    "title": "Identity: The Double-Edged Foundation of Social Information",
+    "points": [
+      "Identity is foundational for social information—without it, trust and meaning collapse.",
+      "When identity is ignored, social bonds and trust erode; when overemphasized (as status or 'authenticity grind'), it becomes a manipulation target.",
+      "Information actors exploit both the absence and excess of identity signals to distort, divide, or control social perception.",
+      "Resilience requires a balanced, reflective approach to identity in information environments."
     ],
     "layout": "layout-centered",
     "theme": "theme-blue",

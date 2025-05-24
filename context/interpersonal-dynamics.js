@@ -1,6 +1,6 @@
 window.INTERPERSONAL_DYNAMICS = [
     // ===================================
-    // SUPERIORITY COMPLEX - CATEGORY HEADER
+    // SUPERIORITY COMPLEX (TA) - CATEGORY HEADER
     // ===================================
     {
         "title": "The Superiority Dynamic",
@@ -12,7 +12,7 @@ window.INTERPERSONAL_DYNAMICS = [
         ],
         "layout": "layout-centered",
         "theme": "theme-blue",
-        "category": "SUPERIORITY COMPLEX"
+        "category": "SUPERIORITY COMPLEX (TA)"
     },
     {
         "title": "Cognitive Biases at Play",
@@ -23,7 +23,7 @@ window.INTERPERSONAL_DYNAMICS = [
         ],
         "layout": "layout-split",
         "theme": "theme-green",
-        "category": "COGNITIVE BIAS"
+        "category": "SUPERIORITY COMPLEX (TA)"
     },
     {
         "title": "Transactional Analysis: Discounting",
@@ -34,7 +34,7 @@ window.INTERPERSONAL_DYNAMICS = [
         ],
         "layout": "layout-boxed",
         "theme": "theme-purple",
-        "category": "TRANSACTIONAL ANALYSIS"
+        "category": "SUPERIORITY COMPLEX (TA)"
     },
     {
         "title": "Transactional Analysis: Psychological Games",
@@ -46,7 +46,7 @@ window.INTERPERSONAL_DYNAMICS = [
         ],
         "layout": "layout-split",
         "theme": "theme-sunset",
-        "category": "TRANSACTIONAL ANALYSIS"
+        "category": "SUPERIORITY COMPLEX (TA)"
     },
     {
         "title": "Transactional Analysis: Ego States",
@@ -56,7 +56,7 @@ window.INTERPERSONAL_DYNAMICS = [
         ],
         "layout": "layout-centered",
         "theme": "theme-blue",
-        "category": "TRANSACTIONAL ANALYSIS"
+        "category": "SUPERIORITY COMPLEX (TA)"
     },
     {
         "title": "Narcissistic Traits: Superiority & Empathy",
@@ -67,7 +67,7 @@ window.INTERPERSONAL_DYNAMICS = [
         ],
         "layout": "layout-boxed",
         "theme": "theme-dark",
-        "category": "NARCISSISM"
+        "category": "SUPERIORITY COMPLEX (TA)"
     },
     {
         "title": "Narcissistic Traits: Deflection & Vulnerability",
@@ -78,7 +78,7 @@ window.INTERPERSONAL_DYNAMICS = [
         ],
         "layout": "layout-split",
         "theme": "theme-dark",
-        "category": "NARCISSISM"
+        "category": "SUPERIORITY COMPLEX (TA)"
     },
     {
         "title": "Defense Mechanisms: Rationalization & Projection",
@@ -88,7 +88,7 @@ window.INTERPERSONAL_DYNAMICS = [
         ],
         "layout": "layout-centered",
         "theme": "theme-green",
-        "category": "DEFENSE MECHANISMS"
+        "category": "SUPERIORITY COMPLEX (TA)"
     },
     {
         "title": "Defense Mechanisms: Denial",
@@ -98,7 +98,7 @@ window.INTERPERSONAL_DYNAMICS = [
         ],
         "layout": "layout-boxed",
         "theme": "theme-green",
-        "category": "DEFENSE MECHANISMS"
+        "category": "SUPERIORITY COMPLEX (TA)"
     },
     {
         "title": "Codependency Intersection (Minor Role)",
@@ -109,7 +109,7 @@ window.INTERPERSONAL_DYNAMICS = [
         ],
         "layout": "layout-split",
         "theme": "theme-purple",
-        "category": "CODEPENDENCY"
+        "category": "SUPERIORITY COMPLEX (TA)"
     },
     {
         "title": "Simple Analogy: The Car Purchase",
@@ -120,7 +120,7 @@ window.INTERPERSONAL_DYNAMICS = [
         ],
         "layout": "layout-centered",
         "theme": "theme-sunset",
-        "category": "SUPERIORITY COMPLEX"
+        "category": "SUPERIORITY COMPLEX (TA)"
     },
     {
         "title": "Summary: Roots of the Behavior",
@@ -132,7 +132,78 @@ window.INTERPERSONAL_DYNAMICS = [
         ],
         "layout": "layout-boxed",
         "theme": "theme-blue",
-        "category": "SUPERIORITY COMPLEX"
+        "category": "SUPERIORITY COMPLEX (TA)"
+    },
+    // ===================================
+    // SPECULATIVE EXPERT GAME (TA) - CATEGORY HEADER
+    // ===================================
+    {
+        "title": "The Speculator's Gambit: Initial Ego States",
+        "points": [
+            "Initial speculation can stem from Free Child (curious, intuitive) or Adult (rational hypothesis, exploratory thought).",
+            "This phase often invites open discussion or appears to seek genuine input.",
+            "The speculator might seem to be collaboratively exploring ideas or expressing an uninhibited thought."
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-blue",
+        "category": "SPECULATIVE EXPERT GAME (TA)"
+    },
+    {
+        "title": "The Shift: Critical Parent Emerges",
+        "points": [
+            "A sudden shift to acting like an 'expert' and countering suggestions signals a move into the Critical Parent ego state.",
+            "The Critical Parent adopts a superior, knowledgeable, often dogmatic stance ('I know best').",
+            "This state delivers judgments, rules, criticism, and authoritarian pronouncements, often learned from parental figures."
+        ],
+        "layout": "layout-boxed",
+        "theme": "theme-red",
+        "category": "SPECULATIVE EXPERT GAME (TA)"
+    },
+    {
+        "title": "Crossed Transaction: Communication Breakdown",
+        "points": [
+            "When suggestions (likely Adult ego state) are met with Critical Parent 'expertise,' a crossed transaction occurs.",
+            "Stimulus: Adult-to-Adult (e.g., 'Have you considered X?').",
+            "Response: Parent-to-Child (e.g., 'That won't work because... [authoritative dismissal]').",
+            "This mismatch in ego states derails productive dialogue and can lead to frustration or conflict."
+        ],
+        "layout": "layout-split",
+        "theme": "theme-purple",
+        "category": "SPECULATIVE EXPERT GAME (TA)"
+    },
+    {
+        "title": "The 'Why Don't You - Yes But' (WDY-YB) Setup",
+        "points": [
+            "The 'Problem-Presenter' (often from Adapted Child state) feigns seeking solutions: 'I have this issue...'",
+            "Ulterior motive: To prove no solution works, thus justifying inaction, helplessness, or superiority.",
+            "The 'Helper' (often Nurturing Parent/Rescuer) offers genuine suggestions: 'Why don't you...?'"
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-green",
+        "category": "SPECULATIVE EXPERT GAME (TA)"
+    },
+    {
+        "title": "WDY-YB: The Rejection Barrage & Payoffs",
+        "points": [
+            "Problem-Presenter rejects every suggestion with 'Yes, but...' excuses, often not based on objective reality.",
+            "Payoffs for 'Yes But' player: Vindication ('See, it's impossible!'), avoids responsibility, gains attention, reinforces script beliefs (e.g., 'I'm helpless').",
+            "The Helper eventually gets frustrated or runs out of ideas, 'proving' the Problem-Presenter's point."
+        ],
+        "layout": "layout-boxed",
+        "theme": "theme-sunset",
+        "category": "SPECULATIVE EXPERT GAME (TA)"
+    },
+    {
+        "title": "WDY-YB Variant: The 'Expert Reversal'",
+        "points": [
+            "A sophisticated WDY-YB: After rejecting all suggestions, the 'Problem-Presenter' unveils their *own* 'sudden expertise'.",
+            "The initial 'problem' and 'Yes, Buts' serve to invalidate others' input and clear the field.",
+            "Their 'solution' or perspective is then presented as superior, reinforcing intellectual one-upmanship.",
+            "Payoff: Establishes control, perceived superiority, and has 'won' the intellectual game."
+        ],
+        "layout": "layout-split",
+        "theme": "theme-dark",
+        "category": "SPECULATIVE EXPERT GAME (TA)"
     },
     // ===================================
     // MANAGING THE CONVERSATION - CATEGORY HEADER
@@ -169,7 +240,7 @@ window.INTERPERSONAL_DYNAMICS = [
         ],
         "layout": "layout-boxed",
         "theme": "theme-purple",
-        "category": "SETTING BOUNDARIES"
+        "category": "MANAGING THE CONVERSATION"
     },
     {
         "title": "Tactic: Ask Clarifying Qs (Subtle Modeling)",
@@ -180,7 +251,7 @@ window.INTERPERSONAL_DYNAMICS = [
         ],
         "layout": "layout-split",
         "theme": "theme-sunset",
-        "category": "SUBTLE GUIDANCE"
+        "category": "MANAGING THE CONVERSATION"
     },
     {
         "title": "Tactic: Subtle Modeling (Question in Response)",
@@ -191,7 +262,7 @@ window.INTERPERSONAL_DYNAMICS = [
         ],
         "layout": "layout-centered",
         "theme": "theme-blue",
-        "category": "SUBTLE GUIDANCE"
+        "category": "MANAGING THE CONVERSATION"
     },
     {
         "title": "Tactic: Direct Boundaries (Use with Care)",
@@ -202,7 +273,7 @@ window.INTERPERSONAL_DYNAMICS = [
         ],
         "layout": "layout-boxed",
         "theme": "theme-dark",
-        "category": "SETTING BOUNDARIES"
+        "category": "MANAGING THE CONVERSATION"
     },
     {
         "title": "Managing Your Own Reaction",
@@ -214,7 +285,7 @@ window.INTERPERSONAL_DYNAMICS = [
         ],
         "layout": "layout-split",
         "theme": "theme-green",
-        "category": "INTERNAL MANAGEMENT"
+        "category": "MANAGING THE CONVERSATION"
     },
     // ===================================
     // EFFECTIVE LISTENING - CATEGORY HEADER
@@ -265,7 +336,7 @@ window.INTERPERSONAL_DYNAMICS = [
         ],
         "layout": "layout-boxed",
         "theme": "theme-sunset",
-        "category": "MANAGING THE CONVERSATION"
+        "category": "EFFECTIVE LISTENING"
     },
     {
         "title": "Mindful Communication",
@@ -277,7 +348,7 @@ window.INTERPERSONAL_DYNAMICS = [
         ],
         "layout": "layout-split",
         "theme": "theme-dark",
-        "category": "INTERNAL MANAGEMENT"
+        "category": "EFFECTIVE LISTENING"
     },
     {
         "title": "Adapting to Others",
@@ -289,7 +360,7 @@ window.INTERPERSONAL_DYNAMICS = [
         ],
         "layout": "layout-centered",
         "theme": "theme-green",
-        "category": "MANAGING THE CONVERSATION"
+        "category": "EFFECTIVE LISTENING"
     },
     {
         "title": "Respectful Disagreement",
@@ -301,7 +372,7 @@ window.INTERPERSONAL_DYNAMICS = [
         ],
         "layout": "layout-boxed",
         "theme": "theme-blue",
-        "category": "SUBTLE GUIDANCE"
+        "category": "EFFECTIVE LISTENING"
     },
     {
         "title": "Effective Conversation Closure",
@@ -313,7 +384,7 @@ window.INTERPERSONAL_DYNAMICS = [
         ],
         "layout": "layout-split",
         "theme": "theme-purple",
-        "category": "MANAGING THE CONVERSATION"
+        "category": "EFFECTIVE LISTENING"
     },
     // ===================================
     // NON-VERBAL COMMUNICATION - CATEGORY HEADER
@@ -530,7 +601,7 @@ window.INTERPERSONAL_DYNAMICS = [
         ],
         "layout": "layout-split",
         "theme": "theme-dark",
-        "category": "SETTING BOUNDARIES"
+        "category": "EMPATHIC SHIELDING"
     },
     {
         "title": "Training Your Empathic Shielding Jutsu",
@@ -552,7 +623,7 @@ window.INTERPERSONAL_DYNAMICS = [
         ],
         "layout": "layout-centered",
         "theme": "theme-blue",
-        "category": "EMOTIONAL REGULATION"
+        "category": "EMPATHIC SHIELDING"
     },
     // ===================================
     // TRAUMA RESPONSES - CATEGORY HEADER
@@ -1098,7 +1169,7 @@ window.INTERPERSONAL_DYNAMICS = [
         ],
         "layout": "layout-boxed",
         "theme": "theme-green",
-        "category": "INTERNAL MANAGEMENT"
+        "category": "MANAGING THE CONVERSATION"
     },
     // ===================================
     // COMMUNICATION WITH LIMITED BANDWIDTH - CATEGORY HEADER
@@ -1234,7 +1305,7 @@ window.INTERPERSONAL_DYNAMICS = [
             "Contextualize leadership decisions for team members with limited organizational view",
             "Create safe channels for upward information flow about problems and opportunities"
         ],
-        "layout": "layout-centered", 
+        "layout": "layout-centered",
         "theme": "theme-green",
         "category": "POWER DYNAMICS"
     },

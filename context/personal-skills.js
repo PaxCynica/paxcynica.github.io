@@ -27,6 +27,18 @@ window.PERSONAL_SKILLS = [
         "category": "PERSONAL SKILLS"
     },
     {
+        "title": "Mapping Your Influence: Everyday Impact",
+        "points": [
+            "Identify your spheres of influence: personal (family, friends), professional (colleagues, industry), and community (local groups, online networks).",
+            "Recognize your unique 'recon network': trusted individuals who provide early warnings, diverse perspectives, or specialized knowledge.",
+            "Leverage your connections for informal organizing: sharing verified information, fostering critical discussions, and supporting local resilience efforts.",
+            "Even without formal events, consistent, informed engagement within your networks constitutes meaningful action."
+        ],
+        "layout": "layout-boxed",
+        "theme": "theme-green",
+        "category": "PERSONAL SKILLS"
+    },
+    {
         "title": "Daily Focus and Mental Discipline",
         "points": [
             "Start each day with an 'information hygiene' routine: Review trusted sources, note emerging narratives",
@@ -98,5 +110,4 @@ window.PERSONAL_SKILLS = [
         "theme": "theme-blue",
         "category": "PERSONAL SKILLS"
     },
-    
 ];

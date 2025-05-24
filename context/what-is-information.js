@@ -54,7 +54,30 @@ window.WHAT_IS_INFORMATION = [
         "theme": "theme-green",
         "category": "BIOLOGICAL INFORMATION"
     },
-
+    {
+        "title": "The Primal Dilemma: False Positives & Negatives",
+        "points": [
+            "All organisms face the challenge: Is that a real signal (threat/opportunity) or just noise?",
+            "False Positive: Reacting to a non-existent signal (e.g., a shadow mistaken for a predator; Quixote's windmills).",
+            "False Negative: Missing a genuine signal (e.g., failing to detect a hidden predator; Quixote overlooking real danger).",
+            "This fundamental uncertainty in distinguishing signal from noise is a key vulnerability exploited by deception."
+        ],
+        "layout": "layout-boxed",
+        "theme": "theme-green",
+        "category": "BIOLOGICAL INFORMATION"
+    },
+    {
+        "title": "Evolution's Error Bias: The 'Better Safe Than Sorry' Principle",
+        "points": [
+            "The cost of missing a real threat (a false negative) is often catastrophically higher than a false alarm (a false positive).",
+            "Evolutionary pressures frequently favor hypersensitivity, leading to a bias towards false positives for survival.",
+            "This is like the 'smoke detector principle': it's better for it to go off from burnt toast than to miss a real fire.",
+            "Deception strategies often exploit this built-in preparedness to overreact or misinterpret."
+        ],
+        "layout": "layout-split",
+        "theme": "theme-green",
+        "category": "BIOLOGICAL INFORMATION"
+    },
     // ===================================
     // SECTION 3: INFORMATION THEORY
     // ===================================

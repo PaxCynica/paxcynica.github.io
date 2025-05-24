@@ -218,6 +218,18 @@ window.CHALLENGE_CONSPIRACIES = [
         "layout": "layout-split",
         "theme": "theme-dark",
         "category": "WEAPONS AND TACTICS"
+    }, {
+        "title": "Legal Labyrinth: Complexity and Inequality",
+        "points": [
+            "Modern legal frameworks have become extraordinarily complex.",
+            "Ordinary people often require expert assistance for even simple claims forms.",
+            "Even elites must rely on specialists to navigate convoluted legal procedures.",
+            "The high costs of legal expertise place citizens at a severe disadvantage.",
+            "Effective organization is essential to level the playing field."
+        ],
+        "layout": "layout-boxed",
+        "theme": "theme-red",
+        "category": "LEGAL AND POLITICAL STRATEGIES"
     },
     {
         "title": "Understanding Legal Rights",
