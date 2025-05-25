@@ -212,9 +212,107 @@ window.WHAT_IS_INFORMATION = [
         "theme": "theme-red",
         "category": "SOCIAL INFORMATION"
     },
-
+    {
+        "title": "The 'Ant & Corridor' Paradox: Individual vs. Group Under Misinformation",
+        "points": [
+            "Studies (e.g., ants moving objects with misleading cues) suggest individuals can outperform groups when misinformation actively targets or confuses the collective.",
+            "This challenges assumptions that larger groups or institutions are always better at processing complex information, especially in hostile environments.",
+            "Group dynamics—like flawed information cascades, premature consensus, or the breakdown of complex coordination due to bad data—can render collectives less effective than a discerning individual.",
+            "Implies a critical role for individual critical thinking, skepticism of group consensus under pressure, and perhaps the efficacy of smaller, more adaptable units in navigating deception."
+        ],
+        "layout": "layout-boxed",
+        "theme": "theme-red",
+        "category": "SOCIAL INFORMATION"
+    },
+    {
+        "title": "Info-Environments & Societal Agility: A Graeber/Wengrow Lens",
+        "points": [
+            "Effective strategy demands awareness of the current information environment (e.g., hostile, disinfo-saturated).",
+            "If institutions lag in adapting to info-warfare, are decentralized, grassroots efforts vital for navigating the 'fog'?",
+            "Graeber & Wengrow ('Dawn of Everything') posit past societies showed more flexibility in shifting organizational paradigms; are we 'stuck' in models ill-suited for modern disinformation?",
+            "Perhaps smaller, adaptive units become crucial for resilience when institutional responses are slow or compromised by the info-scape."
+        ],
+        "layout": "layout-split", // Or layout-boxed
+        "theme": "theme-red",
+        "category": "SOCIAL INFORMATION"
+    },
     // ===================================
-    // SECTION 5: PHILOSOPHICAL PERSPECTIVES
+    // SECTION 5: ORGANIZATIONAL LEARNING & INFORMATION
+    // ===================================
+    {
+        "title": "Organizational Learning: Core Principles",
+        "points": [
+            "**Behavior via Routines:** Actions often stem from established procedures ('logic of appropriateness') rather than calculated choices based on future outcomes.",
+            "**History-Dependent Actions:** Decisions are heavily influenced by past experiences and interpretations, not just future anticipations. Adaptation is often incremental.",
+            "**Target-Oriented Behavior:** Organizations focus on achieving specific goals, making sharper distinctions between success/failure than nuanced gradations.",
+            "These principles shape how organizations perceive, process, and act on information."
+        ],
+        "layout": "layout-boxed",
+        "theme": "theme-orange", // New theme for this category
+        "category": "ORGANIZATIONAL LEARNING & INFORMATION"
+    },
+    {
+        "title": "Routines: Efficiency vs. Rigidity",
+        "points": [
+            "Routines enable organizations to handle complexity and operate efficiently by standardizing responses.",
+            "However, over-reliance on routines can lead to rigidity, making it difficult to process or adapt to truly novel information or threats.",
+            "New information might be forced into old frameworks, potentially missing its true significance or the need for a new approach.",
+            "The 'required knowledge' for new challenges (e.g., AI, advanced disinformation) may not fit existing procedural slots."
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-orange",
+        "category": "ORGANIZATIONAL LEARNING & INFORMATION"
+    },
+    {
+        "title": "History-Dependence: Stability vs. Inertia",
+        "points": [
+            "Learning from past successes and failures provides stability and avoids repeating mistakes.",
+            "But strong history-dependence can create inertia, making organizations slow to recognize or react to fundamental shifts in their environment.",
+            "Past interpretations can overshadow current realities, especially when change is rapid and non-linear.",
+            "This can lead to institutions 'fighting the last war' when facing new informational threats."
+        ],
+        "layout": "layout-split",
+        "theme": "theme-orange",
+        "category": "ORGANIZATIONAL LEARNING & INFORMATION"
+    },
+    {
+        "title": "Target-Orientation: Focus vs. Blind Spots",
+        "points": [
+            "Clear targets help organizations align efforts and measure progress effectively.",
+            "However, a strong focus on specific targets can create blind spots for information or issues perceived as irrelevant to those goals.",
+            "Nuanced, ambiguous, or 'weak signal' information critical for understanding complex threats might be filtered out.",
+            "The 'firehose of falsehood' can be overwhelming if an organization is only equipped to process information related to narrow targets."
+        ],
+        "layout": "layout-boxed",
+        "theme": "theme-orange",
+        "category": "ORGANIZATIONAL LEARNING & INFORMATION"
+    },
+    {
+        "title": "Institutional Lag in Hostile Info-Scapes",
+        "points": [
+            "Organizational learning principles help explain why institutions might struggle with modern disinformation and rapid technological change.",
+            "Their inherent reliance on routines, past precedents, and fixed targets can hinder the agile adaptation needed.",
+            "This 'institutional lag' creates vulnerabilities that disinformation campaigns can exploit.",
+            "Skepticism towards institutional infallibility is warranted when their learning mechanisms are outpaced by environmental hostility."
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-orange",
+        "category": "ORGANIZATIONAL LEARNING & INFORMATION"
+    },
+    {
+        "title": "The Organization as a Cognitive System: Proto-AI?",
+        "points": [
+            "Some theories view organizational structures and learning processes as a form of distributed, emergent intelligence—a collective cognitive system.",
+            "The corporation, as a 'legal person' with goals and survival instincts, can exhibit complex adaptive behaviors akin to a rudimentary AI or even a life form.",
+            "Could the integrated information processing (Φ) within a complex organization give rise to a form of collective consciousness or high-level agency?",
+            "This perspective challenges traditional boundaries between individual intelligence, artificial intelligence, and collective organizational behavior."
+        ],
+        "layout": "layout-split", // Or layout-boxed, depending on preference
+        "theme": "theme-orange",
+        "category": "ORGANIZATIONAL LEARNING & INFORMATION"
+    },
+    // ===================================
+    // SECTION 6: PHILOSOPHICAL PERSPECTIVES
     // ===================================
     {
         "title": "Philosophical Views on Information",
@@ -361,5 +459,6 @@ window.WHAT_IS_INFORMATION = [
         "layout": "layout-boxed",
         "theme": "theme-dark",
         "category": "PHILOSOPHY"
-    }
+    },
+
 ];

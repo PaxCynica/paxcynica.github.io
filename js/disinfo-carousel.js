@@ -2,86 +2,88 @@ document.addEventListener('DOMContentLoaded', function () {
     // Sample disinfo cards from your existing data
     const disinfoCards = [
         {
-            "title": "LITERACY IN HOSTILE ENVIRONMENTS",
+            "title": "What is Information?",
             "points": [
-                "How to build resilience in a hostile information landscape",
-                "Adversarial literacy as a form of self-defense",
-                "Practical skills for navigating disinformation",
-                "When the medium is the weapon, literacy becomes armor"
+                "Information as the resolution of uncertainty",
+                "The difference that makes a difference (Bateson)",
+                "From Shannon's bits to Integrated Information Theory",
+                "Where meaning emerges from data"
+            ],
+            "layout": "layout-centered",
+            "theme": "theme-blue",
+            "category": "DEFINITIONS"
+        },
+        {
+            "title": "Biological Information Processing",
+            "points": [
+                "How organisms detect signals vs. noise",
+                "The primal dilemma: false positives vs. negatives",
+                "Evolution's 'better safe than sorry' principle",
+                "DNA as nature's information storage system"
+            ],
+            "layout": "layout-boxed",
+            "theme": "theme-green",
+            "category": "BIOLOGICAL INFORMATION"
+        },
+        {
+            "title": "Social Information Dynamics",
+            "points": [
+                "Information as power and control",
+                "Homophily: how 'birds of a feather' shape networks",
+                "The 'Ant & Corridor' paradox: when individuals outperform groups",
+                "Emotion's influence on belief and decision-making"
+            ],
+            "layout": "layout-split",
+            "theme": "theme-red",
+            "category": "SOCIAL INFORMATION"
+        },
+        {
+            "title": "Organizational Learning",
+            "points": [
+                "How institutions process and adapt to information",
+                "Routines vs. rigidity in complex systems",
+                "Why organizations might 'fight the last war'",
+                "The corporation as a proto-AI cognitive system"
+            ],
+            "layout": "layout-boxed",
+            "theme": "theme-orange",
+            "category": "ORGANIZATIONAL LEARNING & INFORMATION"
+        },
+        {
+            "title": "Literacy in Hostile Environments",
+            "points": [
+                "When the medium is the weapon, literacy becomes armor",
+                "Building resilience in rigged information fields",
+                "Adversarial literacy as cognitive self-defense",
+                "Individual vs. collective navigation of deception"
             ],
             "layout": "layout-centered",
             "theme": "theme-dark",
             "category": "LITERACY IN HOSTILE ENVIRONMENTS"
         },
         {
-            "title": "LITERACY IN HOSTILE ENVIRONMENTS",
+            "title": "Philosophy of Information",
             "points": [
-                "You can’t teach people to swim in a flood.",
-                "You can’t build media literacy in an ecosystem engineered to drown it.",
-                "Learning when the medium is the weapon requires a new approach."
-            ],
-            "layout": "layout-centered",
-            "theme": "theme-dark",
-            "category": "LITERACY IN HOSTILE ENVIRONMENTS"
-        },
-        {
-            "title": "The Rigged Information Field",
-            "points": [
-                "Most media literacy efforts assumed a neutral field, but it isn't.",
-                "The field is rigged, reactive, and hostile.",
-                "Algorithms favor speed; polarization is profitable; virality selects for outrage.",
-                "Manipulation is often a feature, not a flaw."
-            ],
-            "layout": "layout-boxed",
-            "theme": "theme-dark",
-            "category": "LITERACY IN HOSTILE ENVIRONMENTS"
-        },
-        {
-            "title": "Media Literacy as Warfighting",
-            "points": [
-                "Teaching literacy in this system is like teaching calm in a burning building.",
-                "It's not impossible, but it is warfighting.",
-                "Literacy must be tactically aware, emotionally grounded, and built for resistance.",
-                "It must be able to operate under narrative pressure."
+                "Maxwell's Demon and the reality of information",
+                "Gödel's limits and algorithmic irreducibility",
+                "Being as subjective narrative construction",
+                "The myth of arrival vs. continuous engagement"
             ],
             "layout": "layout-split",
-            "theme": "theme-dark",
-            "category": "LITERACY IN HOSTILE ENVIRONMENTS"
+            "theme": "theme-purple",
+            "category": "PHILOSOPHY"
         },
         {
-            "title": "Literacy-as-Armor: Practical Skills",
+            "title": "Information Theory Foundations",
             "points": [
-                "Train for ambiguity and practice emotional self-regulation.",
-                "Identify coercive patterns and build community around truth-seeking.",
-                "Treat attention as a resource to defend.",
-                "This is literacy-as-armor, a frontline skillset."
+                "Shannon's Channel Capacity and living systems",
+                "Statistical vs. algorithmic randomness",
+                "Integrated Information Theory and consciousness",
+                "Information surprise and meaning measurement"
             ],
             "layout": "layout-boxed",
-            "theme": "theme-dark",
-            "category": "LITERACY IN HOSTILE ENVIRONMENTS"
-        },
-        {
-            "title": "Core Tenets of Adversarial Literacy",
-            "points": [
-                "Resilience, narrative mobility, cognitive stamina, strategic doubt.",
-                "It's not just knowing — but staying whole while knowing.",
-                "Most media ecosystems are now adversarial; literacy is self-defense.",
-                "Emotional/relational tools are non-negotiable; resilience is a collective act."
-            ],
-            "layout": "layout-split",
-            "theme": "theme-dark",
-            "category": "LITERACY IN HOSTILE ENVIRONMENTS"
-        },
-        {
-            "title": "Beyond Literacy: Reforming the Terrain",
-            "points": [
-                "You can’t build mental defense in an economy that rewards manipulation.",
-                "We don’t just need better literacy; we need better terrain.",
-                "Fighting for structural reform is also essential."
-            ],
-            "layout": "layout-boxed",
-            "theme": "theme-dark",
-            "category": "LITERACY IN HOSTILE ENVIRONMENTS"
+            "theme": "theme-purple",
+            "category": "INFORMATION THEORY"
         }
     ];
 

@@ -1,7 +1,19 @@
 window.INTERPERSONAL_DYNAMICS = [
     // ===================================
-    // SUPERIORITY COMPLEX (TA) - CATEGORY HEADER
+    // SECTION 1: PSYCHOLOGICAL FOUNDATIONS
     // ===================================
+    {
+        "title": "PSYCHOLOGICAL FOUNDATIONS",
+        "points": [
+            "Understanding the core psychological patterns that drive interpersonal dynamics",
+            "Cognitive biases, defense mechanisms, and psychological games in communication",
+            "Transactional Analysis framework for understanding ego states and interactions",
+            "Building awareness of unconscious patterns that affect relationship quality"
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-blue",
+        "category": "PSYCHOLOGICAL FOUNDATIONS"
+    },
     {
         "title": "The Superiority Dynamic",
         "points": [
@@ -12,7 +24,7 @@ window.INTERPERSONAL_DYNAMICS = [
         ],
         "layout": "layout-centered",
         "theme": "theme-blue",
-        "category": "SUPERIORITY COMPLEX (TA)"
+        "category": "PSYCHOLOGICAL FOUNDATIONS"
     },
     {
         "title": "Cognitive Biases at Play",
@@ -23,7 +35,37 @@ window.INTERPERSONAL_DYNAMICS = [
         ],
         "layout": "layout-split",
         "theme": "theme-green",
-        "category": "SUPERIORITY COMPLEX (TA)"
+        "category": "PSYCHOLOGICAL FOUNDATIONS"
+    },
+    {
+        "title": "Defense Mechanisms: Rationalization & Projection",
+        "points": [
+            "Rationalization: Creating logical-sounding (but often false) excuses for own behavior.",
+            "Projection: Unconsciously attributing one's own negative judgments or motives onto others."
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-green",
+        "category": "PSYCHOLOGICAL FOUNDATIONS"
+    },
+    {
+        "title": "Defense Mechanisms: Denial",
+        "points": [
+            "Denial involves refusing to acknowledge the similarity between one's own actions and the criticized actions of others.",
+            "Also involves denying the negative aspects or implications of one's own behavior."
+        ],
+        "layout": "layout-boxed",
+        "theme": "theme-green",
+        "category": "PSYCHOLOGICAL FOUNDATIONS"
+    },
+    {
+        "title": "Transactional Analysis: Ego States",
+        "points": [
+            "Person A might operate from a Critical Parent ego state when judging others.",
+            "They may shift to a Justifying Child or seemingly rational Adult state for their own behavior."
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-blue",
+        "category": "PSYCHOLOGICAL FOUNDATIONS"
     },
     {
         "title": "Transactional Analysis: Discounting",
@@ -34,7 +76,7 @@ window.INTERPERSONAL_DYNAMICS = [
         ],
         "layout": "layout-boxed",
         "theme": "theme-purple",
-        "category": "SUPERIORITY COMPLEX (TA)"
+        "category": "PSYCHOLOGICAL FOUNDATIONS"
     },
     {
         "title": "Transactional Analysis: Psychological Games",
@@ -46,17 +88,7 @@ window.INTERPERSONAL_DYNAMICS = [
         ],
         "layout": "layout-split",
         "theme": "theme-sunset",
-        "category": "SUPERIORITY COMPLEX (TA)"
-    },
-    {
-        "title": "Transactional Analysis: Ego States",
-        "points": [
-            "Person A might operate from a Critical Parent ego state when judging others.",
-            "They may shift to a Justifying Child or seemingly rational Adult state for their own behavior."
-        ],
-        "layout": "layout-centered",
-        "theme": "theme-blue",
-        "category": "SUPERIORITY COMPLEX (TA)"
+        "category": "PSYCHOLOGICAL FOUNDATIONS"
     },
     {
         "title": "Narcissistic Traits: Superiority & Empathy",
@@ -67,7 +99,7 @@ window.INTERPERSONAL_DYNAMICS = [
         ],
         "layout": "layout-boxed",
         "theme": "theme-dark",
-        "category": "SUPERIORITY COMPLEX (TA)"
+        "category": "PSYCHOLOGICAL FOUNDATIONS"
     },
     {
         "title": "Narcissistic Traits: Deflection & Vulnerability",
@@ -78,27 +110,7 @@ window.INTERPERSONAL_DYNAMICS = [
         ],
         "layout": "layout-split",
         "theme": "theme-dark",
-        "category": "SUPERIORITY COMPLEX (TA)"
-    },
-    {
-        "title": "Defense Mechanisms: Rationalization & Projection",
-        "points": [
-            "Rationalization: Creating logical-sounding (but often false) excuses for own behavior.",
-            "Projection: Unconsciously attributing one's own negative judgments or motives onto others."
-        ],
-        "layout": "layout-centered",
-        "theme": "theme-green",
-        "category": "SUPERIORITY COMPLEX (TA)"
-    },
-    {
-        "title": "Defense Mechanisms: Denial",
-        "points": [
-            "Denial involves refusing to acknowledge the similarity between one's own actions and the criticized actions of others.",
-            "Also involves denying the negative aspects or implications of one's own behavior."
-        ],
-        "layout": "layout-boxed",
-        "theme": "theme-green",
-        "category": "SUPERIORITY COMPLEX (TA)"
+        "category": "PSYCHOLOGICAL FOUNDATIONS"
     },
     {
         "title": "Codependency Intersection (Minor Role)",
@@ -109,7 +121,7 @@ window.INTERPERSONAL_DYNAMICS = [
         ],
         "layout": "layout-split",
         "theme": "theme-purple",
-        "category": "SUPERIORITY COMPLEX (TA)"
+        "category": "PSYCHOLOGICAL FOUNDATIONS"
     },
     {
         "title": "Simple Analogy: The Car Purchase",
@@ -120,7 +132,7 @@ window.INTERPERSONAL_DYNAMICS = [
         ],
         "layout": "layout-centered",
         "theme": "theme-sunset",
-        "category": "SUPERIORITY COMPLEX (TA)"
+        "category": "PSYCHOLOGICAL FOUNDATIONS"
     },
     {
         "title": "Summary: Roots of the Behavior",
@@ -132,11 +144,24 @@ window.INTERPERSONAL_DYNAMICS = [
         ],
         "layout": "layout-boxed",
         "theme": "theme-blue",
-        "category": "SUPERIORITY COMPLEX (TA)"
+        "category": "PSYCHOLOGICAL FOUNDATIONS"
     },
+
     // ===================================
-    // SPECULATIVE EXPERT GAME (TA) - CATEGORY HEADER
+    // SECTION 2: CONVERSATIONAL MANIPULATION PATTERNS
     // ===================================
+    {
+        "title": "CONVERSATIONAL MANIPULATION PATTERNS",
+        "points": [
+            "Recognizing sophisticated manipulation tactics disguised as normal conversation",
+            "Understanding how psychological games unfold in dialogue",
+            "Learning to identify when speculation becomes false expertise",
+            "Protecting yourself from conversational exploitation and control"
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-red",
+        "category": "CONVERSATIONAL MANIPULATION PATTERNS"
+    },
     {
         "title": "The Speculator's Gambit: Initial Ego States",
         "points": [
@@ -146,7 +171,7 @@ window.INTERPERSONAL_DYNAMICS = [
         ],
         "layout": "layout-centered",
         "theme": "theme-blue",
-        "category": "SPECULATIVE EXPERT GAME (TA)"
+        "category": "CONVERSATIONAL MANIPULATION PATTERNS"
     },
     {
         "title": "The Shift: Critical Parent Emerges",
@@ -157,7 +182,7 @@ window.INTERPERSONAL_DYNAMICS = [
         ],
         "layout": "layout-boxed",
         "theme": "theme-red",
-        "category": "SPECULATIVE EXPERT GAME (TA)"
+        "category": "CONVERSATIONAL MANIPULATION PATTERNS"
     },
     {
         "title": "Crossed Transaction: Communication Breakdown",
@@ -169,7 +194,7 @@ window.INTERPERSONAL_DYNAMICS = [
         ],
         "layout": "layout-split",
         "theme": "theme-purple",
-        "category": "SPECULATIVE EXPERT GAME (TA)"
+        "category": "CONVERSATIONAL MANIPULATION PATTERNS"
     },
     {
         "title": "The 'Why Don't You - Yes But' (WDY-YB) Setup",
@@ -180,7 +205,7 @@ window.INTERPERSONAL_DYNAMICS = [
         ],
         "layout": "layout-centered",
         "theme": "theme-green",
-        "category": "SPECULATIVE EXPERT GAME (TA)"
+        "category": "CONVERSATIONAL MANIPULATION PATTERNS"
     },
     {
         "title": "WDY-YB: The Rejection Barrage & Payoffs",
@@ -191,7 +216,7 @@ window.INTERPERSONAL_DYNAMICS = [
         ],
         "layout": "layout-boxed",
         "theme": "theme-sunset",
-        "category": "SPECULATIVE EXPERT GAME (TA)"
+        "category": "CONVERSATIONAL MANIPULATION PATTERNS"
     },
     {
         "title": "WDY-YB Variant: The 'Expert Reversal'",
@@ -203,267 +228,209 @@ window.INTERPERSONAL_DYNAMICS = [
         ],
         "layout": "layout-split",
         "theme": "theme-dark",
-        "category": "SPECULATIVE EXPERT GAME (TA)"
+        "category": "CONVERSATIONAL MANIPULATION PATTERNS"
     },
+
     // ===================================
-    // MANAGING THE CONVERSATION - CATEGORY HEADER
+    // SECTION 3: TRAUMA RESPONSES & RECOGNITION
     // ===================================
     {
-        "title": "Handling Unsolicited Advice",
+        "title": "TRAUMA RESPONSES & RECOGNITION",
         "points": [
-            "Challenge: Other person tells/advises without asking questions first.",
-            "Difficulty in modeling desired behavior if it's not reciprocated.",
-            "Goal: Manage the interaction respectfully, guide vs. confront."
+            "Understanding how trauma manifests in interpersonal communication",
+            "Recognizing the five trauma responses and their impact on relationships",
+            "Learning to identify trauma responses in yourself and others",
+            "Building compassion while maintaining healthy boundaries"
         ],
         "layout": "layout-centered",
-        "theme": "theme-blue",
-        "category": "MANAGING THE CONVERSATION"
+        "theme": "theme-red",
+        "category": "TRAUMA RESPONSES"
     },
     {
-        "title": "Tactic: Create a Pause & Redirect",
+        "title": "Understanding Trauma Responses",
         "points": [
-            "Use brief non-committal interjections early (Oh, Hmm, Okay).",
-            "Creates space for your response before they fully launch.",
-            "Acknowledge their input briefly, then pivot to your need.",
-            "Phrase: 'Thanks for that thought. Right now, I'm focused on [X].'"
+            "Instinctual reactions to perceived threats, rooted in survival mechanisms.",
+            "Can manifest in interpersonal dynamics, often unconsciously.",
+            "Recognizing these responses in oneself and others can improve understanding and communication.",
+            "These are not character flaws but adaptive strategies under stress."
         ],
-        "layout": "layout-split",
-        "theme": "theme-green",
-        "category": "MANAGING THE CONVERSATION"
+        "layout": "layout-centered",
+        "theme": "theme-red",
+        "category": "TRAUMA RESPONSES"
     },
     {
-        "title": "Tactic: State Your Current Need",
+        "title": "Trauma Response: FIGHT",
         "points": [
-            "If they jump to advice when you were just sharing/venting.",
-            "Gently clarify what you *were* looking for (or not looking for).",
-            "Phrase: 'I appreciate you thinking of solutions! I was just looking to vent.'"
+            "Characterized by aggression, confrontation, or a need to control.",
+            "Manifestations: Bullying, narcissistic tendencies, rage outbursts, blaming others.",
+            "Underlying driver: A perceived need to overpower the threat to feel safe.",
+            "Interpersonal impact: Can create conflict, intimidation, and push others away."
         ],
         "layout": "layout-boxed",
-        "theme": "theme-purple",
-        "category": "MANAGING THE CONVERSATION"
+        "theme": "theme-red",
+        "category": "TRAUMA RESPONSES"
     },
     {
-        "title": "Tactic: Ask Clarifying Qs (Subtle Modeling)",
+        "title": "Trauma Response: FLIGHT",
         "points": [
-            "Respond to their telling with a question about *their* understanding or timing.",
-            "Highlights they may lack full context before advising.",
-            "Phrase: 'What makes you say that *right now*, given [details]?'"
+            "Characterized by avoidance, escape, or constant busyness.",
+            "Manifestations: Distraction, perfectionism, addictive behaviors (work, substances, overeating), difficulty staying present.",
+            "Underlying driver: An urge to physically or mentally escape the perceived threat.",
+            "Interpersonal impact: Can lead to unreliability, emotional unavailability, or difficulty with commitment."
         ],
         "layout": "layout-split",
         "theme": "theme-sunset",
-        "category": "MANAGING THE CONVERSATION"
+        "category": "TRAUMA RESPONSES"
     },
     {
-        "title": "Tactic: Subtle Modeling (Question in Response)",
+        "title": "Trauma Response: FAWN",
         "points": [
-            "Since they don't ask first, model by asking a question *after* their telling.",
-            "Pull them into a more interactive mode.",
-            "Phrase: 'How do you see that advice applying in *my* specific situation?'"
+            "Characterized by appeasement, people-pleasing, and prioritizing others' needs over one's own.",
+            "Manifestations: Codependency, difficulty saying no, suppressing personal opinions, seeking approval.",
+            "Underlying driver: An attempt to pacify the threat by becoming agreeable or helpful.",
+            "Interpersonal impact: Can lead to resentment, loss of self, and attracting exploitative relationships."
         ],
         "layout": "layout-centered",
-        "theme": "theme-blue",
-        "category": "MANAGING THE CONVERSATION"
+        "theme": "theme-green",
+        "category": "TRAUMA RESPONSES"
     },
     {
-        "title": "Tactic: Direct Boundaries (Use with Care)",
+        "title": "Trauma Response: FREEZE",
         "points": [
-            "For persistent patterns in suitable relationships.",
-            "Gently but clearly state your preference.",
-            "Phrase: 'Sometimes when I share, I just need listening first before solutions.'"
+            "Characterized by shutdown, dissociation, or an inability to act.",
+            "Manifestations: Feeling numb, detached, difficulty making decisions, procrastination, feeling stuck.",
+            "Underlying driver: An instinct to become immobile or 'play dead' when escape or fight isn't possible.",
+            "Interpersonal impact: Can appear as disinterest, passivity, or being overwhelmed."
         ],
         "layout": "layout-boxed",
-        "theme": "theme-dark",
-        "category": "MANAGING THE CONVERSATION"
-    },
-    {
-        "title": "Managing Your Own Reaction",
-        "points": [
-            "It's frustrating when your style isn't mirrored.",
-            "Practice patience; habits are ingrained.",
-            "Focus on managing *this* interaction, not changing their personality.",
-            "Recognize their behavior isn't necessarily malicious."
-        ],
-        "layout": "layout-split",
-        "theme": "theme-green",
-        "category": "MANAGING THE CONVERSATION"
-    },
-    // ===================================
-    // EFFECTIVE LISTENING - CATEGORY HEADER
-    // ===================================
-    {
-        "title": "Active Listening Fundamentals",
-        "points": [
-            "Listen fully before responding, avoid interrupting.",
-            "Show engagement with nods and appropriate verbal cues.",
-            "Demonstrate presence by putting aside distractions.",
-            "Create space for others to complete their thoughts."
-        ],
-        "layout": "layout-boxed",
-        "theme": "theme-green",
-        "category": "EFFECTIVE LISTENING"
-    },
-    {
-        "title": "Asking Better Questions",
-        "points": [
-            "Use open-ended questions to deepen understanding.",
-            "Confirm comprehension with thoughtful clarifying questions.",
-            "Avoid assumptions about what someone means.",
-            "Use questions to guide rather than interrogate."
-        ],
-        "layout": "layout-split",
-        "theme": "theme-blue",
-        "category": "EFFECTIVE LISTENING"
-    },
-    {
-        "title": "Non-Verbal Communication",
-        "points": [
-            "Maintain appropriate eye contact to show engagement.",
-            "Use open body language to build trust and rapport.",
-            "Pay attention to others' facial expressions and gestures.",
-            "Notice signs of discomfort or misunderstanding."
-        ],
-        "layout": "layout-centered",
         "theme": "theme-purple",
-        "category": "EFFECTIVE LISTENING"
+        "category": "TRAUMA RESPONSES"
     },
     {
-        "title": "Speaking with Clarity",
+        "title": "Trauma Response: FLOP",
         "points": [
-            "Use simple, direct language that everyone can understand.",
-            "Avoid unnecessary jargon and technical terms.",
-            "Be concise - make your point without rambling.",
-            "Structure your thoughts before speaking."
-        ],
-        "layout": "layout-boxed",
-        "theme": "theme-sunset",
-        "category": "EFFECTIVE LISTENING"
-    },
-    {
-        "title": "Mindful Communication",
-        "points": [
-            "Choose words carefully considering their impact.",
-            "Speak with a calm, respectful tone in all situations.",
-            "Take time to think before replying to heated topics.",
-            "Avoid reactive or emotionally charged responses."
+            "Characterized by a sudden loss of energy, going limp, or even fainting in extreme cases.",
+            "Manifestations: Physical collapse, sudden inability to move or speak, feeling like a 'rag doll'.",
+            "Underlying driver: An extreme physiological response when other defenses are overwhelmed; a state of complete surrender.",
+            "Interpersonal impact: Can be alarming and misunderstood; often requires immediate support."
         ],
         "layout": "layout-split",
         "theme": "theme-dark",
-        "category": "EFFECTIVE LISTENING"
+        "category": "TRAUMA RESPONSES"
     },
+
+    // ===================================
+    // SECTION 4: TRAUMA RESPONSE PROTECTION
+    // ===================================
     {
-        "title": "Adapting to Others",
+        "title": "TRAUMA RESPONSE PROTECTION",
         "points": [
-            "Tailor your communication style to suit different listeners.",
-            "Recognize when to adjust pace, tone, or vocabulary.",
-            "Read the room and adapt to the emotional climate.",
-            "Meet people where they are, not where you want them to be."
+            "Strategies for protecting yourself from trauma response exploitation",
+            "Building awareness and early warning systems for your triggers",
+            "Developing grounding techniques and healthy boundaries",
+            "Creating space between stimulus and response to regain control"
         ],
         "layout": "layout-centered",
         "theme": "theme-green",
-        "category": "EFFECTIVE LISTENING"
+        "category": "TRAUMA RESPONSE PROTECTION"
     },
     {
-        "title": "Respectful Disagreement",
+        "title": "Protecting Your Trauma Responses",
         "points": [
-            "Express differing opinions calmly and professionally.",
-            "Stay open to perspectives different from your own.",
-            "Focus on understanding rather than winning.",
-            "Acknowledge valid points even when you disagree overall."
-        ],
-        "layout": "layout-boxed",
-        "theme": "theme-blue",
-        "category": "EFFECTIVE LISTENING"
-    },
-    {
-        "title": "Effective Conversation Closure",
-        "points": [
-            "Summarize key points and shared understanding.",
-            "Clarify any decisions or next steps.",
-            "Confirm mutual understanding before concluding.",
-            "Follow up on important conversations appropriately."
-        ],
-        "layout": "layout-split",
-        "theme": "theme-purple",
-        "category": "EFFECTIVE LISTENING"
-    },
-    // ===================================
-    // NON-VERBAL COMMUNICATION - CATEGORY HEADER
-    // ===================================
-    {
-        "title": "Mastering Facial Expressions",
-        "points": [
-            "Show subtle expressions to convey engagement.",
-            "Mirror the other person's expressions to build rapport.",
-            "Avoid exaggerated expressions; they feel fake.",
-            "Don't keep a blank face; it seems uninterested."
+            "Awareness is key: Knowing your typical trauma responses and triggers is the first defense.",
+            "Exploitation often involves manipulators subtly (or overtly) triggering these responses for their gain.",
+            "These strategies aim to help you regain control and reduce vulnerability."
         ],
         "layout": "layout-centered",
-        "theme": "theme-sunset",
-        "category": "NON-VERBAL COMMUNICATION"
+        "theme": "theme-green",
+        "category": "TRAUMA RESPONSE PROTECTION"
     },
     {
-        "title": "Using Tone and Voice Effectively",
+        "title": "Defense: Cultivate Self-Awareness",
         "points": [
-            "Keep a warm, steady tone to make others feel at ease.",
-            "Vary your tone slightly to match the message's mood.",
-            "Avoid speaking in a monotone; it sounds dull.",
-            "Don't use a harsh tone; it can seem aggressive."
+            "Identify Your Triggers: What situations, words, tones, or people tend to activate your trauma responses?",
+            "Recognize Early Warning Signs: Learn the subtle physical and emotional cues that indicate a response is starting (e.g., heart racing, urge to flee, shutting down).",
+            "Journaling or reflection can help uncover patterns."
         ],
         "layout": "layout-boxed",
         "theme": "theme-blue",
-        "category": "NON-VERBAL COMMUNICATION"
+        "category": "TRAUMA RESPONSE PROTECTION"
     },
     {
-        "title": "Hand Gestures for Connection",
+        "title": "Defense: Create Space - The Pause",
         "points": [
-            "Keep hands visible and use open gestures to build trust.",
-            "Make calm, purposeful movements to emphasize naturally.",
-            "Avoid hiding your hands; it seems guarded.",
-            "Don't overuse gestures; it distracts from your message."
+            "When you feel a trauma response activating, consciously pause before reacting.",
+            "This interrupts the instinctual, automatic nature of the response.",
+            "Take a few deep breaths. This signals safety to your nervous system.",
+            "Even a few seconds of pause can allow your thinking brain to come back online."
         ],
         "layout": "layout-split",
         "theme": "theme-green",
-        "category": "NON-VERBAL COMMUNICATION"
+        "category": "TRAUMA RESPONSE PROTECTION"
     },
     {
-        "title": "Respecting Personal Space",
+        "title": "Defense: Grounding Techniques",
         "points": [
-            "Keep a comfortable distance, about an arm's length.",
-            "Lean in slightly to show interest.",
-            "Don't stand too close; it feels intrusive.",
-            "Avoid backing away too far; it seems disengaged."
+            "Bring yourself back to the present moment to counter dissociation (Freeze/Flop) or overwhelming emotion (Fight/Flight/Fawn).",
+            "5-4-3-2-1 Method: Name 5 things you see, 4 you can touch, 3 you hear, 2 you smell, 1 you taste.",
+            "Focus on your feet on the floor, the feeling of your chair.",
+            "These techniques help regulate your nervous system."
         ],
         "layout": "layout-centered",
-        "theme": "theme-dark",
-        "category": "NON-VERBAL COMMUNICATION"
+        "theme": "theme-purple",
+        "category": "TRAUMA RESPONSE PROTECTION"
     },
     {
-        "title": "Projecting Confidence with Posture",
+        "title": "Defense: Strategic Disengagement & Boundaries",
         "points": [
-            "Stand or sit tall to convey confidence.",
-            "Keep arms open or at your sides to look approachable.",
-            "Don't slouch or cross arms; it appears closed-off.",
-            "Avoid fidgeting or shifting too much; it seems unprepared."
+            "It's okay to remove yourself from a situation or conversation that feels exploitative or overwhelmingly triggering.",
+            "Set clear boundaries: 'I am not going to discuss this when I feel [activated/attacked].'",
+            "Limit contact with individuals who consistently exploit your vulnerabilities.",
+            "This is self-protection, not avoidance, when done consciously."
         ],
         "layout": "layout-boxed",
-        "theme": "theme-purple",
-        "category": "NON-VERBAL COMMUNICATION"
+        "theme": "theme-sunset",
+        "category": "TRAUMA RESPONSE PROTECTION"
     },
     {
-        "title": "Active Listening Body Language",
+        "title": "Defense: Reality Testing & Seeking Perspective",
         "points": [
-            "Hold eye contact and nod occasionally to show focus.",
-            "Pause briefly before responding to show thoughtfulness.",
-            "Don't look distracted or check your phone; it shows disinterest.",
-            "Avoid interrupting or nodding excessively; it feels insincere."
+            "If a situation feels off or you suspect manipulation, try to get an outside perspective from a trusted friend or therapist.",
+            "Ask yourself: 'Is this person's reaction proportionate? Is there a pattern here?'",
+            "Challenge Fawn responses: 'Am I agreeing to this because I genuinely want to, or because I feel pressured/scared?'"
         ],
         "layout": "layout-split",
-        "theme": "theme-sunset",
-        "category": "NON-VERBAL COMMUNICATION"
+        "theme": "theme-blue",
+        "category": "TRAUMA RESPONSE PROTECTION"
     },
+    {
+        "title": "Defense: Self-Compassion & Professional Support",
+        "points": [
+            "Understand that trauma responses are not your fault; they are survival mechanisms.",
+            "Be kind to yourself as you learn to navigate these challenges.",
+            "Consider therapy (especially trauma-informed therapy) to heal underlying wounds and develop more adaptive coping strategies.",
+            "Healing reduces the intensity and frequency of trauma responses."
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-green",
+        "category": "TRAUMA RESPONSE PROTECTION"
+    },
+
     // ===================================
-    // EMOTIONAL REGULATION - CATEGORY HEADER
+    // SECTION 5: EMOTIONAL REGULATION & EMPATHIC SHIELDING
     // ===================================
+    {
+        "title": "EMOTIONAL REGULATION & EMPATHIC SHIELDING",
+        "points": [
+            "Frameworks for managing your emotional responses to challenging interactions",
+            "Techniques for protecting yourself from absorbing others' emotions",
+            "Building resilience while maintaining empathy and connection",
+            "The SHIELD method for thoughtful response rather than reactive behavior"
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-blue",
+        "category": "EMOTIONAL REGULATION"
+    },
     {
         "title": "Intro: The SHIELD Method",
         "points": [
@@ -546,9 +513,6 @@ window.INTERPERSONAL_DYNAMICS = [
         "theme": "theme-blue",
         "category": "EMOTIONAL REGULATION"
     },
-    // ===================================
-    // EMPATHIC SHIELDING TECHNIQUES - CATEGORY HEADER
-    // ===================================
     {
         "title": "Self-Awareness & Differentiation",
         "points": [
@@ -558,7 +522,7 @@ window.INTERPERSONAL_DYNAMICS = [
         ],
         "layout": "layout-boxed",
         "theme": "theme-green",
-        "category": "EMPATHIC SHIELDING"
+        "category": "EMOTIONAL REGULATION"
     },
     {
         "title": "The \"Invisible Wall\"",
@@ -569,7 +533,7 @@ window.INTERPERSONAL_DYNAMICS = [
         ],
         "layout": "layout-split",
         "theme": "theme-purple",
-        "category": "EMPATHIC SHIELDING"
+        "category": "EMOTIONAL REGULATION"
     },
     {
         "title": "\"Emotional Unplugging\" (Detachment Techniques)",
@@ -580,7 +544,7 @@ window.INTERPERSONAL_DYNAMICS = [
         ],
         "layout": "layout-centered",
         "theme": "theme-sunset",
-        "category": "EMPATHIC SHIELDING"
+        "category": "EMOTIONAL REGULATION"
     },
     {
         "title": "The \"Sapolsky Sanction\" Jutsu (Reframing Empathy)",
@@ -590,7 +554,7 @@ window.INTERPERSONAL_DYNAMICS = [
         ],
         "layout": "layout-boxed",
         "theme": "theme-blue",
-        "category": "EMPATHIC SHIELDING"
+        "category": "EMOTIONAL REGULATION"
     },
     {
         "title": "The \"Boundary Setting\" Jutsu (Assertive Communication)",
@@ -601,7 +565,7 @@ window.INTERPERSONAL_DYNAMICS = [
         ],
         "layout": "layout-split",
         "theme": "theme-dark",
-        "category": "EMPATHIC SHIELDING"
+        "category": "EMOTIONAL REGULATION"
     },
     {
         "title": "Training Your Empathic Shielding Jutsu",
@@ -612,441 +576,286 @@ window.INTERPERSONAL_DYNAMICS = [
         ],
         "layout": "layout-centered",
         "theme": "theme-green",
-        "category": "EMPATHIC SHIELDING"
+        "category": "EMOTIONAL REGULATION"
     },
-    {
-        "title": "SHIELD: D - Decide",
-        "points": [
-            "D - Decide: Choose your response with intention, guided by thought rather than raw emotion.",
-            "Determine how to proceed in a manner that aligns with your core values and principles.",
-            "This is your empowered choice, informed by the SHIELD process."
-        ],
-        "layout": "layout-centered",
-        "theme": "theme-blue",
-        "category": "EMPATHIC SHIELDING"
-    },
+
     // ===================================
-    // TRAUMA RESPONSES - CATEGORY HEADER
+    // SECTION 6: FOUNDATIONAL COMMUNICATION SKILLS
     // ===================================
     {
-        "title": "Understanding Trauma Responses",
+        "title": "FOUNDATIONAL COMMUNICATION SKILLS",
         "points": [
-            "Instinctual reactions to perceived threats, rooted in survival mechanisms.",
-            "Can manifest in interpersonal dynamics, often unconsciously.",
-            "Recognizing these responses in oneself and others can improve understanding and communication.",
-            "These are not character flaws but adaptive strategies under stress."
-        ],
-        "layout": "layout-centered",
-        "theme": "theme-red",
-        "category": "TRAUMA RESPONSES"
-    },
-    {
-        "title": "Trauma Response: FIGHT",
-        "points": [
-            "Characterized by aggression, confrontation, or a need to control.",
-            "Manifestations: Bullying, narcissistic tendencies, rage outbursts, blaming others.",
-            "Underlying driver: A perceived need to overpower the threat to feel safe.",
-            "Interpersonal impact: Can create conflict, intimidation, and push others away."
-        ],
-        "layout": "layout-boxed",
-        "theme": "theme-red",
-        "category": "TRAUMA RESPONSES"
-    },
-    {
-        "title": "Trauma Response: FLIGHT",
-        "points": [
-            "Characterized by avoidance, escape, or constant busyness.",
-            "Manifestations: Distraction, perfectionism, addictive behaviors (work, substances, overeating), difficulty staying present.",
-            "Underlying driver: An urge to physically or mentally escape the perceived threat.",
-            "Interpersonal impact: Can lead to unreliability, emotional unavailability, or difficulty with commitment."
-        ],
-        "layout": "layout-split",
-        "theme": "theme-sunset",
-        "category": "TRAUMA RESPONSES"
-    },
-    {
-        "title": "Trauma Response: FAWN",
-        "points": [
-            "Characterized by appeasement, people-pleasing, and prioritizing others' needs over one's own.",
-            "Manifestations: Codependency, difficulty saying no, suppressing personal opinions, seeking approval.",
-            "Underlying driver: An attempt to pacify the threat by becoming agreeable or helpful.",
-            "Interpersonal impact: Can lead to resentment, loss of self, and attracting exploitative relationships."
+            "Core skills for effective interpersonal communication",
+            "Active listening, clear expression, and mindful interaction",
+            "Non-verbal communication and adapting to different communication styles",
+            "Building rapport while maintaining authenticity and boundaries"
         ],
         "layout": "layout-centered",
         "theme": "theme-green",
-        "category": "TRAUMA RESPONSES"
+        "category": "FOUNDATIONAL COMMUNICATION SKILLS"
     },
     {
-        "title": "Trauma Response: FREEZE",
+        "title": "Active Listening Fundamentals",
         "points": [
-            "Characterized by shutdown, dissociation, or an inability to act.",
-            "Manifestations: Feeling numb, detached, difficulty making decisions, procrastination, feeling stuck.",
-            "Underlying driver: An instinct to become immobile or 'play dead' when escape or fight isn't possible.",
-            "Interpersonal impact: Can appear as disinterest, passivity, or being overwhelmed."
+            "Listen fully before responding, avoid interrupting.",
+            "Show engagement with nods and appropriate verbal cues.",
+            "Demonstrate presence by putting aside distractions.",
+            "Create space for others to complete their thoughts."
         ],
         "layout": "layout-boxed",
-        "theme": "theme-purple",
-        "category": "TRAUMA RESPONSES"
+        "theme": "theme-green",
+        "category": "FOUNDATIONAL COMMUNICATION SKILLS"
     },
     {
-        "title": "Trauma Response: FLOP",
+        "title": "Asking Better Questions",
         "points": [
-            "Characterized by a sudden loss of energy, going limp, or even fainting in extreme cases.",
-            "Manifestations: Physical collapse, sudden inability to move or speak, feeling like a 'rag doll'.",
-            "Underlying driver: An extreme physiological response when other defenses are overwhelmed; a state of complete surrender.",
-            "Interpersonal impact: Can be alarming and misunderstood; often requires immediate support."
+            "Use open-ended questions to deepen understanding.",
+            "Confirm comprehension with thoughtful clarifying questions.",
+            "Avoid assumptions about what someone means.",
+            "Use questions to guide rather than interrogate."
+        ],
+        "layout": "layout-split",
+        "theme": "theme-blue",
+        "category": "FOUNDATIONAL COMMUNICATION SKILLS"
+    },
+    {
+        "title": "Speaking with Clarity",
+        "points": [
+            "Use simple, direct language that everyone can understand.",
+            "Avoid unnecessary jargon and technical terms.",
+            "Be concise - make your point without rambling.",
+            "Structure your thoughts before speaking."
+        ],
+        "layout": "layout-boxed",
+        "theme": "theme-sunset",
+        "category": "FOUNDATIONAL COMMUNICATION SKILLS"
+    },
+    {
+        "title": "Mindful Communication",
+        "points": [
+            "Choose words carefully considering their impact.",
+            "Speak with a calm, respectful tone in all situations.",
+            "Take time to think before replying to heated topics.",
+            "Avoid reactive or emotionally charged responses."
         ],
         "layout": "layout-split",
         "theme": "theme-dark",
-        "category": "TRAUMA RESPONSES"
+        "category": "FOUNDATIONAL COMMUNICATION SKILLS"
     },
-    // =================================================================
-    // DEFENDING AGAINST TRAUMA RESPONSE EXPLOITATION - CATEGORY HEADER
-    // =================================================================
     {
-        "title": "Protecting Your Trauma Responses",
+        "title": "Adapting to Others",
         "points": [
-            "Awareness is key: Knowing your typical trauma responses and triggers is the first defense.",
-            "Exploitation often involves manipulators subtly (or overtly) triggering these responses for their gain.",
-            "These strategies aim to help you regain control and reduce vulnerability."
+            "Tailor your communication style to suit different listeners.",
+            "Recognize when to adjust pace, tone, or vocabulary.",
+            "Read the room and adapt to the emotional climate.",
+            "Meet people where they are, not where you want them to be."
         ],
         "layout": "layout-centered",
         "theme": "theme-green",
-        "category": "DEFENDING AGAINST TRAUMA RESPONSE EXPLOITATION"
+        "category": "FOUNDATIONAL COMMUNICATION SKILLS"
     },
     {
-        "title": "Defense: Cultivate Self-Awareness",
+        "title": "Respectful Disagreement",
         "points": [
-            "Identify Your Triggers: What situations, words, tones, or people tend to activate your trauma responses?",
-            "Recognize Early Warning Signs: Learn the subtle physical and emotional cues that indicate a response is starting (e.g., heart racing, urge to flee, shutting down).",
-            "Journaling or reflection can help uncover patterns."
+            "Express differing opinions calmly and professionally.",
+            "Stay open to perspectives different from your own.",
+            "Focus on understanding rather than winning.",
+            "Acknowledge valid points even when you disagree overall."
         ],
         "layout": "layout-boxed",
         "theme": "theme-blue",
-        "category": "DEFENDING AGAINST TRAUMA RESPONSE EXPLOITATION"
+        "category": "FOUNDATIONAL COMMUNICATION SKILLS"
     },
     {
-        "title": "Defense: Create Space - The Pause",
+        "title": "Effective Conversation Closure",
         "points": [
-            "When you feel a trauma response activating, consciously pause before reacting.",
-            "This interrupts the instinctual, automatic nature of the response.",
-            "Take a few deep breaths. This signals safety to your nervous system.",
-            "Even a few seconds of pause can allow your thinking brain to come back online."
+            "Summarize key points and shared understanding.",
+            "Clarify any decisions or next steps.",
+            "Confirm mutual understanding before concluding.",
+            "Follow up on important conversations appropriately."
         ],
         "layout": "layout-split",
-        "theme": "theme-green",
-        "category": "DEFENDING AGAINST TRAUMA RESPONSE EXPLOITATION"
+        "theme": "theme-purple",
+        "category": "FOUNDATIONAL COMMUNICATION SKILLS"
     },
     {
-        "title": "Defense: Grounding Techniques",
+        "title": "Non-Verbal Communication",
         "points": [
-            "Bring yourself back to the present moment to counter dissociation (Freeze/Flop) or overwhelming emotion (Fight/Flight/Fawn).",
-            "5-4-3-2-1 Method: Name 5 things you see, 4 you can touch, 3 you hear, 2 you smell, 1 you taste.",
-            "Focus on your feet on the floor, the feeling of your chair.",
-            "These techniques help regulate your nervous system."
+            "Maintain appropriate eye contact to show engagement.",
+            "Use open body language to build trust and rapport.",
+            "Pay attention to others' facial expressions and gestures.",
+            "Notice signs of discomfort or misunderstanding."
         ],
         "layout": "layout-centered",
         "theme": "theme-purple",
-        "category": "DEFENDING AGAINST TRAUMA RESPONSE EXPLOITATION"
+        "category": "FOUNDATIONAL COMMUNICATION SKILLS"
     },
     {
-        "title": "Defense: Strategic Disengagement & Boundaries",
+        "title": "Mastering Facial Expressions",
         "points": [
-            "It's okay to remove yourself from a situation or conversation that feels exploitative or overwhelmingly triggering.",
-            "Set clear boundaries: 'I am not going to discuss this when I feel [activated/attacked].'",
-            "Limit contact with individuals who consistently exploit your vulnerabilities.",
-            "This is self-protection, not avoidance, when done consciously."
+            "Show subtle expressions to convey engagement.",
+            "Mirror the other person's expressions to build rapport.",
+            "Avoid exaggerated expressions; they feel fake.",
+            "Don't keep a blank face; it seems uninterested."
         ],
-        "layout": "layout-boxed",
+        "layout": "layout-centered",
         "theme": "theme-sunset",
-        "category": "DEFENDING AGAINST TRAUMA RESPONSE EXPLOITATION"
+        "category": "FOUNDATIONAL COMMUNICATION SKILLS"
     },
     {
-        "title": "Defense: Reality Testing & Seeking Perspective",
+        "title": "Using Tone and Voice Effectively",
         "points": [
-            "If a situation feels off or you suspect manipulation, try to get an outside perspective from a trusted friend or therapist.",
-            "Ask yourself: 'Is this person's reaction proportionate? Is there a pattern here?'",
-            "Challenge Fawn responses: 'Am I agreeing to this because I genuinely want to, or because I feel pressured/scared?'"
-        ],
-        "layout": "layout-split",
-        "theme": "theme-blue",
-        "category": "DEFENDING AGAINST TRAUMA RESPONSE EXPLOITATION"
-    },
-    {
-        "title": "Defense: Self-Compassion & Professional Support",
-        "points": [
-            "Understand that trauma responses are not your fault; they are survival mechanisms.",
-            "Be kind to yourself as you learn to navigate these challenges.",
-            "Consider therapy (especially trauma-informed therapy) to heal underlying wounds and develop more adaptive coping strategies.",
-            "Healing reduces the intensity and frequency of trauma responses."
-        ],
-        "layout": "layout-centered",
-        "theme": "theme-green",
-        "category": "DEFENDING AGAINST TRAUMA RESPONSE EXPLOITATION"
-    },
-    // ===================================
-    // DE-ESCALATION SKILLS - CATEGORY HEADER
-    // ===================================
-    {
-        "title": "DE-ESCALATION SKILLS",
-        "points": [
-            "Techniques to reduce tension and prevent conflict escalation",
-            "Approach situations with calm, clarity, and compassion",
-            "Build safety through strategic communication",
-            "Effective in both digital and in-person environments"
-        ],
-        "layout": "layout-centered",
-        "theme": "theme-blue",
-        "category": "DE-ESCALATION SKILLS"
-    },
-    {
-        "title": "De-escalation: The CALM Approach",
-        "points": [
-            "C - Create physical and emotional safety (speak softly, maintain distance)",
-            "A - Active listening without interruption or judgment",
-            "L - Lower the emotional temperature with your tone and body language",
-            "M - Manage your own reactions first (regulate before engaging)"
+            "Keep a warm, steady tone to make others feel at ease.",
+            "Vary your tone slightly to match the message's mood.",
+            "Avoid speaking in a monotone; it sounds dull.",
+            "Don't use a harsh tone; it can seem aggressive."
         ],
         "layout": "layout-boxed",
         "theme": "theme-blue",
-        "category": "DE-ESCALATION SKILLS"
+        "category": "FOUNDATIONAL COMMUNICATION SKILLS"
     },
     {
-        "title": "De-escalation: Strategic Language",
+        "title": "Hand Gestures for Connection",
         "points": [
-            "Use 'we' language to foster collaboration: 'How can we resolve this?'",
-            "Avoid accusatory language and 'you' statements that trigger defensiveness",
-            "Offer choices to restore a sense of control: 'Would you prefer to discuss this here or somewhere quieter?'",
-            "Use validation without necessarily agreeing: 'I understand this is important to you'"
-        ],
-        "layout": "layout-split",
-        "theme": "theme-blue",
-        "category": "DE-ESCALATION SKILLS"
-    },
-    {
-        "title": "De-escalation: Redirection Techniques",
-        "points": [
-            "Introduce relevant but less charged aspects of the topic to shift focus",
-            "Ask clarifying questions to move from emotional reactions to specific issues",
-            "Acknowledge emotions while guiding toward constructive expression",
-            "Create 'time buffers' to allow for cooling down when needed"
-        ],
-        "layout": "layout-centered",
-        "theme": "theme-green",
-        "category": "DE-ESCALATION SKILLS"
-    },
-    {
-        "title": "De-escalation: Online Environments",
-        "points": [
-            "Avoid public confrontations; move heated exchanges to private channels",
-            "Use the 'pause and reflect' method before responding to provocative content",
-            "Set clear interaction boundaries and enforce them consistently",
-            "Document concerning patterns while maintaining focus on de-escalation"
-        ],
-        "layout": "layout-boxed",
-        "theme": "theme-purple",
-        "category": "DE-ESCALATION SKILLS"
-    },
-    {
-        "title": "De-escalation: When to Step Back",
-        "points": [
-            "Recognize warning signs that a situation may become unsafe or unproductive",
-            "Have exit strategies prepared for both digital and physical environments",
-            "Know when professional intervention (moderators, security, mental health services) is needed",
-            "Prioritize safety over resolution when tensions are too high"
-        ],
-        "layout": "layout-split",
-        "theme": "theme-sunset",
-        "category": "DE-ESCALATION SKILLS"
-    },
-    // ===================================
-    // INFORMATION FIRST RESPONDER COMMUNICATION - CATEGORY HEADER
-    // ===================================
-    {
-        "title": "INFORMATION FIRST RESPONDER COMMUNICATION",
-        "points": [
-            "Strategic public communication during information crises",
-            "Balancing clarity, accuracy, and community well-being",
-            "Countering misinformation while building resilience",
-            "Serving as a trusted node in community information networks"
-        ],
-        "layout": "layout-centered",
-        "theme": "theme-green",
-        "category": "INFORMATION FIRST RESPONDER COMMUNICATION"
-    },
-    {
-        "title": "Public Statements: Core Principles",
-        "points": [
-            "Lead with verified facts, clearly separated from analysis or opinion",
-            "Address the emotional impact of events alongside factual information",
-            "Maintain appropriate transparency about what is known, unknown, and uncertain",
-            "Frame information to promote understanding without inadvertently amplifying harmful narratives"
-        ],
-        "layout": "layout-boxed",
-        "theme": "theme-green",
-        "category": "INFORMATION FIRST RESPONDER COMMUNICATION"
-    },
-    {
-        "title": "Public Statements: Structure",
-        "points": [
-            "Begin with the most important, verified information (inverted pyramid structure)",
-            "Include necessary context that might otherwise be missing",
-            "Clearly attribute sources and explain why they're reliable",
-            "Close with practical guidance, resources, or actionable steps when appropriate"
-        ],
-        "layout": "layout-split",
-        "theme": "theme-blue",
-        "category": "INFORMATION FIRST RESPONDER COMMUNICATION"
-    },
-    {
-        "title": "Public Statements: Language Choices",
-        "points": [
-            "Use clear, accessible language that avoids unnecessary jargon",
-            "Prioritize precision over sensationalism or emotional appeal",
-            "Consider how statements might be misinterpreted or taken out of context",
-            "Balance neutrality with appropriate expression of community values"
-        ],
-        "layout": "layout-centered",
-        "theme": "theme-purple",
-        "category": "INFORMATION FIRST RESPONDER COMMUNICATION"
-    },
-    {
-        "title": "Crisis Communication: Addressing Misinformation",
-        "points": [
-            "Lead with the truth rather than repeating the falsehood (avoid the 'illusory truth effect')",
-            "Explain how misinformation spreads without amplifying specific false narratives",
-            "Focus on empowering audiences with media literacy skills relevant to the situation",
-            "Acknowledge legitimate concerns that may underlie the spread of misinformation"
-        ],
-        "layout": "layout-boxed",
-        "theme": "theme-sunset",
-        "category": "INFORMATION FIRST RESPONDER COMMUNICATION"
-    },
-    {
-        "title": "Building Digital Community Resilience",
-        "points": [
-            "Foster regular communication channels that function before crises emerge",
-            "Develop 'early warning systems' for detecting misinformation in your community",
-            "Create templates and protocols for rapid, accurate response to information incidents",
-            "Build relationships with other trusted information nodes and subject matter experts"
+            "Keep hands visible and use open gestures to build trust.",
+            "Make calm, purposeful movements to emphasize naturally.",
+            "Avoid hiding your hands; it seems guarded.",
+            "Don't overuse gestures; it distracts from your message."
         ],
         "layout": "layout-split",
         "theme": "theme-green",
-        "category": "INFORMATION FIRST RESPONDER COMMUNICATION"
+        "category": "FOUNDATIONAL COMMUNICATION SKILLS"
     },
     {
-        "title": "Ethical Considerations for Information Responders",
+        "title": "Respecting Personal Space",
         "points": [
-            "Balance obligation to inform with potential harms of specific information",
-            "Consider impacts on vulnerable populations in your communication choices",
-            "Recognize the limits of your expertise and when to defer to specialists",
-            "Maintain independence from political, commercial, or personal interests"
+            "Keep a comfortable distance, about an arm's length.",
+            "Lean in slightly to show interest.",
+            "Don't stand too close; it feels intrusive.",
+            "Avoid backing away too far; it seems disengaged."
         ],
         "layout": "layout-centered",
         "theme": "theme-dark",
-        "category": "INFORMATION FIRST RESPONDER COMMUNICATION"
-    },
-    // ===================================
-    // PEER MEDIATION - CATEGORY HEADER
-    // ===================================
-    {
-        "title": "PEER MEDIATION",
-        "points": [
-            "Facilitating constructive dialogue between conflicting parties",
-            "Creating space for understanding and resolution",
-            "Maintaining neutrality while guiding toward clarity",
-            "Building community capacity for healthy conflict engagement"
-        ],
-        "layout": "layout-centered",
-        "theme": "theme-purple",
-        "category": "PEER MEDIATION"
+        "category": "FOUNDATIONAL COMMUNICATION SKILLS"
     },
     {
-        "title": "Peer Mediation: Setting the Stage",
+        "title": "Projecting Confidence with Posture",
         "points": [
-            "Establish ground rules that all parties agree to follow",
-            "Create a physically and emotionally safe environment for discussion",
-            "Clarify your role as facilitator, not judge or problem-solver",
-            "Set realistic expectations about the process and possible outcomes"
+            "Stand or sit tall to convey confidence.",
+            "Keep arms open or at your sides to look approachable.",
+            "Don't slouch or cross arms; it appears closed-off.",
+            "Avoid fidgeting or shifting too much; it seems unprepared."
         ],
         "layout": "layout-boxed",
         "theme": "theme-purple",
-        "category": "PEER MEDIATION"
+        "category": "FOUNDATIONAL COMMUNICATION SKILLS"
     },
     {
-        "title": "Peer Mediation: The HEAR Process",
+        "title": "Active Listening Body Language",
         "points": [
-            "H - Help each party express their perspective fully",
-            "E - Ensure mutual understanding through reflective listening",
-            "A - Acknowledge emotions while focusing on interests behind positions",
-            "R - Reach for solutions that address core needs of all parties"
+            "Hold eye contact and nod occasionally to show focus.",
+            "Pause briefly before responding to show thoughtfulness.",
+            "Don't look distracted or check your phone; it shows disinterest.",
+            "Avoid interrupting or nodding excessively; it feels insincere."
         ],
         "layout": "layout-split",
+        "theme": "theme-sunset",
+        "category": "FOUNDATIONAL COMMUNICATION SKILLS"
+    },
+
+    // ===================================
+    // SECTION 7: CHALLENGING COMMUNICATION SCENARIOS
+    // ===================================
+    {
+        "title": "CHALLENGING COMMUNICATION SCENARIOS",
+        "points": [
+            "Strategies for navigating difficult conversations and problematic patterns",
+            "Managing unsolicited advice, excessive talking, and conversational boundaries",
+            "Adapting communication for neurodivergent interactions",
+            "Protecting your energy while remaining compassionate and engaged"
+        ],
+        "layout": "layout-centered",
         "theme": "theme-purple",
-        "category": "PEER MEDIATION"
+        "category": "CHALLENGING COMMUNICATION SCENARIOS"
     },
     {
-        "title": "Peer Mediation: Facilitation Techniques",
+        "title": "Handling Unsolicited Advice",
         "points": [
-            "Reframe inflammatory statements into neutral language",
-            "Identify common ground and shared interests when they emerge",
-            "Use 'I noticed' statements to address problematic communication patterns",
-            "Balance speaking time and ensure all voices are heard"
+            "Challenge: Other person tells/advises without asking questions first.",
+            "Difficulty in modeling desired behavior if it's not reciprocated.",
+            "Goal: Manage the interaction respectfully, guide vs. confront."
         ],
         "layout": "layout-centered",
         "theme": "theme-blue",
-        "category": "PEER MEDIATION"
+        "category": "CHALLENGING COMMUNICATION SCENARIOS"
     },
     {
-        "title": "Peer Mediation: Navigating Impasse",
+        "title": "Tactic: Create a Pause & Redirect",
         "points": [
-            "Acknowledge when parties have reached a sticking point",
-            "Explore underlying needs and interests that might offer new paths forward",
-            "Consider taking a break to allow for reflection and cooling off",
-            "Sometimes, agreeing on a process to continue dialogue is itself a success"
-        ],
-        "layout": "layout-boxed",
-        "theme": "theme-sunset",
-        "category": "PEER MEDIATION"
-    },
-    {
-        "title": "Peer Mediation: Building Agreement",
-        "points": [
-            "Focus on specific, actionable solutions that address core issues",
-            "Test potential agreements: 'How would this work in practice?'",
-            "Document agreements in clear, concrete language",
-            "Include follow-up mechanisms to review progress and adjust if needed"
+            "Use brief non-committal interjections early (Oh, Hmm, Okay).",
+            "Creates space for your response before they fully launch.",
+            "Acknowledge their input briefly, then pivot to your need.",
+            "Phrase: 'Thanks for that thought. Right now, I'm focused on [X].'"
         ],
         "layout": "layout-split",
         "theme": "theme-green",
-        "category": "PEER MEDIATION"
+        "category": "CHALLENGING COMMUNICATION SCENARIOS"
     },
     {
-        "title": "Peer Mediation: Information Disputes",
+        "title": "Tactic: State Your Current Need",
         "points": [
-            "Establish shared criteria for evaluating information (e.g., source credibility, evidence standards)",
-            "Separate factual disagreements from differences in values or interpretation",
-            "Guide participants toward reliable information sources they both trust",
-            "Focus on building information literacy rather than 'winning' factual arguments"
+            "If they jump to advice when you were just sharing/venting.",
+            "Gently clarify what you *were* looking for (or not looking for).",
+            "Phrase: 'I appreciate you thinking of solutions! I was just looking to vent.'"
+        ],
+        "layout": "layout-boxed",
+        "theme": "theme-purple",
+        "category": "CHALLENGING COMMUNICATION SCENARIOS"
+    },
+    {
+        "title": "Tactic: Ask Clarifying Qs (Subtle Modeling)",
+        "points": [
+            "Respond to their telling with a question about *their* understanding or timing.",
+            "Highlights they may lack full context before advising.",
+            "Phrase: 'What makes you say that *right now*, given [details]?'"
+        ],
+        "layout": "layout-split",
+        "theme": "theme-sunset",
+        "category": "CHALLENGING COMMUNICATION SCENARIOS"
+    },
+    {
+        "title": "Tactic: Subtle Modeling (Question in Response)",
+        "points": [
+            "Since they don't ask first, model by asking a question *after* their telling.",
+            "Pull them into a more interactive mode.",
+            "Phrase: 'How do you see that advice applying in *my* specific situation?'"
         ],
         "layout": "layout-centered",
         "theme": "theme-blue",
-        "category": "PEER MEDIATION"
+        "category": "CHALLENGING COMMUNICATION SCENARIOS"
     },
-    // ===================================
-    // NEURODIVERGENT COMMUNICATION - CATEGORY HEADER
-    // ===================================
     {
-        "title": "NEURODIVERGENT COMMUNICATION",
+        "title": "Tactic: Direct Boundaries (Use with Care)",
         "points": [
-            "Strategies for effective communication across neurological differences",
-            "Building understanding with those who process social cues differently",
-            "Creating connection while honoring diverse communication needs",
-            "Balancing accommodation with effective information exchange"
+            "For persistent patterns in suitable relationships.",
+            "Gently but clearly state your preference.",
+            "Phrase: 'Sometimes when I share, I just need listening first before solutions.'"
         ],
-        "layout": "layout-centered",
-        "theme": "theme-blue",
-        "category": "NEURODIVERGENT COMMUNICATION"
+        "layout": "layout-boxed",
+        "theme": "theme-dark",
+        "category": "CHALLENGING COMMUNICATION SCENARIOS"
+    },
+    {
+        "title": "Managing Your Own Reaction",
+        "points": [
+            "It's frustrating when your style isn't mirrored.",
+            "Practice patience; habits are ingrained.",
+            "Focus on managing *this* interaction, not changing their personality.",
+            "Recognize their behavior isn't necessarily malicious."
+        ],
+        "layout": "layout-split",
+        "theme": "theme-green",
+        "category": "CHALLENGING COMMUNICATION SCENARIOS"
     },
     {
         "title": "Understanding Autistic Communication",
@@ -1058,7 +867,7 @@ window.INTERPERSONAL_DYNAMICS = [
         ],
         "layout": "layout-boxed",
         "theme": "theme-green",
-        "category": "NEURODIVERGENT COMMUNICATION"
+        "category": "CHALLENGING COMMUNICATION SCENARIOS"
     },
     {
         "title": "Visual & Concrete Communication Techniques",
@@ -1070,7 +879,7 @@ window.INTERPERSONAL_DYNAMICS = [
         ],
         "layout": "layout-split",
         "theme": "theme-blue",
-        "category": "NEURODIVERGENT COMMUNICATION"
+        "category": "CHALLENGING COMMUNICATION SCENARIOS"
     },
     {
         "title": "Parallel Communication Adaptation",
@@ -1082,7 +891,7 @@ window.INTERPERSONAL_DYNAMICS = [
         ],
         "layout": "layout-centered",
         "theme": "theme-purple",
-        "category": "NEURODIVERGENT COMMUNICATION"
+        "category": "CHALLENGING COMMUNICATION SCENARIOS"
     },
     {
         "title": "Compassionate Redirection",
@@ -1094,11 +903,8 @@ window.INTERPERSONAL_DYNAMICS = [
         ],
         "layout": "layout-boxed",
         "theme": "theme-sunset",
-        "category": "NEURODIVERGENT COMMUNICATION"
+        "category": "CHALLENGING COMMUNICATION SCENARIOS"
     },
-    // ===================================
-    // CONVERSATION MANAGEMENT - CATEGORY HEADER 
-    // ===================================
     {
         "title": "Managing Excessive Talking",
         "points": [
@@ -1109,7 +915,7 @@ window.INTERPERSONAL_DYNAMICS = [
         ],
         "layout": "layout-split",
         "theme": "theme-green",
-        "category": "MANAGING THE CONVERSATION"
+        "category": "CHALLENGING COMMUNICATION SCENARIOS"
     },
     {
         "title": "Graceful Conversation Exit Strategies",
@@ -1121,7 +927,7 @@ window.INTERPERSONAL_DYNAMICS = [
         ],
         "layout": "layout-centered",
         "theme": "theme-blue",
-        "category": "MANAGING THE CONVERSATION"
+        "category": "CHALLENGING COMMUNICATION SCENARIOS"
     },
     {
         "title": "When Your Input Is Ignored",
@@ -1133,7 +939,7 @@ window.INTERPERSONAL_DYNAMICS = [
         ],
         "layout": "layout-boxed",
         "theme": "theme-purple",
-        "category": "MANAGING THE CONVERSATION"
+        "category": "CHALLENGING COMMUNICATION SCENARIOS"
     },
     {
         "title": "The 'Brick Wall' Communication Pattern",
@@ -1145,7 +951,7 @@ window.INTERPERSONAL_DYNAMICS = [
         ],
         "layout": "layout-split",
         "theme": "theme-sunset",
-        "category": "MANAGING THE CONVERSATION"
+        "category": "CHALLENGING COMMUNICATION SCENARIOS"
     },
     {
         "title": "Training New Conversation Patterns",
@@ -1157,7 +963,7 @@ window.INTERPERSONAL_DYNAMICS = [
         ],
         "layout": "layout-centered",
         "theme": "theme-dark",
-        "category": "MANAGING THE CONVERSATION"
+        "category": "CHALLENGING COMMUNICATION SCENARIOS"
     },
     {
         "title": "Self-Care in Challenging Conversations",
@@ -1169,11 +975,8 @@ window.INTERPERSONAL_DYNAMICS = [
         ],
         "layout": "layout-boxed",
         "theme": "theme-green",
-        "category": "MANAGING THE CONVERSATION"
+        "category": "CHALLENGING COMMUNICATION SCENARIOS"
     },
-    // ===================================
-    // COMMUNICATION WITH LIMITED BANDWIDTH - CATEGORY HEADER
-    // ===================================
     {
         "title": "The Hidden Cost of Deep Listening",
         "points": [
@@ -1184,7 +987,7 @@ window.INTERPERSONAL_DYNAMICS = [
         ],
         "layout": "layout-centered",
         "theme": "theme-blue",
-        "category": "LIMITED BANDWIDTH COMMUNICATION"
+        "category": "CHALLENGING COMMUNICATION SCENARIOS"
     },
     {
         "title": "Bandwidth-Conscious Boundaries",
@@ -1196,7 +999,7 @@ window.INTERPERSONAL_DYNAMICS = [
         ],
         "layout": "layout-boxed",
         "theme": "theme-green",
-        "category": "LIMITED BANDWIDTH COMMUNICATION"
+        "category": "CHALLENGING COMMUNICATION SCENARIOS"
     },
     {
         "title": "Preserving Energy While Remaining Compassionate",
@@ -1208,7 +1011,7 @@ window.INTERPERSONAL_DYNAMICS = [
         ],
         "layout": "layout-split",
         "theme": "theme-purple",
-        "category": "LIMITED BANDWIDTH COMMUNICATION"
+        "category": "CHALLENGING COMMUNICATION SCENARIOS"
     },
     {
         "title": "Training Others About Your Limitations",
@@ -1220,18 +1023,19 @@ window.INTERPERSONAL_DYNAMICS = [
         ],
         "layout": "layout-centered",
         "theme": "theme-sunset",
-        "category": "LIMITED BANDWIDTH COMMUNICATION"
+        "category": "CHALLENGING COMMUNICATION SCENARIOS"
     },
+
     // ===================================
-    // POWER DYNAMICS IN COMMUNICATION - CATEGORY HEADER
+    // SECTION 8: POWER DYNAMICS & AUTHORITY
     // ===================================
     {
-        "title": "POWER DYNAMICS IN COMMUNICATION",
+        "title": "POWER DYNAMICS & AUTHORITY",
         "points": [
-            "How status differences impact information exchange and interpretation",
-            "Recognizing when power imbalances are affecting communication patterns",
-            "Strategies for more equitable information sharing across hierarchies",
-            "Understanding the impact of systemic and situational power on discourse"
+            "Understanding how status and power affect communication patterns",
+            "Recognizing hidden power structures and authority signals",
+            "Strategies for equitable communication across hierarchies",
+            "Building systems that promote healthy dissent and diverse perspectives"
         ],
         "layout": "layout-centered",
         "theme": "theme-blue",
@@ -1259,6 +1063,28 @@ window.INTERPERSONAL_DYNAMICS = [
         ],
         "layout": "layout-split",
         "theme": "theme-sunset",
+        "category": "POWER DYNAMICS"
+    },
+    {
+        "title": "Authority Signals in Conversation",
+        "points": [
+            "People often defer to those who display confidence, use formal language, or reference credentials.",
+            "Authority can be signaled through tone, posture, and control of conversational flow.",
+            "Be aware of how these signals influence whose ideas are accepted or challenged."
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-blue",
+        "category": "POWER DYNAMICS"
+    },
+    {
+        "title": "Spotting False Authority in Dialogue",
+        "points": [
+            "Fake authorities may use jargon, name-drop, or reference unverifiable credentials.",
+            "Watch for overreliance on status rather than substance.",
+            "Ask for clarification, evidence, or sources to test legitimacy."
+        ],
+        "layout": "layout-boxed",
+        "theme": "theme-purple",
         "category": "POWER DYNAMICS"
     },
     {
@@ -1310,28 +1136,6 @@ window.INTERPERSONAL_DYNAMICS = [
         "category": "POWER DYNAMICS"
     },
     {
-        "title": "Authority Signals in Conversation",
-        "points": [
-            "People often defer to those who display confidence, use formal language, or reference credentials.",
-            "Authority can be signaled through tone, posture, and control of conversational flow.",
-            "Be aware of how these signals influence whose ideas are accepted or challenged."
-        ],
-        "layout": "layout-centered",
-        "theme": "theme-blue",
-        "category": "POWER DYNAMICS"
-    },
-    {
-        "title": "Spotting False Authority in Dialogue",
-        "points": [
-            "Fake authorities may use jargon, name-drop, or reference unverifiable credentials.",
-            "Watch for overreliance on status rather than substance.",
-            "Ask for clarification, evidence, or sources to test legitimacy."
-        ],
-        "layout": "layout-boxed",
-        "theme": "theme-purple",
-        "category": "POWER DYNAMICS"
-    },
-    {
         "title": "Healthy Dissent and Authority",
         "points": [
             "True authority welcomes respectful challenge and questions.",
@@ -1342,16 +1146,17 @@ window.INTERPERSONAL_DYNAMICS = [
         "theme": "theme-green",
         "category": "POWER DYNAMICS"
     },
+
     // ===================================
-    // GROUP COMMUNICATION DYNAMICS - CATEGORY HEADER
+    // SECTION 9: GROUP COMMUNICATION & FACILITATION
     // ===================================
     {
-        "title": "GROUP COMMUNICATION DYNAMICS",
+        "title": "GROUP COMMUNICATION & FACILITATION",
         "points": [
-            "Understanding how information flows within groups of different sizes and contexts",
-            "Facilitating equitable participation and preventing dominant-voice capture",
-            "Creating conditions for effective collective decision-making",
-            "Recognizing and addressing problematic group interaction patterns"
+            "Understanding information flow within groups of different sizes",
+            "Creating inclusive environments that prevent dominant-voice capture",
+            "Facilitating effective collective decision-making processes",
+            "Recognizing and countering groupthink and problematic patterns"
         ],
         "layout": "layout-centered",
         "theme": "theme-blue",
@@ -1464,5 +1269,288 @@ window.INTERPERSONAL_DYNAMICS = [
         "layout": "layout-centered",
         "theme": "theme-dark",
         "category": "GROUP COMMUNICATION DYNAMICS"
+    },
+
+    // ===================================
+    // SECTION 10: ADVANCED APPLICATIONS
+    // ===================================
+    {
+        "title": "ADVANCED APPLICATIONS",
+        "points": [
+            "Specialized communication skills for high-stakes situations",
+            "De-escalation techniques for tense or conflicted interactions",
+            "Peer mediation and conflict resolution approaches",
+            "Information first responder communication during crises"
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-green",
+        "category": "ADVANCED APPLICATIONS"
+    },
+    {
+        "title": "De-escalation: The CALM Approach",
+        "points": [
+            "C - Create physical and emotional safety (speak softly, maintain distance)",
+            "A - Active listening without interruption or judgment",
+            "L - Lower the emotional temperature with your tone and body language",
+            "M - Manage your own reactions first (regulate before engaging)"
+        ],
+        "layout": "layout-boxed",
+        "theme": "theme-blue",
+        "category": "ADVANCED APPLICATIONS"
+    },
+    {
+        "title": "De-escalation: Strategic Language",
+        "points": [
+            "Use 'we' language to foster collaboration: 'How can we resolve this?'",
+            "Avoid accusatory language and 'you' statements that trigger defensiveness",
+            "Offer choices to restore a sense of control: 'Would you prefer to discuss this here or somewhere quieter?'",
+            "Use validation without necessarily agreeing: 'I understand this is important to you'"
+        ],
+        "layout": "layout-split",
+        "theme": "theme-blue",
+        "category": "ADVANCED APPLICATIONS"
+    },
+    {
+        "title": "De-escalation: Redirection Techniques",
+        "points": [
+            "Introduce relevant but less charged aspects of the topic to shift focus",
+            "Ask clarifying questions to move from emotional reactions to specific issues",
+            "Acknowledge emotions while guiding toward constructive expression",
+            "Create 'time buffers' to allow for cooling down when needed"
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-green",
+        "category": "ADVANCED APPLICATIONS"
+    },
+    {
+        "title": "De-escalation: Online Environments",
+        "points": [
+            "Avoid public confrontations; move heated exchanges to private channels",
+            "Use the 'pause and reflect' method before responding to provocative content",
+            "Set clear interaction boundaries and enforce them consistently",
+            "Document concerning patterns while maintaining focus on de-escalation"
+        ],
+        "layout": "layout-boxed",
+        "theme": "theme-purple",
+        "category": "ADVANCED APPLICATIONS"
+    },
+    {
+        "title": "De-escalation: When to Step Back",
+        "points": [
+            "Recognize warning signs that a situation may become unsafe or unproductive",
+            "Have exit strategies prepared for both digital and physical environments",
+            "Know when professional intervention (moderators, security, mental health services) is needed",
+            "Prioritize safety over resolution when tensions are too high"
+        ],
+        "layout": "layout-split",
+        "theme": "theme-sunset",
+        "category": "ADVANCED APPLICATIONS"
+    },
+    {
+        "title": "Peer Mediation: Setting the Stage",
+        "points": [
+            "Establish ground rules that all parties agree to follow",
+            "Create a physically and emotionally safe environment for discussion",
+            "Clarify your role as facilitator, not judge or problem-solver",
+            "Set realistic expectations about the process and possible outcomes"
+        ],
+        "layout": "layout-boxed",
+        "theme": "theme-purple",
+        "category": "ADVANCED APPLICATIONS"
+    },
+    {
+        "title": "Peer Mediation: The HEAR Process",
+        "points": [
+            "H - Help each party express their perspective fully",
+            "E - Ensure mutual understanding through reflective listening",
+            "A - Acknowledge emotions while focusing on interests behind positions",
+            "R - Reach for solutions that address core needs of all parties"
+        ],
+        "layout": "layout-split",
+        "theme": "theme-purple",
+        "category": "ADVANCED APPLICATIONS"
+    },
+    {
+        "title": "Peer Mediation: Facilitation Techniques",
+        "points": [
+            "Reframe inflammatory statements into neutral language",
+            "Identify common ground and shared interests when they emerge",
+            "Use 'I noticed' statements to address problematic communication patterns",
+            "Balance speaking time and ensure all voices are heard"
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-blue",
+        "category": "ADVANCED APPLICATIONS"
+    },
+    {
+        "title": "Peer Mediation: Navigating Impasse",
+        "points": [
+            "Acknowledge when parties have reached a sticking point",
+            "Explore underlying needs and interests that might offer new paths forward",
+            "Consider taking a break to allow for reflection and cooling off",
+            "Sometimes, agreeing on a process to continue dialogue is itself a success"
+        ],
+        "layout": "layout-boxed",
+        "theme": "theme-sunset",
+        "category": "ADVANCED APPLICATIONS"
+    },
+    {
+        "title": "Peer Mediation: Building Agreement",
+        "points": [
+            "Focus on specific, actionable solutions that address core issues",
+            "Test potential agreements: 'How would this work in practice?'",
+            "Document agreements in clear, concrete language",
+            "Include follow-up mechanisms to review progress and adjust if needed"
+        ],
+        "layout": "layout-split",
+        "theme": "theme-green",
+        "category": "ADVANCED APPLICATIONS"
+    },
+    {
+        "title": "Peer Mediation: Information Disputes",
+        "points": [
+            "Establish shared criteria for evaluating information (e.g., source credibility, evidence standards)",
+            "Separate factual disagreements from differences in values or interpretation",
+            "Guide participants toward reliable information sources they both trust",
+            "Focus on building information literacy rather than 'winning' factual arguments"
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-blue",
+        "category": "ADVANCED APPLICATIONS"
+    },
+    // ===================================
+    // SECTION 11: INFORMATION FIRST RESPONDER COMMUNICATION
+    // ===================================
+    {
+        "title": "INFORMATION FIRST RESPONDER COMMUNICATION",
+        "points": [
+            "Understanding the role of information responders in crises",
+            "Strategies for effective communication in high-stakes situations",
+            "Building community resilience through accurate information dissemination",
+            "Ethical considerations and responsibilities of information responders"
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-blue",
+        "category": "INFORMATION FIRST RESPONDER COMMUNICATION"
+    },
+    {
+        "title": "INFORMATION FIRST RESPONDER COMMUNICATION",
+        "points": [
+            "Strategic public communication during information crises",
+            "Balancing clarity, accuracy, and community well-being",
+            "Countering misinformation while building resilience",
+            "Serving as a trusted node in community information networks"
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-green",
+        "category": "INFORMATION FIRST RESPONDER COMMUNICATION"
+    },
+    {
+        "title": "Public Statements: Core Principles",
+        "points": [
+            "Lead with verified facts, clearly separated from analysis or opinion",
+            "Address the emotional impact of events alongside factual information",
+            "Maintain appropriate transparency about what is known, unknown, and uncertain",
+            "Frame information to promote understanding without inadvertently amplifying harmful narratives"
+        ],
+        "layout": "layout-boxed",
+        "theme": "theme-green",
+        "category": "INFORMATION FIRST RESPONDER COMMUNICATION"
+    },
+    {
+        "title": "Public Statements: Structure",
+        "points": [
+            "Begin with the most important, verified information (inverted pyramid structure)",
+            "Include necessary context that might otherwise be missing",
+            "Clearly attribute sources and explain why they're reliable",
+            "Close with practical guidance, resources, or actionable steps when appropriate"
+        ],
+        "layout": "layout-split",
+        "theme": "theme-blue",
+        "category": "INFORMATION FIRST RESPONDER COMMUNICATION"
+    },
+    {
+        "title": "Public Statements: Language Choices",
+        "points": [
+            "Use clear, accessible language that avoids unnecessary jargon",
+            "Prioritize precision over sensationalism or emotional appeal",
+            "Consider how statements might be misinterpreted or taken out of context",
+            "Balance neutrality with appropriate expression of community values"
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-purple",
+        "category": "INFORMATION FIRST RESPONDER COMMUNICATION"
+    },
+    {
+        "title": "Crisis Communication: Addressing Misinformation",
+        "points": [
+            "Lead with the truth rather than repeating the falsehood (avoid the 'illusory truth effect')",
+            "Explain how misinformation spreads without amplifying specific false narratives",
+            "Focus on empowering audiences with media literacy skills relevant to the situation",
+            "Acknowledge legitimate concerns that may underlie the spread of misinformation"
+        ],
+        "layout": "layout-boxed",
+        "theme": "theme-sunset",
+        "category": "INFORMATION FIRST RESPONDER COMMUNICATION"
+    },
+    {
+        "title": "Building Digital Community Resilience",
+        "points": [
+            "Foster regular communication channels that function before crises emerge",
+            "Develop 'early warning systems' for detecting misinformation in your community",
+            "Create templates and protocols for rapid, accurate response to information incidents",
+            "Build relationships with other trusted information nodes and subject matter experts"
+        ],
+        "layout": "layout-split",
+        "theme": "theme-green",
+        "category": "INFORMATION FIRST RESPONDER COMMUNICATION"
+    },
+    {
+        "title": "Ethical Considerations for Information Responders",
+        "points": [
+            "Balance obligation to inform with potential harms of specific information",
+            "Consider impacts on vulnerable populations in your communication choices",
+            "Recognize the limits of your expertise and when to defer to specialists",
+            "Maintain independence from political, commercial, or personal interests"
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-dark",
+        "category": "INFORMATION FIRST RESPONDER COMMUNICATION"
+    },
+    {
+        "title": "Rapid Response Protocols",
+        "points": [
+            "Establish verification workflows that balance speed with accuracy",
+            "Create decision trees for when to respond immediately vs. when to wait for more information",
+            "Develop templates for common crisis communication scenarios",
+            "Build relationships with reliable sources before you need them"
+        ],
+        "layout": "layout-boxed",
+        "theme": "theme-blue",
+        "category": "INFORMATION FIRST RESPONDER COMMUNICATION"
+    },
+    {
+        "title": "Managing Information Overwhelm During Crises",
+        "points": [
+            "Prioritize information triage: what needs immediate response vs. what can wait",
+            "Create systems to track evolving narratives without getting lost in details",
+            "Delegate monitoring responsibilities when possible to prevent burnout",
+            "Know when to step back and let other trusted voices take the lead"
+        ],
+        "layout": "layout-split",
+        "theme": "theme-sunset",
+        "category": "INFORMATION FIRST RESPONDER COMMUNICATION"
+    },
+    {
+        "title": "Building Community Trust Networks",
+        "points": [
+            "Invest in relationship-building during non-crisis periods",
+            "Create reciprocal information sharing agreements with other community leaders",
+            "Establish your credibility through consistent, accurate communication over time",
+            "Acknowledge mistakes quickly and transparently to maintain trust"
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-green",
+        "category": "INFORMATION FIRST RESPONDER COMMUNICATION"
     }
 ];
