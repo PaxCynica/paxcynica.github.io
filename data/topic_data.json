@@ -1,52 +1,52 @@
 [
   {
+    "topic": "Israel",
+    "frequency": 8,
+    "agentColor": "#3498db"
+  },
+  {
+    "topic": "sanctions",
+    "frequency": 6,
+    "agentColor": "#3498db"
+  },
+  {
+    "topic": "Russia",
+    "frequency": 5,
+    "agentColor": "#3498db"
+  },
+  {
+    "topic": "Trump",
+    "frequency": 5,
+    "agentColor": "#3498db"
+  },
+  {
     "topic": "Donald Trump",
     "frequency": 5,
     "agentColor": "#3498db"
   },
   {
-    "topic": "Israel",
+    "topic": "AI",
+    "frequency": 4,
+    "agentColor": "#00ACEE"
+  },
+  {
+    "topic": "Syria",
     "frequency": 4,
     "agentColor": "#3498db"
   },
   {
-    "topic": "Nvidia",
+    "topic": "Ukraine",
     "frequency": 3,
-    "agentColor": "#3498db"
-  },
-  {
-    "topic": "South Africa",
-    "frequency": 3,
-    "agentColor": "#3498db"
-  },
-  {
-    "topic": "Palestine",
-    "frequency": 3,
-    "agentColor": "#3498db"
-  },
-  {
-    "topic": "trade war",
-    "frequency": 3,
-    "agentColor": "#3A5998"
-  },
-  {
-    "topic": "tariffs",
-    "frequency": 3,
-    "agentColor": "#0E76A8"
-  },
-  {
-    "topic": "Apple",
-    "frequency": 3,
-    "agentColor": "#3498db"
-  },
-  {
-    "topic": "climate change",
-    "frequency": 3,
-    "agentColor": "#3498db"
-  },
-  {
-    "topic": "OpenAI",
-    "frequency": 2,
     "agentColor": "#00ACEE"
+  },
+  {
+    "topic": "Kyiv",
+    "frequency": 3,
+    "agentColor": "#3498db"
+  },
+  {
+    "topic": "ballistic missile",
+    "frequency": 3,
+    "agentColor": "#3498db"
   }
 ]
