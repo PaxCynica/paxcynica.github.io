@@ -140,6 +140,45 @@ window.WHAT_IS_INFORMATION = [
         "category": "INFORMATION THEORY" // Fits well here, expanding on Shannon
     },
     // ===================================
+    // Expand existing INFORMATION THEORY section:
+    // ===================================
+    {
+        "title": "Error Correction & Information Redundancy",
+        "points": [
+            "All information transmission involves potential errors, requiring error detection and correction mechanisms.",
+            "Redundancy (repetition) increases reliability but reduces efficiency in information transmission.",
+            "Error correction codes can detect and fix certain types of information corruption.",
+            "Biological systems use redundancy extensively (multiple copies of genes, multiple sensory channels)."
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-purple",
+        "category": "INFORMATION THEORY"
+    },
+    {
+        "title": "Information Compression & Pattern Recognition",
+        "points": [
+            "Compression identifies patterns in data to represent information more efficiently.",
+            "All learning can be viewed as compression—finding patterns that allow prediction.",
+            "Lossy compression discards information deemed less important, but these judgments may be wrong.",
+            "The ability to compress information reveals understanding of its underlying structure."
+        ],
+        "layout": "layout-boxed",
+        "theme": "theme-purple",
+        "category": "INFORMATION THEORY"
+    },
+    {
+        "title": "Network Effects in Information Transmission",
+        "points": [
+            "Information networks exhibit emergent properties not present in individual nodes.",
+            "Small-world networks allow information to spread rapidly across large populations.",
+            "Network topology determines how quickly and widely information can spread.",
+            "Network failures can cascade, causing widespread information disruption."
+        ],
+        "layout": "layout-split",
+        "theme": "theme-purple",
+        "category": "INFORMATION THEORY"
+    }
+    // ===================================
     // SECTION 4: INFORMATION IN SOCIETY
     // ===================================
     {
@@ -237,6 +276,45 @@ window.WHAT_IS_INFORMATION = [
         "category": "SOCIAL INFORMATION"
     },
     // ===================================
+    // Expand existing SOCIAL INFORMATION section:
+    // ===================================
+    {
+        "title": "Information Cascades & Social Proof",
+        "points": [
+            "Information cascades occur when people ignore their private information and follow others' actions.",
+            "Early adopters disproportionately influence the direction of information cascades.",
+            "Social proof creates pressure to conform to apparent group consensus, even when private judgment differs.",
+            "Cascades can lead to collective wisdom or collective delusion, depending on the quality of early information."
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-red",
+        "category": "SOCIAL INFORMATION"
+    },
+    {
+        "title": "Wisdom of Crowds vs. Madness of Crowds",
+        "points": [
+            "Crowds can aggregate diverse information to make better decisions than any individual.",
+            "However, crowds can also amplify errors and create dangerous groupthink.",
+            "The key difference: whether individual judgments are independent or influenced by social pressure.",
+            "Diversity of perspectives and independence of judgment are crucial for crowd wisdom."
+        ],
+        "layout": "layout-boxed",
+        "theme": "theme-red",
+        "category": "SOCIAL INFORMATION"
+    },
+    {
+        "title": "Trust Networks & Information Validation",
+        "points": [
+            "People rely on trust networks to validate information rather than checking original sources.",
+            "Trust networks can be hijacked by malicious actors who establish credibility then exploit it.",
+            "Social trust often overrides logical analysis when evaluating information.",
+            "Building resilient trust networks requires both skepticism and cooperation."
+        ],
+        "layout": "layout-split",
+        "theme": "theme-red",
+        "category": "SOCIAL INFORMATION"
+    },
+    // ===================================
     // SECTION 5: ORGANIZATIONAL LEARNING & INFORMATION
     // ===================================
     {
@@ -308,6 +386,45 @@ window.WHAT_IS_INFORMATION = [
             "This perspective challenges traditional boundaries between individual intelligence, artificial intelligence, and collective organizational behavior."
         ],
         "layout": "layout-split", // Or layout-boxed, depending on preference
+        "theme": "theme-orange",
+        "category": "ORGANIZATIONAL LEARNING & INFORMATION"
+    },
+    // ===================================
+    // Expand existing ORGANIZATIONAL LEARNING section:
+    // ===================================
+    {
+        "title": "Institutional Memory & Knowledge Management",
+        "points": [
+            "Organizations accumulate knowledge through experience, but this knowledge can be lost when people leave.",
+            "Institutional memory includes both explicit knowledge (documents, procedures) and tacit knowledge (experience, relationships).",
+            "Knowledge management systems attempt to capture and preserve organizational learning.",
+            "The challenge: converting personal, experiential knowledge into transferable organizational knowledge."
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-orange",
+        "category": "ORGANIZATIONAL LEARNING & INFORMATION"
+    },
+    {
+        "title": "Information Silos & Organizational Fragmentation",
+        "points": [
+            "Departments or units often develop isolated information systems that don't communicate.",
+            "Information silos prevent organizations from seeing patterns that cross departmental boundaries.",
+            "Turf wars and competing priorities can reinforce information fragmentation.",
+            "Breaking down silos requires both technical integration and cultural change."
+        ],
+        "layout": "layout-boxed",
+        "theme": "theme-orange",
+        "category": "ORGANIZATIONAL LEARNING & INFORMATION"
+    },
+    {
+        "title": "Informal Information Networks",
+        "points": [
+            "Much organizational knowledge flows through informal relationships rather than official channels.",
+            "Informal networks can be more efficient than formal systems but are also more fragile.",
+            "Social capital determines access to informal information networks.",
+            "Understanding informal networks is crucial for effective organizational communication."
+        ],
+        "layout": "layout-split",
         "theme": "theme-orange",
         "category": "ORGANIZATIONAL LEARNING & INFORMATION"
     },
@@ -460,5 +577,371 @@ window.WHAT_IS_INFORMATION = [
         "theme": "theme-dark",
         "category": "PHILOSOPHY"
     },
+    // ===================================
+    // SECTION 7: INFORMATION & TIME/TEMPORALITY
+    // ===================================
+    {
+        "title": "Information & Time: The Temporal Nature of Knowledge",
+        "points": [
+            "Information exists across multiple temporal dimensions: past (memory), present (perception), and future (prediction).",
+            "The decay rate of information varies—some knowledge becomes obsolete rapidly while fundamental truths persist across millennia.",
+            "Temporal ordering of information affects meaning: the sequence in which we receive data shapes interpretation.",
+            "Real-time information processing creates different cognitive demands than historical analysis or future planning."
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-blue",
+        "category": "INFORMATION & TIME"
+    },
+    {
+        "title": "Information Persistence & Decay",
+        "points": [
+            "Digital information can theoretically persist indefinitely but requires active maintenance and migration across technologies.",
+            "Cultural information (traditions, languages) decays without active transmission between generations.",
+            "Personal memory demonstrates selective persistence—emotional information often outlasts factual details.",
+            "Institutional knowledge can be lost when key personnel leave without proper knowledge transfer protocols."
+        ],
+        "layout": "layout-boxed",
+        "theme": "theme-purple",
+        "category": "INFORMATION & TIME"
+    },
+    {
+        "title": "Causality & Information Flow",
+        "points": [
+            "Information cannot travel faster than light, creating fundamental limits on causal relationships.",
+            "Temporal sequences in information often imply causation, but correlation across time doesn't guarantee causal relationships.",
+            "Predictive information (forecasts, models) attempts to collapse future uncertainty into present knowledge.",
+            "The observer effect shows that the act of gathering information can change the system being observed."
+        ],
+        "layout": "layout-split",
+        "theme": "theme-green",
+        "category": "INFORMATION & TIME"
+    },
 
+    // ===================================
+    // SECTION 8: INFORMATION QUALITY & VERIFICATION
+    // ===================================
+    {
+        "title": "Information Quality Dimensions",
+        "points": [
+            "Accuracy: How closely information corresponds to objective reality or truth.",
+            "Precision: The level of detail and specificity in information representation.",
+            "Relevance: How well information serves the specific purpose or context of use.",
+            "Timeliness: Whether information is current enough to be useful for decision-making."
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-blue",
+        "category": "INFORMATION QUALITY"
+    },
+    {
+        "title": "The Verification Paradox",
+        "points": [
+            "To verify information, we rely on other sources—but how do we verify our verification methods?",
+            "This creates an infinite regress: every verification system requires its own verification.",
+            "Trust networks emerge as practical solutions, but these can be compromised or corrupted.",
+            "The fundamental challenge: distinguishing reliable verification from sophisticated deception."
+        ],
+        "layout": "layout-boxed",
+        "theme": "theme-red",
+        "category": "INFORMATION QUALITY"
+    },
+    {
+        "title": "Information Provenance & Chain of Custody",
+        "points": [
+            "Provenance tracks the origin, ownership, and modification history of information.",
+            "Digital information can be copied perfectly, making provenance difficult to establish.",
+            "Chain of custody becomes critical in legal, scientific, and journalistic contexts.",
+            "Blockchain technology attempts to create immutable provenance records, but faces scalability challenges."
+        ],
+        "layout": "layout-split",
+        "theme": "theme-purple",
+        "category": "INFORMATION QUALITY"
+    },
+    {
+        "title": "Reliability vs. Validity in Information Assessment",
+        "points": [
+            "Reliability measures consistency—whether the same information source produces consistent results over time.",
+            "Validity measures accuracy—whether information actually represents what it claims to represent.",
+            "A source can be reliably wrong (consistent but invalid) or unreliably right (accurate but inconsistent).",
+            "The gold standard combines both: consistent accuracy from trustworthy sources with transparent methods."
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-green",
+        "category": "INFORMATION QUALITY"
+    },
+
+    // ===================================
+    // SECTION 9: INFORMATION OVERLOAD & FILTERING
+    // ===================================
+    {
+        "title": "The Attention Economy & Information Scarcity",
+        "points": [
+            "In information-rich environments, attention becomes the scarce resource, not information itself.",
+            "Human cognitive bandwidth has hard limits—we can only process a fraction of available information.",
+            "The competition for attention creates incentives for sensationalism and emotional manipulation.",
+            "Information abundance paradoxically can lead to decision paralysis and decreased quality of choices."
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-red",
+        "category": "INFORMATION OVERLOAD"
+    },
+    {
+        "title": "Filtering Mechanisms & Reality Distortion",
+        "points": [
+            "All information systems require filtering—humans use attention, algorithms use ranking systems.",
+            "Filters shape reality perception by determining what information reaches conscious awareness.",
+            "Algorithmic filters can create invisible biases, amplifying certain types of information while suppressing others.",
+            "The filter bubble effect occurs when personalization algorithms narrow the range of information exposure."
+        ],
+        "layout": "layout-boxed",
+        "theme": "theme-purple",
+        "category": "INFORMATION OVERLOAD"
+    },
+    {
+        "title": "The Paradox of Choice in Information",
+        "points": [
+            "More information options can decrease decision quality and increase anxiety.",
+            "Information maximizers (those who seek the 'best' information) often suffer more than satisficers (those who seek 'good enough').",
+            "Choice overload can lead to decision avoidance or delegation to automated systems.",
+            "Curation becomes valuable—the service of filtering and organizing information for others."
+        ],
+        "layout": "layout-split",
+        "theme": "theme-sunset",
+        "category": "INFORMATION OVERLOAD"
+    },
+    {
+        "title": "Cognitive Load & Information Processing Limits",
+        "points": [
+            "Working memory can only hold 7±2 pieces of information simultaneously (Miller's Law).",
+            "Cognitive load increases with information complexity, novelty, and emotional intensity.",
+            "Multitasking with information streams reduces comprehension and retention quality.",
+            "Information fatigue can lead to poor decision-making and increased susceptibility to simple narratives."
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-blue",
+        "category": "INFORMATION OVERLOAD"
+    },
+
+    // ===================================
+    // SECTION 10: INFORMATION & IDENTITY/PRIVACY
+    // ===================================
+    {
+        "title": "Personal Information as Extension of Self",
+        "points": [
+            "Personal data (browsing history, location, communications) creates a digital shadow of identity.",
+            "Information about us can be more revealing than information we consciously share.",
+            "Digital identity often persists longer and spreads wider than intended by the individual.",
+            "The aggregation of seemingly innocent data points can reveal intimate personal details."
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-dark",
+        "category": "INFORMATION & IDENTITY"
+    },
+    {
+        "title": "The Commodification of Personal Data",
+        "points": [
+            "Personal information has become a primary commodity in the digital economy.",
+            "Data brokers collect and sell personal information often without explicit consent.",
+            "The 'free' internet model is subsidized by personal data extraction and sale.",
+            "Individuals rarely receive fair compensation for the value generated from their personal information."
+        ],
+        "layout": "layout-boxed",
+        "theme": "theme-red",
+        "category": "INFORMATION & IDENTITY"
+    },
+    {
+        "title": "Information Asymmetries & Power Imbalances",
+        "points": [
+            "Organizations know vastly more about individuals than individuals know about organizations.",
+            "Surveillance capitalism creates unprecedented information asymmetries favoring corporate interests.",
+            "Governments can access personal information at scale while operating with limited transparency.",
+            "These asymmetries fundamentally alter the balance of power between institutions and individuals."
+        ],
+        "layout": "layout-split",
+        "theme": "theme-purple",
+        "category": "INFORMATION & IDENTITY"
+    },
+    {
+        "title": "Rights to Information vs. Rights from Information",
+        "points": [
+            "Traditional rights focus on access to information (freedom of information, transparency).",
+            "Emerging rights concern protection from information exposure (privacy, anonymity, erasure).",
+            "The tension between these rights creates complex legal and ethical challenges.",
+            "Context collapse occurs when information shared in one context appears inappropriately in another."
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-green",
+        "category": "INFORMATION & IDENTITY"
+    },
+
+    // ===================================
+    // SECTION 11: INFORMATION TRANSMISSION & LOSS
+    // ===================================
+    {
+        "title": "Information Degradation Through Transmission",
+        "points": [
+            "Every transmission step introduces potential for error, distortion, or loss (like the telephone game).",
+            "Human interpretation adds subjective layers that can alter original meaning.",
+            "Digital transmission can be perfect in terms of bits, but meaning can still degrade through context loss.",
+            "Repeated transmission amplifies errors and can create entirely new, false information."
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-red",
+        "category": "INFORMATION TRANSMISSION"
+    },
+    {
+        "title": "Translation & Cross-Cultural Information Loss",
+        "points": [
+            "Translation between languages inevitably involves some loss or transformation of meaning.",
+            "Cultural concepts often lack direct equivalents, requiring approximation or explanation.",
+            "Technical and specialized information faces additional challenges in cross-cultural transmission.",
+            "Historical translation errors can persist and influence understanding across generations."
+        ],
+        "layout": "layout-boxed",
+        "theme": "theme-purple",
+        "category": "INFORMATION TRANSMISSION"
+    },
+    {
+        "title": "Medium Effects on Message (Expanding McLuhan)",
+        "points": [
+            "The transmission medium fundamentally shapes how information is perceived and understood.",
+            "Visual media emphasizes different aspects than text, audio, or interactive formats.",
+            "Digital compression algorithms selectively preserve and discard information based on technical assumptions.",
+            "Platform constraints (character limits, algorithmic ranking) actively reshape the information transmitted."
+        ],
+        "layout": "layout-split",
+        "theme": "theme-sunset",
+        "category": "INFORMATION TRANSMISSION"
+    },
+    {
+        "title": "Bandwidth Limitations & Compression Effects",
+        "points": [
+            "Limited transmission capacity forces choices about what information to preserve or discard.",
+            "Compression algorithms make assumptions about what information humans consider important.",
+            "Lossy compression permanently discards information that may later prove valuable.",
+            "Human communication naturally compresses complex experiences into simplified narratives."
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-blue",
+        "category": "INFORMATION TRANSMISSION"
+    },
+
+    // ===================================
+    // SECTION 12: INFORMATION & CONSCIOUSNESS
+    // ===================================
+    {
+        "title": "The Binding Problem & Information Integration",
+        "points": [
+            "The brain receives fragmented sensory information but creates unified conscious experience.",
+            "How disparate information streams combine into coherent perception remains scientifically mysterious.",
+            "Consciousness appears to involve global information integration across brain regions.",
+            "Disorders of consciousness reveal how information integration affects subjective experience."
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-purple",
+        "category": "INFORMATION & CONSCIOUSNESS"
+    },
+    {
+        "title": "Information Processing vs. Subjective Experience",
+        "points": [
+            "Computers process vast amounts of information without apparent subjective experience.",
+            "The 'hard problem' of consciousness asks why information processing creates subjective qualia.",
+            "Information Integration Theory proposes that consciousness arises from integrated information (Φ).",
+            "The relationship between objective information and subjective experience remains deeply puzzling."
+        ],
+        "layout": "layout-boxed",
+        "theme": "theme-dark",
+        "category": "INFORMATION & CONSCIOUSNESS"
+    },
+    {
+        "title": "Attention as Information Selection",
+        "points": [
+            "Attention determines which information enters conscious awareness from the vast stream of sensory input.",
+            "Attention can be captured involuntarily (bottom-up) or directed voluntarily (top-down).",
+            "What we attend to literally shapes our conscious reality and subsequent memory formation.",
+            "Attentional disorders reveal how information selection affects mental function and subjective experience."
+        ],
+        "layout": "layout-split",
+        "theme": "theme-green",
+        "category": "INFORMATION & CONSCIOUSNESS"
+    },
+
+    // ===================================
+    // SECTION 13: INFORMATION & DECISION MAKING
+    // ===================================
+    {
+        "title": "Uncertainty & Decision Quality",
+        "points": [
+            "All decisions are made under some degree of uncertainty about outcomes.",
+            "More information can improve decisions up to a point, beyond which additional information may decrease decision quality.",
+            "The timing of information acquisition affects decision outcomes—sometimes delayed decisions allow for better information.",
+            "Uncertainty tolerance varies among individuals and affects how they seek and use information."
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-blue",
+        "category": "INFORMATION & DECISION MAKING"
+    },
+    {
+        "title": "Information Timing & Decision Windows",
+        "points": [
+            "Some decisions have narrow windows where information gathering must balance completeness with timeliness.",
+            "Early information often has higher impact on decisions than later information (primacy effect).",
+            "Real-time decision-making requires different information strategies than deliberate planning.",
+            "Information can arrive too late to influence decisions but still affect post-decision evaluation."
+        ],
+        "layout": "layout-boxed",
+        "theme": "theme-sunset",
+        "category": "INFORMATION & DECISION MAKING"
+    },
+    {
+        "title": "Incomplete Information & Choice Architecture",
+        "points": [
+            "All real-world decisions involve incomplete information—perfect information is theoretical.",
+            "Decision frameworks (heuristics, frameworks, systems) help manage information limitations.",
+            "Choice architecture shapes decisions by organizing how information is presented.",
+            "The framing of incomplete information significantly affects decision outcomes."
+        ],
+        "layout": "layout-split",
+        "theme": "theme-green",
+        "category": "INFORMATION & DECISION MAKING"
+    },
+
+    // ===================================
+    // SECTION 14: INFORMATION AS INFRASTRUCTURE
+    // ===================================
+    {
+        "title": "Information Infrastructure & Control",
+        "points": [
+            "Physical infrastructure (cables, servers, satellites) determines information flow possibilities.",
+            "Control over information infrastructure grants power over what information can be transmitted and accessed.",
+            "Internet governance involves complex interactions between technical standards, corporate control, and national sovereignty.",
+            "Information infrastructure can be weaponized through censorship, surveillance, or disruption."
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-red",
+        "category": "INFORMATION AS INFRASTRUCTURE"
+    },
+    {
+        "title": "Algorithmic Governance & Automated Decisions",
+        "points": [
+            "Algorithms increasingly make decisions that affect human lives (credit, employment, criminal justice).",
+            "Algorithmic decision-making can embed and amplify human biases present in training data.",
+            "The complexity of modern algorithms makes them difficult to audit or understand.",
+            "Automated systems can make millions of decisions with minimal human oversight."
+        ],
+        "layout": "layout-boxed",
+        "theme": "theme-purple",
+        "category": "INFORMATION AS INFRASTRUCTURE"
+    },
+    {
+        "title": "Digital Divides & Information Inequality",
+        "points": [
+            "Access to information technology creates new forms of inequality.",
+            "Digital literacy becomes essential for participation in modern society.",
+            "Geographic, economic, and social factors determine information access quality.",
+            "Information inequality can perpetuate and amplify existing social inequalities."
+        ],
+        "layout": "layout-split",
+        "theme": "theme-dark",
+        "category": "INFORMATION AS INFRASTRUCTURE"
+    },
 ];
