@@ -177,7 +177,7 @@ window.WHAT_IS_INFORMATION = [
         "layout": "layout-split",
         "theme": "theme-purple",
         "category": "INFORMATION THEORY"
-    }
+    },
     // ===================================
     // SECTION 4: INFORMATION IN SOCIETY
     // ===================================
