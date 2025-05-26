@@ -762,7 +762,126 @@ window.INTERPERSONAL_DYNAMICS = [
         "theme": "theme-sunset",
         "category": "FOUNDATIONAL COMMUNICATION SKILLS"
     },
-
+    {
+        "title": "Creating Conditions for Success",
+        "points": [
+            "Success emerges not from individual effort alone, but from the careful architecture of support systems.",
+            "The most capable individuals stumble when the environment lacks the essential scaffolding for achievement.",
+            "True leadership manifests in the deliberate construction of pathways that make success inevitable rather than accidental.",
+            "Observe how thriving ecosystems provide exactly what each organism needs—no more, no less, but precisely calibrated."
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-green",
+        "category": "FOUNDATIONAL COMMUNICATION SKILLS"
+    },
+    {
+        "title": "The Three Pillars of Effective Support",
+        "points": [
+            "Access: Ensure the right tools and technologies flow to those who need them, like water finding its proper channel.",
+            "Clarity: Provide simple instructions and regular feedback—the lighthouse beam cutting through confusion's fog.",
+            "Encouragement: Focus on progress over perfection; celebrate each forward step as part of the larger journey.",
+            "These pillars work in concert—remove one, and the entire structure becomes precarious."
+        ],
+        "layout": "layout-boxed",
+        "theme": "theme-blue",
+        "category": "FOUNDATIONAL COMMUNICATION SKILLS"
+    },
+    {
+        "title": "The Assumption Trap: When Silence Breeds Confusion",
+        "points": [
+            "The most dangerous assumption: 'They must know what to do.' This silent expectation becomes a breeding ground for mistakes.",
+            "Without explicit guidance, even competent individuals wander in uncertainty's labyrinth.",
+            "What seems obvious to the experienced eye remains invisible to those still learning the landscape.",
+            "Clear instructions are not micromanagement—they are acts of compassion that prevent unnecessary struggle."
+        ],
+        "layout": "layout-split",
+        "theme": "theme-red",
+        "category": "FOUNDATIONAL COMMUNICATION SKILLS"
+    },
+    {
+        "title": "The One-Size-Fits-All Fallacy",
+        "points": [
+            "Each person operates with a unique constellation of strengths, challenges, and processing styles.",
+            "Support that ignores individual differences becomes support that supports no one effectively.",
+            "The analytical mind craves different guidance than the intuitive spirit; the detail-oriented soul needs different tools than the big-picture visionary.",
+            "Tailored support acknowledges the beautiful complexity of human diversity rather than flattening it into uniformity."
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-purple",
+        "category": "FOUNDATIONAL COMMUNICATION SKILLS"
+    },
+    {
+        "title": "Tools Without Training: The Empty Gesture",
+        "points": [
+            "A sophisticated instrument in untrained hands becomes a source of frustration rather than empowerment.",
+            "Resources without guidance create the illusion of support while delivering the reality of abandonment.",
+            "Training transforms potential into capability—the bridge between having and doing.",
+            "True support includes the knowledge transfer that makes tools useful rather than decorative."
+        ],
+        "layout": "layout-boxed",
+        "theme": "theme-sunset",
+        "category": "FOUNDATIONAL COMMUNICATION SKILLS"
+    },
+    {
+        "title": "The Timing of Feedback: When Moments Matter",
+        "points": [
+            "Feedback operates on a half-life principle—its effectiveness diminishes rapidly with the passage of time.",
+            "Immediate, specific guidance allows course corrections while the experience remains vivid and malleable.",
+            "Delayed feedback often addresses problems that have already mutated into different challenges entirely.",
+            "The most powerful feedback creates learning loops that accelerate growth rather than merely documenting what went wrong."
+        ],
+        "layout": "layout-split",
+        "theme": "theme-blue",
+        "category": "FOUNDATIONAL COMMUNICATION SKILLS"
+    },
+    {
+        "title": "The Overwhelm Paradox: When More Becomes Less",
+        "points": [
+            "Information overload masquerades as comprehensive support while actually paralyzing decision-making.",
+            "Too many resources scatter attention like light through a prism—beautiful but unfocused.",
+            "The overwhelmed mind cannot distinguish between essential and optional, turning help into hindrance.",
+            "Effective support curates and prioritizes, providing the right amount at the right time rather than everything at once."
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-dark",
+        "category": "FOUNDATIONAL COMMUNICATION SKILLS"
+    },
+    {
+        "title": "The Confidence Multiplier Effect",
+        "points": [
+            "Clear guidance becomes the foundation upon which confidence builds its steady tower.",
+            "When people understand expectations and possess the right tools, uncertainty's grip loosens its hold.",
+            "Confidence creates an upward spiral—success breeds more success, clarity enables greater clarity.",
+            "The supported individual moves from tentative steps to assured strides, transforming potential into consistent performance."
+        ],
+        "layout": "layout-boxed",
+        "theme": "theme-green",
+        "category": "FOUNDATIONAL COMMUNICATION SKILLS"
+    },
+    {
+        "title": "Support as the Architecture of Engagement",
+        "points": [
+            "Feeling genuinely supported transforms work from mere obligation into meaningful contribution.",
+            "When people sense that their success matters to others, loyalty emerges naturally from that recognition.",
+            "Support signals investment—it communicates that the individual's growth has value beyond immediate output.",
+            "Engagement cannot be mandated, but it can be cultivated through consistent, thoughtful support systems."
+        ],
+        "layout": "layout-split",
+        "theme": "theme-purple",
+        "category": "FOUNDATIONAL COMMUNICATION SKILLS"
+    },
+    {
+        "title": "Consistency Through Structure",
+        "points": [
+            "Clear expectations eliminate the guesswork that leads to variable performance and accumulated errors.",
+            "When support systems operate predictably, excellence becomes reproducible rather than accidental.",
+            "Feedback loops create stability—people know not just what to do, but how they're doing it.",
+            "Consistent results emerge from consistent support, creating reliability that benefits everyone in the ecosystem."
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-blue",
+        "category": "FOUNDATIONAL COMMUNICATION SKILLS"
+    }
     // ===================================
     // SECTION 7: CHALLENGING COMMUNICATION SCENARIOS
     // ===================================
