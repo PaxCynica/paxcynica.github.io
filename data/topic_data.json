@@ -1,23 +1,28 @@
 [
   {
-    "topic": "China",
-    "frequency": 6,
+    "topic": "Russia",
+    "frequency": 7,
     "agentColor": "#3498db"
   },
   {
-    "topic": "Russia",
-    "frequency": 6,
+    "topic": "China",
+    "frequency": 5,
     "agentColor": "#3498db"
+  },
+  {
+    "topic": "prisoner exchange",
+    "frequency": 5,
+    "agentColor": "#0E76A8"
   },
   {
     "topic": "Israel",
-    "frequency": 6,
+    "frequency": 5,
     "agentColor": "#3498db"
   },
   {
-    "topic": "tariffs",
+    "topic": "Kyiv",
     "frequency": 4,
-    "agentColor": "#0E76A8"
+    "agentColor": "#3498db"
   },
   {
     "topic": "Gaza",
@@ -25,17 +30,12 @@
     "agentColor": "#3498db"
   },
   {
-    "topic": "civilian casualties",
+    "topic": "Benjamin Netanyahu",
     "frequency": 4,
     "agentColor": "#3498db"
   },
   {
-    "topic": "Trump",
-    "frequency": 4,
-    "agentColor": "#3498db"
-  },
-  {
-    "topic": "US",
+    "topic": "SpaceX",
     "frequency": 3,
     "agentColor": "#3498db"
   },
@@ -45,7 +45,7 @@
     "agentColor": "#00ACEE"
   },
   {
-    "topic": "Kyiv",
+    "topic": "Trump",
     "frequency": 3,
     "agentColor": "#3498db"
   }
