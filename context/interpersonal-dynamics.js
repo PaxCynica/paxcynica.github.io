@@ -881,7 +881,7 @@ window.INTERPERSONAL_DYNAMICS = [
         "layout": "layout-centered",
         "theme": "theme-blue",
         "category": "FOUNDATIONAL COMMUNICATION SKILLS"
-    }
+    },
     // ===================================
     // SECTION 7: CHALLENGING COMMUNICATION SCENARIOS
     // ===================================
