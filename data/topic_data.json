@@ -1,51 +1,51 @@
 [
   {
-    "topic": "China",
-    "frequency": 8,
-    "agentColor": "#3498db"
-  },
-  {
-    "topic": "sanctions",
-    "frequency": 8,
-    "agentColor": "#3498db"
-  },
-  {
     "topic": "Russia",
-    "frequency": 8,
+    "frequency": 7,
     "agentColor": "#3498db"
   },
   {
-    "topic": "Israel",
+    "topic": "China",
     "frequency": 6,
     "agentColor": "#3498db"
   },
   {
-    "topic": "US",
+    "topic": "Ukraine",
+    "frequency": 6,
+    "agentColor": "#00ACEE"
+  },
+  {
+    "topic": "Trump",
+    "frequency": 6,
+    "agentColor": "#3498db"
+  },
+  {
+    "topic": "Gaza",
     "frequency": 5,
     "agentColor": "#3498db"
   },
   {
-    "topic": "Ukraine",
+    "topic": "Israel",
+    "frequency": 5,
+    "agentColor": "#3498db"
+  },
+  {
+    "topic": "tariffs",
     "frequency": 4,
+    "agentColor": "#0E76A8"
+  },
+  {
+    "topic": "drought",
+    "frequency": 4,
+    "agentColor": "#3498db"
+  },
+  {
+    "topic": "semiconductor industry",
+    "frequency": 3,
     "agentColor": "#00ACEE"
   },
   {
-    "topic": "EU",
-    "frequency": 4,
-    "agentColor": "#3498db"
-  },
-  {
-    "topic": "Trump",
-    "frequency": 4,
-    "agentColor": "#3498db"
-  },
-  {
-    "topic": "Intel",
-    "frequency": 3,
-    "agentColor": "#3498db"
-  },
-  {
-    "topic": "AMD",
+    "topic": "sanctions",
     "frequency": 3,
     "agentColor": "#3498db"
   }
