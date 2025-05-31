@@ -547,17 +547,39 @@
 
             // Get the context files
             const contextFiles = [
+                // FOUNDATIONAL CONCEPTS
                 'what-is-information.js',
                 'historical-patterns.js',
-                'human-networks.js',
-                'interpersonal-dynamics.js',
+
+                // DETECTION & ANALYSIS
+                'technical-detection-skills.js',
+                'advanced-pattern-recognition.js',
                 'manipulation-tactics.js',
-                'machine-targeting.js',
-                'irregular-warfare.js',
-                'challenge-conspiracies.js',
+
+                // DEFENSIVE MINDSET & OPERATIONS
+                'counter-intelligence-mindset.js',
+                'proactive-defense.js',
                 'literacy-in-hostile-environments.js',
-                'building-information-resilience.js',
-                'personal-skills.js'
+
+                // HUMAN & SOCIAL DYNAMICS
+                'resistance-networks-and-operations.js',
+                'interpersonal-dynamics.js',
+
+                // INDIVIDUAL DEVELOPMENT
+                'physiological-psychological-resilience.js',
+
+                // INVESTIGATION & RESPONSE
+                'attribution-and-investigation.js',
+                'recovery-and-remediation.js',
+                'advanced-countermeasures.js',
+
+                // SPECIALIZED APPLICATIONS
+                'specialized-contexts.js',
+                'survival-and-extremism.js',
+                'tools-and-resources.js',
+
+                // ADVANCED DOMAINS
+                'machine-targeting.js'
             ];
 
             // Update your loadScript function to track which file each dataset comes from
@@ -667,7 +689,7 @@
 
                 // Extract unique categories
                 categories = [...new Set(allData.map(item => item.category))];
-                
+
                 // Initialize the UI
                 renderCategories();
 
@@ -696,7 +718,7 @@
                     // Get categories from this source, preserving original order
                     const sourceData = allData.filter(item => item.sourceFile === source);
                     const uniqueCategories = [];
-                    
+
                     // Keep only the first occurrence of each category to maintain order
                     sourceData.forEach(item => {
                         if (!uniqueCategories.includes(item.category)) {

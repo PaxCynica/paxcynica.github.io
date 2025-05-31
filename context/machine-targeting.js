@@ -1,133 +1,75 @@
 window.MACHINE_TARGETING = [
-    // SECTION 1: INTRODUCTION AND FRAMING
+    // SECTION 1: INTRODUCTION AND FRAMING (Streamlined from 6 to 3 cards)
     // ===================================
     {
         "title": "PREDICTION RESISTANCE",
         "points": [
-            "Prediction and manipulation systems are persistent, but you can counter them.",
-            "Defense Through Awareness means understanding how predictions shape influence and actively resisting that pull."
+            "Prediction and influence systems are persistent, but you can counter them.",
+            "Defense Through Awareness means understanding how predictions shape influence and actively building resistance.",
+            "This knowledge empowers you to make more conscious digital choices."
         ],
         "layout": "layout-centered",
         "theme": "theme-purple",
         "category": "PREDICTION RESISTANCE"
     },
     {
-        "title": "Research on Prediction",
+        "title": "What Digital Prediction Reveals",
         "points": [
-            "Consider how much your online activity reveals about you.",
-            "Academic work, such as 'Human and Computer Personality Prediction from Digital Footprints' (Hinds & Joinson, 2019), shows that digital traces form detailed profiles.",
-            "This research is both enlightening and unsettling."
-        ],
-        "layout": "layout-centered",
-        "theme": "theme-purple",
-        "category": "INTRODUCTION AND FRAMING"
-    },
-    {
-        "title": "Why This Research Matters",
-        "points": [
-            "Every like, post, and share creates a data trail.",
-            "Algorithms often predict personality traits better than your closest acquaintances.",
-            "Manipulators use these insights to craft tailored disinformation.",
-            "Understanding what is known about you is essential for defense."
+            "Research shows that algorithms can predict your personality better than close friends or family.",
+            "Academic work like 'Human and Computer Personality Prediction from Digital Footprints' (Hinds & Joinson, 2019) demonstrates how digital traces form detailed psychological profiles.",
+            "You can learn to recognize when this profiling happens and how to limit its effectiveness.",
+            "Understanding what systems know about you is essential for digital self-defense."
         ],
         "layout": "layout-boxed",
         "theme": "theme-purple",
         "category": "INTRODUCTION AND FRAMING"
     },
     {
-        "title": "What The Science Shows",
+        "title": "Building Digital Awareness",
         "points": [
-            "Digital behavior easily models your personality.",
-            "Certain online actions reveal more about you than you might imagine.",
-            "Machines can discern your traits with greater accuracy than human observers.",
-            "Every interaction contributes to an evolving profile of you."
-        ],
-        "layout": "layout-split",
-        "theme": "theme-purple",
-        "category": "INTRODUCTION AND FRAMING"
-    },
-    {
-        "title": "Knowledge Areas",
-        "points": [
-            "Digital Footprint Risks – How minor actions build significant profiles.",
-            "Predictive Profiling – The science behind behavioral modeling.",
-            "Personality Targeting – The use of predictions for manipulation.",
-            "Defense Through Awareness – Empowering yourself with knowledge."
-        ],
-        "layout": "layout-boxed",
-        "theme": "theme-purple",
-        "category": "INTRODUCTION AND FRAMING"
-    },
-    {
-        "title": "Why Share This Information",
-        "points": [
-            "Academic research often remains inaccessible, yet its insights affect us all.",
-            "Manipulators already exploit these techniques.",
-            "You deserve a clear understanding of these systems and how to resist them.",
-            "Informed awareness is your strongest defense."
+            "You deserve to understand how prediction systems work and how to resist them.",
+            "Academic research often stays hidden, but its insights affect your daily digital experience.",
+            "This information helps you recognize manipulation attempts and make informed choices.",
+            "Awareness transforms you from target to informed participant."
         ],
         "layout": "layout-centered",
         "theme": "theme-purple",
         "category": "INTRODUCTION AND FRAMING"
     },
     // ===================================
-    // SECTION 2: HOW PREDICTION WORKS (THE MECHANICS)
+    // SECTION 2: HOW PREDICTION WORKS (Streamlined from 6 to 3 cards)
     // ===================================
     {
-        "title": "Human vs. Machine Prediction",
+        "title": "Machine vs Human Prediction",
         "points": [
-            "Research shows machines predict personality better from digital footprints.",
-            "Algorithms can know you better than colleagues (10 likes), friends (70 likes), or even your partner (300 likes)."
+            "Research shows machines predict personality better from digital footprints than humans do from face-to-face interaction.",
+            "Algorithms can know you better than colleagues (10 likes), friends (70 likes), or even your partner (300 likes).",
+            "They analyze likes, shares, timing, and language patterns that humans miss.",
+            "You can understand this advantage and use it to protect yourself."
         ],
         "layout": "layout-split",
         "theme": "theme-blue",
         "category": "HOW PREDICTION WORKS"
     },
     {
-        "title": "How Algorithms Guess",
+        "title": "How Personality Profiling Works",
         "points": [
-            "Algorithms analyze likes, shares, timing, and language.",
-            "They calculate, not judge, based on your digital activity."
-        ],
-        "layout": "layout-split",
-        "theme": "theme-blue",
-        "category": "HOW PREDICTION WORKS"
-    },
-    {
-        "title": "How Personality Prediction Works",
-        "points": [
-            "Digital behavior is mapped to Big Five traits.",
-            "Every interaction refines the algorithm's understanding of you."
+            "Digital behavior is mapped to Big Five personality traits (openness, conscientiousness, extraversion, agreeableness, neuroticism).",
+            "Algorithms aggregate patterns across millions of users to refine predictions.",
+            "Every interaction trains the model and refines their understanding of you.",
+            "You can recognize this process happening and choose to disrupt it."
         ],
         "layout": "layout-boxed",
         "theme": "theme-blue",
         "category": "HOW PREDICTION WORKS"
     },
     {
-        "title": "Pattern Recognition",
-        "points": [
-            "Algorithms aggregate patterns across users.",
-            "Predictions become eerily accurate as you train their models."
-        ],
-        "layout": "layout-boxed",
-        "theme": "theme-blue",
-        "category": "HOW PREDICTION WORKS"
-    },
-    {
-        "title": "Minimal Data Profiling",
+        "title": "From Data Points to Psychology",
         "points": [
             "A few likes can reveal openness, agreeableness, and political leanings.",
-            "Every interaction is a data point in your psychological profile."
-        ],
-        "layout": "layout-split",
-        "theme": "theme-blue",
-        "category": "HOW PREDICTION WORKS"
-    },
-    {
-        "title": "Big Five Psychology",
-        "points": [
-            "Platforms assess your openness, conscientiousness, extraversion, agreeableness, and neuroticism.",
-            "Profiling happens without explicit consent, making you vulnerable to manipulation."
+            "Platforms assess your full psychological profile without explicit consent.",
+            "Every interaction becomes a data point in your psychological fingerprint.",
+            "You can limit this profiling by understanding what reveals the most about you."
         ],
         "layout": "layout-split",
         "theme": "theme-blue",
@@ -135,120 +77,63 @@ window.MACHINE_TARGETING = [
     },
 
     // ===================================
-    // SECTION 3: WHAT GETS REVEALED (THE EXPOSURE)
+    // SECTION 3: WHAT GETS REVEALED (Streamlined from 10 to 5 cards)
     // ===================================
     {
-        "title": "Digital Footprint Risks",
+        "title": "Your Digital Exposure",
         "points": [
-            "Your online activity compiles a detailed profile.",
-            "Algorithms and strangers can infer intimate details about you.",
-            "Seemingly harmless clicks contribute to psychological profiles.",
-            "Understand and manage your digital shadow."
+            "Your online activity compiles a detailed psychological profile.",
+            "Casual posts, likes, and comments expose personal traits without your consent.",
+            "Seemingly harmless clicks contribute to accurate psychological fingerprints.",
+            "You can understand and manage your digital shadow more effectively."
         ],
         "layout": "layout-centered",
         "theme": "theme-green",
         "category": "WHAT GETS REVEALED"
     },
     {
-        "title": "Personality Leakage",
+        "title": "Behavioral Patterns Leak Data",
         "points": [
-            "Casual posts, likes, and comments expose personal data.",
-            "Platforms infer traits from your online actions, often without consent.",
-            "Be aware of unintentional exposure."
-        ],
-        "layout": "layout-centered",
-        "theme": "theme-green",
-        "category": "WHAT GETS REVEALED"
-    },
-    {
-        "title": "Time Patterns Reveal You",
-        "points": [
-            "Late-night posting can suggest impulsivity or anxiety.",
-            "Consistent activity may indicate conscientiousness.",
-            "Even sleep patterns become data points.",
-            "Your routine reveals more than you realize."
+            "Late-night posting can suggest impulsivity or anxiety while consistent activity indicates conscientiousness.",
+            "Frequent use of 'I' links to neuroticism, and emotional words map to personality traits.",
+            "Even sleep patterns and posting rhythms become data points in your profile.",
+            "You can recognize these patterns and choose when to reveal less about yourself."
         ],
         "layout": "layout-split",
         "theme": "theme-green",
         "category": "WHAT GETS REVEALED"
     },
     {
-        "title": "Language Usage Leaks",
+        "title": "What You Consume Reveals You",
         "points": [
-            "Frequent use of \"I\" can link to neuroticism.",
-            "Swearing may correlate with openness.",
-            "Emotional words map to extraversion or agreeableness.",
-            "Your word choice fuels profiling."
+            "Binging genres hints at psychological needs while music preferences link to personality traits.",
+            "Brand follows signal extroversion, solitary hobbies flag introversion, and playlists construct psychological profiles.",
+            "Engagement with influencers maps your leanings and political preferences.",
+            "You can diversify your consumption patterns to limit psychological profiling."
         ],
         "layout": "layout-boxed",
         "theme": "theme-green",
         "category": "WHAT GETS REVEALED"
     },
     {
-        "title": "Media Consumption Patterns",
+        "title": "Your Digital Fingerprint",
         "points": [
-            "Binging genres hints at psychological needs.",
-            "Engagement with influencers maps your leanings.",
-            "Playlists offer psychographic insights.",
-            "What you consume defines what they infer."
+            "Frequent sharing signals specific traits, curated posting suggests conscientiousness, and even silence provides data.",
+            "Scrolling habits create an ongoing psychological dossier that's remarkably accurate.",
+            "Posts construct a comprehensive psychological fingerprint that manipulators can leverage.",
+            "You can be more mindful of your digital record and posting patterns."
         ],
         "layout": "layout-split",
         "theme": "theme-green",
         "category": "WHAT GETS REVEALED"
     },
     {
-        "title": "Social Media Signals",
+        "title": "The Vulnerability Factor",
         "points": [
-            "Brand follows can signal extroversion.",
-            "Solitary hobbies may flag introversion.",
-            "Algorithms don't guess—they calculate.",
-            "Your follows create a personality fingerprint."
-        ],
-        "layout": "layout-boxed",
-        "theme": "theme-green",
-        "category": "WHAT GETS REVEALED"
-    },
-    {
-        "title": "Music As Personality Signal",
-        "points": [
-            "Classical/jazz links to openness.",
-            "Pop hits indicate extraversion.",
-            "Spotify data reveals more than you think.",
-            "Playlists construct psychological profiles."
-        ],
-        "layout": "layout-split",
-        "theme": "theme-green",
-        "category": "WHAT GETS REVEALED"
-    },
-    {
-        "title": "Posting Patterns As Data",
-        "points": [
-            "Frequent sharing signals specific traits.",
-            "Curated posting suggests conscientiousness.",
-            "Even silence provides data.",
-            "Your posting rhythm speaks volumes."
-        ],
-        "layout": "layout-boxed",
-        "theme": "theme-green",
-        "category": "WHAT GETS REVEALED"
-    },
-    {
-        "title": "The Invisible Dossier",
-        "points": [
-            "Scrolling habits create an ongoing psychological dossier.",
-            "This profiling is remarkably accurate.",
-            "Be mindful of your digital record."
-        ],
-        "layout": "layout-boxed",
-        "theme": "theme-green",
-        "category": "WHAT GETS REVEALED"
-    },
-    {
-        "title": "Psychological Fingerprinting",
-        "points": [
-            "Posts construct a psychological fingerprint.",
-            "Manipulators leverage this knowledge.",
-            "Your actions can reveal vulnerabilities."
+            "Your actions can reveal psychological vulnerabilities that become targeting vectors.",
+            "This profiling happens continuously and automatically, building detailed dossiers over time.",
+            "Algorithms don't guess—they calculate precise psychological profiles from your behavior.",
+            "You can limit these vulnerabilities by understanding what reveals the most about you."
         ],
         "layout": "layout-centered",
         "theme": "theme-green",
@@ -256,412 +141,223 @@ window.MACHINE_TARGETING = [
     },
 
     // ===================================
-    // SECTION 4: HOW PLATFORMS EXPLOIT THIS INFORMATION
+    // SECTION 4: HOW PLATFORMS EXPLOIT & THE DANGERS (Consolidated from 31 to 12 cards)
     // ===================================
+    // Platform Mechanics
     {
-        "title": "Platform Biases",
+        "title": "Algorithmic Reality Manipulation",
         "points": [
             "You believe you see reality, but platforms show you what algorithms choose.",
-            "Platform biases shape your digital world, reinforcing personality traits."
+            "Algorithms prioritize engagement over truth, creating distorted worldviews.",
+            "You can learn to recognize when your feed doesn't reflect actual reality.",
+            "Understanding this bias helps you seek more balanced information sources."
         ],
         "layout": "layout-centered",
         "theme": "theme-sunset",
-        "category": "HOW PLATFORMS EXPLOIT THIS INFORMATION"
+        "category": "PLATFORM EXPLOITATION & DANGERS"
     },
     {
-        "title": "Algorithm Engagement",
+        "title": "Behavioral Feedback Loops",
         "points": [
-            "Algorithms prioritize engagement.",
-            "Content shapes reactions, feeding personality profiling.",
-            "You're continuously nudged and studied."
+            "Platforms create cycles where you engage, algorithms show more of the same, and identity becomes reinforced.",
+            "Recent interactions appear more often, turning temporary moods into seemingly stable traits.",
+            "You can break these cycles by consciously diversifying your digital behavior.",
+            "Recognition of these patterns gives you power to resist algorithmic conditioning."
         ],
         "layout": "layout-boxed",
         "theme": "theme-sunset",
-        "category": "HOW PLATFORMS EXPLOIT THIS INFORMATION"
+        "category": "PLATFORM EXPLOITATION & DANGERS"
     },
     {
-        "title": "Emotional Content Bias",
+        "title": "Emotional Manipulation at Scale",
         "points": [
-            "Outrage posts get boosted, signaling your profile.",
-            "Feeds become confrontational.",
-            "Your personality is distorted."
+            "Platforms boost outrage and validation content because it generates the most engagement.",
+            "Your emotional responses become data points that refine targeting algorithms.",
+            "You can notice when content is designed to trigger rather than inform.",
+            "This awareness helps you respond thoughtfully instead of reactively."
         ],
         "layout": "layout-split",
         "theme": "theme-sunset",
-        "category": "HOW PLATFORMS EXPLOIT THIS INFORMATION"
+        "category": "PLATFORM EXPLOITATION & DANGERS"
     },
     {
-        "title": "Validation Loops",
+        "title": "The Illusion of Privacy Control",
         "points": [
-            "Platforms create feel-good feedback cycles.",
-            "Positive reinforcement extracts more data.",
-            "The more validated, the more you reveal."
-        ],
-        "layout": "layout-split",
-        "theme": "theme-sunset",
-        "category": "HOW PLATFORMS EXPLOIT THIS INFORMATION"
-    },
-    {
-        "title": "Digital Mirrors",
-        "points": [
-            "Social media is a mirror shaping your life.",
-            "Platforms deepen patterns, reinforcing identity.",
-            "Online behavior creates identity feedback loops."
-        ],
-        "layout": "layout-centered",
-        "theme": "theme-sunset",
-        "category": "HOW PLATFORMS EXPLOIT THIS INFORMATION"
-    },
-    {
-        "title": "Behavioral Reinforcement",
-        "points": [
-            "You engage; algorithms show more of the same.",
-            "Identity and behavior are reinforced.",
-            "The system predicts a digital version of you."
+            "Privacy settings create a false sense of data control while deeper collection continues.",
+            "What you can't control through settings is often the most valuable to platforms.",
+            "You can understand these limitations and take additional protective measures.",
+            "Real privacy requires actions beyond platform-provided settings."
         ],
         "layout": "layout-boxed",
         "theme": "theme-sunset",
-        "category": "HOW PLATFORMS EXPLOIT THIS INFORMATION"
-    },
-    {
-        "title": "Recency and Repetition",
-        "points": [
-            "Recent interactions appear more often.",
-            "Temporary moods become stable traits.",
-            "Algorithms create feedback cycles.",
-            "Yesterday's mood models today's personality."
-        ],
-        "layout": "layout-boxed",
-        "theme": "theme-sunset",
-        "category": "HOW PLATFORMS EXPLOIT THIS INFORMATION"
-    },
-    {
-        "title": "Community Bias",
-        "points": [
-            "Platforms emphasize group affiliation.",
-            "Engaging with voices fills your feed.",
-            "Personality reflects the echo chamber.",
-            "Platform choices shape identity."
-        ],
-        "layout": "layout-split",
-        "theme": "theme-sunset",
-        "category": "HOW PLATFORMS EXPLOIT THIS INFORMATION"
-    },
-    {
-        "title": "Political Radicalization Funnels",
-        "points": [
-            "One angry comment leads to more outrage.",
-            "You believe you're discovering truth.",
-            "Algorithms maximize engagement, not balance.",
-            "You're guided into a funnel."
-        ],
-        "layout": "layout-split",
-        "theme": "theme-sunset",
-        "category": "HOW PLATFORMS EXPLOIT THIS INFORMATION"
-    },
-    {
-        "title": "Identity Consumption",
-        "points": [
-            "Buy one item, see similar ads.",
-            "Your feed defines who you are supposed to be.",
-            "Consumer patterns become identity.",
-            "You become what you repeatedly see and do."
-        ],
-        "layout": "layout-boxed",
-        "theme": "theme-sunset",
-        "category": "HOW PLATFORMS EXPLOIT THIS INFORMATION"
-    },
-    {
-        "title": "Reality Shifts",
-        "points": [
-            "Self-perception shifts with algorithmic feedback.",
-            "Echo chambers reinforce behaviors.",
-            "Online behavior becomes offline reality.",
-            "Digital patterns change real-world personality."
-        ],
-        "layout": "layout-split",
-        "theme": "theme-sunset",
-        "category": "HOW PLATFORMS EXPLOIT THIS INFORMATION"
-    },
-    {
-        "title": "Distorted Reflections",
-        "points": [
-            "The digital mirror is distorted.",
-            "It shows who is profitable, not who you are.",
-            "It traps you in behavioral loops.",
-            "Self-discovery is often guided manipulation."
-        ],
-        "layout": "layout-centered",
-        "theme": "theme-sunset",
-        "category": "HOW PLATFORMS EXPLOIT THIS INFORMATION"
-    },
-    {
-        "title": "Privacy Theater",
-        "points": [
-            "Platforms create a false sense of data control.",
-            "Settings mask deeper data collection.",
-            "Profiling continues under the illusion of privacy.",
-            "What you can't control is most valuable."
-        ],
-        "layout": "layout-boxed",
-        "theme": "theme-sunset",
-        "category": "HOW PLATFORMS EXPLOIT THIS INFORMATION"
+        "category": "PLATFORM EXPLOITATION & DANGERS"
     },
 
-    // ===================================
-    // SECTION 5: THE DANGERS (WHY YOU SHOULD CARE)
-    // ===================================
+    // Targeting & Manipulation
     {
-        "title": "Manipulation Engines",
+        "title": "Precision Influence Operations",
         "points": [
-            "Prediction powers manipulation.",
-            "Better predictions enable emotional triggers.",
-            "Microtargeting becomes more effective.",
-            "Outrage and engagement loops tighten."
-        ],
-        "layout": "layout-boxed",
-        "theme": "theme-purple",
-        "category": "THE DANGERS"
-    },
-    {
-        "title": "Microtargeting",
-        "points": [
-            "Political and commercial campaigns use machine-level predictions.",
-            "The goal is to nudge the right people at the right moment."
-        ],
-        "layout": "layout-boxed",
-        "theme": "theme-purple",
-        "category": "THE DANGERS"
-    },
-    {
-        "title": "The Danger",
-        "points": [
-            "Machines predict vulnerabilities.",
-            "Manipulators exploit them.",
-            "You're subtly steered while feeling free."
-        ],
-        "layout": "layout-split",
-        "theme": "theme-purple",
-        "category": "THE DANGERS"
-    },
-    {
-        "title": "Manipulation is the Destination",
-        "points": [
-            "Prediction models and platform tactics lead to manipulation.",
-            "Prediction is the key."
-        ],
-        "layout": "layout-split",
-        "theme": "theme-purple",
-        "category": "THE DANGERS"
-    },
-    {
-        "title": "Predictability Problem",
-        "points": [
-            "You become predictable over time.",
-            "Predictability facilitates manipulation.",
-            "You're the product, not the user.",
-            "Increased knowledge reduces your freedom."
-        ],
-        "layout": "layout-split",
-        "theme": "theme-purple",
-        "category": "THE DANGERS"
-    },
-    {
-        "title": "Automated Manipulation",
-        "points": [
-            "Manipulation is automated at scale.",
-            "Data brokers profit from your psychological profile.",
-            "Precision targeting erodes democracy and agency.",
-            "Machine learning optimizes persuasion in real-time."
+            "Accurate predictions enable sophisticated microtargeting by political and commercial campaigns.",
+            "The goal is nudging specific people at psychologically optimal moments.",
+            "You can recognize when content feels unusually tailored to your current state.",
+            "Awareness of timing and personalization helps you evaluate messages more critically."
         ],
         "layout": "layout-centered",
         "theme": "theme-purple",
-        "category": "THE DANGERS"
-    },
-    {
-        "title": "Prediction Accuracy",
-        "points": [
-            "Prediction accuracy enables manipulation.",
-            "They know when you're stressed or lonely.",
-            "They know when you're receptive to messages."
-        ],
-        "layout": "layout-centered",
-        "theme": "theme-purple",
-        "category": "THE DANGERS"
-    },
-    {
-        "title": "Personality Prediction Dangers",
-        "points": [
-            "Tailored manipulation becomes possible.",
-            "Disinformation triggers based on your profile.",
-            "Exploitation is invisible.",
-            "Your traits become vulnerabilities."
-        ],
-        "layout": "layout-centered",
-        "theme": "theme-purple",
-        "category": "THE DANGERS"
+        "category": "PLATFORM EXPLOITATION & DANGERS"
     },
     {
         "title": "Invisible Engineering",
         "points": [
-            "You trust what \"feels right.\"",
-            "But it's engineered for you.",
-            "It nudges, doesn't persuade.",
-            "Effective manipulation feels like your idea."
+            "Effective manipulation feels like your own idea rather than external persuasion.",
+            "Systems are engineered to bypass critical thinking through emotional triggers.",
+            "You can develop the habit of pausing when something 'feels right' without clear reasoning.",
+            "This deliberate approach helps you distinguish genuine insight from engineered response."
         ],
         "layout": "layout-split",
         "theme": "theme-purple",
-        "category": "THE DANGERS"
+        "category": "PLATFORM EXPLOITATION & DANGERS"
     },
     {
-        "title": "Why Personality Leakage Matters",
+        "title": "Your Profile as Currency",
         "points": [
-            "Employers use personality inference tools.",
-            "Political campaigns micro-target based on inferred traits.",
-            "Health insurers are testing digital profiling.",
-            "Privacy leaks start with personality leakage."
+            "Platforms profit by turning your traits, biases, and behavioral patterns into marketable data.",
+            "Predictability increases your value to advertisers and influence operations.",
+            "You can reduce this value by being less predictable and sharing less personal data.",
+            "Understanding your data's worth helps you make informed choices about what to reveal."
+        ],
+        "layout": "layout-boxed",
+        "theme": "theme-purple",
+        "category": "PLATFORM EXPLOITATION & DANGERS"
+    },
+
+    // Real-World Impact
+    {
+        "title": "Beyond Digital: Real-World Consequences",
+        "points": [
+            "Employers use personality inference tools for hiring decisions.",
+            "Political campaigns micro-target based on inferred psychological traits.",
+            "Health insurers are testing digital profiling for risk assessment.",
+            "You can limit these risks by understanding how digital behavior translates to real-world judgments."
         ],
         "layout": "layout-centered",
         "theme": "theme-purple",
-        "category": "THE DANGERS"
+        "category": "PLATFORM EXPLOITATION & DANGERS"
     },
     {
-        "title": "Why Algorithm Bias Matters",
+        "title": "Identity Exploitation",
         "points": [
-            "Algorithms, not you, shape your profile.",
-            "Campaigns target the platform's version of you.",
-            "Bias in, bias out.",
-            "Distortions profile you as much as truth."
-        ],
-        "layout": "layout-centered",
-        "theme": "theme-purple",
-        "category": "THE DANGERS"
-    },
-    {
-        "title": "Manipulation Risk",
-        "points": [
-            "Data crafts messages bypassing logic.",
-            "Personalized disinformation exploits triggers.",
-            "The trap is tailored and invisible.",
-            "Your profile enables targeted influence."
-        ],
-        "layout": "layout-centered",
-        "theme": "theme-purple",
-        "category": "THE DANGERS"
-    },
-    {
-        "title": "The Stakes Are High",
-        "points": [
-            "Personalized disinformation targets weaknesses.",
-            "Pre-persuasion nudges act unnoticed.",
-            "Psychological profiling occurs at scale.",
-            "This is reality, not science fiction."
+            "Cultural identity, gender roles, and personal values become targeting vectors.",
+            "Messages exploit cultural reference points to bypass critical thinking.",
+            "You can recognize when content leverages your identity rather than addressing your interests.",
+            "This awareness protects your values from being weaponized against you."
         ],
         "layout": "layout-split",
         "theme": "theme-purple",
-        "category": "THE DANGERS"
+        "category": "PLATFORM EXPLOITATION & DANGERS"
     },
     {
-        "title": "Daily Life Online",
+        "title": "Automated Manipulation at Scale",
         "points": [
-            "This isn't just academic.",
-            "It's your daily online experience.",
-            "Prediction engines power suggestions and outrage."
-        ],
-        "layout": "layout-boxed",
-        "theme": "theme-purple",
-        "category": "THE DANGERS"
-    },
-    {
-        "title": "Platform Profit Incentives",
-        "points": [
-            "Platforms profit from manipulation.",
-            "Your traits become currency.",
-            "Your biases become commodities.",
-            "Your shortcuts become product pipelines."
-        ],
-        "layout": "layout-boxed",
-        "theme": "theme-purple",
-        "category": "THE DANGERS"
-    },
-    {
-        "title": "Footprint as Currency",
-        "points": [
-            "Your digital footprint is currency.",
-            "Predictability increases your value.",
-            "Oversharing teaches future manipulation.",
-            "Your data fuels influence systems."
-        ],
-        "layout": "layout-boxed",
-        "theme": "theme-purple",
-        "category": "THE DANGERS"
-    },
-    {
-        "title": "Gendered Manipulation",
-        "points": [
-            "Tactics target identity and gender roles.",
-            "Messaging varies by inferred gender.",
-            "Cultural expectations are exploited.",
-            "Identity-based targeting is more effective."
-        ],
-        "layout": "layout-boxed",
-        "theme": "theme-purple",
-        "category": "THE DANGERS"
-    },
-    {
-        "title": "Cultural Framing",
-        "points": [
-            "Narratives exploit cultural reference points.",
-            "Your background becomes a manipulation channel.",
-            "Values-based messages bypass critical thinking.",
-            "Cultural identity enables precise manipulation."
+            "Machine learning optimizes persuasion in real-time across millions of users.",
+            "Personalized disinformation targets individual psychological vulnerabilities.",
+            "You can recognize patterns that suggest automated rather than human communication.",
+            "Understanding scale helps you realize when you're facing algorithmic rather than personal influence."
         ],
         "layout": "layout-centered",
         "theme": "theme-purple",
-        "category": "THE DANGERS"
+        "category": "PLATFORM EXPLOITATION & DANGERS"
+    },
+
+    // System-Level Threats
+    {
+        "title": "Democratic Implications",
+        "points": [
+            "Precision targeting erodes shared reality necessary for democratic discourse.",
+            "Echo chambers reinforce existing beliefs rather than encouraging thoughtful debate.",
+            "You can actively seek diverse perspectives to counteract algorithmic narrowing.",
+            "Conscious information diversity strengthens both personal and democratic resilience."
+        ],
+        "layout": "layout-boxed",
+        "theme": "theme-purple",
+        "category": "PLATFORM EXPLOITATION & DANGERS"
+    },
+    {
+        "title": "The Prediction-Manipulation Pipeline",
+        "points": [
+            "Better predictions enable more effective emotional triggers and behavioral nudges.",
+            "This isn't science fiction—it's your daily online experience right now.",
+            "You can disrupt this pipeline by being less predictable and more aware.",
+            "Every conscious choice you make weakens the system's ability to manipulate you."
+        ],
+        "layout": "layout-split",
+        "theme": "theme-purple",
+        "category": "PLATFORM EXPLOITATION & DANGERS"
     },
 
     // ===================================
-    // SECTION 6: DEFENSE STRATEGIES (WHAT YOU CAN DO)
+    // SECTION 5: DEFENSE STRATEGIES (Streamlined from 15 to 8 cards)
     // ===================================
+
+    // Data Protection
     {
-        "title": "Digital Hygiene",
+        "title": "Data Minimization",
         "points": [
             "Limit public sharing to reduce your digital footprint.",
-            "Avoid oversharing location or emotional states.",
-            "Mute or block manipulative engagement baits."
+            "Avoid oversharing location, emotional states, or personal details.",
+            "Use privacy-focused browsers and avoid linking accounts across platforms.",
+            "The less predictable you are, the safer you are."
         ],
         "layout": "layout-boxed",
-        "theme": "theme-blue",
-        "category": "DEFENSE STRATEGIES"
-    },
-    {
-        "title": "Mental Hygiene",
-        "points": [
-            "Pause before reacting to online content.",
-            "Question the urgency of information presented.",
-            "Ask: Does this post make me feel or think?"
-        ],
-        "layout": "layout-split",
         "theme": "theme-blue",
         "category": "DEFENSE STRATEGIES"
     },
     {
         "title": "Platform-Level Defense",
         "points": [
-            "Adjust privacy settings on all platforms.",
+            "Adjust privacy settings on all platforms, understanding their limitations.",
             "Disable ad personalization where possible.",
-            "Use multiple browsers and clear cookies regularly."
+            "Use multiple browsers and clear cookies regularly.",
+            "Reset algorithms by deleting watch history or pausing activity tracking."
+        ],
+        "layout": "layout-split",
+        "theme": "theme-blue",
+        "category": "DEFENSE STRATEGIES"
+    },
+
+    // Mental Awareness
+    {
+        "title": "Mental Hygiene",
+        "points": [
+            "Pause before reacting to online content.",
+            "Question the urgency of information presented.",
+            "Ask: Does this post make me feel or think?",
+            "If it feels engineered, it probably is."
+        ],
+        "layout": "layout-split",
+        "theme": "theme-blue",
+        "category": "DEFENSE STRATEGIES"
+    },
+    {
+        "title": "Spotting Manipulation",
+        "points": [
+            "Watch for outrage triggers and repeated emotional patterns in content.",
+            "Recognize when content feels unusually tailored to your current state.",
+            "Note sudden shifts in recommended content or mood whiplash from your feed.",
+            "Identify when content leverages your identity rather than addressing your interests."
         ],
         "layout": "layout-boxed",
         "theme": "theme-blue",
         "category": "DEFENSE STRATEGIES"
     },
+
+    // Behavioral Disruption
     {
-        "title": "Psychological Self-Defense",
+        "title": "Breaking Predictable Patterns",
         "points": [
-            "Watch for outrage triggers in content.",
-            "Notice patterns of repetition in messaging.",
+            "Randomize online behaviors to break predictable patterns.",
+            "Engage with content that challenges your viewpoints.",
+            "Diversify input sources and actively seek balanced content.",
             "Post less, reflect more to break validation loops."
         ],
         "layout": "layout-split",
@@ -669,130 +365,38 @@ window.MACHINE_TARGETING = [
         "category": "DEFENSE STRATEGIES"
     },
     {
-        "title": "Resisting Profiling",
+        "title": "Algorithm Disruption",
         "points": [
-            "Limit oversharing of personal information.",
-            "Randomize online behaviors to break predictable patterns.",
-            "Use privacy settings, understanding their limitations.",
-            "Embrace less predictability for greater freedom."
-        ],
-        "layout": "layout-split",
-        "theme": "theme-blue",
-        "category": "DEFENSE STRATEGIES"
-    },
-    {
-        "title": "Breaking the Mirror",
-        "points": [
-            "Engage with content that challenges your viewpoints.",
+            "Manually diversify your information sources outside algorithmic suggestions.",
             "Follow accounts that promote diverse thinking.",
             "Pause before clicking predictable recommendations.",
-            "Regularly clear your browsing history and cookies."
+            "Consciously seek perspectives that counteract algorithmic narrowing."
         ],
-        "layout": "layout-split",
+        "layout": "layout-boxed",
         "theme": "theme-blue",
         "category": "DEFENSE STRATEGIES"
     },
+
+    // Comprehensive Defense
     {
-        "title": "Control What You Reveal",
+        "title": "Digital Self-Defense Mindset",
         "points": [
-            "Control what you reveal, even unintentionally.",
-            "Silence isn't privacy if your patterns speak for you.",
-            "Minimize personality leakage and digital footprints."
+            "Understand how online behavior fuels manipulation systems.",
+            "Recognize content targeting psychological vulnerabilities.",
+            "Stay conscious of emotional triggers and engineered responses.",
+            "Cultivate stronger instincts for detecting manipulation attempts."
         ],
         "layout": "layout-centered",
         "theme": "theme-blue",
         "category": "DEFENSE STRATEGIES"
     },
     {
-        "title": "Control Oversharing",
+        "title": "Ongoing Vigilance",
         "points": [
-            "Machine prediction relies on math and oversharing.",
-            "Reduce oversharing to diminish predictive accuracy."
-        ],
-        "layout": "layout-split",
-        "theme": "theme-blue",
-        "category": "DEFENSE STRATEGIES"
-    },
-    {
-        "title": "Spotting Platform Bias",
-        "points": [
-            "Be aware of patterns in content display order.",
-            "Recognize repeated emotional triggers in your feed.",
-            "Note sudden shifts in recommended content.",
-            "If your feed induces mood whiplash, platform bias is likely."
-        ],
-        "layout": "layout-boxed",
-        "theme": "theme-blue",
-        "category": "DEFENSE STRATEGIES"
-    },
-    {
-        "title": "Resisting Algorithm Profiling",
-        "points": [
-            "Manually diversify your information sources.",
-            "Actively seek balanced content.",
-            "Reset algorithms by deleting watch history or pausing activity tracking.",
-            "Prevent platforms from defining your psychological profile."
-        ],
-        "layout": "layout-split",
-        "theme": "theme-blue",
-        "category": "DEFENSE STRATEGIES"
-    },
-    {
-        "title": "Spotting Digital Mirrors",
-        "points": [
-            "Identify monotonous content in your feed.",
-            "Note strong, predictable emotional reactions.",
-            "Recognize feeling confined by suggestions.",
-            "Acknowledge difficulty finding content outside usual patterns."
-        ],
-        "layout": "layout-boxed",
-        "theme": "theme-blue",
-        "category": "DEFENSE STRATEGIES"
-    },
-    {
-        "title": "Resisting Personality Leakage",
-        "points": [
-            "Limit online interactions.",
-            "Diversify content patterns.",
-            "Use privacy-focused browsers.",
-            "Avoid linking accounts across platforms.",
-            "The less predictable you are, the safer you are."
-        ],
-        "layout": "layout-split",
-        "theme": "theme-blue",
-        "category": "DEFENSE STRATEGIES"
-    },
-    {
-        "title": "Resisting Personality Prediction",
-        "points": [
-            "Diversify input sources to broaden your perspective.",
-            "Engage with content outside your comfort zone.",
-            "Stay conscious of emotional triggers.",
-            "Disrupt patterns algorithms expect from you."
-        ],
-        "layout": "layout-split",
-        "theme": "theme-blue",
-        "category": "DEFENSE STRATEGIES"
-    },
-    {
-        "title": "Personality Defense",
-        "points": [
-            "Understand how online behavior fuels manipulation.",
-            "Practice digital self-defense through awareness.",
-            "Recognize content targeting psychological vulnerabilities.",
-            "Disrupt predicted patterns to confuse profiling algorithms."
-        ],
-        "layout": "layout-boxed",
-        "theme": "theme-blue",
-        "category": "DEFENSE STRATEGIES"
-    },
-    {
-        "title": "Building Digital Self-Defense",
-        "points": [
-            "Acknowledge that most people overshare unknowingly.",
-            "Identify subtle digital footprints you leave behind.",
-            "Comprehend how prediction engines drive influence operations.",
-            "Cultivate stronger digital self-defense instincts."
+            "Acknowledge that everyone is vulnerable to manipulation.",
+            "Train yourself to notice patterns that suggest automated influence.",
+            "Make your digital choices conscious rather than reactive.",
+            "Remember: awareness is your first and strongest defense."
         ],
         "layout": "layout-split",
         "theme": "theme-blue",
@@ -800,105 +404,51 @@ window.MACHINE_TARGETING = [
     },
 
     // ===================================
-    // SECTION 7: CONCLUSION - AWARENESS AS EMPOWERMENT
+    // SECTION 6: CONCLUSION - AWARENESS AS EMPOWERMENT (Streamlined from 11 to 5 cards)
     // ===================================
+
     {
-        "title": "Awareness",
+        "title": "The Chain of Control",
         "points": [
             "Every digital action is data.",
             "Data trains algorithms.",
-            "Algorithms drive manipulation."
+            "Algorithms drive manipulation.",
+            "But awareness breaks the chain."
         ],
         "layout": "layout-split",
         "theme": "theme-dark",
         "category": "CONCLUSION - AWARENESS AS EMPOWERMENT"
     },
     {
-        "title": "Awareness is Power",
+        "title": "Your Digital Defense",
         "points": [
-            "Awareness is your defense.",
-            "Stay skeptical and informed."
-        ],
-        "layout": "layout-centered",
-        "theme": "theme-dark",
-        "category": "CONCLUSION - AWARENESS AS EMPOWERMENT"
-    },
-    {
-        "title": "Slowing Down",
-        "points": [
-            "Manipulators exploit your autopilot.",
-            "Slow down; question everything."
-        ],
-        "layout": "layout-centered",
-        "theme": "theme-dark",
-        "category": "CONCLUSION - AWARENESS AS EMPOWERMENT"
-    },
-    {
-        "title": "Be Less Predictable",
-        "points": [
+            "Slow down; question everything.",
             "Be intentional, not predictable.",
-            "Reduce their ability to model you."
+            "Make your digital choices conscious.",
+            "Awareness is your first and strongest defense."
         ],
         "layout": "layout-centered",
         "theme": "theme-dark",
         "category": "CONCLUSION - AWARENESS AS EMPOWERMENT"
     },
     {
-        "title": "Choose Curiosity",
+        "title": "Break the Pattern",
         "points": [
             "Refuse predictability.",
-            "Seek challenges, not comfort."
-        ],
-        "layout": "layout-centered",
-        "theme": "theme-dark",
-        "category": "CONCLUSION - AWARENESS AS EMPOWERMENT"
-    },
-    {
-        "title": "Take Control",
-        "points": [
-            "Make your digital choices conscious.",
-            "Knowledge is digital self-defense."
+            "Seek challenges, not comfort.",
+            "Unpredictability is your strength.",
+            "Stay human; break the algorithm."
         ],
         "layout": "layout-boxed",
         "theme": "theme-dark",
         "category": "CONCLUSION - AWARENESS AS EMPOWERMENT"
     },
     {
-        "title": "Breaking the Algorithm",
-        "points": [
-            "Unpredictability is your strength.",
-            "Stay human; break the pattern."
-        ],
-        "layout": "layout-centered",
-        "theme": "theme-dark",
-        "category": "CONCLUSION - AWARENESS AS EMPOWERMENT"
-    },
-    {
-        "title": "Share This Knowledge",
-        "points": [
-            "Share to expose the hidden game.",
-            "Knowledge is a shared defense."
-        ],
-        "layout": "layout-centered",
-        "theme": "theme-dark",
-        "category": "CONCLUSION - AWARENESS AS EMPOWERMENT"
-    },
-    {
-        "title": "Training",
+        "title": "Stay Vigilant",
         "points": [
             "Nobody is immune to manipulation.",
-            "We are all vulnerable.",
-            "Train yourself to notice manipulation.",
-            "Awareness is your first defense."
-        ],
-        "layout": "layout-boxed",
-        "theme": "theme-dark",
-        "category": "CONCLUSION - AWARENESS AS EMPOWERMENT"
-    },
-    {
-        "title": "Deliberate, Not Reactive",
-        "points": [
             "If it feels engineered, it probably is.",
+            "Train yourself to notice patterns.",
             "Be deliberate; resist reaction."
         ],
         "layout": "layout-split",
@@ -906,24 +456,15 @@ window.MACHINE_TARGETING = [
         "category": "CONCLUSION - AWARENESS AS EMPOWERMENT"
     },
     {
-        "title": "Mirror Controllers",
+        "title": "Share This Knowledge",
         "points": [
+            "Share to expose the hidden game.",
+            "Knowledge is a shared defense.",
             "Platforms profit by distorting your digital self.",
             "Be aware of who controls the mirror."
         ],
-        "layout": "layout-boxed",
+        "layout": "layout-centered",
         "theme": "theme-dark",
         "category": "CONCLUSION - AWARENESS AS EMPOWERMENT"
-    },
-    {
-        "title": "Digitally Lobotomized",
-        "points": [
-            "Smartphone overuse is linked to cognitive decline.",
-            "Reduced cognitive skills make individuals more susceptible to misinformation.",
-            "Critical thinking and media literacy are essential to combat this trend."
-        ],
-        "layout": "layout-boxed",
-        "theme": "theme-dark",
-        "category": "WHAT GETS REVEALED"
     },
 ]

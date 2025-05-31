@@ -1622,7 +1622,7 @@ window.INTERPERSONAL_DYNAMICS = [
         ],
         "layout": "layout-split",
         "theme": "theme-green",
-        "category": "INFORMATION FIRST RESPONDER COMMUNICATION"
+        "category": "INFORMATION FIRST_RESPONDER COMMUNICATION"
     },
     {
         "title": "Ethical Considerations for Information Responders",
@@ -1671,5 +1671,81 @@ window.INTERPERSONAL_DYNAMICS = [
         "layout": "layout-centered",
         "theme": "theme-green",
         "category": "INFORMATION FIRST RESPONDER COMMUNICATION"
-    }
+    },
+    // ===================================
+    // COMMUNTY INFORMATION RESILIENCE - CATEGORY HEADER
+    // ===================================
+    {
+        "title": "BUILDING COMMUNITY INFORMATION RESILIENCE",
+        "points": [
+            "Applying interpersonal communication skills to strengthen community information systems",
+            "Creating networks of trust and reliable information sharing",
+            "Fostering collective critical thinking and media literacy capabilities",
+            "Building sustainable systems that resist manipulation at the community level"
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-green",
+        "category": "COMMUNITY INFORMATION RESILIENCE"
+    },
+    {
+        "title": "From Individual Skills to Community Impact",
+        "points": [
+            "Personal communication skills create ripple effects throughout social networks",
+            "Healthy interpersonal dynamics become the foundation for resilient communities",
+            "Individual emotional regulation supports collective decision-making under pressure",
+            "The skills for managing difficult conversations scale up to managing community conflicts"
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-blue",
+        "category": "COMMUNITY INFORMATION RESILIENCE"
+    },
+    {
+        "title": "Fostering Community Media Literacy Through Interpersonal Connection",
+        "points": [
+            "Use active listening skills to understand community information needs and concerns",
+            "Apply de-escalation techniques when discussing controversial topics in public forums",
+            "Model emotional regulation when facilitating difficult conversations about misinformation",
+            "Create psychologically safe spaces where people can admit confusion or uncertainty"
+        ],
+        "layout": "layout-split",
+        "theme": "theme-green",
+        "category": "COMMUNITY INFORMATION RESILIENCE"
+    },
+    {
+        "title": "Advocacy for Platform Accountability & Transparency",
+        "points": [
+            "Understanding the impact of platform algorithms on information dissemination.",
+            "Supporting initiatives calling for greater transparency in content moderation and data use.",
+            "Advocating for measures to reduce the algorithmic amplification of harmful disinformation.",
+            "Engaging with policymakers and civil society organizations on responsible tech governance."
+        ],
+        "layout": "layout-boxed",
+        "theme": "theme-blue",
+        "category": "COMMUNTY INFORMATION RESILIENCE"
+    },
+    {
+        "title": "Strengthening Independent & Local Journalism",
+        "points": [
+            "The crucial role of independent and local news in a healthy democracy.",
+            "Identifying and supporting reputable local news sources and investigative journalism.",
+            "Understanding the difference between fact-based reporting, opinion, and propaganda.",
+            "Recognizing the economic pressures on quality journalism and ways to contribute."
+        ],
+        "layout": "layout-centered",
+        "theme": "theme-purple",
+        "category": "COMMUNTY INFORMATION RESILIENCE"
+    },
+    {
+        "title": "Cultivating Constructive Dialogue in Polarized Environments",
+        "points": [
+            "Techniques for engaging respectfully with differing viewpoints.",
+            "Identifying common ground and shared values as a basis for discussion.",
+            "Moving beyond 'winning' arguments towards mutual understanding.",
+            "The role of active listening and empathy in bridging divides."
+        ],
+        "layout": "layout-split",
+        "theme": "theme-sunset",
+        "category": "COMMUNTY INFORMATION RESILIENCE"
+    },
+
 ];
