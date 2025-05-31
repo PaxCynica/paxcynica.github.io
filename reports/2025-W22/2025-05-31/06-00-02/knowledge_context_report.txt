@@ -1,0 +1,24 @@
+KNOWLEDGE CONTEXT SUMMARY:
+Total characters loaded: 349210/350000 (99.8%)
+
+LOADED FILES (13):
+- advanced-countermeasures.js (20769 chars)
+- advanced-pattern-recognition.js (16500 chars)
+- attribution-and-investigation.js (20466 chars)
+- counter-intelligence-mindset.js (19976 chars)
+- historical-patterns.js (4431 chars)
+- interpersonal-dynamics.js (84022 chars)
+- literacy-in-hostile-environments.js (3657 chars)
+- machine-targeting.js (20950 chars)
+- manipulation-tactics.js (75804 chars)
+- physiological-psychological-resilience.js (26844 chars)
+- proactive-defense.js (20199 chars)
+- recovery-and-remediation.js (20311 chars)
+- technical-detection-skills.js (15281 chars)
+
+SKIPPED FILES (5):
+- resistance-networks-and-operations.js (26023 chars)
+- specialized-contexts.js (21168 chars)
+- survival-and-extremism.js (20143 chars)
+- tools-and-resources.js (24002 chars)
+- what-is-information.js (54519 chars)
